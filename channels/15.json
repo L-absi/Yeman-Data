@@ -1,0 +1,156 @@
+[
+  {
+    "id": 540,
+    "categoryId": "15",
+    "name": "Al Aoula",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://seeklogo.com/images/A/al-oula-logo-A16E996040-seeklogo.com.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/540.json"
+  },
+  {
+    "id": 539,
+    "categoryId": "15",
+    "name": "Laayoune",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Laayoune_logo_png_tv.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/539.json"
+  },
+  {
+    "id": 541,
+    "categoryId": "15",
+    "name": "Arryadia TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo%2Barryadia%2Bmorocco.png/1200px-Logo%2Barryadia%2Bmorocco.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/541.json"
+  },
+  {
+    "id": 542,
+    "categoryId": "15",
+    "name": "Athaqafia TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://www.korafreha2.com/YacineTV_New/ARABIC/Athaqafiya.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/542.json"
+  },
+  {
+    "id": 543,
+    "categoryId": "15",
+    "name": "Al Maghribia",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/543.json"
+  },
+  {
+    "id": 544,
+    "categoryId": "15",
+    "name": "Assadissa",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/a/ae/Logo_assadissa.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/544.json"
+  },
+  {
+    "id": 545,
+    "categoryId": "15",
+    "name": "Tamazight TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/tamazight-tv-chaine.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/545.json"
+  },
+  {
+    "id": 546,
+    "categoryId": "15",
+    "name": "2M",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/2M_Logo.svg/1200px-2M_Logo.svg.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/546.json"
+  },
+  {
+    "id": 547,
+    "categoryId": "15",
+    "name": "M24TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://www.m24tv.ma/themes/custom/m24_tv/logo.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/547.json"
+  },
+  {
+    "id": 549,
+    "categoryId": "15",
+    "name": "Télé Maroc ",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/549.json"
+  },
+  {
+    "id": 1849,
+    "categoryId": "15",
+    "name": "Chada TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/pdd2VqB/chada.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1849.json"
+  },
+  {
+    "id": 1847,
+    "categoryId": "15",
+    "name": "Medi 1 TV Maghreb",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://mediabroadcast-t.com/mbt_images/articles/logo_nor.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1847.json"
+  },
+  {
+    "id": 548,
+    "categoryId": "15",
+    "name": "Medi 1 TV Arabic",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://mediabroadcast-t.com/mbt_images/articles/logo_nor.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/548.json"
+  },
+  {
+    "id": 1655,
+    "categoryId": "15",
+    "name": "Medi 1 TV Afrique",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://mediabroadcast-t.com/mbt_images/articles/logo_nor.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1655.json"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3923,
+    "categoryId": "bein_sports_turky",
+    "name": "Bein 1",
+    "nameEn": "Bein 1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/3923.json"
+  },
+  {
+    "id": 3924,
+    "categoryId": "bein_sports_turky",
+    "name": "Bein 2",
+    "nameEn": "Bein 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/3924.json"
+  },
+  {
+    "id": 3925,
+    "categoryId": "bein_sports_turky",
+    "name": "Bein 3",
+    "nameEn": "Bein 3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/3925.json"
+  },
+  {
+    "id": 3926,
+    "categoryId": "bein_sports_turky",
+    "name": "Bein 4",
+    "nameEn": "Bein 4",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/3926.json"
+  },
+  {
+    "id": 3927,
+    "categoryId": "bein_sports_turky",
+    "name": "Bein 5",
+    "nameEn": "Bein 5",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/3927.json"
+  },
+  {
+    "id": 3928,
+    "categoryId": "bein_sports_turky",
+    "name": "Max 1",
+    "nameEn": "Max 1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/3928.json"
+  },
+  {
+    "id": 3929,
+    "categoryId": "bein_sports_turky",
+    "name": "Max 2",
+    "nameEn": "Max 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/3929.json"
+  }
+]

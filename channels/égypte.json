@@ -1,0 +1,242 @@
+[
+  {
+    "id": 2630,
+    "categoryId": "égypte",
+    "name": "Aghapy TV (1080p) [Not 24/7]",
+    "nameEn": "Aghapy TV (1080p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/2630.json"
+  },
+  {
+    "id": 2631,
+    "categoryId": "égypte",
+    "name": "Aghapy TV (1080p) [Not 24/7]",
+    "nameEn": "Aghapy TV (1080p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/2631.json"
+  },
+  {
+    "id": 2632,
+    "categoryId": "égypte",
+    "name": "Al Ghad (720p) [Not 24/7]",
+    "nameEn": "Al Ghad (720p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/2632.json"
+  },
+  {
+    "id": 2633,
+    "categoryId": "égypte",
+    "name": "Al Hayat TV (720p)",
+    "nameEn": "Al Hayat TV (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/2633.json"
+  },
+  {
+    "id": 2634,
+    "categoryId": "égypte",
+    "name": "Al Hayat TV (720p)",
+    "nameEn": "Al Hayat TV (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/2634.json"
+  },
+  {
+    "id": 2635,
+    "categoryId": "égypte",
+    "name": "Al Qahera News (1080p) [Not 24/7]",
+    "nameEn": "Al Qahera News (1080p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/2635.json"
+  },
+  {
+    "id": 2636,
+    "categoryId": "égypte",
+    "name": "Alfath Atfal TV (576p)",
+    "nameEn": "Alfath Atfal TV (576p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/2636.json"
+  },
+  {
+    "id": 2637,
+    "categoryId": "égypte",
+    "name": "Alfath Sonnah TV (576p)",
+    "nameEn": "Alfath Sonnah TV (576p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/2637.json"
+  },
+  {
+    "id": 2638,
+    "categoryId": "égypte",
+    "name": "Alfath TV (576p)",
+    "nameEn": "Alfath TV (576p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/2638.json"
+  },
+  {
+    "id": 2639,
+    "categoryId": "égypte",
+    "name": "Alhayat TV (720p)",
+    "nameEn": "Alhayat TV (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/2639.json"
+  },
+  {
+    "id": 2640,
+    "categoryId": "égypte",
+    "name": "ATVSat (1080p) [Not 24/7]",
+    "nameEn": "ATVSat (1080p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/2640.json"
+  },
+  {
+    "id": 2641,
+    "categoryId": "égypte",
+    "name": "Coptic TV (720p)",
+    "nameEn": "Coptic TV (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/2641.json"
+  },
+  {
+    "id": 2642,
+    "categoryId": "égypte",
+    "name": "Coptic TV (720p) [Not 24/7]",
+    "nameEn": "Coptic TV (720p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/2642.json"
+  },
+  {
+    "id": 2643,
+    "categoryId": "égypte",
+    "name": "Daawah TV (720p) [Not 24/7]",
+    "nameEn": "Daawah TV (720p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/2643.json"
+  },
+  {
+    "id": 2644,
+    "categoryId": "égypte",
+    "name": "El Radio 9090 FM (480p)",
+    "nameEn": "El Radio 9090 FM (480p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/2644.json"
+  },
+  {
+    "id": 2645,
+    "categoryId": "égypte",
+    "name": "Elsharq TV (1080p) [Not 24/7]",
+    "nameEn": "Elsharq TV (1080p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/2645.json"
+  },
+  {
+    "id": 2646,
+    "categoryId": "égypte",
+    "name": "Huda TV (720p) [Not 24/7]",
+    "nameEn": "Huda TV (720p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/2646.json"
+  },
+  {
+    "id": 2647,
+    "categoryId": "égypte",
+    "name": "Koogi TV (1080p)",
+    "nameEn": "Koogi TV (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/2647.json"
+  },
+  {
+    "id": 2648,
+    "categoryId": "égypte",
+    "name": "Mekameleen TV (1080p)",
+    "nameEn": "Mekameleen TV (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/2648.json"
+  },
+  {
+    "id": 2649,
+    "categoryId": "égypte",
+    "name": "NogoumFMTV (672p) [Not 24/7]",
+    "nameEn": "NogoumFMTV (672p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/2649.json"
+  },
+  {
+    "id": 2650,
+    "categoryId": "égypte",
+    "name": "Omg Channel (720p) [Not 24/7]",
+    "nameEn": "Omg Channel (720p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 18,
+    "streamsFile": "streams/2650.json"
+  },
+  {
+    "id": 2651,
+    "categoryId": "égypte",
+    "name": "TeN TV (720p) [Geo-blocked]",
+    "nameEn": "TeN TV (720p) [Geo-blocked]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 19,
+    "streamsFile": "streams/2651.json"
+  },
+  {
+    "id": 2652,
+    "categoryId": "égypte",
+    "name": "The Kingdom Sat (576p)",
+    "nameEn": "The Kingdom Sat (576p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 20,
+    "streamsFile": "streams/2652.json"
+  },
+  {
+    "id": 2653,
+    "categoryId": "égypte",
+    "name": "Watan TV (1080p)",
+    "nameEn": "Watan TV (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 21,
+    "streamsFile": "streams/2653.json"
+  }
+]

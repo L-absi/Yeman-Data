@@ -1,0 +1,52 @@
+[
+  {
+    "id": 4872,
+    "categoryId": "prima_sport",
+    "name": "PRIMA1",
+    "nameEn": "PRIMA1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/4872.json"
+  },
+  {
+    "id": 4873,
+    "categoryId": "prima_sport",
+    "name": "PRIMA2",
+    "nameEn": "PRIMA2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4873.json"
+  },
+  {
+    "id": 4874,
+    "categoryId": "prima_sport",
+    "name": "PRIMA3",
+    "nameEn": "PRIMA3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4874.json"
+  },
+  {
+    "id": 4875,
+    "categoryId": "prima_sport",
+    "name": "PRIMA4",
+    "nameEn": "PRIMA4",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4875.json"
+  },
+  {
+    "id": 4876,
+    "categoryId": "prima_sport",
+    "name": "PRIMA5",
+    "nameEn": "PRIMA5",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4876.json"
+  }
+]

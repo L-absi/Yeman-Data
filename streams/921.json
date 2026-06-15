@@ -1,0 +1,28 @@
+[
+  {
+    "name": "YouTube II",
+    "url": "https://www.youtube.com/watch?v=arU2i6HcPrQ",
+    "urlType": 4,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://x.com/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://x.com/"
+    },
+    "drm": null
+  },
+  {
+    "name": "YouTube",
+    "url": "https://www.youtube.com/embed/live_stream?channel=UCxA_zZwALQMmVMSZyLKC-Nw",
+    "urlType": 1,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://x.com/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://x.com/"
+    },
+    "drm": null
+  }
+]

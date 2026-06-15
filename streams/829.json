@@ -1,0 +1,28 @@
+[
+  {
+    "name": "1",
+    "url": "https://cdn.bestream.io:19360/stream2/stream2.m3u8?t=QL7z3rUym9IlgeUsZZ3ffw&e=1779925490",
+    "urlType": 3,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://x.com/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://x.com/"
+    },
+    "drm": null
+  },
+  {
+    "name": "2",
+    "url": "https://newvision.tv/?page_id=35204",
+    "urlType": 6,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://x.com/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://x.com/"
+    },
+    "drm": null
+  }
+]

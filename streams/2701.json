@@ -1,0 +1,26 @@
+[
+  {
+    "license": "",
+    "headers": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "1",
+    "Referer": "",
+    "userAgent": "",
+    "position": "",
+    "url": "https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8"
+  },
+  {
+    "license": "c3b50db52999b0b5b90653812a13a66b:302c1d641a38a8f30b4fda466d70acc2",
+    "headers": "",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "Multi",
+    "Referer": "",
+    "userAgent": "",
+    "position": "",
+    "url": "https://akmrwb-live.cdn.intigral-ott.net/ROTZ/ROTZ.isml/manifest.mpd"
+  }
+]

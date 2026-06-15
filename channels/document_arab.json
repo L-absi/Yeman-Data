@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3945,
+    "categoryId": "document_arab",
+    "name": "Love Nature",
+    "nameEn": "Love Nature",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXkrl51IFKhOMoBO17L8DrU2O5HSyng6rHZ5FGCOOrJjSTa9mh70pvmNsuyy-t3lAtGf4&usqp=CAU",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/3945.json"
+  },
+  {
+    "id": 3946,
+    "categoryId": "document_arab",
+    "name": "Documentaire d'Al Jazeera",
+    "nameEn": "Documentaire d'Al Jazeera",
+    "logo": "https://i.ibb.co/gFX6Fx2r/icon-44.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/3946.json"
+  },
+  {
+    "id": 3947,
+    "categoryId": "document_arab",
+    "name": "National Geographic",
+    "nameEn": "National Geographic",
+    "logo": "https://i.ibb.co/tTCGJxSf/icon-35.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/3947.json"
+  },
+  {
+    "id": 3948,
+    "categoryId": "document_arab",
+    "name": "Documentaire CGTN",
+    "nameEn": "Documentaire CGTN",
+    "logo": "https://i.ibb.co/rRnZhSL3/icon-116.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/3948.json"
+  },
+  {
+    "id": 3949,
+    "categoryId": "document_arab",
+    "name": "Documentaire Asharq",
+    "nameEn": "Documentaire Asharq",
+    "logo": "https://i.ibb.co/sp8wF4YF/icon-26.jpg",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/3949.json"
+  },
+  {
+    "id": 3950,
+    "categoryId": "document_arab",
+    "name": "Asharq Discovery",
+    "nameEn": "Asharq Discovery",
+    "logo": "https://i.ibb.co/LXPDQv6B/icon-102s.jpg",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/3950.json"
+  },
+  {
+    "id": 3951,
+    "categoryId": "document_arab",
+    "name": "Pluton Amour Nature",
+    "nameEn": "Pluton Amour Nature",
+    "logo": "https://i.ibb.co/Jw8dtyZw/icon-117.jpg",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/3951.json"
+  },
+  {
+    "id": 3952,
+    "categoryId": "document_arab",
+    "name": "BBC Earth",
+    "nameEn": "BBC Earth",
+    "logo": "https://i.ibb.co/qLK7Xywr/BBC-Earth.png",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/3952.json"
+  },
+  {
+    "id": 3953,
+    "categoryId": "document_arab",
+    "name": "Documentaire Asharq (Backup)",
+    "nameEn": "Documentaire Asharq (Backup)",
+    "logo": "https://i.ibb.co/r2Y9qp6V/icon-54.png",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/3953.json"
+  }
+]

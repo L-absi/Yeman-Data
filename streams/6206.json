@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "name": "MAX",
+      "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/HLZRZ-2j5sjFlcoCX8OhoGoEfwFtslUNUeW87YqD1paG9tUU8X0-gCfsS-9PjhIxUzNaqc2EslD6VihyKwxRRg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+      "url_type": 3,
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1",
+      "referer": "",
+      "event_channel_id": null,
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
+      },
+      "drm": null
+    },
+    {
+      "name": "HD1",
+      "url": "http://23370wa.xyz/play/BMoDRXtRtbrnsYhxpeoI7i14A6Rl5v71FfTfkSUvL0c/ts",
+      "url_type": 3,
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+      "referer": "http://23370wa.xyz/",
+      "event_channel_id": null,
+      "headers": {
+        "http": "//23370wa.xyz/",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+        "Referer": "http://23370wa.xyz/"
+      },
+      "drm": null
+    },
+    {
+      "name": "MAX2",
+      "url": "https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk4.marketplace-io-none-kode-steeeee.lol&id=bmax21080&key=MmYmJhIhdIDJHdoF22",
+      "url_type": 3,
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)",
+      "referer": "",
+      "event_channel_id": null,
+      "headers": {
+        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)"
+      },
+      "drm": null
+    }
+  ]
+}

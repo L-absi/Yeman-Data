@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "user-agent|Mozilla/5.0|",
+    "license": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "name": "Eurosport 1 #KID:  #EXT-X-LOGO:",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0",
+    "position": "0",
+    "url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd"
+  }
+]

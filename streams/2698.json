@@ -1,0 +1,38 @@
+[
+  {
+    "license": "",
+    "headers": "Referer|https://rotana.net/|",
+    "scheme": "",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "Restream",
+    "Referer": "https://rotana.net/",
+    "userAgent": "",
+    "position": "",
+    "url": "https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8"
+  },
+  {
+    "license": "3681ebddd4d011f323310b47bb1e845c:932ba3a0ad67d2ff4ff607e939f562cc",
+    "headers": "",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "Multi 2",
+    "Referer": "",
+    "userAgent": "",
+    "position": "",
+    "url": "https://akmrwb-live.cdn.intigral-ott.net/ROTCM/ROTCM.isml/manifest.mpd"
+  },
+  {
+    "license": "",
+    "headers": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "1",
+    "Referer": "",
+    "userAgent": "",
+    "position": "",
+    "url": "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8"
+  }
+]

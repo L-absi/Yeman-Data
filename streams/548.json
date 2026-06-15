@@ -1,0 +1,27 @@
+[
+  {
+    "name": "2",
+    "url": "https://idara.medi1tv.ma/rss/embed/medi1news-auto/live-medi1tv-arabic.aspx?w=100%&h=100",
+    "urlType": 5,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://x.com/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://x.com/"
+    },
+    "drm": null
+  },
+  {
+    "name": "1",
+    "url": "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8",
+    "urlType": 1,
+    "userAgent": "",
+    "Referer": "https://idara.medi1tv.ma/",
+    "origin": null,
+    "headers": {
+      "Referer": "https://idara.medi1tv.ma/"
+    },
+    "drm": null
+  }
+]

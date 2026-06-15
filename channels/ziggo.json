@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4980,
+    "categoryId": "ziggo",
+    "name": "Ziggo1",
+    "nameEn": "Ziggo1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa_m4AlDT68S0WBBjurLqlNH2Qw1atNaOK1Xt3Q9BJZjLKm4hhaSWJ--Jd&s=10",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/4980.json"
+  },
+  {
+    "id": 4981,
+    "categoryId": "ziggo",
+    "name": "Ziggo2",
+    "nameEn": "Ziggo 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa_m4AlDT68S0WBBjurLqlNH2Qw1atNaOK1Xt3Q9BJZjLKm4hhaSWJ--Jd&s=10",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4981.json"
+  },
+  {
+    "id": 4982,
+    "categoryId": "ziggo",
+    "name": "Ziggo3",
+    "nameEn": "Ziggo 3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa_m4AlDT68S0WBBjurLqlNH2Qw1atNaOK1Xt3Q9BJZjLKm4hhaSWJ--Jd&s=10",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4982.json"
+  },
+  {
+    "id": 4983,
+    "categoryId": "ziggo",
+    "name": "Ziggo5",
+    "nameEn": "Ziggo 5",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa_m4AlDT68S0WBBjurLqlNH2Qw1atNaOK1Xt3Q9BJZjLKm4hhaSWJ--Jd&s=10",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4983.json"
+  }
+]

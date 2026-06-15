@@ -1,0 +1,14 @@
+[
+  {
+    "license": "6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb",
+    "headers": "tod-drm|true",
+    "scheme": "clearkey",
+    "otherHeaders": "tod-drm|true",
+    "isWeb": "false",
+    "name": "Multi",
+    "Referer": "",
+    "userAgent": "",
+    "position": "",
+    "url": "https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd"
+  }
+]

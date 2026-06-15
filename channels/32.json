@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1816,
+    "categoryId": "32",
+    "name": "Khartoum TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/D0f93q7.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1816.json"
+  },
+  {
+    "id": 1817,
+    "categoryId": "32",
+    "name": "Sudan Bukra",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/cxXSUdn.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1817.json"
+  },
+  {
+    "id": 1818,
+    "categoryId": "32",
+    "name": "Al Istijaba",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/tKNaMws.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1818.json"
+  },
+  {
+    "id": 1057,
+    "categoryId": "32",
+    "name": "Tayba TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/S3vRP1k.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1057.json"
+  },
+  {
+    "id": 875,
+    "categoryId": "32",
+    "name": "Sudan TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/1HBkfXO.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/875.json"
+  },
+  {
+    "id": 1656,
+    "categoryId": "32",
+    "name": "Africa TV 1",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/OD2Z5y0.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1656.json"
+  },
+  {
+    "id": 1657,
+    "categoryId": "32",
+    "name": "Africa TV 2",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/SXNTbzz.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1657.json"
+  },
+  {
+    "id": 1658,
+    "categoryId": "32",
+    "name": "Africa TV 3",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/7Bs75qJ.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1658.json"
+  },
+  {
+    "id": 1659,
+    "categoryId": "32",
+    "name": "Ashorooq TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/juR0Jzt.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1659.json"
+  },
+  {
+    "id": 1660,
+    "categoryId": "32",
+    "name": "Blue Nile TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/tsJC9zx.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1660.json"
+  },
+  {
+    "id": 1661,
+    "categoryId": "32",
+    "name": "SSBC TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/NO0dZFH.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1661.json"
+  },
+  {
+    "id": 1662,
+    "categoryId": "32",
+    "name": "Sudania 24 TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/bq6SqX7.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1662.json"
+  },
+  {
+    "id": 1663,
+    "categoryId": "32",
+    "name": "Omdurman TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/e5rcpzN.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1663.json"
+  }
+]

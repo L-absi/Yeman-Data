@@ -1,0 +1,52 @@
+[
+  {
+    "id": 4834,
+    "categoryId": "nova_sport",
+    "name": "Sporty TV",
+    "nameEn": "Sporty TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/4834.json"
+  },
+  {
+    "id": 4835,
+    "categoryId": "nova_sport",
+    "name": "ONEPLAY 1",
+    "nameEn": "ONEPLAY 1",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/4835.json"
+  },
+  {
+    "id": 4836,
+    "categoryId": "nova_sport",
+    "name": "NOVA1",
+    "nameEn": "NOVA1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNm9NZOkus41mAMNclFTluy7L2OU19O3nPzaqdCgbtxw&s=10",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/4836.json"
+  },
+  {
+    "id": 4837,
+    "categoryId": "nova_sport",
+    "name": "ONEPLAY 2",
+    "nameEn": "ONEPLAY 2",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/4837.json"
+  },
+  {
+    "id": 4838,
+    "categoryId": "nova_sport",
+    "name": "NOVA2",
+    "nameEn": "NOVA2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNm9NZOkus41mAMNclFTluy7L2OU19O3nPzaqdCgbtxw&s=10",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/4838.json"
+  }
+]

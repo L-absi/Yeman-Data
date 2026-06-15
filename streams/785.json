@@ -1,0 +1,27 @@
+[
+  {
+    "name": "1",
+    "url": "https://master.starmena-cloud.com/hls/jam.m3u8?t=8GTDC_gXjxRvkBf9CGjGiQ&e=1779934118",
+    "urlType": 3,
+    "userAgent": "",
+    "Referer": "https://cdn.jwplayer.com/",
+    "origin": null,
+    "headers": {
+      "Referer": "https://cdn.jwplayer.com/"
+    },
+    "drm": null
+  },
+  {
+    "name": "2",
+    "url": "https://www.lj-bc.net/live",
+    "urlType": 6,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://x.com/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://x.com/"
+    },
+    "drm": null
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3179,
+    "categoryId": "uae_vip",
+    "name": "SHARJAH",
+    "nameEn": "SHARJAH",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxAp50-otsCpWaurfTQC-RExsASeQKRVZjyySGaFmzfw&s=10",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/3179.json"
+  },
+  {
+    "id": 3180,
+    "categoryId": "uae_vip",
+    "name": "Sharjah Sport",
+    "nameEn": "Sharjah Sport",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUo0Ex0_mVIKaH4wboJh1agrMOb0Zat_TvcmgK2PU1Ow&s=10",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/3180.json"
+  },
+  {
+    "id": 3181,
+    "categoryId": "uae_vip",
+    "name": "Sharjah Radio",
+    "nameEn": "Sharjah Radio",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVX9InYy9RqB47vMkepxrlf3KeT_doECi_3aWtgsYgQg&s=10",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/3181.json"
+  },
+  {
+    "id": 3182,
+    "categoryId": "uae_vip",
+    "name": "Sharjah",
+    "nameEn": "Sharjah Sharqia",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLQrur66A22awYOXlmdR7miXyZJKHIRXzPeSjh6VE8DQ&s",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/3182.json"
+  },
+  {
+    "id": 3183,
+    "categoryId": "uae_vip",
+    "name": "الوسطى",
+    "nameEn": "الوسطى",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgdRoQDdYGDwYBBkLpm1QLw5tE5TM5XiyDwqYc-j3e8kenH60UmE5KDQQ&s=10",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/3183.json"
+  },
+  {
+    "id": 3184,
+    "categoryId": "uae_vip",
+    "name": "Sharjah Sport 2",
+    "nameEn": "Sharjah Sport 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQrwsQSlwysC9zglw7psB1c7rje-2UBKNlHx7G0amcFg&s=10",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/3184.json"
+  },
+  {
+    "id": 3185,
+    "categoryId": "uae_vip",
+    "name": "Sharjah 2",
+    "nameEn": "Sharjah 2",
+    "logo": "https://sbauae.faulio.com/storage/mediagallery/89/14/fullhd_791cecd44950e87d0558b783273de114cf7656f7.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/3185.json"
+  },
+  {
+    "id": 3186,
+    "categoryId": "uae_vip",
+    "name": "Quran Radio",
+    "nameEn": "Quran Radio",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZNM8yZm7kohuljsH_fqJ8pnAk3yiu8DImKX8UkHIIQ&s=10",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/3186.json"
+  },
+  {
+    "id": 3187,
+    "categoryId": "uae_vip",
+    "name": "Pluse 95",
+    "nameEn": "Pluse 95",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfyDooSd01LzO1MkEz6StWN1JN3S3qelGFGox9wKO2UQ&s=10",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/3187.json"
+  },
+  {
+    "id": 3188,
+    "categoryId": "uae_vip",
+    "name": "Watar",
+    "nameEn": "Watar",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFmGObNRlstuVlaObjYV3HQM6875FMtO_9LMvspc0wYw&s=10",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/3188.json"
+  },
+  {
+    "id": 3189,
+    "categoryId": "uae_vip",
+    "name": "Tom Jerry",
+    "nameEn": "Tom Jerry",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjk4YpiI-eak1lCSjHJ663PpBvA_DonD-IOSvuiejmAQ&s=10",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/3189.json"
+  },
+  {
+    "id": 3190,
+    "categoryId": "uae_vip",
+    "name": "Quran Karim",
+    "nameEn": "Quran Karim",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdJcSJTMK-F0pX0A0LmMu_hg3hCka4fSAda6dPfCzGkQ&s",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/3190.json"
+  }
+]

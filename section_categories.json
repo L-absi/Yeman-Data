@@ -1,0 +1,1641 @@
+[
+  {
+    "id": 253,
+    "key": "cup_world_2026",
+    "name": "كاس العالم 2026",
+    "logo": "",
+    "categories": [
+      {
+        "id": 264,
+        "key": "bein_max_tv",
+        "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+        "name": "BEIN MAX TV",
+        "channelsFile": "channels/bein_max_tv.json"
+      },
+      {
+        "id": 265,
+        "key": "bein_max_sport",
+        "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+        "name": "بين ماكس عربية",
+        "channelsFile": "channels/bein_max_sport.json"
+      },
+      {
+        "id": 266,
+        "key": "bein_web",
+        "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+        "name": "BEIN MAX",
+        "channelsFile": "channels/bein_web.json"
+      },
+      {
+        "id": 267,
+        "key": "world_sport",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpOo3uDHwW3NJergJ6eUNj6IEsf5zNMw_D9adikF81YnjNenXLoxuOoQDT&s=10",
+        "name": "World Sport",
+        "channelsFile": "channels/world_sport.json"
+      },
+      {
+        "id": 268,
+        "key": "alwan_tv",
+        "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
+        "name": "ALWAN TV",
+        "channelsFile": "channels/alwan_tv.json"
+      },
+      {
+        "id": 269,
+        "key": "go3_sport",
+        "logo": "https://cdn.kursors.lv/2019/12/2019-12-03_1831.png",
+        "name": "GO3 SPORTS",
+        "channelsFile": "channels/go3_sport.json"
+      }
+      
+    ]
+  },
+  {
+    "id": 252,
+    "key": "bein_sports__all_",
+    "name": "Bein Sports Laith",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png",
+    "categories": [
+      {
+        "id": 4,
+        "key": "bein_sports__1080p_",
+        "name": "Bein Sports (1080P)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png",
+        "channelsFile": "channels/4.json"
+      },
+      {
+        "id": 5,
+        "key": "bein_sports__720p_",
+        "name": "Bein Sports (720P)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png",
+        "channelsFile": "channels/5.json"
+      },
+      {
+        "id": 6,
+        "key": "bein_sports__360p_",
+        "name": "Bein Sports (360P)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png",
+        "channelsFile": "channels/6.json"
+      },
+      {
+        "id": 7,
+        "key": "bein_sports__244p_",
+        "name": "Bein Sports (244P)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png",
+        "channelsFile": "channels/7.json"
+      },
+      {
+        "id": 8,
+        "key": "bein_entertainment",
+        "name": "Bein Entertainment",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png",
+        "channelsFile": "channels/8.json"
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "key": "bein_sports_mix_",
+    "name": "Bein Sports Mix",
+    "logo": "",
+    "categories": [
+      {
+        "id": 90,
+        "key": "bein_mix_",
+        "name": "Bein Mix 1080P",
+        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
+        "channelsFile": "channels/90.json"
+      },
+      {
+        "id": 91,
+        "key": "bein_mix_",
+        "name": "Bein Mix 720p",
+        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
+        "channelsFile": "channels/91.json"
+      },
+      {
+        "id": 92,
+        "key": "bein_mix_",
+        "name": "Bein Mix 360p",
+        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
+        "channelsFile": "channels/92.json"
+      },
+      {
+        "id": 93,
+        "key": "bein_mix_",
+        "name": "Bein Mix 240P",
+        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
+        "channelsFile": "channels/93.json"
+      }
+    
+    ]
+  },
+  {
+    "id": 259,
+    "key": "arabic_channels",
+    "name": "Arabic Channels",
+    "logo": "",
+    "categories": [
+      {
+        "id": 30,
+        "name": "اليمن",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/250px-Flag_of_Yemen.svg.png",
+        "priority": 1,
+        "channelsFile": "channels/30.json"
+      },
+      {
+        "id": 14,
+        "name": "الجزائر",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png",
+        "priority": 16,
+        "channelsFile": "channels/14.json"
+      },
+      {
+        "id": 15,
+        "name": "المغرب",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/250px-Flag_of_Morocco.svg.png",
+        "priority": 2,
+        "channelsFile": "channels/15.json"
+      },
+      {
+        "id": 16,
+        "name": "تونس",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/250px-Flag_of_Tunisia.svg.png",
+        "priority": 3,
+        "channelsFile": "channels/16.json"
+      },
+      {
+        "id": 17,
+        "name": "ليبيا",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/250px-Flag_of_Libya.svg.png",
+        "priority": 4,
+        "channelsFile": "channels/17.json"
+      },
+      {
+        "id": 18,
+        "name": "مصر",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/250px-Flag_of_Egypt.svg.png",
+        "priority": 5,
+        "channelsFile": "channels/18.json"
+      },
+      {
+        "id": 19,
+        "name": "السعودية",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/250px-Flag_of_Saudi_Arabia.svg.png",
+        "priority": 6,
+        "channelsFile": "channels/19.json"
+      },
+      {
+        "id": 20,
+        "name": "الإمارات",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/250px-Flag_of_the_United_Arab_Emirates.svg.png",
+        "priority": 7,
+        "channelsFile": "channels/20.json"
+      },
+      {
+        "id": 22,
+        "name": "فلسطين",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/250px-Flag_of_Palestine.svg.png",
+        "priority": 8,
+        "channelsFile": "channels/22.json"
+      },
+      {
+        "id": 23,
+        "name": "الأردن",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/250px-Flag_of_Jordan.svg.png",
+        "priority": 9,
+        "channelsFile": "channels/23.json"
+        
+      },
+      {
+        "id": 24,
+        "name": "لبنان",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/250px-Flag_of_Lebanon.svg.png",
+        "priority": 10,
+        "channelsFile": "channels/24.json"
+      },
+      {
+        "id": 25,
+        "name": "سوريا",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/10/Syrian_Flag.jpg",
+        "priority": 11,
+        "channelsFile": "channels/25.json"
+      },
+      {
+        "id": 26,
+        "name": "العراق",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/250px-Flag_of_Iraq.svg.png",
+        "priority": 12,
+        "channelsFile": "channels/26.json"
+      },
+      {
+        "id": 27,
+        "name": "الكويت",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/250px-Flag_of_Kuwait.svg.png",
+        "priority": 13,
+        "channelsFile": "channels/27.json"
+      },
+      {
+        "id": 28,
+        "name": "البحرين",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/250px-Flag_of_Bahrain.svg.png",
+        "priority": 14,
+        "channelsFile": "channels/28.json"
+      },
+      {
+        "id": 29,
+        "name": "قطر",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/250px-Flag_of_Qatar.svg.png",
+        "priority": 15,
+        "channelsFile": "channels/29.json"
+      },
+      {
+        "id": 31,
+        "name": "عمان",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/250px-Flag_of_Oman.svg.png",
+        "priority": 17,
+        "channelsFile": "channels/31.json"
+      },
+      {
+        "id": 32,
+        "name": "السودان",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/250px-Flag_of_Sudan.svg.png",
+        "priority": 18,
+        "channelsFile": "channels/32.json"
+      },
+      {
+        "id": 52,
+        "name": "NEWS TV",
+        "logo": "https://img.icons8.com/ios-filled/500/ffffff/news.png",
+        "priority": 19,
+        "channelsFile": "channels/52.json"
+      },
+      {
+        "id": 55,
+        "name": "موريتانيا",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/250px-Flag_of_Mauritania.svg.png",
+        "priority": 20,
+        "channelsFile": "channels/55.json"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "key": "mbc_channels",
+    "name": "Mbc Channels",
+    "logo": "",
+    "categories": []
+  },
+  {
+    "id": 12,
+    "key": "france_channels",
+    "name": "France Channels",
+    "logo": "",
+    "categories": []
+  },
+  {
+    "id": 88,
+    "key": "turkish_channels",
+    "name": "Turkish Channels",
+    "logo": "",
+    "categories": []
+  },
+  {
+    "id": 13,
+    "key": "kids_channels",
+    "name": "Kids Channels",
+    "logo": "",
+    "categories": []
+  },
+  {
+    "id": 87,
+    "key": "weyyak",
+    "name": "Weyyak",
+    "logo": "",
+    "categories": []
+  },
+  {
+    "id": 94,
+    "key": "shahid_vip",
+    "name": "Shahid Vip",
+    "logo": "",
+    "categories": []
+  },
+  {
+    "id": 100,
+    "key": "test",
+    "name": "Test",
+    "logo": "",
+    "categories": []
+  },
+  {
+    "id": 101,
+    "key": "test",
+    "name": "Test",
+    "logo": "",
+    "categories": []
+  },
+  {
+    "id": 102,
+    "key": "arabic_tv",
+    "name": "Arabic Tv",
+    "logo": "https://lh3.googleusercontent.com/dMmC2XbHgj-2dgRKtCcC8SaXxkfWHW_d-UE9buhPjzDnvdcKARfHrR0cQuTCEpA10w=w300",
+    "categories": [
+      {
+        "id": 102,
+        "key": "arabic_tv",
+        "logo": "https://fls.cjs.jyh/",
+        "name": "الجزائر",
+        "channelsFile": "channels/algérie.json"
+      },
+      {
+        "id": 103,
+        "key": "arabic_tv",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png",
+        "name": "تونس",
+        "channelsFile": "channels/aya_cx_tvالقنوات_التونسية.json"
+      },
+      {
+        "id": 104,
+        "key": "arabic_tv",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Laayoune_logo_png_tv.png",
+        "name": "المغرب",
+        "channelsFile": "channels/aya_cx_tvالقنوات_المغربية.json"
+      },
+      {
+        "id": 105,
+        "key": "arabic_tv",
+        "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+        "name": "العراق",
+        "channelsFile": "channels/iraq.json"
+      },
+      {
+        "id": 106,
+        "key": "arabic_tv",
+        "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+        "name": "الأردن",
+        "channelsFile": "channels/jordantv.json"
+      },
+      {
+        "id": 107,
+        "key": "arabic_tv",
+        "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+        "name": "الكويت",
+        "channelsFile": "channels/kuwaittv.json"
+      },
+      {
+        "id": 108,
+        "key": "arabic_tv",
+        "logo": "",
+        "name": "lebanontv",
+        "channelsFile": "channels/lebanontv.json"
+      },
+      {
+        "id": 109,
+        "key": "arabic_tv",
+        "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+        "name": "lybietv",
+        "channelsFile": "channels/lybietv.json"
+      },
+      {
+        "id": 110,
+        "key": "arabic_tv",
+        "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+        "name": "mauritanietv",
+        "channelsFile": "channels/mauritanietv.json"
+      },
+      {
+        "id": 111,
+        "key": "arabic_tv",
+        "logo": "https://fls.cjs.jyh/",
+        "name": "morooco",
+        "channelsFile": "channels/morooco.json"
+      },
+      {
+        "id": 112,
+        "key": "arabic_tv",
+        "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+        "name": "nilesat_1",
+        "channelsFile": "channels/nilesat_1.json"
+      },
+      {
+        "id": 113,
+        "key": "arabic_tv",
+        "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+        "name": "omantv",
+        "channelsFile": "channels/omantv.json"
+      },
+      {
+        "id": 114,
+        "key": "arabic_tv",
+        "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+        "name": "palestinetv",
+        "channelsFile": "channels/palestinetv.json"
+      },
+      {
+        "id": 115,
+        "key": "arabic_tv",
+        "logo": "",
+        "name": "qatartv",
+        "channelsFile": "channels/qatartv.json"
+      },
+      {
+        "id": 116,
+        "key": "arabic_tv",
+        "logo": "",
+        "name": "saudi_arabiatv",
+        "channelsFile": "channels/saudi_arabiatv.json"
+      },
+      {
+        "id": 117,
+        "key": "arabic_tv",
+        "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+        "name": "sudantv",
+        "channelsFile": "channels/sudantv.json"
+      },
+      {
+        "id": 118,
+        "key": "arabic_tv",
+        "logo": "",
+        "name": "syriatv",
+        "channelsFile": "channels/syriatv.json"
+      },
+      {
+        "id": 119,
+        "key": "arabic_tv",
+        "logo": "https://fls.cjs.jyh/",
+        "name": "tunisietv",
+        "channelsFile": "channels/tunisietv.json"
+      },
+      {
+        "id": 120,
+        "key": "arabic_tv",
+        "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+        "name": "uae",
+        "channelsFile": "channels/uae.json"
+      },
+      {
+        "id": 121,
+        "key": "arabic_tv",
+        "logo": "",
+        "name": "ymentv",
+        "channelsFile": "channels/ymentv.json"
+      },
+      {
+        "id": 122,
+        "key": "arabic_tv",
+        "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+        "name": "égypte",
+        "channelsFile": "channels/égypte.json"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "key": "arabic_vip",
+    "name": "Arabic Vip",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",
+    "categories": [
+      {
+        "id": 123,
+        "key": "arabic_vip",
+        "logo": "https://fls.cjs.jyh/",
+        "name": "aljazeera",
+        "channelsFile": "channels/aljazeera.json"
+      },
+      {
+        "id": 124,
+        "key": "arabic_vip",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",
+        "name": "aya_cx_tvmbc_قنوات",
+        "channelsFile": "channels/aya_cx_tvmbc_قنوات.json"
+      },
+      {
+        "id": 125,
+        "key": "arabic_vip",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH39M_5QjmRRjYiLKucWOF4RqOY8DM_ALUG5y_QiH4Ew&s=10",
+        "name": "aya_cx_tvrotana_روتانا",
+        "channelsFile": "channels/aya_cx_tvrotana_روتانا.json"
+      },
+      {
+        "id": 126,
+        "key": "arabic_vip",
+        "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+        "name": "aya_cx_tvroya_رؤيا",
+        "channelsFile": "channels/aya_cx_tvroya_رؤيا.json"
+      },
+      {
+        "id": 127,
+        "key": "arabic_vip",
+        "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
+        "name": "aya_cx_tvshahid_شاهد",
+        "channelsFile": "channels/aya_cx_tvshahid_شاهد.json"
+      },
+      {
+        "id": 128,
+        "key": "arabic_vip",
+        "logo": "https://i.imgur.com/CiA3plN.png",
+        "name": "mbc_tv2",
+        "channelsFile": "channels/mbc_tv2.json"
+      },
+      {
+        "id": 129,
+        "key": "arabic_vip",
+        "logo": "https://media0087.elcinema.com/tvguide/1373_1.png",
+        "name": "mix_vip",
+        "channelsFile": "channels/mix_vip.json"
+      },
+      {
+        "id": 130,
+        "key": "arabic_vip",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
+        "name": "mnm_kurd",
+        "channelsFile": "channels/mnm_kurd.json"
+      },
+      {
+        "id": 131,
+        "key": "arabic_vip",
+        "logo": "https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png",
+        "name": "nilesat_vip",
+        "channelsFile": "channels/nilesat_vip.json"
+      },
+      {
+        "id": 132,
+        "key": "arabic_vip",
+        "logo": "https://i.imgur.com/DLDfFpu.png",
+        "name": "rotana_vip2",
+        "channelsFile": "channels/rotana_vip2.json"
+      },
+      {
+        "id": 133,
+        "key": "arabic_vip",
+        "logo": "https://bit.ly/3ydKOJy",
+        "name": "roya_tv",
+        "channelsFile": "channels/roya_tv.json"
+      },
+      {
+        "id": 134,
+        "key": "arabic_vip",
+        "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+        "name": "shahid_aflam",
+        "channelsFile": "channels/shahid_aflam.json"
+      },
+      {
+        "id": 135,
+        "key": "arabic_vip",
+        "logo": "",
+        "name": "startz_play",
+        "channelsFile": "channels/startz_play.json"
+      },
+      {
+        "id": 136,
+        "key": "arabic_vip",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxAp50-otsCpWaurfTQC-RExsASeQKRVZjyySGaFmzfw&s=10",
+        "name": "uae_vip",
+        "channelsFile": "channels/uae_vip.json"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "key": "aya_pro_tv",
+    "name": "Aya Pro Tv",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQEmv9hMR9x8XlXT7zwVglL80HdNHingNbM0YEFGPe7w&s=10",
+    "categories": []
+  },
+  {
+    "id": 105,
+    "key": "aya_sport",
+    "name": "Aya Sport",
+    "logo": "",
+    "categories": []
+  },
+  {
+    "id": 106,
+    "key": "aya_tv_pro",
+    "name": "Aya Tv Pro",
+    "logo": "https://images.dwncdn.net/images/t_app-icon-l/p/7c0709ba-3319-48b5-8f96-7755f5c10753/1347399113/aya-tv-player-pro-logo",
+    "categories": []
+  },
+  {
+    "id": 107,
+    "key": "aya_tv_radio",
+    "name": "Aya Tv Radio",
+    "logo": "https://www.matele.be/layouts/defaut/ALL/files/matele-logo-couleur.png",
+    "categories": [
+      {
+        "id": 137,
+        "key": "aya_tv_radio",
+        "logo": "",
+        "name": "africa",
+        "channelsFile": "channels/africa.json"
+      },
+      {
+        "id": 138,
+        "key": "aya_tv_radio",
+        "logo": "",
+        "name": "all_tv",
+        "channelsFile": "channels/all_tv.json"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "key": "aya_vip",
+    "name": "Aya Vip",
+    "logo": "",
+    "categories": [
+      {
+        "id": 139,
+        "key": "aya_vip",
+        "logo": "",
+        "name": "mixte_tv",
+        "channelsFile": "channels/mixte_tv.json"
+      },
+      {
+        "id": 140,
+        "key": "aya_vip",
+        "logo": "",
+        "name": "mixte_tv_2",
+        "channelsFile": "channels/mixte_tv_2.json"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "key": "bein_group",
+    "name": "Bein Group",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350674_ico.png",
+    "categories": [
+      {
+        "id": 141,
+        "key": "bein_group",
+        "logo": "https://up6.cc/2025/05/174640309104961.png",
+        "name": "aya_cx_tvalwan_قنوات_ألوان",
+        "channelsFile": "channels/aya_cx_tvalwan_قنوات_ألوان.json"
+      },
+      {
+        "id": 142,
+        "key": "bein_group",
+        "logo": "https://images.dwncdn.net/images/t_app-icon-l/p/7c0709ba-3319-48b5-8f96-7755f5c10753/1347399113/aya-tv-player-pro-logo",
+        "name": "aya_tv_pro",
+        "channelsFile": "channels/aya_tv_pro.json"
+      },
+      {
+        "id": 143,
+        "key": "bein_group",
+        "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350667_ico.png",
+        "name": "beiin_sports",
+        "channelsFile": "channels/beiin_sports.json"
+      },
+      {
+        "id": 144,
+        "key": "bein_group",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4D6h0S-wcI1ZnkIHOVEWNnG8uFPK1jnc21spsXBKtLQ&s=10",
+        "name": "bein_sport_english",
+        "channelsFile": "channels/bein_sport_english.json"
+      },
+      {
+        "id": 145,
+        "key": "bein_group",
+        "logo": "https://iili.io/JhkLZXa.png",
+        "name": "bein_sport_france",
+        "channelsFile": "channels/bein_sport_france.json"
+      },
+      {
+        "id": 146,
+        "key": "bein_group",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
+        "name": "bein_sports_turky",
+        "channelsFile": "channels/bein_sports_turky.json"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "key": "bein_sport",
+    "name": "Bein Sport",
+    "logo": "",
+    "categories": []
+  },
+  {
+    "id": 111,
+    "key": "club_world_cup",
+    "name": "Club World Cup",
+    "logo": "https://www.kobrandwineandspirits.com/wp-content/uploads/2025/05/club-world-cup-2025-logo-png_seeklogo-577684.png",
+    "categories": [
+      {
+        "id": 147,
+        "key": "club_world_cup",
+        "logo": "https://fls.cjs.jyh/",
+        "name": "event_sport",
+        "channelsFile": "channels/event_sport.json"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "key": "cx_tv",
+    "name": "Cx Tv",
+    "logo": "",
+    "categories": []
+  },
+  {
+    "id": 113,
+    "key": "documentary_",
+    "name": "Documentary ",
+    "logo": "https://yt3.ggpht.com/ytc/AKedOLTYHUfR50Tcmmfba9wf0CxqO2JTTGMmgEICqUSJPg=s900-c-k-c0x00ffffff-no-rj",
+    "categories": [
+      {
+        "id": 148,
+        "key": "documentary_",
+        "logo": "",
+        "name": "all_tv",
+        "channelsFile": "channels/all_tv.json"
+      },
+      {
+        "id": 149,
+        "key": "documentary_",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXkrl51IFKhOMoBO17L8DrU2O5HSyng6rHZ5FGCOOrJjSTa9mh70pvmNsuyy-t3lAtGf4&usqp=CAU",
+        "name": "document_arab",
+        "channelsFile": "channels/document_arab.json"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "key": "euro_2024",
+    "name": "Euro 2024",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",
+    "categories": []
+  },
+  {
+    "id": 115,
+    "key": "event_stream",
+    "name": "Event Stream",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmN-D7EGsES9beS00NNwe67WtIk4GTHo_jxVDR-qMpDQ&s=10",
+    "categories": [
+      {
+        "id": 150,
+        "key": "event_stream",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ3htiSI1Kv04RDzIPsabEvp2uNoUq-JZcZOjSqCg3HA&s=10",
+        "name": "bundesliga_sport",
+        "channelsFile": "channels/bundesliga_sport.json"
+      },
+      {
+        "id": 151,
+        "key": "event_stream",
+        "logo": "https://fls.cjs.jyh/",
+        "name": "event_sport",
+        "channelsFile": "channels/event_sport.json"
+      },
+      {
+        "id": 152,
+        "key": "event_stream",
+        "logo": "",
+        "name": "event_sport_2",
+        "channelsFile": "channels/event_sport_2.json"
+      },
+      {
+        "id": 153,
+        "key": "event_stream",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
+        "name": "event_sport_tests",
+        "channelsFile": "channels/event_sport_tests.json"
+      },
+      {
+        "id": 154,
+        "key": "event_stream",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRsbvCDzYfdfm7JiosS4eyBi0TmJa68lvB6besYGFOQ&s=10",
+        "name": "fancode_sport",
+        "channelsFile": "channels/fancode_sport.json"
+      },
+      {
+        "id": 155,
+        "key": "event_stream",
+        "logo": "https://images.bfmtv.com/C5rkv8VPD84yH7JKiGKYN3sHkOE=/0x0:0x0/400x0/site_manager_images/image_contenu3_top_categories_1688048101027_1732458001199.png",
+        "name": "liga_sports",
+        "channelsFile": "channels/liga_sports.json"
+      },
+      {
+        "id": 156,
+        "key": "event_stream",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkTnJ-Mxs9DWW458rBRPWdjMY8_Svg7W0HZg&s",
+        "name": "ligue1_sport",
+        "channelsFile": "channels/ligue1_sport.json"
+      },
+      {
+        "id": 157,
+        "key": "event_stream",
+        "logo": "",
+        "name": "mls_sports",
+        "channelsFile": "channels/mls_sports.json"
+      },
+      {
+        "id": 158,
+        "key": "event_stream",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKy6e_VXVOYonzE2CL19gULCnpQPOeQ-bzgg&s",
+        "name": "premier_sport",
+        "channelsFile": "channels/premier_sport.json"
+      },
+      {
+        "id": 159,
+        "key": "event_stream",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcslylbPJzNBHWt5-URcXEz_D229jUtF1jvnrG7T54A&s=10",
+        "name": "seria_a_sport",
+        "channelsFile": "channels/seria_a_sport.json"
+      },
+      {
+        "id": 160,
+        "key": "event_stream",
+        "logo": "https://admin.dramaramadan.net/uploads/channels/a097c34e337a8c9294d62cdfc17bb577.webp",
+        "name": "tv_sport-f1",
+        "channelsFile": "channels/tv_sport-f1.json"
+      },
+      {
+        "id": 161,
+        "key": "event_stream",
+        "logo": "https://imgs.ysscores.com/teams/64/9331690283003.png",
+        "name": "tvkorasport",
+        "channelsFile": "channels/tvkorasport.json"
+      },
+      {
+        "id": 162,
+        "key": "event_stream",
+        "logo": "",
+        "name": "wwe_box",
+        "channelsFile": "channels/wwe_box.json"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "key": "gold_cup_concacaf",
+    "name": "Gold Cup Concacaf",
+    "logo": "",
+    "categories": []
+  },
+  {
+    "id": 117,
+    "key": "highlights_football",
+    "name": "Highlights Football",
+    "logo": "https://images.gc.portsmouthfcservices.co.uk/fit-in/2400x1350/ad55d2b0-6f13-11f0-971e-a571145bb4e4.webp",
+    "categories": []
+  },
+  {
+    "id": 118,
+    "key": "iptv",
+    "name": "Iptv",
+    "logo": "https://monsmartiptv.com/wp-content/uploads/2017/10/Monsmart-iptv-Logo.png",
+    "categories": [
+      {
+        "id": 163,
+        "key": "iptv",
+        "logo": "https://monsmartiptv.com/wp-content/uploads/2017/10/Monsmart-iptv-Logo.png",
+        "name": "iptv",
+        "channelsFile": "channels/iptv.json"
+      },
+      {
+        "id": 164,
+        "key": "iptv",
+        "logo": "",
+        "name": "iptv_1",
+        "channelsFile": "channels/iptv_1.json"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "key": "iptv_free",
+    "name": "Iptv Free",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDUhMmMAcOxnMXoQsliyrEFb6P2fmzRssfoQ&usqp=CAU",
+    "categories": [
+      {
+        "id": 165,
+        "key": "iptv_free",
+        "logo": "https://fls.cjs.jyh/",
+        "name": "spanish",
+        "channelsFile": "channels/spanish.json"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "key": "iptv_live_",
+    "name": "Iptv Live ",
+    "logo": "https://play-lh.googleusercontent.com/br6qeJHQXcFSAaC0P7ArZzpNL6TqOcxePhONSp_KXjkeh0EgC3jEZiRyDs1dhXSEld6y",
+    "categories": [
+      {
+        "id": 166,
+        "key": "iptv_live_",
+        "logo": "",
+        "name": "music",
+        "channelsFile": "channels/music.json"
+      },
+      {
+        "id": 167,
+        "key": "iptv_live_",
+        "logo": "https://i.imgur.com/8He6Lca.png",
+        "name": "music_arab",
+        "channelsFile": "channels/music_arab.json"
+      },
+      {
+        "id": 168,
+        "key": "iptv_live_",
+        "logo": "",
+        "name": "série_tv",
+        "channelsFile": "channels/série_tv.json"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "key": "islam_tv",
+    "name": "Islam Tv",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjrAZ2H-_wyVCRkV6OdFQKEFojqIv9kidnePIItnbQQYqOkJuxTbjdpBPkPE5P2oMN9__uVPSu7oS3Y6Z5ScDrcRdMCRRTlek7L41a3EuvbQ&s=10",
+    "categories": [
+      {
+        "id": 169,
+        "key": "islam_tv",
+        "logo": "https://file.rafalnht.com/2d61716d24cc0b66a6c2dee3e9d5a91e.photo.jpg",
+        "name": "aya_cx_tvislamic_إسلامية",
+        "channelsFile": "channels/aya_cx_tvislamic_إسلامية.json"
+      },
+      {
+        "id": 170,
+        "key": "islam_tv",
+        "logo": "https://i.ibb.co/S3Wm3q9/iqraanew.png",
+        "name": "islamic_tv",
+        "channelsFile": "channels/islamic_tv.json"
+      },
+      {
+        "id": 171,
+        "key": "islam_tv",
+        "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+        "name": "quran_karim",
+        "channelsFile": "channels/quran_karim.json"
+      },
+      {
+        "id": 172,
+        "key": "islam_tv",
+        "logo": "http://127.0.0.1/",
+        "name": "radio_quran",
+        "channelsFile": "channels/radio_quran.json"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "key": "kids_tv",
+    "name": "Kids Tv",
+    "logo": "https://image.winudf.com/v2/image/Y29tLm1hY3NhcHAuQ2FydG9vblRWQ2hfc2NyZWVuXzBfMTUzNzcwNjkxMl8wMjM/screen-0.jpg?fakeurl=1&type=.webp",
+    "categories": [
+      {
+        "id": 173,
+        "key": "kids_tv",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH26UY6bt2vminY7wIfb12kXoBs2T7zoNJnbaJrEnI7Q&s=10",
+        "name": "aya_cx_tvkids_الأطفال",
+        "channelsFile": "channels/aya_cx_tvkids_الأطفال.json"
+      },
+      {
+        "id": 174,
+        "key": "kids_tv",
+        "logo": "https://i.imgur.com/vONTtdP.png",
+        "name": "kids",
+        "channelsFile": "channels/kids.json"
+      },
+      {
+        "id": 175,
+        "key": "kids_tv",
+        "logo": "",
+        "name": "mixte",
+        "channelsFile": "channels/mixte.json"
+      },
+      {
+        "id": 176,
+        "key": "kids_tv",
+        "logo": "https://bit.ly/3RLw2i3",
+        "name": "tom_jerry",
+        "channelsFile": "channels/tom_jerry.json"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "key": "live_match",
+    "name": "Live Match",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH87x7WmRGKqaHPKlbSytWnKbXqUXiQe5YGw&s",
+    "categories": [
+      {
+        "id": 177,
+        "key": "live_match",
+        "logo": "",
+        "name": "aym",
+        "channelsFile": "channels/aym.json"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "key": "match_time",
+    "name": "Match Time",
+    "logo": "https://yt3.googleusercontent.com/sUFNr8Vf0pGGsMU5GBAbgn1M5Af_UZ3QbPipFWh12IYwXDa0JT70lVhApDCPrI0in7_yHiceD0c=s900-c-k-c0x00ffffff-no-rj",
+    "categories": [
+      {
+        "id": 178,
+        "key": "match_time",
+        "logo": "https://i.imgur.com/UDJ0P5Q.png",
+        "name": "aya_sports_vip",
+        "channelsFile": "channels/aya_sports_vip.json"
+      },
+      {
+        "id": 179,
+        "key": "match_time",
+        "logo": "",
+        "name": "canal+_afrique",
+        "channelsFile": "channels/canal+_afrique.json"
+      },
+      {
+        "id": 180,
+        "key": "match_time",
+        "logo": "",
+        "name": "canal+_sports",
+        "channelsFile": "channels/canal+_sports.json"
+      },
+      {
+        "id": 181,
+        "key": "match_time",
+        "logo": "https://logovectorseek.com/wp-content/uploads/2020/12/cosmote-gr-logo-vector.png",
+        "name": "cosmo_sport",
+        "channelsFile": "channels/cosmo_sport.json"
+      },
+      {
+        "id": 182,
+        "key": "match_time",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToB1YkhTgRKUJV-167QVu7CMGN_jPmeJ1miyLXVxYMAA&s=10",
+        "name": "dazn_sport",
+        "channelsFile": "channels/dazn_sport.json"
+      },
+      {
+        "id": 183,
+        "key": "match_time",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2Z_JN23Y3kqjYA1mERNsAxU-n8mvoClSZVPUkHg4&s",
+        "name": "digi_live",
+        "channelsFile": "channels/digi_live.json"
+      },
+      {
+        "id": 184,
+        "key": "match_time",
+        "logo": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-1-hd(1).png",
+        "name": "eleven_sports",
+        "channelsFile": "channels/eleven_sports.json"
+      },
+      {
+        "id": 185,
+        "key": "match_time",
+        "logo": "https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png",
+        "name": "espn_sport_br",
+        "channelsFile": "channels/espn_sport_br.json"
+      },
+      {
+        "id": 186,
+        "key": "match_time",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
+        "name": "fifa_tv_sports",
+        "channelsFile": "channels/fifa_tv_sports.json"
+      },
+      {
+        "id": 187,
+        "key": "match_time",
+        "logo": "https://i.ibb.co/zbWxZ95/fs1.png",
+        "name": "fox_sports",
+        "channelsFile": "channels/fox_sports.json"
+      },
+      {
+        "id": 188,
+        "key": "match_time",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu05ABQp_YOwYH4Lb5JR0uvhKM9MsSOBRqU7VdOTkTfw&s=10",
+        "name": "fubo_sports",
+        "channelsFile": "channels/fubo_sports.json"
+      },
+      {
+        "id": 189,
+        "key": "match_time",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png",
+        "name": "go3_sport",
+        "channelsFile": "channels/go3_sport.json"
+      },
+      {
+        "id": 190,
+        "key": "match_time",
+        "logo": "https://karwan.tv/wp-content/uploads/ava-sport-560x315.jpg",
+        "name": "kurd_sport",
+        "channelsFile": "channels/kurd_sport.json"
+      },
+      {
+        "id": 191,
+        "key": "match_time",
+        "logo": "https://www.t-mobile.com/news/_admin/uploads/2021/01/nr-article-NBA-TV-To-Tvision-1-15-21-800x520.png",
+        "name": "nba_nfl_ufc",
+        "channelsFile": "channels/nba_nfl_ufc.json"
+      },
+      {
+        "id": 192,
+        "key": "match_time",
+        "logo": "https://fls.cjs.jyh/",
+        "name": "nova_sport",
+        "channelsFile": "channels/nova_sport.json"
+      },
+      {
+        "id": 193,
+        "key": "match_time",
+        "logo": "https://www.nowtv.now.com/media/s-logo/620_e.png",
+        "name": "now_sport",
+        "channelsFile": "channels/now_sport.json"
+      },
+      {
+        "id": 194,
+        "key": "match_time",
+        "logo": "https://iptvboss.xyz/logos/Poland/PolsatSportPremium1.pl.png",
+        "name": "polsat_sport",
+        "channelsFile": "channels/polsat_sport.json"
+      },
+      {
+        "id": 195,
+        "key": "match_time",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlYsybPg6XV9UCkLUnCJHV7xVcDUChXjEp1rCS0i0ow&s=10",
+        "name": "portugal_sport_tv",
+        "channelsFile": "channels/portugal_sport_tv.json"
+      },
+      {
+        "id": 196,
+        "key": "match_time",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmN_KseTIte9rjpChujgd-Pe8jd8V0E9uObFi9d8NYCQ&s=10",
+        "name": "premier_brazil",
+        "channelsFile": "channels/premier_brazil.json"
+      },
+      {
+        "id": 197,
+        "key": "match_time",
+        "logo": "https://logowik.com/content/uploads/images/premier-sports8286.logowik.com.webp",
+        "name": "première_tv",
+        "channelsFile": "channels/première_tv.json"
+      },
+      {
+        "id": 198,
+        "key": "match_time",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png",
+        "name": "prima_sport",
+        "channelsFile": "channels/prima_sport.json"
+      },
+      {
+        "id": 199,
+        "key": "match_time",
+        "logo": "http://epg.cdntv.online/img/37.png",
+        "name": "russian_sport",
+        "channelsFile": "channels/russian_sport.json"
+      },
+      {
+        "id": 200,
+        "key": "match_time",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOuNOvPkw0ifxNdEd3xy-T7y36NsfW_wggJIBwqFNcQ&s=10",
+        "name": "setanta_sport",
+        "channelsFile": "channels/setanta_sport.json"
+      },
+      {
+        "id": 201,
+        "key": "match_time",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Slovak_Football_Association_logo.svg/1200px-Slovak_Football_Association_logo.svg.png",
+        "name": "slovakia_tv",
+        "channelsFile": "channels/slovakia_tv.json"
+      },
+      {
+        "id": 202,
+        "key": "match_time",
+        "logo": "https://i.imgur.com/RcxNoIC.png",
+        "name": "sport_philippines",
+        "channelsFile": "channels/sport_philippines.json"
+      },
+      {
+        "id": 203,
+        "key": "match_time",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0P6k2kqgkQ55oHPRBm-Apg3i08ZLSfQEsqQ&s",
+        "name": "sport_portugal",
+        "channelsFile": "channels/sport_portugal.json"
+      },
+      {
+        "id": 204,
+        "key": "match_time",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIwt32Lgt-1tADVqSjLH9I_1FqubShM9Cxc3ndOh9bQQ&s=10",
+        "name": "sports_mixte_tv",
+        "channelsFile": "channels/sports_mixte_tv.json"
+      },
+      {
+        "id": 205,
+        "key": "match_time",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSls0uizAF7Tph0YZGLMbvns-TMHzn-z0QqoUoZCdL_A4QmzcZAh25CcLo&s=10",
+        "name": "swizerland",
+        "channelsFile": "channels/swizerland.json"
+      },
+      {
+        "id": 206,
+        "key": "match_time",
+        "logo": "https://image.milimaj.com/i/milliyet/75/0x0/66ebe050677058f33337d709.jpg",
+        "name": "tabii_sport",
+        "channelsFile": "channels/tabii_sport.json"
+      },
+      {
+        "id": 207,
+        "key": "match_time",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",
+        "name": "tivibu_sport",
+        "channelsFile": "channels/tivibu_sport.json"
+      },
+      {
+        "id": 208,
+        "key": "match_time",
+        "logo": "https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png",
+        "name": "tnt_sport",
+        "channelsFile": "channels/tnt_sport.json"
+      },
+      {
+        "id": 209,
+        "key": "match_time",
+        "logo": "https://i5.satexpat.com/cha/al/tring-468x144.png",
+        "name": "tring_sport",
+        "channelsFile": "channels/tring_sport.json"
+      },
+      {
+        "id": 210,
+        "key": "match_time",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsH8zoEI8anMW3e7iTcm5ZYpI7nZ6Rwu831Y7TMJz3gQ&s=10",
+        "name": "tsn_sports",
+        "channelsFile": "channels/tsn_sports.json"
+      },
+      {
+        "id": 211,
+        "key": "match_time",
+        "logo": "",
+        "name": "tv_sports_world",
+        "channelsFile": "channels/tv_sports_world.json"
+      },
+      {
+        "id": 212,
+        "key": "match_time",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa_m4AlDT68S0WBBjurLqlNH2Qw1atNaOK1Xt3Q9BJZjLKm4hhaSWJ--Jd&s=10",
+        "name": "ziggo",
+        "channelsFile": "channels/ziggo.json"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "key": "news",
+    "name": "News",
+    "logo": "https://yt3.ggpht.com/ytc/AMLnZu8nF0TkVhcc9hfLyCXcujpkCn-VuvQynabt7jamug=s900-c-k-c0x00ffffff-no-rj",
+    "categories": [
+      {
+        "id": 213,
+        "key": "news",
+        "logo": "https://lh3.googleusercontent.com/dMmC2XbHgj-2dgRKtCcC8SaXxkfWHW_d-UE9buhPjzDnvdcKARfHrR0cQuTCEpA10w=w300",
+        "name": "arabic_tv",
+        "channelsFile": "channels/arabic_tv.json"
+      },
+      {
+        "id": 214,
+        "key": "news",
+        "logo": "https://bit.ly/3GP3O1f",
+        "name": "aya_cx_tvnews_الأخبار",
+        "channelsFile": "channels/aya_cx_tvnews_الأخبار.json"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "key": "pluto_tv",
+    "name": "Pluto Tv",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRo6oFaBdysrj6tWGwDjcxK-pB7jh65nCVNw&usqp=CAU",
+    "categories": [
+      {
+        "id": 215,
+        "key": "pluto_tv",
+        "logo": "https://fls.cjs.jyh/",
+        "name": "brazil",
+        "channelsFile": "channels/brazil.json"
+      },
+      {
+        "id": 216,
+        "key": "pluto_tv",
+        "logo": "https://fls.cjs.jyh/",
+        "name": "deutchland",
+        "channelsFile": "channels/deutchland.json"
+      },
+      {
+        "id": 217,
+        "key": "pluto_tv",
+        "logo": "https://fls.cjs.jyh/",
+        "name": "français",
+        "channelsFile": "channels/français.json"
+      },
+      {
+        "id": 218,
+        "key": "pluto_tv",
+        "logo": "https://fls.cjs.jyh/",
+        "name": "spanish",
+        "channelsFile": "channels/spanish.json"
+      },
+      {
+        "id": 219,
+        "key": "pluto_tv",
+        "logo": "https://fls.cjs.jyh/",
+        "name": "uk",
+        "channelsFile": "channels/uk.json"
+      },
+      {
+        "id": 220,
+        "key": "pluto_tv",
+        "logo": "https://fls.cjs.jyh/",
+        "name": "usa",
+        "channelsFile": "channels/usa.json"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "key": "smart_iptv",
+    "name": "Smart Iptv",
+    "logo": "",
+    "categories": []
+  },
+  {
+    "id": 128,
+    "key": "smart_tv",
+    "name": "Smart Tv",
+    "logo": "https://previews.123rf.com/images/sarahdesign/sarahdesign1410/sarahdesign141000951/32210703-live-stream-button.jpg",
+    "categories": [
+      {
+        "id": 221,
+        "key": "smart_tv",
+        "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+        "name": "iptv_vip",
+        "channelsFile": "channels/iptv_vip.json"
+      },
+      {
+        "id": 222,
+        "key": "smart_tv",
+        "logo": "",
+        "name": "mohaallchannels",
+        "channelsFile": "channels/mohaallchannels.json"
+      },
+      {
+        "id": 223,
+        "key": "smart_tv",
+        "logo": "",
+        "name": "superallchannels",
+        "channelsFile": "channels/superallchannels.json"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "key": "sport",
+    "name": "Sport",
+    "logo": "",
+    "categories": []
+  },
+  {
+    "id": 130,
+    "key": "sport_",
+    "name": "Sport ",
+    "logo": "https://pbs.twimg.com/profile_images/1051146024918626304/gmL4qAof_400x400.jpg",
+    "categories": [
+      {
+        "id": 224,
+        "key": "sport_",
+        "logo": "https://www.zarkachat.com/wp-content/uploads/2020/12/sport-abuzabi-channel.jpg",
+        "name": "ad_sport",
+        "channelsFile": "channels/ad_sport.json"
+      },
+      {
+        "id": 225,
+        "key": "sport_",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAN0IuAwJN3cu8TsK8VLKyBhJkF0nGWU4NkONADwSB3w&s=10",
+        "name": "alfajr_sport_tv",
+        "channelsFile": "channels/alfajr_sport_tv.json"
+      },
+      {
+        "id": 226,
+        "key": "sport_",
+        "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
+        "name": "alkass_sport",
+        "channelsFile": "channels/alkass_sport.json"
+      },
+      {
+        "id": 227,
+        "key": "sport_",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPMAW68z2n_pschRQ0I_w_PxrX1vE7nPsWJ-Fw7NwsA&s",
+        "name": "alwan_sports",
+        "channelsFile": "channels/alwan_sports.json"
+      },
+      {
+        "id": 228,
+        "key": "sport_",
+        "logo": "https://livemedia.ma/static/img/channels/arryadia-tnt.png",
+        "name": "arryadia_sport",
+        "channelsFile": "channels/arryadia_sport.json"
+      },
+      {
+        "id": 229,
+        "key": "sport_",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx23AYTPxufXcXM7SN7yL7zC03LhfbenQv4ZsVx40Flw&s=10",
+        "name": "aya_cx_tvshahid_sports_شاهد",
+        "channelsFile": "channels/aya_cx_tvshahid_sports_شاهد.json"
+      },
+      {
+        "id": 230,
+        "key": "sport_",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnCsuEMLjdzQOtvRzqiFwFbcdLxsi6ZDUZ661HtmvZg&s=10",
+        "name": "aya_cx_tvstarzplay_ستارز_بلاي",
+        "channelsFile": "channels/aya_cx_tvstarzplay_ستارز_بلاي.json"
+      },
+      {
+        "id": 231,
+        "key": "sport_",
+        "logo": "https://i.imgur.com/32ZwaW0.png",
+        "name": "ksa_sport",
+        "channelsFile": "channels/ksa_sport.json"
+      },
+      {
+        "id": 232,
+        "key": "sport_",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNoLt8xUQbTvUVqLNT_UQjBn6EfjwctOwY6vzQNOASg&s=10",
+        "name": "thamanyah_sport_2",
+        "channelsFile": "channels/thamanyah_sport_2.json"
+      },
+      {
+        "id": 233,
+        "key": "sport_",
+        "logo": "https://www.lyngsat.com/logo/tv/ss/snrt_3_arriadya.png",
+        "name": "windroidaloksports_arabic",
+        "channelsFile": "channels/windroidaloksports_arabic.json"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "key": "sport_world",
+    "name": "Sport World",
+    "logo": "",
+    "categories": []
+  },
+  {
+    "id": 132,
+    "key": "sports_live",
+    "name": "Sports Live",
+    "logo": "",
+    "categories": [
+      {
+        "id": 234,
+        "key": "sports_live",
+        "logo": "",
+        "name": "adrarallchannels",
+        "channelsFile": "channels/adrarallchannels.json"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "key": "sports_test_vip",
+    "name": "Sports Test Vip",
+    "logo": "",
+    "categories": []
+  },
+  {
+    "id": 134,
+    "key": "world_tv",
+    "name": "World Tv",
+    "logo": "https://cdn-icons-png.flaticon.com/512/3492/3492623.png",
+    "categories": [
+      {
+        "id": 235,
+        "key": "world_tv",
+        "logo": "",
+        "name": "Africa",
+        "channelsFile": "channels/africa.json"
+      },
+      {
+        "id": 236,
+        "key": "world_tv",
+        "logo": "",
+        "name": "Aregntina",
+        "channelsFile": "channels/aregntina.json"
+      },
+      {
+        "id": 237,
+        "key": "world_tv",
+        "logo": "",
+        "name": "Bangladesh",
+        "channelsFile": "channels/bangladesh.json"
+      },
+      {
+        "id": 238,
+        "key": "world_tv",
+        "logo": "https://fls.cjs.jyh/",
+        "name": "Brazil",
+        "channelsFile": "channels/brazil.json"
+      },
+      {
+        "id": 239,
+        "key": "world_tv",
+        "logo": "",
+        "name": "Canada",
+        "channelsFile": "channels/canada.json"
+      },
+      {
+        "id": 240,
+        "key": "world_tv",
+        "logo": "",
+        "name": "China",
+        "channelsFile": "channels/china.json"
+      },
+      {
+        "id": 241,
+        "key": "world_tv",
+        "logo": "",
+        "name": "Colombia",
+        "channelsFile": "channels/colombia.json"
+      },
+      {
+        "id": 242,
+        "key": "world_tv",
+        "logo": "",
+        "name": "Germany",
+        "channelsFile": "channels/germany.json"
+      },
+      {
+        "id": 243,
+        "key": "world_tv",
+        "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+        "name": "Italytv",
+        "channelsFile": "channels/italytv.json"
+      },
+      {
+        "id": 244,
+        "key": "world_tv",
+        "logo": "",
+        "name": "Portugal",
+        "channelsFile": "channels/portugal.json"
+      },
+      {
+        "id": 245,
+        "key": "world_tv",
+        "logo": "",
+        "name": "Puerto Rico",
+        "channelsFile": "channels/puerto_rico.json"
+      },
+      {
+        "id": 246,
+        "key": "world_tv",
+        "logo": "",
+        "name": "Russia",
+        "channelsFile": "channels/russia.json"
+      },
+      {
+        "id": 247,
+        "key": "world_tv",
+        "logo": "",
+        "name": "Spain",
+        "channelsFile": "channels/spain.json"
+      },
+      {
+        "id": 248,
+        "key": "world_tv",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png",
+        "name": "Switzerland",
+        "channelsFile": "channels/switzerland.json"
+      },
+      {
+        "id": 249,
+        "key": "world_tv",
+        "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+        "name": "Turkey",
+        "channelsFile": "channels/turkey.json"
+      },
+      {
+        "id": 250,
+        "key": "world_tv",
+        "logo": "https://fls.cjs.jyh/",
+        "name": "UK",
+        "channelsFile": "channels/uk.json"
+      },
+      {
+        "id": 251,
+        "key": "world_tv",
+        "logo": "https://fls.cjs.jyh/",
+        "name": "USA",
+        "channelsFile": "channels/usa.json"
+      }
+    ]
+  }
+  
+]

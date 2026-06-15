@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1044,
+    "categoryId": "55",
+    "name": "Mauritanie TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/bRpN7hM.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1044.json"
+  },
+  {
+    "id": 1815,
+    "categoryId": "55",
+    "name": "Mauritanie Sport",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/klGg2uh.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1815.json"
+  },
+  {
+    "id": 1653,
+    "categoryId": "55",
+    "name": "Mauritanie 2",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/bRpN7hM.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1653.json"
+  },
+  {
+    "id": 1654,
+    "categoryId": "55",
+    "name": "El Mourabiton TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/45QDX8W.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1654.json"
+  }
+]

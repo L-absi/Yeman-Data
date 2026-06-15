@@ -1,0 +1,92 @@
+[
+  {
+    "id": 4851,
+    "categoryId": "portugal_sport_tv",
+    "name": "Sport TV 1",
+    "nameEn": "Sport TV 1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlYsybPg6XV9UCkLUnCJHV7xVcDUChXjEp1rCS0i0ow&s=10",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4851.json"
+  },
+  {
+    "id": 4852,
+    "categoryId": "portugal_sport_tv",
+    "name": "Sport TV 2",
+    "nameEn": "Sport TV 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlYsybPg6XV9UCkLUnCJHV7xVcDUChXjEp1rCS0i0ow&s=10",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4852.json"
+  },
+  {
+    "id": 4853,
+    "categoryId": "portugal_sport_tv",
+    "name": "Sport TV 3",
+    "nameEn": "Sport TV 3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlYsybPg6XV9UCkLUnCJHV7xVcDUChXjEp1rCS0i0ow&s=10",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4853.json"
+  },
+  {
+    "id": 4854,
+    "categoryId": "portugal_sport_tv",
+    "name": "Sport TV 4",
+    "nameEn": "Sport TV 4",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlYsybPg6XV9UCkLUnCJHV7xVcDUChXjEp1rCS0i0ow&s=10",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4854.json"
+  },
+  {
+    "id": 4855,
+    "categoryId": "portugal_sport_tv",
+    "name": "Sport TV 5",
+    "nameEn": "Sport TV 5",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlYsybPg6XV9UCkLUnCJHV7xVcDUChXjEp1rCS0i0ow&s=10",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4855.json"
+  },
+  {
+    "id": 4856,
+    "categoryId": "portugal_sport_tv",
+    "name": "DAZN 1",
+    "nameEn": "DAZN 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4856.json"
+  },
+  {
+    "id": 4857,
+    "categoryId": "portugal_sport_tv",
+    "name": "DAZN 2",
+    "nameEn": "DAZN 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/4857.json"
+  },
+  {
+    "id": 4858,
+    "categoryId": "portugal_sport_tv",
+    "name": "DAZN 3",
+    "nameEn": "DAZN 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/4858.json"
+  },
+  {
+    "id": 4859,
+    "categoryId": "portugal_sport_tv",
+    "name": "DAZN 4",
+    "nameEn": "DAZN 4",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/4859.json"
+  }
+]

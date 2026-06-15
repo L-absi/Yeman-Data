@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "",
+    "license": "0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "name": "NBC Sport #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1404,
+    "categoryId": "80",
+    "name": "Alkass 1",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1404.json"
+  },
+  {
+    "id": 1405,
+    "categoryId": "80",
+    "name": "Alkass 2",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1405.json"
+  },
+  {
+    "id": 1406,
+    "categoryId": "80",
+    "name": "Alkass 3",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1406.json"
+  },
+  {
+    "id": 1407,
+    "categoryId": "80",
+    "name": "Alkass 4",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1407.json"
+  },
+  {
+    "id": 1408,
+    "categoryId": "80",
+    "name": "Alkass 5",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1408.json"
+  }
+]

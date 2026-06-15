@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1444,
+    "categoryId": "87",
+    "name": "Weyyak Action",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image?c=47183?d=150x150",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1444.json"
+  },
+  {
+    "id": 1445,
+    "categoryId": "87",
+    "name": "Weyyak Drama",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image?c=05165?d=280x150",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1445.json"
+  },
+  {
+    "id": 1446,
+    "categoryId": "87",
+    "name": "Weyyak Mix",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://content.weyyak.com/bc777336-328d-ea11-831d-02d662556796/poster-image?c=35058?d=280x150",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1446.json"
+  },
+  {
+    "id": 1447,
+    "categoryId": "87",
+    "name": "Weyyak Nawaem",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://content.weyyak.com/d867c2e9-328d-ea11-831d-02d662556796/poster-image?c=23228?d=280x150",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1447.json"
+  },
+  {
+    "id": 1448,
+    "categoryId": "87",
+    "name": "Smashi",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://pbs.twimg.com/profile_images/1355872820807540737/aNLrnK4f_400x400.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1448.json"
+  }
+]

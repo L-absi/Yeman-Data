@@ -1,0 +1,26 @@
+[
+  {
+    "id": 10150,
+    "name": "GO3 SPORT 1",
+    "logo": "https://cdn.kursors.lv/2019/12/2019-12-03_1831.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10150.json"
+  },
+  {
+    "id": 10151,
+    "name": "GO3 SPORT 2",
+    "logo": "https://cdn.kursors.lv/2019/12/2019-12-03_1831.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10151.json"
+  },
+  {
+    "id": 10152,
+    "name": "GO3 SPORT OPEN",
+    "logo": "https://cdn.kursors.lv/2019/12/2019-12-03_1831.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10152.json"
+  }
+]

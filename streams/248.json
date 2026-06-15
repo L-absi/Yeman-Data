@@ -1,0 +1,28 @@
+[
+  {
+    "name": "2",
+    "url": "https://origin2-6play.live.6cloud.fr/pool_rnpls9by/pp/sixplayhde/hls_short_fp10_pp/NA/vZNA6hM/index.m3u8",
+    "urlType": 1,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://x.com/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://x.com/"
+    },
+    "drm": null
+  },
+  {
+    "name": "1",
+    "url": "http://apk.ch-arabic.buzz/live/134/index.m3u8?t=KnB4cFWHK1IFToLJ9q-zDg&e=1779903348",
+    "urlType": 3,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://x.com/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://x.com/"
+    },
+    "drm": null
+  }
+]

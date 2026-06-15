@@ -1,0 +1,14 @@
+[
+  {
+    "license": "867c8d7670eab5e7aa10571830ad3d8c:030cf68626950b12145bc7147d6a9bda",
+    "headers": "Referer|https://neacdnpop3-edge02.aws.playco.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus_eLife_HD.mpd|",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "Multi",
+    "Referer": "https://neacdnpop3-edge02.aws.playco.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus_eLife_HD.mpd",
+    "userAgent": "",
+    "position": "",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd"
+  }
+]

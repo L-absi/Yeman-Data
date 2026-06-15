@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "DFB Play TV 🇩🇪",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://daiconnect.com/live/hls/tvup/tvfy-dfbplay/.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB17&content_genre=Sports&language=es&rating=TV-G"
+  }
+]

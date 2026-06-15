@@ -1,0 +1,38 @@
+[
+  {
+    "name": "HD",
+    "url": "http://het4444.ycn-redirect.com/live/996251000/index.m3u8?t=ARC8E2QVZV9GO6gPmpXfuQ&e=1779901085",
+    "urlType": 3,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    "drm": null
+  },
+  {
+    "name": "SD",
+    "url": "http://het4444.ycn-redirect.com/live/500021000/index.m3u8?t=acW2SQn0qRwQNTc5J9lBVw&e=1779901085",
+    "urlType": 3,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    "drm": null
+  },
+  {
+    "name": "Low",
+    "url": "http://het4444.ycn-redirect.com/live/770001000/index.m3u8?t=C_fRpEvJ8FeWj7zUJjMUgw&e=1779901085",
+    "urlType": 3,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    "drm": null
+  }
+]

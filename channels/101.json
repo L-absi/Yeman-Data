@@ -1,0 +1,46 @@
+[
+  {
+    "id": 2010,
+    "categoryId": "101",
+    "name": "ستارز بلاي سبورت 1",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2010.json"
+  },
+  {
+    "id": 2011,
+    "categoryId": "101",
+    "name": "ستارز بلاي سبورت 2",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2011.json"
+  },
+  {
+    "id": 2012,
+    "categoryId": "101",
+    "name": "ستارز بلاي سبورت 3",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2012.json"
+  },
+  {
+    "id": 2013,
+    "categoryId": "101",
+    "name": "Abu Dhabi Sports 1",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Abu_Dhabi_Sports_logo_2023_%28cropped%29.svg.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2013.json"
+  }
+]

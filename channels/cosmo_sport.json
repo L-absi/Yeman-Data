@@ -1,0 +1,62 @@
+[
+  {
+    "id": 4768,
+    "categoryId": "cosmo_sport",
+    "name": "Cosmo1",
+    "nameEn": "Cosmo1",
+    "logo": "https://logovectorseek.com/wp-content/uploads/2020/12/cosmote-gr-logo-vector.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4768.json"
+  },
+  {
+    "id": 4769,
+    "categoryId": "cosmo_sport",
+    "name": "Cosmo2",
+    "nameEn": "Cosmo2",
+    "logo": "https://logovectorseek.com/wp-content/uploads/2020/12/cosmote-gr-logo-vector.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4769.json"
+  },
+  {
+    "id": 4770,
+    "categoryId": "cosmo_sport",
+    "name": "Cosmo3",
+    "nameEn": "Cosmo3",
+    "logo": "https://logovectorseek.com/wp-content/uploads/2020/12/cosmote-gr-logo-vector.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4770.json"
+  },
+  {
+    "id": 4771,
+    "categoryId": "cosmo_sport",
+    "name": "Cosmo4",
+    "nameEn": "Cosmo4",
+    "logo": "https://logovectorseek.com/wp-content/uploads/2020/12/cosmote-gr-logo-vector.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4771.json"
+  },
+  {
+    "id": 4772,
+    "categoryId": "cosmo_sport",
+    "name": "Cosmo5",
+    "nameEn": "Cosmo5",
+    "logo": "https://logovectorseek.com/wp-content/uploads/2020/12/cosmote-gr-logo-vector.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4772.json"
+  },
+  {
+    "id": 4773,
+    "categoryId": "cosmo_sport",
+    "name": "Cosmo6",
+    "nameEn": "Cosmo6",
+    "logo": "https://logovectorseek.com/wp-content/uploads/2020/12/cosmote-gr-logo-vector.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4773.json"
+  }
+]

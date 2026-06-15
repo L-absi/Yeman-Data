@@ -1,0 +1,52 @@
+[
+  {
+    "id": 5746,
+    "categoryId": "aya_cx_tvshahid_sports_شاهد",
+    "name": "Shahid Sports 1",
+    "nameEn": "Shahid Sports 1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx23AYTPxufXcXM7SN7yL7zC03LhfbenQv4ZsVx40Flw&s=10",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/5746.json"
+  },
+  {
+    "id": 5747,
+    "categoryId": "aya_cx_tvshahid_sports_شاهد",
+    "name": "Shahid Sports 2",
+    "nameEn": "Shahid Sports 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx23AYTPxufXcXM7SN7yL7zC03LhfbenQv4ZsVx40Flw&s=10",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/5747.json"
+  },
+  {
+    "id": 5748,
+    "categoryId": "aya_cx_tvshahid_sports_شاهد",
+    "name": "Shahid Sports 3",
+    "nameEn": "Shahid Sports 3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx23AYTPxufXcXM7SN7yL7zC03LhfbenQv4ZsVx40Flw&s=10",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/5748.json"
+  },
+  {
+    "id": 5749,
+    "categoryId": "aya_cx_tvshahid_sports_شاهد",
+    "name": "Shahid Sports 5",
+    "nameEn": "Shahid Sports 5",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx23AYTPxufXcXM7SN7yL7zC03LhfbenQv4ZsVx40Flw&s=10",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/5749.json"
+  },
+  {
+    "id": 5750,
+    "categoryId": "aya_cx_tvshahid_sports_شاهد",
+    "name": "Shahid Sports 4",
+    "nameEn": "Shahid Sports 4",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx23AYTPxufXcXM7SN7yL7zC03LhfbenQv4ZsVx40Flw&s=10",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/5750.json"
+  }
+]

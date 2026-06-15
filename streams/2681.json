@@ -1,0 +1,50 @@
+[
+  {
+    "license": "e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f",
+    "headers": "tod-drm|true",
+    "scheme": "clearkey",
+    "otherHeaders": "tod-drm|true",
+    "isWeb": "false",
+    "name": "Multi | مصدر رسمي",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd"
+  },
+  {
+    "license": "5567531458e9c2e93d22935c45fdef52:f2f613fb2132acd019d2a96bf1be15c1",
+    "headers": "",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "Multi 2",
+    "Referer": "",
+    "userAgent": "",
+    "position": "2",
+    "url": "https://fastly-live.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd"
+  },
+  {
+    "license": "d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54",
+    "headers": "",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "Multi 1",
+    "Referer": "",
+    "userAgent": "",
+    "position": "1",
+    "url": "https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd"
+  },
+  {
+    "license": "",
+    "headers": "Referer|https://babaktv.com/|",
+    "scheme": "",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "HD",
+    "Referer": "https://babaktv.com/",
+    "userAgent": "",
+    "position": "3",
+    "url": "https://m3u.iranvids.com/mbc-action/output.m3u8"
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "id": 3143,
+    "categoryId": "shahid_aflam",
+    "name": "حكايات-دفعة",
+    "nameEn": "حكايات-دفعة",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/3143.json"
+  },
+  {
+    "id": 3144,
+    "categoryId": "shahid_aflam",
+    "name": "شاهد-إنمي",
+    "nameEn": "شاهد-إنمي",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/3144.json"
+  },
+  {
+    "id": 3145,
+    "categoryId": "shahid_aflam",
+    "name": "Spooky-Nights",
+    "nameEn": "Spooky-Nights",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/3145.json"
+  },
+  {
+    "id": 3146,
+    "categoryId": "shahid_aflam",
+    "name": "عزنا-بطبعنا",
+    "nameEn": "عزنا-بطبعنا",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/3146.json"
+  },
+  {
+    "id": 3147,
+    "categoryId": "shahid_aflam",
+    "name": "SHAHID LIVE 1 HD",
+    "nameEn": "SHAHID LIVE 1 HD",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/3147.json"
+  },
+  {
+    "id": 3148,
+    "categoryId": "shahid_aflam",
+    "name": "Aflam",
+    "nameEn": "Aflam",
+    "logo": "https://i.imgur.com/cTLj7Yt.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/3148.json"
+  },
+  {
+    "id": 3149,
+    "categoryId": "shahid_aflam",
+    "name": "Movies-Action",
+    "nameEn": "Movies-Action",
+    "logo": "https://i.imgur.com/NIVhISa.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/3149.json"
+  },
+  {
+    "id": 3150,
+    "categoryId": "shahid_aflam",
+    "name": "Movies-Thriller",
+    "nameEn": "Movies-Thriller",
+    "logo": "https://i.imgur.com/JWihdcl.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/3150.json"
+  },
+  {
+    "id": 3151,
+    "categoryId": "shahid_aflam",
+    "name": "قناة-البودكاسترز",
+    "nameEn": "قناة-البودكاسترز",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/3151.json"
+  },
+  {
+    "id": 3152,
+    "categoryId": "shahid_aflam",
+    "name": "الثقافية",
+    "nameEn": "الثقافية",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/3152.json"
+  },
+  {
+    "id": 3153,
+    "categoryId": "shahid_aflam",
+    "name": "Selfie",
+    "nameEn": "Selfie",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/3153.json"
+  },
+  {
+    "id": 3154,
+    "categoryId": "shahid_aflam",
+    "name": "Tash",
+    "nameEn": "Tash",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/3154.json"
+  },
+  {
+    "id": 3155,
+    "categoryId": "shahid_aflam",
+    "name": "قناة-سكة-سفر",
+    "nameEn": "قناة-سكة-سفر",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/3155.json"
+  },
+  {
+    "id": 3156,
+    "categoryId": "shahid_aflam",
+    "name": "Maraya",
+    "nameEn": "Maraya",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/3156.json"
+  },
+  {
+    "id": 3157,
+    "categoryId": "shahid_aflam",
+    "name": "قناة-مسرح-مصر",
+    "nameEn": "قناة-مسرح-مصر",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/3157.json"
+  },
+  {
+    "id": 3158,
+    "categoryId": "shahid_aflam",
+    "name": "قناة-الكبير-أوي",
+    "nameEn": "قناة-الكبير-أوي",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/3158.json"
+  },
+  {
+    "id": 3159,
+    "categoryId": "shahid_aflam",
+    "name": "قناة-اللعبة",
+    "nameEn": "قناة-اللعبة",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 18,
+    "streamsFile": "streams/3159.json"
+  },
+  {
+    "id": 3160,
+    "categoryId": "shahid_aflam",
+    "name": "من-الجو",
+    "nameEn": "من-الجو",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 19,
+    "streamsFile": "streams/3160.json"
+  },
+  {
+    "id": 3161,
+    "categoryId": "shahid_aflam",
+    "name": "قناة-واي-فاي",
+    "nameEn": "قناة-واي-فاي",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 20,
+    "streamsFile": "streams/3161.json"
+  },
+  {
+    "id": 3162,
+    "categoryId": "shahid_aflam",
+    "name": "Naser_Al_Qassaby",
+    "nameEn": "Naser_Al_Qassaby",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 21,
+    "streamsFile": "streams/3162.json"
+  },
+  {
+    "id": 3163,
+    "categoryId": "shahid_aflam",
+    "name": "Al_Asouf",
+    "nameEn": "Al_Asouf",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 22,
+    "streamsFile": "streams/3163.json"
+  },
+  {
+    "id": 3164,
+    "categoryId": "shahid_aflam",
+    "name": "Bab_Al_Hara",
+    "nameEn": "Bab_Al_Hara",
+    "logo": "https://i.imgur.com/QtlnZbq.png",
+    "type": "channel",
+    "position": 23,
+    "streamsFile": "streams/3164.json"
+  },
+  {
+    "id": 3165,
+    "categoryId": "shahid_aflam",
+    "name": "رابح-صقر",
+    "nameEn": "رابح-صقر",
+    "logo": "https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png",
+    "type": "channel",
+    "position": 24,
+    "streamsFile": "streams/3165.json"
+  },
+  {
+    "id": 3166,
+    "categoryId": "shahid_aflam",
+    "name": "عبدالمجيد-عبدالله",
+    "nameEn": "عبدالمجيد-عبدالله",
+    "logo": "https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png",
+    "type": "channel",
+    "position": 25,
+    "streamsFile": "streams/3166.json"
+  },
+  {
+    "id": 3167,
+    "categoryId": "shahid_aflam",
+    "name": "راشد-الماجد",
+    "nameEn": "راشد-الماجد",
+    "logo": "https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png",
+    "type": "channel",
+    "position": 26,
+    "streamsFile": "streams/3167.json"
+  },
+  {
+    "id": 3168,
+    "categoryId": "shahid_aflam",
+    "name": "محمد-عبده",
+    "nameEn": "محمد-عبده",
+    "logo": "https://assets.mbcmood.com/channels/1720184012Mohammed%20Abdo%20banner.png",
+    "type": "channel",
+    "position": 27,
+    "streamsFile": "streams/3168.json"
+  },
+  {
+    "id": 3169,
+    "categoryId": "shahid_aflam",
+    "name": "فيروز",
+    "nameEn": "فيروز",
+    "logo": "https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png",
+    "type": "channel",
+    "position": 28,
+    "streamsFile": "streams/3169.json"
+  },
+  {
+    "id": 3170,
+    "categoryId": "shahid_aflam",
+    "name": "طرب",
+    "nameEn": "طرب",
+    "logo": "https://assets.mbcmood.com/channels/1738059679TARAB_Logo.png",
+    "type": "channel",
+    "position": 29,
+    "streamsFile": "streams/3170.json"
+  },
+  {
+    "id": 3171,
+    "categoryId": "shahid_aflam",
+    "name": "ماجد-المهندس",
+    "nameEn": "ماجد-المهندس",
+    "logo": "https://assets.mbcmood.com/channels/1738059852MAJED_LOGO.png",
+    "type": "channel",
+    "position": 30,
+    "streamsFile": "streams/3171.json"
+  },
+  {
+    "id": 3172,
+    "categoryId": "shahid_aflam",
+    "name": "MBC FM LIVE TV",
+    "nameEn": "MBC FM LIVE TV",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 31,
+    "streamsFile": "streams/3172.json"
+  },
+  {
+    "id": 3173,
+    "categoryId": "shahid_aflam",
+    "name": "MBC LOUD FM TV",
+    "nameEn": "MBC LOUD FM TV",
+    "logo": "https://i.imgur.com/mptwwLs.png",
+    "type": "channel",
+    "position": 32,
+    "streamsFile": "streams/3173.json"
+  },
+  {
+    "id": 3174,
+    "categoryId": "shahid_aflam",
+    "name": "Red-Bull-TV",
+    "nameEn": "Red-Bull-TV",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 33,
+    "streamsFile": "streams/3174.json"
+  },
+  {
+    "id": 3175,
+    "categoryId": "shahid_aflam",
+    "name": "Big-Time-Plus",
+    "nameEn": "Big-Time-Plus",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "type": "channel",
+    "position": 34,
+    "streamsFile": "streams/3175.json"
+  }
+]

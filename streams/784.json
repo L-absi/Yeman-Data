@@ -1,0 +1,27 @@
+[
+  {
+    "name": "3",
+    "url": "https://master.starmena-cloud.com/hls/libyas.m3u8",
+    "urlType": 1,
+    "userAgent": "",
+    "Referer": "https://libyaschannel.com/",
+    "origin": null,
+    "headers": {
+      "Referer": "https://libyaschannel.com/"
+    },
+    "drm": null
+  },
+  {
+    "name": "2",
+    "url": "https://libyaschannel.com/%d8%a7%d9%84%d8%a8%d8%ab-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/",
+    "urlType": 6,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://x.com/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://x.com/"
+    },
+    "drm": null
+  }
+]

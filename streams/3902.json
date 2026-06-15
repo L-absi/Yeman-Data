@@ -1,0 +1,35 @@
+[
+  {
+    "headers": "Referer|https://1player.baselalsharef.com/albaplayer/bein5/?serv=0|user-agent|Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36|https://1player.baselalsharef.com/albaplayer/bein5/?serv=0",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "https://1player.baselalsharef.com/albaplayer/bein5/?serv=0",
+    "name": "BeIN",
+    "Referer": "https://1player.baselalsharef.com/albaplayer/bein5/?serv=0",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+    "position": "0",
+    "url": "https://syria.yallla-shoot.io/live/bein4"
+  },
+  {
+    "headers": "user-agent|okhttp/4.12.0|use-yc|yes",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "use-yc|yes",
+    "name": "BeinHD",
+    "Referer": "",
+    "userAgent": "okhttp/4.12.0",
+    "position": "0",
+    "url": "http://a2.apk-api.com:80/api/channel/1427"
+  },
+  {
+    "headers": "user-agent|okhttp/4.12.0|use-yc|yes",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "use-yc|yes",
+    "name": "BeinSD",
+    "Referer": "",
+    "userAgent": "okhttp/4.12.0",
+    "position": "0",
+    "url": "http://a2.apk-api.com:80/api/channel/27"
+  }
+]

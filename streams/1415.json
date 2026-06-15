@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Multi",
+    "url": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/EgrBOSw7UO_9kEn93jVwOwoWW6gvu1zf1rCgkouEsOaxv_trTuPQ8bduN1PzQY8UCiAGFxF_OzNUExz7_YD-2g/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
+    "urlType": 1,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://x.com/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://x.com/"
+    },
+    "drm": null
+  },
+  {
+    "name": "1",
+    "url": "http://apk.ch-arabic.buzz/live/006900/index.m3u8?t=_55QrMDmHplRBY8iN9A2lA&e=1779934308",
+    "urlType": 3,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://x.com/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://x.com/"
+    },
+    "drm": null
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "name": "",
+      "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/RAI-HD/default.mpd",
+      "url_type": 3,
+      "user_agent": "Mozilla/5.0",
+      "referer": "",
+      "event_channel_id": null,
+      "headers": {},
+      "drm": {
+        "scheme": "clearkey",
+        "key_id": "65b6395665d92c16e12f202c9480c425",
+        "key": "eda358f71a474029f1580327ae6766e1"
+      }
+    }
+  ]
+}

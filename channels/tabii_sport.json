@@ -1,0 +1,82 @@
+[
+  {
+    "id": 4950,
+    "categoryId": "tabii_sport",
+    "name": "Tabii1",
+    "nameEn": "Tabii1",
+    "logo": "https://image.milimaj.com/i/milliyet/75/0x0/66ebe050677058f33337d709.jpg",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4950.json"
+  },
+  {
+    "id": 4951,
+    "categoryId": "tabii_sport",
+    "name": "Tabii2",
+    "nameEn": "Tabii2",
+    "logo": "https://image.milimaj.com/i/milliyet/75/0x0/66ebe050677058f33337d709.jpg",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4951.json"
+  },
+  {
+    "id": 4952,
+    "categoryId": "tabii_sport",
+    "name": "Tabii3",
+    "nameEn": "Tabii3",
+    "logo": "https://image.milimaj.com/i/milliyet/75/0x0/66ebe050677058f33337d709.jpg",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4952.json"
+  },
+  {
+    "id": 4953,
+    "categoryId": "tabii_sport",
+    "name": "Tabii4",
+    "nameEn": "Tabii4",
+    "logo": "https://image.milimaj.com/i/milliyet/75/0x0/66ebe050677058f33337d709.jpg",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4953.json"
+  },
+  {
+    "id": 4954,
+    "categoryId": "tabii_sport",
+    "name": "Tabii5",
+    "nameEn": "Tabii5",
+    "logo": "https://image.milimaj.com/i/milliyet/75/0x0/66ebe050677058f33337d709.jpg",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4954.json"
+  },
+  {
+    "id": 4955,
+    "categoryId": "tabii_sport",
+    "name": "Tabii6",
+    "nameEn": "Tabii6",
+    "logo": "https://image.milimaj.com/i/milliyet/75/0x0/66ebe050677058f33337d709.jpg",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4955.json"
+  },
+  {
+    "id": 4956,
+    "categoryId": "tabii_sport",
+    "name": "Tabii7",
+    "nameEn": "Tabii7",
+    "logo": "https://image.milimaj.com/i/milliyet/75/0x0/66ebe050677058f33337d709.jpg",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/4956.json"
+  },
+  {
+    "id": 4957,
+    "categoryId": "tabii_sport",
+    "name": "Tabii8",
+    "nameEn": "Tabii8",
+    "logo": "https://image.milimaj.com/i/milliyet/75/0x0/66ebe050677058f33337d709.jpg",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/4957.json"
+  }
+]

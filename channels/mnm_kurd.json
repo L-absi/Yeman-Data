@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2796,
+    "categoryId": "mnm_kurd",
+    "name": "MMN action ᴴᴰ",
+    "nameEn": "MMN action ᴴᴰ",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/2796.json"
+  },
+  {
+    "id": 2797,
+    "categoryId": "mnm_kurd",
+    "name": "MMN quran ᴴᴰ",
+    "nameEn": "MMN quran ᴴᴰ",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/2797.json"
+  },
+  {
+    "id": 2798,
+    "categoryId": "mnm_kurd",
+    "name": "MMN documentary ᴴᴰ",
+    "nameEn": "MMN documentary ᴴᴰ",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/2798.json"
+  },
+  {
+    "id": 2799,
+    "categoryId": "mnm_kurd",
+    "name": "MMN radiofarsy ᴴᴰ",
+    "nameEn": "MMN radiofarsy ᴴᴰ",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/2799.json"
+  },
+  {
+    "id": 2800,
+    "categoryId": "mnm_kurd",
+    "name": "MMN radioturky ᴴᴰ",
+    "nameEn": "MMN radioturky ᴴᴰ",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/2800.json"
+  },
+  {
+    "id": 2801,
+    "categoryId": "mnm_kurd",
+    "name": "MMN news ᴴᴰ",
+    "nameEn": "MMN news ᴴᴰ",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/2801.json"
+  },
+  {
+    "id": 2802,
+    "categoryId": "mnm_kurd",
+    "name": "MMN movies ᴴᴰ",
+    "nameEn": "MMN movies ᴴᴰ",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/2802.json"
+  },
+  {
+    "id": 2803,
+    "categoryId": "mnm_kurd",
+    "name": "MMN drama ᴴᴰ",
+    "nameEn": "MMN drama ᴴᴰ",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/2803.json"
+  },
+  {
+    "id": 2804,
+    "categoryId": "mnm_kurd",
+    "name": "MMN kids ᴴᴰ",
+    "nameEn": "MMN kids ᴴᴰ",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/2804.json"
+  }
+]

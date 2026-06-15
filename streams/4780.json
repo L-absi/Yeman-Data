@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "user-agent|Roku/DVP-12.0|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "",
+    "Referer": "",
+    "userAgent": "Roku/DVP-12.0",
+    "position": "0",
+    "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/413e9d90-a69f-4c02-963d-6aca91619f32/0.m3u8"
+  }
+]

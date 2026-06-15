@@ -1,0 +1,22 @@
+[
+  {
+    "id": 4814,
+    "categoryId": "fubo_sports",
+    "name": "Fubo 1",
+    "nameEn": "Fubo 1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu05ABQp_YOwYH4Lb5JR0uvhKM9MsSOBRqU7VdOTkTfw&s=10",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/4814.json"
+  },
+  {
+    "id": 4815,
+    "categoryId": "fubo_sports",
+    "name": "Fubo 2",
+    "nameEn": "Fubo 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu05ABQp_YOwYH4Lb5JR0uvhKM9MsSOBRqU7VdOTkTfw&s=10",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4815.json"
+  }
+]

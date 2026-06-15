@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "name": "GO3 SPORT 2 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=",
+      "url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560505/index.mpd",
+      "url_type": 3,
+      "user_agent": "Mozilla/5.0",
+      "referer": "",
+      "event_channel_id": null,
+      "headers": {},
+      "drm": {
+        "scheme": "clearkey",
+        "key_id": "8b6061376de34956a3e9a9698f8a3d2e",
+        "key": "f120de45500aacaa8fbdafec0234ce35"
+      }
+    }
+  ]
+}

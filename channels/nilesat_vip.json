@@ -1,0 +1,2872 @@
+[
+  {
+    "id": 2805,
+    "categoryId": "nilesat_vip",
+    "name": "الأردنية",
+    "nameEn": "الأردنية",
+    "logo": "https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/2805.json"
+  },
+  {
+    "id": 2806,
+    "categoryId": "nilesat_vip",
+    "name": "رؤيـــا",
+    "nameEn": "رؤيـــا",
+    "logo": "https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/2806.json"
+  },
+  {
+    "id": 2807,
+    "categoryId": "nilesat_vip",
+    "name": "رؤيا الإخبارية",
+    "nameEn": "رؤيا الإخبارية",
+    "logo": "https://royanews.tv/images/site/logo.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/2807.json"
+  },
+  {
+    "id": 2808,
+    "categoryId": "nilesat_vip",
+    "name": "المملكة",
+    "nameEn": "المملكة",
+    "logo": "https://www.almamlakatv.com/css/frontcss/images/logo.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/2808.json"
+  },
+  {
+    "id": 2809,
+    "categoryId": "nilesat_vip",
+    "name": "عـــمّــــان",
+    "nameEn": "عـــمّــــان",
+    "logo": "https://nuwubfmrtorg.merlincdn.net/amman-tv/assets/web/general/logo.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/2809.json"
+  },
+  {
+    "id": 2810,
+    "categoryId": "nilesat_vip",
+    "name": "أبوظبي",
+    "nameEn": "أبوظبي",
+    "logo": "https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/2810.json"
+  },
+  {
+    "id": 2811,
+    "categoryId": "nilesat_vip",
+    "name": "الإمارات",
+    "nameEn": "الإمارات",
+    "logo": "https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89e570.png",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/2811.json"
+  },
+  {
+    "id": 2812,
+    "categoryId": "nilesat_vip",
+    "name": "ناشيونال جيوغرافيك أبو ظبي",
+    "nameEn": "ناشيونال جيوغرافيك أبو ظبي",
+    "logo": "https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5ff6eb7f11.png",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/2812.json"
+  },
+  {
+    "id": 2813,
+    "categoryId": "nilesat_vip",
+    "name": "أبو ظبي الرياضية 1",
+    "nameEn": "أبو ظبي الرياضية 1",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6a88b.png",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/2813.json"
+  },
+  {
+    "id": 2814,
+    "categoryId": "nilesat_vip",
+    "name": "أبو ظبي الرياضية 2",
+    "nameEn": "أبو ظبي الرياضية 2",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6b210.png",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/2814.json"
+  },
+  {
+    "id": 2815,
+    "categoryId": "nilesat_vip",
+    "name": "ياس",
+    "nameEn": "ياس",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/164/5e4c03ef4b.png",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/2815.json"
+  },
+  {
+    "id": 2816,
+    "categoryId": "nilesat_vip",
+    "name": "ماجد",
+    "nameEn": "ماجد",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f7/Majid_2020.png",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/2816.json"
+  },
+  {
+    "id": 2817,
+    "categoryId": "nilesat_vip",
+    "name": "بينونة",
+    "nameEn": "بينونة",
+    "logo": "https://baynounah.ae/images/logo.png",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/2817.json"
+  },
+  {
+    "id": 2818,
+    "categoryId": "nilesat_vip",
+    "name": "دبي",
+    "nameEn": "دبي",
+    "logo": "https://www.dmi.gov.ae/content/dam/corporate/icons/DubaiTV.png",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/2818.json"
+  },
+  {
+    "id": 2819,
+    "categoryId": "nilesat_vip",
+    "name": "سما دبي",
+    "nameEn": "سما دبي",
+    "logo": "https://www.dmi.gov.ae/content/dam/corporate/icons/Sama.png",
+    "type": "channel",
+    "position": 18,
+    "streamsFile": "streams/2819.json"
+  },
+  {
+    "id": 2820,
+    "categoryId": "nilesat_vip",
+    "name": "دبي زمان",
+    "nameEn": "دبي زمان",
+    "logo": "https://www.dmi.gov.ae/content/dam/corporate/icons/Dubai-zaman.png",
+    "type": "channel",
+    "position": 19,
+    "streamsFile": "streams/2820.json"
+  },
+  {
+    "id": 2821,
+    "categoryId": "nilesat_vip",
+    "name": "دبي وان",
+    "nameEn": "دبي وان",
+    "logo": "https://www.dmi.gov.ae/content/dam/corporate/icons/Dubaione-Logo-DMI.png",
+    "type": "channel",
+    "position": 20,
+    "streamsFile": "streams/2821.json"
+  },
+  {
+    "id": 2822,
+    "categoryId": "nilesat_vip",
+    "name": "نور دبي",
+    "nameEn": "نور دبي",
+    "logo": "https://www.dmi.gov.ae/content/dam/corporate/icons/NoorDubai.png",
+    "type": "channel",
+    "position": 21,
+    "streamsFile": "streams/2822.json"
+  },
+  {
+    "id": 2823,
+    "categoryId": "nilesat_vip",
+    "name": "دبي الرياضية 1",
+    "nameEn": "دبي الرياضية 1",
+    "logo": "https://www.dmi.gov.ae/content/dam/corporate/icons/DubaiSports-Logo-DMI.png",
+    "type": "channel",
+    "position": 22,
+    "streamsFile": "streams/2823.json"
+  },
+  {
+    "id": 2824,
+    "categoryId": "nilesat_vip",
+    "name": "دبي الرياضية 2",
+    "nameEn": "دبي الرياضية 2",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/71/616cb1ed64.png",
+    "type": "channel",
+    "position": 23,
+    "streamsFile": "streams/2824.json"
+  },
+  {
+    "id": 2825,
+    "categoryId": "nilesat_vip",
+    "name": "دبي الرياضية 3",
+    "nameEn": "دبي الرياضية 3",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/71/616cb297c7.png",
+    "type": "channel",
+    "position": 24,
+    "streamsFile": "streams/2825.json"
+  },
+  {
+    "id": 2826,
+    "categoryId": "nilesat_vip",
+    "name": "دبي رايسينغ 1",
+    "nameEn": "دبي رايسينغ 1",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/71/5fa3d7d101.jpg",
+    "type": "channel",
+    "position": 25,
+    "streamsFile": "streams/2826.json"
+  },
+  {
+    "id": 2827,
+    "categoryId": "nilesat_vip",
+    "name": "دبي رايسينغ 2",
+    "nameEn": "دبي رايسينغ 2",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/71/5fa3d7d101.jpg",
+    "type": "channel",
+    "position": 26,
+    "streamsFile": "streams/2827.json"
+  },
+  {
+    "id": 2828,
+    "categoryId": "nilesat_vip",
+    "name": "دبي رايسينغ 3",
+    "nameEn": "دبي رايسينغ 3",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/71/5fa3d7d101.jpg",
+    "type": "channel",
+    "position": 27,
+    "streamsFile": "streams/2828.json"
+  },
+  {
+    "id": 2829,
+    "categoryId": "nilesat_vip",
+    "name": "الشارقة",
+    "nameEn": "الشارقة",
+    "logo": "https://sbauae.faulio.com/storage/mediagallery/cc/d6/small_a944754beaeb192cba3b7deb970d402df65ef87c.png",
+    "type": "channel",
+    "position": 28,
+    "streamsFile": "streams/2829.json"
+  },
+  {
+    "id": 2830,
+    "categoryId": "nilesat_vip",
+    "name": "الشارقة القرآن الكريم",
+    "nameEn": "الشارقة القرآن الكريم",
+    "logo": "https://sbauae.faulio.com/storage/mediagallery/e1/ef/small_53b7c7a2b69889bee24a1a80f5c036878ce1d5ad.jpg",
+    "type": "channel",
+    "position": 29,
+    "streamsFile": "streams/2830.json"
+  },
+  {
+    "id": 2831,
+    "categoryId": "nilesat_vip",
+    "name": "الشارقة 2",
+    "nameEn": "الشارقة 2",
+    "logo": "https://sbauae.faulio.com/storage/mediagallery/89/14/small_791cecd44950e87d0558b783273de114cf7656f7.png",
+    "type": "channel",
+    "position": 30,
+    "streamsFile": "streams/2831.json"
+  },
+  {
+    "id": 2832,
+    "categoryId": "nilesat_vip",
+    "name": "الشارقة الرياضية",
+    "nameEn": "الشارقة الرياضية",
+    "logo": "https://sbauae.faulio.com/storage/mediagallery/f5/3e/small_d83f05132cd8c44b47acc7062711d27c20a5ddc4.png",
+    "type": "channel",
+    "position": 31,
+    "streamsFile": "streams/2832.json"
+  },
+  {
+    "id": 2833,
+    "categoryId": "nilesat_vip",
+    "name": "كلباء",
+    "nameEn": "كلباء",
+    "logo": "https://sbauae.faulio.com/storage/mediagallery/9e/0c/small_1b9d05f172d654c355754975d18cc55255223f85.png",
+    "type": "channel",
+    "position": 32,
+    "streamsFile": "streams/2833.json"
+  },
+  {
+    "id": 2834,
+    "categoryId": "nilesat_vip",
+    "name": "الوسطى",
+    "nameEn": "الوسطى",
+    "logo": "https://sbauae.faulio.com/storage/mediagallery/30/fe/small_6c7cc30ed71e6b6c0267aa163952a5d9052cd166.png",
+    "type": "channel",
+    "position": 33,
+    "streamsFile": "streams/2834.json"
+  },
+  {
+    "id": 2835,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png",
+    "type": "channel",
+    "position": 34,
+    "streamsFile": "streams/2835.json"
+  },
+  {
+    "id": 2836,
+    "categoryId": "nilesat_vip",
+    "name": "الظّفرة",
+    "nameEn": "الظّفرة",
+    "logo": "https://aldafrah.ae/wp-content/uploads/2022/08/adf-logo.png",
+    "type": "channel",
+    "position": 35,
+    "streamsFile": "streams/2836.json"
+  },
+  {
+    "id": 2837,
+    "categoryId": "nilesat_vip",
+    "name": "الفجيرة",
+    "nameEn": "الفجيرة",
+    "logo": "https://www.fujairahtv.ae/images/logonew.png",
+    "type": "channel",
+    "position": 36,
+    "streamsFile": "streams/2837.json"
+  },
+  {
+    "id": 2838,
+    "categoryId": "nilesat_vip",
+    "name": "عجمان",
+    "nameEn": "عجمان",
+    "logo": "https://qanawat.taghtia.com/assets/channels/ajman-tv.png",
+    "type": "channel",
+    "position": 37,
+    "streamsFile": "streams/2838.json"
+  },
+  {
+    "id": 2839,
+    "categoryId": "nilesat_vip",
+    "name": "الشّلاّل",
+    "nameEn": "الشّلاّل",
+    "logo": "https://www.alshallalchannel.com/wp-content/uploads/2021/01/Alshallal.tv_.jpg",
+    "type": "channel",
+    "position": 38,
+    "streamsFile": "streams/2839.json"
+  },
+  {
+    "id": 2840,
+    "categoryId": "nilesat_vip",
+    "name": "ZEE أفلام",
+    "nameEn": "ZEE أفلام",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png",
+    "type": "channel",
+    "position": 39,
+    "streamsFile": "streams/2840.json"
+  },
+  {
+    "id": 2841,
+    "categoryId": "nilesat_vip",
+    "name": "ZEE ألوان",
+    "nameEn": "ZEE ألوان",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/b1/Zee_Alwan_logo.jpg",
+    "type": "channel",
+    "position": 40,
+    "streamsFile": "streams/2841.json"
+  },
+  {
+    "id": 2842,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/39/Animated_flag_of_Bahrain.gif",
+    "type": "channel",
+    "position": 41,
+    "streamsFile": "streams/2842.json"
+  },
+  {
+    "id": 2843,
+    "categoryId": "nilesat_vip",
+    "name": "البحرين",
+    "nameEn": "البحرين",
+    "logo": "https://s3.eu-west-1.amazonaws.com//bahrainlive/Channel/636854244051420459055c8727-b18f-43dd-9a3f-b4cc73ca297e.png",
+    "type": "channel",
+    "position": 42,
+    "streamsFile": "streams/2843.json"
+  },
+  {
+    "id": 2844,
+    "categoryId": "nilesat_vip",
+    "name": "البحرين الدولية",
+    "nameEn": "البحرين الدولية",
+    "logo": "https://s3.eu-west-1.amazonaws.com//bahrainlive/Channel/636854242859127769a714488e-11d6-4e60-bf4f-f07a0d76cf63.png",
+    "type": "channel",
+    "position": 43,
+    "streamsFile": "streams/2844.json"
+  },
+  {
+    "id": 2845,
+    "categoryId": "nilesat_vip",
+    "name": "البحرين الرياضية 1",
+    "nameEn": "البحرين الرياضية 1",
+    "logo": "https://s3.eu-west-1.amazonaws.com//bahrainlive/Channel/6368542425885481476ef9db5b-f4c3-4844-be16-8129266e3a8e.png",
+    "type": "channel",
+    "position": 44,
+    "streamsFile": "streams/2845.json"
+  },
+  {
+    "id": 2846,
+    "categoryId": "nilesat_vip",
+    "name": "البحرين الرياضية 2",
+    "nameEn": "البحرين الرياضية 2",
+    "logo": "https://s3.eu-west-1.amazonaws.com//bahrainlive/Channel/63685424000079685751979f5d-e86c-4a27-a41e-935f13852840.png",
+    "type": "channel",
+    "position": 45,
+    "streamsFile": "streams/2846.json"
+  },
+  {
+    "id": 2847,
+    "categoryId": "nilesat_vip",
+    "name": "البحرين القرآن الكريم",
+    "nameEn": "البحرين القرآن الكريم",
+    "logo": "https://s3.eu-west-1.amazonaws.com//bahrainlive/Channel/636857241081823413fdce3c15-a4eb-4743-a182-a60dfc7de0eb.png",
+    "type": "channel",
+    "position": 46,
+    "streamsFile": "streams/2847.json"
+  },
+  {
+    "id": 2848,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Algeria_240-animated-flag-gifs.gif",
+    "type": "channel",
+    "position": 47,
+    "streamsFile": "streams/2848.json"
+  },
+  {
+    "id": 2849,
+    "categoryId": "nilesat_vip",
+    "name": "Canal Algérieالثانية",
+    "nameEn": "Canal Algérieالثانية",
+    "logo": "https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV2.png",
+    "type": "channel",
+    "position": 49,
+    "streamsFile": "streams/2849.json"
+  },
+  {
+    "id": 2850,
+    "categoryId": "nilesat_vip",
+    "name": "AL24NEWS قناة الجزائر الدّولية",
+    "nameEn": "AL24NEWS قناة الجزائر الدّولية",
+    "logo": "https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/al24.png",
+    "type": "channel",
+    "position": 68,
+    "streamsFile": "streams/2850.json"
+  },
+  {
+    "id": 2851,
+    "categoryId": "nilesat_vip",
+    "name": "Amou Yazid TV",
+    "nameEn": "Amou Yazid TV",
+    "logo": "https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png",
+    "type": "channel",
+    "position": 77,
+    "streamsFile": "streams/2851.json"
+  },
+  {
+    "id": 2852,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Animated-Flag-Saudi-Arabia.gif",
+    "type": "channel",
+    "position": 79,
+    "streamsFile": "streams/2852.json"
+  },
+  {
+    "id": 2853,
+    "categoryId": "nilesat_vip",
+    "name": "SBC",
+    "nameEn": "SBC",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/79/c6/small_946269c528b9c02926a56044d8220afd574b31f7.png",
+    "type": "channel",
+    "position": 80,
+    "streamsFile": "streams/2853.json"
+  },
+  {
+    "id": 2854,
+    "categoryId": "nilesat_vip",
+    "name": "الأولى",
+    "nameEn": "الأولى",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/24/33/small_de5526f31108ed0715edbf837a2be14b04a6001d.png",
+    "type": "channel",
+    "position": 81,
+    "streamsFile": "streams/2854.json"
+  },
+  {
+    "id": 2855,
+    "categoryId": "nilesat_vip",
+    "name": "ذكريات",
+    "nameEn": "ذكريات",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/6b/68/small_3d6f5c459718f2c1677f0fdcbc9d413285602b4e.png",
+    "type": "channel",
+    "position": 82,
+    "streamsFile": "streams/2855.json"
+  },
+  {
+    "id": 2856,
+    "categoryId": "nilesat_vip",
+    "name": "الإخبارية",
+    "nameEn": "الإخبارية",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/11/78/small_3b55efbef523c3a6d6e45d8c5a2d28b86bdf4117.png",
+    "type": "channel",
+    "position": 83,
+    "streamsFile": "streams/2856.json"
+  },
+  {
+    "id": 2857,
+    "categoryId": "nilesat_vip",
+    "name": "القرآن الكريم",
+    "nameEn": "القرآن الكريم",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png",
+    "type": "channel",
+    "position": 84,
+    "streamsFile": "streams/2857.json"
+  },
+  {
+    "id": 2858,
+    "categoryId": "nilesat_vip",
+    "name": "السنة النبوية",
+    "nameEn": "السنة النبوية",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/33/92/small_879e557011826f507a045b4e0b4c3b57ba93edae.png",
+    "type": "channel",
+    "position": 85,
+    "streamsFile": "streams/2858.json"
+  },
+  {
+    "id": 2859,
+    "categoryId": "nilesat_vip",
+    "name": "السعودية الآن",
+    "nameEn": "السعودية الآن",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/47/4f/small_64167a679b7b2b43aa0e9549a920b50dc01cd531.png",
+    "type": "channel",
+    "position": 86,
+    "streamsFile": "streams/2859.json"
+  },
+  {
+    "id": 2860,
+    "categoryId": "nilesat_vip",
+    "name": "الثقافية",
+    "nameEn": "الثقافية",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/11/78/small_3b55efbef523c3a6d6e45d8c5a2d28b86bdf4117.png",
+    "type": "channel",
+    "position": 87,
+    "streamsFile": "streams/2860.json"
+  },
+  {
+    "id": 2861,
+    "categoryId": "nilesat_vip",
+    "name": "السعودية الرياضية 1",
+    "nameEn": "السعودية الرياضية 1",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/af/5f/small_283fe3d945c4efdc8fbced8185065ba6e5460760.png",
+    "type": "channel",
+    "position": 88,
+    "streamsFile": "streams/2861.json"
+  },
+  {
+    "id": 2862,
+    "categoryId": "nilesat_vip",
+    "name": "السعودية الرياضية 2",
+    "nameEn": "السعودية الرياضية 2",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/7b/e0/small_a1bad3d72059d5a1cd18151ca0692c74c0a42926.png",
+    "type": "channel",
+    "position": 89,
+    "streamsFile": "streams/2862.json"
+  },
+  {
+    "id": 2863,
+    "categoryId": "nilesat_vip",
+    "name": "السعودية الرياضية 3",
+    "nameEn": "السعودية الرياضية 3",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/56/a9/small_6a57c3a8c8a265e093e9bdbce8b27f9b6f522016.png",
+    "type": "channel",
+    "position": 90,
+    "streamsFile": "streams/2863.json"
+  },
+  {
+    "id": 2864,
+    "categoryId": "nilesat_vip",
+    "name": "السعودية الرياضية 4",
+    "nameEn": "السعودية الرياضية 4",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/1e/47/small_a4446176a6ae3f240cedf1bd07d782dfe32a76cf.png",
+    "type": "channel",
+    "position": 91,
+    "streamsFile": "streams/2864.json"
+  },
+  {
+    "id": 2865,
+    "categoryId": "nilesat_vip",
+    "name": "MBC 1",
+    "nameEn": "MBC 1",
+    "logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg",
+    "type": "channel",
+    "position": 92,
+    "streamsFile": "streams/2865.json"
+  },
+  {
+    "id": 2866,
+    "categoryId": "nilesat_vip",
+    "name": "MBC 3",
+    "nameEn": "MBC 3",
+    "logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_3_dae34fae7b.svg",
+    "type": "channel",
+    "position": 94,
+    "streamsFile": "streams/2866.json"
+  },
+  {
+    "id": 2867,
+    "categoryId": "nilesat_vip",
+    "name": "MBC 4",
+    "nameEn": "MBC 4",
+    "logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_4_8d4307615e.svg",
+    "type": "channel",
+    "position": 95,
+    "streamsFile": "streams/2867.json"
+  },
+  {
+    "id": 2868,
+    "categoryId": "nilesat_vip",
+    "name": "MBC 5",
+    "nameEn": "MBC 5",
+    "logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_5_cf153622ec.svg",
+    "type": "channel",
+    "position": 96,
+    "streamsFile": "streams/2868.json"
+  },
+  {
+    "id": 2869,
+    "categoryId": "nilesat_vip",
+    "name": "MBC DRAMA",
+    "nameEn": "MBC DRAMA",
+    "logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_drama_a536283ae5.svg",
+    "type": "channel",
+    "position": 99,
+    "streamsFile": "streams/2869.json"
+  },
+  {
+    "id": 2870,
+    "categoryId": "nilesat_vip",
+    "name": "MBC DRAMA+",
+    "nameEn": "MBC DRAMA+",
+    "logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_drama_1_8592a27973.svg",
+    "type": "channel",
+    "position": 100,
+    "streamsFile": "streams/2870.json"
+  },
+  {
+    "id": 2871,
+    "categoryId": "nilesat_vip",
+    "name": "MBC BOLLYWOOD",
+    "nameEn": "MBC BOLLYWOOD",
+    "logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_bollywood_d2bef5e158.svg",
+    "type": "channel",
+    "position": 101,
+    "streamsFile": "streams/2871.json"
+  },
+  {
+    "id": 2872,
+    "categoryId": "nilesat_vip",
+    "name": "MBC IRAQ",
+    "nameEn": "MBC IRAQ",
+    "logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_iraq_716ec2b8be.svg",
+    "type": "channel",
+    "position": 103,
+    "streamsFile": "streams/2872.json"
+  },
+  {
+    "id": 2873,
+    "categoryId": "nilesat_vip",
+    "name": "MBC MASR 1",
+    "nameEn": "MBC MASR 1",
+    "logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_egypt_9f7d59dcbe.svg",
+    "type": "channel",
+    "position": 104,
+    "streamsFile": "streams/2873.json"
+  },
+  {
+    "id": 2874,
+    "categoryId": "nilesat_vip",
+    "name": "MBC MASR 2",
+    "nameEn": "MBC MASR 2",
+    "logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_egypt2_32f59804e4.svg",
+    "type": "channel",
+    "position": 105,
+    "streamsFile": "streams/2874.json"
+  },
+  {
+    "id": 2875,
+    "categoryId": "nilesat_vip",
+    "name": "WANASAH",
+    "nameEn": "WANASAH",
+    "logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_wanasah_6e5de3ccae.svg",
+    "type": "channel",
+    "position": 106,
+    "streamsFile": "streams/2875.json"
+  },
+  {
+    "id": 2876,
+    "categoryId": "nilesat_vip",
+    "name": "MBC FM",
+    "nameEn": "MBC FM",
+    "logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_fm_a8ecfac455.svg",
+    "type": "channel",
+    "position": 107,
+    "streamsFile": "streams/2876.json"
+  },
+  {
+    "id": 2877,
+    "categoryId": "nilesat_vip",
+    "name": "PANORAMA FM",
+    "nameEn": "PANORAMA FM",
+    "logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_panorama_d091f6cb68.svg",
+    "type": "channel",
+    "position": 108,
+    "streamsFile": "streams/2877.json"
+  },
+  {
+    "id": 2878,
+    "categoryId": "nilesat_vip",
+    "name": "SPACETOON",
+    "nameEn": "SPACETOON",
+    "logo": "https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png",
+    "type": "channel",
+    "position": 109,
+    "streamsFile": "streams/2878.json"
+  },
+  {
+    "id": 2879,
+    "categoryId": "nilesat_vip",
+    "name": "روتانا خليجية",
+    "nameEn": "روتانا خليجية",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Rotana_khalijia_New.png",
+    "type": "channel",
+    "position": 110,
+    "streamsFile": "streams/2879.json"
+  },
+  {
+    "id": 2880,
+    "categoryId": "nilesat_vip",
+    "name": "روتانا دراما",
+    "nameEn": "روتانا دراما",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png",
+    "type": "channel",
+    "position": 111,
+    "streamsFile": "streams/2880.json"
+  },
+  {
+    "id": 2881,
+    "categoryId": "nilesat_vip",
+    "name": "روتانا سينما",
+    "nameEn": "روتانا سينما",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Rotana_Cinema_KSA.png",
+    "type": "channel",
+    "position": 112,
+    "streamsFile": "streams/2881.json"
+  },
+  {
+    "id": 2882,
+    "categoryId": "nilesat_vip",
+    "name": "روتانا سينما مصر",
+    "nameEn": "روتانا سينما مصر",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Rotana_Cinema_KSA.png",
+    "type": "channel",
+    "position": 113,
+    "streamsFile": "streams/2882.json"
+  },
+  {
+    "id": 2883,
+    "categoryId": "nilesat_vip",
+    "name": "روتانا كلاسيك",
+    "nameEn": "روتانا كلاسيك",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Rotana_Classic_New_Logo.png",
+    "type": "channel",
+    "position": 114,
+    "streamsFile": "streams/2883.json"
+  },
+  {
+    "id": 2884,
+    "categoryId": "nilesat_vip",
+    "name": "روتانا كوميدي",
+    "nameEn": "روتانا كوميدي",
+    "logo": "https://rotana.net/triAssets/themes/TriTheme/images/channels/comedy.png",
+    "type": "channel",
+    "position": 115,
+    "streamsFile": "streams/2884.json"
+  },
+  {
+    "id": 2885,
+    "categoryId": "nilesat_vip",
+    "name": "روتانا كيدز",
+    "nameEn": "روتانا كيدز",
+    "logo": "https://rotana.net/triAssets/themes/TriTheme/images/channels/kids.png",
+    "type": "channel",
+    "position": 116,
+    "streamsFile": "streams/2885.json"
+  },
+  {
+    "id": 2886,
+    "categoryId": "nilesat_vip",
+    "name": "روتانا موسيقى",
+    "nameEn": "روتانا موسيقى",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/86/Rotana_Music_New_Logo.png",
+    "type": "channel",
+    "position": 118,
+    "streamsFile": "streams/2886.json"
+  },
+  {
+    "id": 2887,
+    "categoryId": "nilesat_vip",
+    "name": "روتانا +",
+    "nameEn": "روتانا +",
+    "logo": "https://rotana.net/triAssets/themes/TriTheme/images/channels/hd.png",
+    "type": "channel",
+    "position": 119,
+    "streamsFile": "streams/2887.json"
+  },
+  {
+    "id": 2888,
+    "categoryId": "nilesat_vip",
+    "name": "LBC",
+    "nameEn": "LBC",
+    "logo": "https://rotana.net/triAssets/uploads/2020/11/lbc.png",
+    "type": "channel",
+    "position": 124,
+    "streamsFile": "streams/2888.json"
+  },
+  {
+    "id": 2889,
+    "categoryId": "nilesat_vip",
+    "name": "قــاف",
+    "nameEn": "قــاف",
+    "logo": "https://qaf.tv/wp-content/uploads/2022/03/logo-2022.svg",
+    "type": "channel",
+    "position": 125,
+    "streamsFile": "streams/2889.json"
+  },
+  {
+    "id": 2890,
+    "categoryId": "nilesat_vip",
+    "name": "دعوة",
+    "nameEn": "دعوة",
+    "logo": "https://daawah.tv/wp-content/uploads/2023/02/logo-43-1.png",
+    "type": "channel",
+    "position": 126,
+    "streamsFile": "streams/2890.json"
+  },
+  {
+    "id": 2891,
+    "categoryId": "nilesat_vip",
+    "name": "إقرأ",
+    "nameEn": "إقرأ",
+    "logo": "https://www.iqraa.com/images/lastlogo1.png",
+    "type": "channel",
+    "position": 127,
+    "streamsFile": "streams/2891.json"
+  },
+  {
+    "id": 2892,
+    "categoryId": "nilesat_vip",
+    "name": "مــكّة",
+    "nameEn": "مــكّة",
+    "logo": "https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png",
+    "type": "channel",
+    "position": 128,
+    "streamsFile": "streams/2892.json"
+  },
+  {
+    "id": 2893,
+    "categoryId": "nilesat_vip",
+    "name": "Huda TV English",
+    "nameEn": "Huda TV English",
+    "logo": "https://huda.tv/wp-content/uploads/2021/01/cropped-logo_200-150x150.webp",
+    "type": "channel",
+    "position": 129,
+    "streamsFile": "streams/2893.json"
+  },
+  {
+    "id": 2894,
+    "categoryId": "nilesat_vip",
+    "name": "صاد",
+    "nameEn": "صاد",
+    "logo": "https://www.ssad.tv/uploads/ssadtv.logo_.intro_.e.gif",
+    "type": "channel",
+    "position": 130,
+    "streamsFile": "streams/2894.json"
+  },
+  {
+    "id": 2895,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Sudan.gif",
+    "type": "channel",
+    "position": 131,
+    "streamsFile": "streams/2895.json"
+  },
+  {
+    "id": 2896,
+    "categoryId": "nilesat_vip",
+    "name": "السودان",
+    "nameEn": "السودان",
+    "logo": "https://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png",
+    "type": "channel",
+    "position": 132,
+    "streamsFile": "streams/2896.json"
+  },
+  {
+    "id": 2897,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "http://ashorooq.net.sd/wp-content/uploads/2021/09/logo.png",
+    "type": "channel",
+    "position": 138,
+    "streamsFile": "streams/2897.json"
+  },
+  {
+    "id": 2898,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://cdn.pixabay.com/animation/2022/08/21/20/03/20-03-46-345_512.gif",
+    "type": "channel",
+    "position": 141,
+    "streamsFile": "streams/2898.json"
+  },
+  {
+    "id": 2899,
+    "categoryId": "nilesat_vip",
+    "name": "العراقية",
+    "nameEn": "العراقية",
+    "logo": "https://imn.iq/wp-content/uploads/2022/04/1-9.jpg",
+    "type": "channel",
+    "position": 142,
+    "streamsFile": "streams/2899.json"
+  },
+  {
+    "id": 2900,
+    "categoryId": "nilesat_vip",
+    "name": "العراقية الإخبارية",
+    "nameEn": "العراقية الإخبارية",
+    "logo": "https://imn.iq/wp-content/uploads/2022/04/1-9.jpg",
+    "type": "channel",
+    "position": 143,
+    "streamsFile": "streams/2900.json"
+  },
+  {
+    "id": 2901,
+    "categoryId": "nilesat_vip",
+    "name": "الشرقية",
+    "nameEn": "الشرقية",
+    "logo": "https://www.alsharqiya.com/Content/web-assets/img/logo.png",
+    "type": "channel",
+    "position": 147,
+    "streamsFile": "streams/2901.json"
+  },
+  {
+    "id": 2902,
+    "categoryId": "nilesat_vip",
+    "name": "الشرقية الإخبارية",
+    "nameEn": "الشرقية الإخبارية",
+    "logo": "https://www.alsharqiya.com/Content/web-assets/img/logo.png",
+    "type": "channel",
+    "position": 148,
+    "streamsFile": "streams/2902.json"
+  },
+  {
+    "id": 2903,
+    "categoryId": "nilesat_vip",
+    "name": "الأولــــى",
+    "nameEn": "الأولــــى",
+    "logo": "https://alawla.tv/templates/Default/images/logo.png",
+    "type": "channel",
+    "position": 149,
+    "streamsFile": "streams/2903.json"
+  },
+  {
+    "id": 2904,
+    "categoryId": "nilesat_vip",
+    "name": "دجلة",
+    "nameEn": "دجلة",
+    "logo": "https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png",
+    "type": "channel",
+    "position": 151,
+    "streamsFile": "streams/2904.json"
+  },
+  {
+    "id": 2905,
+    "categoryId": "nilesat_vip",
+    "name": "UTV Iraq",
+    "nameEn": "UTV Iraq",
+    "logo": "https://utviraq.net/wp-content/uploads/2020/12/logo-icon.png",
+    "type": "channel",
+    "position": 152,
+    "streamsFile": "streams/2905.json"
+  },
+  {
+    "id": 2906,
+    "categoryId": "nilesat_vip",
+    "name": "الرشيد",
+    "nameEn": "الرشيد",
+    "logo": "https://www.iq-hosting.com/images/kb/51_Logo-Dark.png",
+    "type": "channel",
+    "position": 153,
+    "streamsFile": "streams/2906.json"
+  },
+  {
+    "id": 2907,
+    "categoryId": "nilesat_vip",
+    "name": "الرافدين",
+    "nameEn": "الرافدين",
+    "logo": "https://alrafidain.tv/wp-content/uploads/2024/05/New-Project-6.png",
+    "type": "channel",
+    "position": 154,
+    "streamsFile": "streams/2907.json"
+  },
+  {
+    "id": 2908,
+    "categoryId": "nilesat_vip",
+    "name": "الغدير",
+    "nameEn": "الغدير",
+    "logo": "https://alghadeertv.iq/wp-content/uploads/2021/03/Broadcast_v3.png",
+    "type": "channel",
+    "position": 155,
+    "streamsFile": "streams/2908.json"
+  },
+  {
+    "id": 2909,
+    "categoryId": "nilesat_vip",
+    "name": "أفاق",
+    "nameEn": "أفاق",
+    "logo": "https://afaq.iq/static/images/site/logo_afaq2.png",
+    "type": "channel",
+    "position": 156,
+    "streamsFile": "streams/2909.json"
+  },
+  {
+    "id": 2910,
+    "categoryId": "nilesat_vip",
+    "name": "العهد",
+    "nameEn": "العهد",
+    "logo": "https://alahad.iq/img/logo.png",
+    "type": "channel",
+    "position": 157,
+    "streamsFile": "streams/2910.json"
+  },
+  {
+    "id": 2911,
+    "categoryId": "nilesat_vip",
+    "name": "الرّابعة off",
+    "nameEn": "الرّابعة off",
+    "logo": "https://alrabiaa.faulio.com/storage/mediagallery/0c/c5/fullhd_d8d18b714df2265bcb61d11ebb9ca0175511aa7f.png",
+    "type": "channel",
+    "position": 158,
+    "streamsFile": "streams/2911.json"
+  },
+  {
+    "id": 2912,
+    "categoryId": "nilesat_vip",
+    "name": "i news",
+    "nameEn": "i news",
+    "logo": "http://www.i-news.tv/wp-content/uploads/2020/11/new-white-logo-1.png",
+    "type": "channel",
+    "position": 160,
+    "streamsFile": "streams/2912.json"
+  },
+  {
+    "id": 2913,
+    "categoryId": "nilesat_vip",
+    "name": "شِهاب",
+    "nameEn": "شِهاب",
+    "logo": "https://www.lyngsat.com/logo/tv/ss/shihab-tv-iq.png",
+    "type": "channel",
+    "position": 161,
+    "streamsFile": "streams/2913.json"
+  },
+  {
+    "id": 2914,
+    "categoryId": "nilesat_vip",
+    "name": "النُجباء",
+    "nameEn": "النُجباء",
+    "logo": "https://www.alnojaba.tv/wp-content/uploads/2021/03/%D9%84%D9%88%D9%83%D9%88-%D9%84%D8%BA%D9%8A%D8%AB-.png",
+    "type": "channel",
+    "position": 162,
+    "streamsFile": "streams/2914.json"
+  },
+  {
+    "id": 2915,
+    "categoryId": "nilesat_vip",
+    "name": "الإتجاه",
+    "nameEn": "الإتجاه",
+    "logo": "http://m.aletejahtv.iq/uploads/images/logo/logo-white.png",
+    "type": "channel",
+    "position": 163,
+    "streamsFile": "streams/2915.json"
+  },
+  {
+    "id": 2916,
+    "categoryId": "nilesat_vip",
+    "name": "الإشراق",
+    "nameEn": "الإشراق",
+    "logo": "https://aleshraqtv.iq/wene/logo.png",
+    "type": "channel",
+    "position": 164,
+    "streamsFile": "streams/2916.json"
+  },
+  {
+    "id": 2917,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Kuwait-animated.gif",
+    "type": "channel",
+    "position": 165,
+    "streamsFile": "streams/2917.json"
+  },
+  {
+    "id": 2918,
+    "categoryId": "nilesat_vip",
+    "name": "الكويت 1",
+    "nameEn": "الكويت 1",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/195/65a92f2a88.png",
+    "type": "channel",
+    "position": 166,
+    "streamsFile": "streams/2918.json"
+  },
+  {
+    "id": 2919,
+    "categoryId": "nilesat_vip",
+    "name": "الكويت أخبار",
+    "nameEn": "الكويت أخبار",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/195/669d088c70.png",
+    "type": "channel",
+    "position": 167,
+    "streamsFile": "streams/2919.json"
+  },
+  {
+    "id": 2920,
+    "categoryId": "nilesat_vip",
+    "name": "الكويت 2",
+    "nameEn": "الكويت 2",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/195/669d093581.png",
+    "type": "channel",
+    "position": 168,
+    "streamsFile": "streams/2920.json"
+  },
+  {
+    "id": 2921,
+    "categoryId": "nilesat_vip",
+    "name": "الكويت الرياضية",
+    "nameEn": "الكويت الرياضية",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/195/669d095fe8.png",
+    "type": "channel",
+    "position": 169,
+    "streamsFile": "streams/2921.json"
+  },
+  {
+    "id": 2922,
+    "categoryId": "nilesat_vip",
+    "name": "Kuwait Sport 2",
+    "nameEn": "Kuwait Sport 2",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/195/669d08c859.png",
+    "type": "channel",
+    "position": 170,
+    "streamsFile": "streams/2922.json"
+  },
+  {
+    "id": 2923,
+    "categoryId": "nilesat_vip",
+    "name": "إثراء",
+    "nameEn": "إثراء",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/195/669d08f2c0.png",
+    "type": "channel",
+    "position": 171,
+    "streamsFile": "streams/2923.json"
+  },
+  {
+    "id": 2924,
+    "categoryId": "nilesat_vip",
+    "name": "الكويت العربي",
+    "nameEn": "الكويت العربي",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/195/669d09bfb4.png",
+    "type": "channel",
+    "position": 172,
+    "streamsFile": "streams/2924.json"
+  },
+  {
+    "id": 2925,
+    "categoryId": "nilesat_vip",
+    "name": "الكويت القرين",
+    "nameEn": "الكويت القرين",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/195/65a92f88cc.png",
+    "type": "channel",
+    "position": 173,
+    "streamsFile": "streams/2925.json"
+  },
+  {
+    "id": 2926,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://raw.githubusercontent.com/fraudiay79/logos/master/kw/scopetv.png",
+    "type": "channel",
+    "position": 175,
+    "streamsFile": "streams/2926.json"
+  },
+  {
+    "id": 2927,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://raw.githubusercontent.com/fraudiay79/logos/master/kw/funoon.png",
+    "type": "channel",
+    "position": 177,
+    "streamsFile": "streams/2927.json"
+  },
+  {
+    "id": 2928,
+    "categoryId": "nilesat_vip",
+    "name": "الصباح",
+    "nameEn": "الصباح",
+    "logo": "https://raw.githubusercontent.com/fraudiay79/logos/master/kw/alsabah.png",
+    "type": "channel",
+    "position": 178,
+    "streamsFile": "streams/2928.json"
+  },
+  {
+    "id": 2929,
+    "categoryId": "nilesat_vip",
+    "name": "Marina FM TV",
+    "nameEn": "Marina FM TV",
+    "logo": "http://www.marinafm.com/images/Logo_MarinaFM.png",
+    "type": "channel",
+    "position": 180,
+    "streamsFile": "streams/2929.json"
+  },
+  {
+    "id": 2930,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Animated-Flag-Morocco.gif",
+    "type": "channel",
+    "position": 181,
+    "streamsFile": "streams/2930.json"
+  },
+  {
+    "id": 2931,
+    "categoryId": "nilesat_vip",
+    "name": "Al Oula الأولى off",
+    "nameEn": "Al Oula الأولى off",
+    "logo": "https://i.ibb.co/WcFBy41/oula.png",
+    "type": "channel",
+    "position": 182,
+    "streamsFile": "streams/2931.json"
+  },
+  {
+    "id": 2932,
+    "categoryId": "nilesat_vip",
+    "name": "Al Oula Laayoune الأولى العيون off",
+    "nameEn": "Al Oula Laayoune الأولى العيون off",
+    "logo": "https://i.ibb.co/GQmw3nx/laayoune.png",
+    "type": "channel",
+    "position": 183,
+    "streamsFile": "streams/2932.json"
+  },
+  {
+    "id": 2933,
+    "categoryId": "nilesat_vip",
+    "name": "2M الثانية",
+    "nameEn": "2M الثانية",
+    "logo": "https://i.ibb.co/dDMQrHP/2m.jpg",
+    "type": "channel",
+    "position": 184,
+    "streamsFile": "streams/2933.json"
+  },
+  {
+    "id": 2934,
+    "categoryId": "nilesat_vip",
+    "name": "Arriadia الرياضية off",
+    "nameEn": "Arriadia الرياضية off",
+    "logo": "https://i.ibb.co/3rhwnSg/sport.png",
+    "type": "channel",
+    "position": 185,
+    "streamsFile": "streams/2934.json"
+  },
+  {
+    "id": 2935,
+    "categoryId": "nilesat_vip",
+    "name": "Arrabiaa الثقافية off",
+    "nameEn": "Arrabiaa الثقافية off",
+    "logo": "https://i.ibb.co/QmtWTRL/culture.png",
+    "type": "channel",
+    "position": 186,
+    "streamsFile": "streams/2935.json"
+  },
+  {
+    "id": 2936,
+    "categoryId": "nilesat_vip",
+    "name": "Al Maghribia المغربية الإخبارية off",
+    "nameEn": "Al Maghribia المغربية الإخبارية off",
+    "logo": "https://i.ibb.co/2PjWfqm/news.png",
+    "type": "channel",
+    "position": 187,
+    "streamsFile": "streams/2936.json"
+  },
+  {
+    "id": 2937,
+    "categoryId": "nilesat_vip",
+    "name": "Assadissa القرآن الكريم off",
+    "nameEn": "Assadissa القرآن الكريم off",
+    "logo": "https://i.ibb.co/Vjjy179/quran.png",
+    "type": "channel",
+    "position": 188,
+    "streamsFile": "streams/2937.json"
+  },
+  {
+    "id": 2938,
+    "categoryId": "nilesat_vip",
+    "name": "Tamzighth الأمازيغية off",
+    "nameEn": "Tamzighth الأمازيغية off",
+    "logo": "https://i.ibb.co/dW861WG/tamazight.png",
+    "type": "channel",
+    "position": 190,
+    "streamsFile": "streams/2938.json"
+  },
+  {
+    "id": 2939,
+    "categoryId": "nilesat_vip",
+    "name": "Télé Maroc قناة المغرب off",
+    "nameEn": "Télé Maroc قناة المغرب off",
+    "logo": "https://i.ibb.co/KFRvWx7/telemaroc.png",
+    "type": "channel",
+    "position": 191,
+    "streamsFile": "streams/2939.json"
+  },
+  {
+    "id": 2940,
+    "categoryId": "nilesat_vip",
+    "name": "M24 وكالة المغرب العربي للأنباء",
+    "nameEn": "M24 وكالة المغرب العربي للأنباء",
+    "logo": "https://i.ibb.co/kQ2Srv7/m24.png",
+    "type": "channel",
+    "position": 192,
+    "streamsFile": "streams/2940.json"
+  },
+  {
+    "id": 2941,
+    "categoryId": "nilesat_vip",
+    "name": "Medi 1 العربية",
+    "nameEn": "Medi 1 العربية",
+    "logo": "https://i.ibb.co/sjfvWL2/m1.jpg",
+    "type": "channel",
+    "position": 193,
+    "streamsFile": "streams/2941.json"
+  },
+  {
+    "id": 2942,
+    "categoryId": "nilesat_vip",
+    "name": "Medi1 المغرب",
+    "nameEn": "Medi1 المغرب",
+    "logo": "https://i.ibb.co/sjfvWL2/m1.jpg",
+    "type": "channel",
+    "position": 194,
+    "streamsFile": "streams/2942.json"
+  },
+  {
+    "id": 2943,
+    "categoryId": "nilesat_vip",
+    "name": "Medi 1 Afrique",
+    "nameEn": "Medi 1 Afrique",
+    "logo": "https://i.ibb.co/sjfvWL2/m1.jpg",
+    "type": "channel",
+    "position": 195,
+    "streamsFile": "streams/2943.json"
+  },
+  {
+    "id": 2944,
+    "categoryId": "nilesat_vip",
+    "name": "Chada TV شدى",
+    "nameEn": "Chada TV شدى",
+    "logo": "https://i.ibb.co/wJrfbDy/chada.png",
+    "type": "channel",
+    "position": 196,
+    "streamsFile": "streams/2944.json"
+  },
+  {
+    "id": 2945,
+    "categoryId": "nilesat_vip",
+    "name": "Canal Atlas",
+    "nameEn": "Canal Atlas",
+    "logo": "https://i.ibb.co/thdqRRH/atlas.jpg",
+    "type": "channel",
+    "position": 197,
+    "streamsFile": "streams/2945.json"
+  },
+  {
+    "id": 2946,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_yemen.gif",
+    "type": "channel",
+    "position": 198,
+    "streamsFile": "streams/2946.json"
+  },
+  {
+    "id": 2947,
+    "categoryId": "nilesat_vip",
+    "name": "بلقيس off",
+    "nameEn": "بلقيس off",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 203,
+    "streamsFile": "streams/2947.json"
+  },
+  {
+    "id": 2948,
+    "categoryId": "nilesat_vip",
+    "name": "يمن شباب",
+    "nameEn": "يمن شباب",
+    "logo": "https://yemenshabab.net/images/logo.png",
+    "type": "channel",
+    "position": 204,
+    "streamsFile": "streams/2948.json"
+  },
+  {
+    "id": 2949,
+    "categoryId": "nilesat_vip",
+    "name": "المسيرة",
+    "nameEn": "المسيرة",
+    "logo": "https://www.masirahtv.net/assets/images/logo.png",
+    "type": "channel",
+    "position": 205,
+    "streamsFile": "streams/2949.json"
+  },
+  {
+    "id": 2950,
+    "categoryId": "nilesat_vip",
+    "name": "المهرية",
+    "nameEn": "المهرية",
+    "logo": "https://almahriah.net/images/logo.png",
+    "type": "channel",
+    "position": 206,
+    "streamsFile": "streams/2950.json"
+  },
+  {
+    "id": 2951,
+    "categoryId": "nilesat_vip",
+    "name": "اليمن اليوم",
+    "nameEn": "اليمن اليوم",
+    "logo": "https://www.yementdy.tv/logo.png",
+    "type": "channel",
+    "position": 207,
+    "streamsFile": "streams/2951.json"
+  },
+  {
+    "id": 2952,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Animated-Flag-Tunisia.gif",
+    "type": "channel",
+    "position": 208,
+    "streamsFile": "streams/2952.json"
+  },
+  {
+    "id": 2953,
+    "categoryId": "nilesat_vip",
+    "name": "الوطنية 1 off",
+    "nameEn": "الوطنية 1 off",
+    "logo": "http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png",
+    "type": "channel",
+    "position": 209,
+    "streamsFile": "streams/2953.json"
+  },
+  {
+    "id": 2954,
+    "categoryId": "nilesat_vip",
+    "name": "الوطنية 2 off",
+    "nameEn": "الوطنية 2 off",
+    "logo": "http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png",
+    "type": "channel",
+    "position": 210,
+    "streamsFile": "streams/2954.json"
+  },
+  {
+    "id": 2955,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Nessma_El_Jadida_Logo.png/150px-Nessma_El_Jadida_Logo.png",
+    "type": "channel",
+    "position": 211,
+    "streamsFile": "streams/2955.json"
+  },
+  {
+    "id": 2956,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://www.elhiwarettounsi.com/images/vod/logo.webp",
+    "type": "channel",
+    "position": 212,
+    "streamsFile": "streams/2956.json"
+  },
+  {
+    "id": 2957,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "http://m.attessia.tv/uploads/logo3d.png",
+    "type": "channel",
+    "position": 213,
+    "streamsFile": "streams/2957.json"
+  },
+  {
+    "id": 2958,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/a/af/Logo-carthageplus.png",
+    "type": "channel",
+    "position": 214,
+    "streamsFile": "streams/2958.json"
+  },
+  {
+    "id": 2959,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_tunisna_rogn%C3%A9.png/516px-Logo_tunisna_rogn%C3%A9.png",
+    "type": "channel",
+    "position": 215,
+    "streamsFile": "streams/2959.json"
+  },
+  {
+    "id": 2960,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "http://www.hannibaltv.com.tn/static/fr/image/png/hannibaltv.png",
+    "type": "channel",
+    "position": 216,
+    "streamsFile": "streams/2960.json"
+  },
+  {
+    "id": 2961,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5e/Telvza-tv.png/150px-Telvza-tv.png",
+    "type": "channel",
+    "position": 217,
+    "streamsFile": "streams/2961.json"
+  },
+  {
+    "id": 2962,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://www.alinsen.tv/themes/custom/alinsen/logo.png",
+    "type": "channel",
+    "position": 218,
+    "streamsFile": "streams/2962.json"
+  },
+  {
+    "id": 2963,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://zitounatv.net/wp-content/uploads/2019/08/zitounafooter-2.png",
+    "type": "channel",
+    "position": 219,
+    "streamsFile": "streams/2963.json"
+  },
+  {
+    "id": 2964,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/v1X8Vm8/janoubia.jpg",
+    "type": "channel",
+    "position": 220,
+    "streamsFile": "streams/2964.json"
+  },
+  {
+    "id": 2965,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/CimyTdo.png",
+    "type": "channel",
+    "position": 221,
+    "streamsFile": "streams/2965.json"
+  },
+  {
+    "id": 2966,
+    "categoryId": "nilesat_vip",
+    "name": "صوت الساحل التونسي",
+    "nameEn": "صوت الساحل التونسي",
+    "logo": "https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logo.png",
+    "type": "channel",
+    "position": 222,
+    "streamsFile": "streams/2966.json"
+  },
+  {
+    "id": 2967,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://www.mosaiquefm.net/images/front2020/logoar.png",
+    "type": "channel",
+    "position": 223,
+    "streamsFile": "streams/2967.json"
+  },
+  {
+    "id": 2968,
+    "categoryId": "nilesat_vip",
+    "name": "جوهرة",
+    "nameEn": "جوهرة",
+    "logo": "https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png",
+    "type": "channel",
+    "position": 224,
+    "streamsFile": "streams/2968.json"
+  },
+  {
+    "id": 2969,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://www.ifm.tn/images/logo.png",
+    "type": "channel",
+    "position": 225,
+    "streamsFile": "streams/2969.json"
+  },
+  {
+    "id": 2970,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Animated-Flag-Syria-2.gif",
+    "type": "channel",
+    "position": 226,
+    "streamsFile": "streams/2970.json"
+  },
+  {
+    "id": 2971,
+    "categoryId": "nilesat_vip",
+    "name": "Lana لـــنـــا",
+    "nameEn": "Lana لـــنـــا",
+    "logo": "https://ltv.l-television.com/static/media/LTV-logo_Approved04-1-1536x1411.d7ea77f48eb8047fe322.png",
+    "type": "channel",
+    "position": 227,
+    "streamsFile": "streams/2971.json"
+  },
+  {
+    "id": 2972,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://halabtodaytv.net/wp-content/uploads/2022/10/50.png",
+    "type": "channel",
+    "position": 228,
+    "streamsFile": "streams/2972.json"
+  },
+  {
+    "id": 2973,
+    "categoryId": "nilesat_vip",
+    "name": "تلفزيون سوريا",
+    "nameEn": "تلفزيون سوريا",
+    "logo": "https://www.syria.tv/themes/custom/syriatv_revamp/logo.png",
+    "type": "channel",
+    "position": 229,
+    "streamsFile": "streams/2973.json"
+  },
+  {
+    "id": 2974,
+    "categoryId": "nilesat_vip",
+    "name": "2 تلفزيون سوريا",
+    "nameEn": "2 تلفزيون سوريا",
+    "logo": "https://www.althania.tv/images/logo2.png",
+    "type": "channel",
+    "position": 230,
+    "streamsFile": "streams/2974.json"
+  },
+  {
+    "id": 2975,
+    "categoryId": "nilesat_vip",
+    "name": "روناهي",
+    "nameEn": "روناهي",
+    "logo": "https://ronahi.tv/ar/wp-content/uploads/2019/05/logoronahi.png",
+    "type": "channel",
+    "position": 231,
+    "streamsFile": "streams/2975.json"
+  },
+  {
+    "id": 2976,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Animated-Flag-Oman.gif",
+    "type": "channel",
+    "position": 232,
+    "streamsFile": "streams/2976.json"
+  },
+  {
+    "id": 2977,
+    "categoryId": "nilesat_vip",
+    "name": "عُمان",
+    "nameEn": "عُمان",
+    "logo": "https://raw.githubusercontent.com/fraudiay79/logos/master/om/omantv.png",
+    "type": "channel",
+    "position": 233,
+    "streamsFile": "streams/2977.json"
+  },
+  {
+    "id": 2978,
+    "categoryId": "nilesat_vip",
+    "name": "عُمان الرياضية",
+    "nameEn": "عُمان الرياضية",
+    "logo": "https://raw.githubusercontent.com/fraudiay79/logos/master/om/omansports.png",
+    "type": "channel",
+    "position": 234,
+    "streamsFile": "streams/2978.json"
+  },
+  {
+    "id": 2979,
+    "categoryId": "nilesat_vip",
+    "name": "عُمان الثقافية",
+    "nameEn": "عُمان الثقافية",
+    "logo": "https://raw.githubusercontent.com/fraudiay79/logos/master/om/omancultural.png",
+    "type": "channel",
+    "position": 235,
+    "streamsFile": "streams/2979.json"
+  },
+  {
+    "id": 2980,
+    "categoryId": "nilesat_vip",
+    "name": "عُمان مباشر",
+    "nameEn": "عُمان مباشر",
+    "logo": "https://raw.githubusercontent.com/fraudiay79/logos/master/om/omanlive.png",
+    "type": "channel",
+    "position": 236,
+    "streamsFile": "streams/2980.json"
+  },
+  {
+    "id": 2981,
+    "categoryId": "nilesat_vip",
+    "name": "الإستقامة",
+    "nameEn": "الإستقامة",
+    "logo": "https://raw.githubusercontent.com/fraudiay79/logos/master/om/alistiqama.png",
+    "type": "channel",
+    "position": 237,
+    "streamsFile": "streams/2981.json"
+  },
+  {
+    "id": 2982,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Flag_of_Palestine.gif",
+    "type": "channel",
+    "position": 238,
+    "streamsFile": "streams/2982.json"
+  },
+  {
+    "id": 2983,
+    "categoryId": "nilesat_vip",
+    "name": "like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+    "nameEn": "like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+    "logo": "https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/08/pbc_logo_w256.png",
+    "type": "channel",
+    "position": 239,
+    "streamsFile": "streams/2983.json"
+  },
+  {
+    "id": 2984,
+    "categoryId": "nilesat_vip",
+    "name": "like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+    "nameEn": "like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 240,
+    "streamsFile": "streams/2984.json"
+  },
+  {
+    "id": 2985,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/09/%D8%B5%D9%88%D8%AA-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.webp",
+    "type": "channel",
+    "position": 241,
+    "streamsFile": "streams/2985.json"
+  },
+  {
+    "id": 2986,
+    "categoryId": "nilesat_vip",
+    "name": "like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+    "nameEn": "like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+    "logo": "https://www.musawachannel.com/sites/all/themes/musawa/images/logo.png",
+    "type": "channel",
+    "position": 242,
+    "streamsFile": "streams/2986.json"
+  },
+  {
+    "id": 2987,
+    "categoryId": "nilesat_vip",
+    "name": "الأقصى",
+    "nameEn": "الأقصى",
+    "logo": "https://seraj.tv/style/atyaf/assets/images/logo.png",
+    "type": "channel",
+    "position": 243,
+    "streamsFile": "streams/2987.json"
+  },
+  {
+    "id": 2988,
+    "categoryId": "nilesat_vip",
+    "name": "الفجر 1",
+    "nameEn": "الفجر 1",
+    "logo": "http://tv.alfajertv.com/assets/images/logo.png",
+    "type": "channel",
+    "position": 244,
+    "streamsFile": "streams/2988.json"
+  },
+  {
+    "id": 2989,
+    "categoryId": "nilesat_vip",
+    "name": "الفجر 2",
+    "nameEn": "الفجر 2",
+    "logo": "http://tv.alfajertv.com/assets/images/logo.png",
+    "type": "channel",
+    "position": 245,
+    "streamsFile": "streams/2989.json"
+  },
+  {
+    "id": 2990,
+    "categoryId": "nilesat_vip",
+    "name": "أجيال",
+    "nameEn": "أجيال",
+    "logo": "https://arn.ps/assets/images/logo_23.svg",
+    "type": "channel",
+    "position": 246,
+    "streamsFile": "streams/2990.json"
+  },
+  {
+    "id": 2991,
+    "categoryId": "nilesat_vip",
+    "name": "راجعين",
+    "nameEn": "راجعين",
+    "logo": "https://www.rajeen.tv/logo.png",
+    "type": "channel",
+    "position": 247,
+    "streamsFile": "streams/2991.json"
+  },
+  {
+    "id": 2992,
+    "categoryId": "nilesat_vip",
+    "name": "فلسطين اليوم",
+    "nameEn": "فلسطين اليوم",
+    "logo": "https://paltodaytv.com/style/assets/images/logo.png",
+    "type": "channel",
+    "position": 248,
+    "streamsFile": "streams/2992.json"
+  },
+  {
+    "id": 2993,
+    "categoryId": "nilesat_vip",
+    "name": "النجاح",
+    "nameEn": "النجاح",
+    "logo": "https://nbc.najah.edu/static/images/nbc_logo.png",
+    "type": "channel",
+    "position": 249,
+    "streamsFile": "streams/2993.json"
+  },
+  {
+    "id": 2994,
+    "categoryId": "nilesat_vip",
+    "name": "معًا",
+    "nameEn": "معًا",
+    "logo": "https://www.maannews.net/assets/images/logo.png",
+    "type": "channel",
+    "position": 250,
+    "streamsFile": "streams/2994.json"
+  },
+  {
+    "id": 2995,
+    "categoryId": "nilesat_vip",
+    "name": "فلسطيني",
+    "nameEn": "فلسطيني",
+    "logo": "http://www.falastini.tv/wp-content/uploads/2021/07/Logo-White-PNG-600.png",
+    "type": "channel",
+    "position": 252,
+    "streamsFile": "streams/2995.json"
+  },
+  {
+    "id": 2996,
+    "categoryId": "nilesat_vip",
+    "name": "قدس off",
+    "nameEn": "قدس off",
+    "logo": "https://i.ibb.co/4g4VNx7/quds-tv.png",
+    "type": "channel",
+    "position": 253,
+    "streamsFile": "streams/2996.json"
+  },
+  {
+    "id": 2997,
+    "categoryId": "nilesat_vip",
+    "name": "عودة off",
+    "nameEn": "عودة off",
+    "logo": "https://pbs.twimg.com/profile_images/1452908844284272645/JbdExxv4_400x400.jpg",
+    "type": "channel",
+    "position": 254,
+    "streamsFile": "streams/2997.json"
+  },
+  {
+    "id": 2998,
+    "categoryId": "nilesat_vip",
+    "name": "المدينة",
+    "nameEn": "المدينة",
+    "logo": "https://almadina.tv/wp-content/uploads/2021/07/logo-.png",
+    "type": "channel",
+    "position": 255,
+    "streamsFile": "streams/2998.json"
+  },
+  {
+    "id": 2999,
+    "categoryId": "nilesat_vip",
+    "name": "شباب أف أم",
+    "nameEn": "شباب أف أم",
+    "logo": "https://shababfm.ps/wp-content/uploads/2020/10/shabab-banner.png",
+    "type": "channel",
+    "position": 256,
+    "streamsFile": "streams/2999.json"
+  },
+  {
+    "id": 3000,
+    "categoryId": "nilesat_vip",
+    "name": "Raya TV",
+    "nameEn": "Raya TV",
+    "logo": "https://www.rayatv.ps/images/logo_tv.png",
+    "type": "channel",
+    "position": 257,
+    "streamsFile": "streams/3000.json"
+  },
+  {
+    "id": 3001,
+    "categoryId": "nilesat_vip",
+    "name": "نابلس \" راديو مرح \"",
+    "nameEn": "نابلس \" راديو مرح \"",
+    "logo": "https://i.ibb.co/4g4VNx7/quds-tv.png",
+    "type": "channel",
+    "position": 258,
+    "streamsFile": "streams/3001.json"
+  },
+  {
+    "id": 3002,
+    "categoryId": "nilesat_vip",
+    "name": "وطـــن",
+    "nameEn": "وطـــن",
+    "logo": "https://i.ibb.co/4g4VNx7/quds-tv.png",
+    "type": "channel",
+    "position": 259,
+    "streamsFile": "streams/3002.json"
+  },
+  {
+    "id": 3003,
+    "categoryId": "nilesat_vip",
+    "name": "وتر",
+    "nameEn": "وتر",
+    "logo": "http://www.wbn.ps/assets/images/logo.png",
+    "type": "channel",
+    "position": 260,
+    "streamsFile": "streams/3003.json"
+  },
+  {
+    "id": 3004,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Animated-Flag-Qatar.gif",
+    "type": "channel",
+    "position": 261,
+    "streamsFile": "streams/3004.json"
+  },
+  {
+    "id": 3005,
+    "categoryId": "nilesat_vip",
+    "name": "قطر 1",
+    "nameEn": "قطر 1",
+    "logo": "https://www.qtv.qa/Assets2022/images/logo.png",
+    "type": "channel",
+    "position": 262,
+    "streamsFile": "streams/3005.json"
+  },
+  {
+    "id": 3006,
+    "categoryId": "nilesat_vip",
+    "name": "قطر 2",
+    "nameEn": "قطر 2",
+    "logo": "https://www.qtv.qa/Assets2022/images/logo.png",
+    "type": "channel",
+    "position": 263,
+    "streamsFile": "streams/3006.json"
+  },
+  {
+    "id": 3007,
+    "categoryId": "nilesat_vip",
+    "name": "الريان",
+    "nameEn": "الريان",
+    "logo": "https://tvwpbackup.blob.core.windows.net/content-cache/2022/11/Al-Rayyan-Channel-logo-Full-White.png",
+    "type": "channel",
+    "position": 264,
+    "streamsFile": "streams/3007.json"
+  },
+  {
+    "id": 3008,
+    "categoryId": "nilesat_vip",
+    "name": "الريان القديم",
+    "nameEn": "الريان القديم",
+    "logo": "https://www.alrayyantvapi.link//wp-content/uploads/2016/04/TVLogo.png",
+    "type": "channel",
+    "position": 265,
+    "streamsFile": "streams/3008.json"
+  },
+  {
+    "id": 3009,
+    "categoryId": "nilesat_vip",
+    "name": "العربي 1",
+    "nameEn": "العربي 1",
+    "logo": "https://www.alaraby.com/themes/custom/arabytv/logo.svg",
+    "type": "channel",
+    "position": 266,
+    "streamsFile": "streams/3009.json"
+  },
+  {
+    "id": 3010,
+    "categoryId": "nilesat_vip",
+    "name": "العربي 2",
+    "nameEn": "العربي 2",
+    "logo": "https://www.alaraby.com/themes/custom/arabytv/images/logos/atv2-ramadan-logo.svg",
+    "type": "channel",
+    "position": 267,
+    "streamsFile": "streams/3010.json"
+  },
+  {
+    "id": 3011,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Animated-Flag-Lebanon.gif",
+    "type": "channel",
+    "position": 268,
+    "streamsFile": "streams/3011.json"
+  },
+  {
+    "id": 3012,
+    "categoryId": "nilesat_vip",
+    "name": "MTV Lebanon",
+    "nameEn": "MTV Lebanon",
+    "logo": "https://www.mtv.com.lb/Content/images/logo-header.jpg",
+    "type": "channel",
+    "position": 270,
+    "streamsFile": "streams/3012.json"
+  },
+  {
+    "id": 3013,
+    "categoryId": "nilesat_vip",
+    "name": "NBN",
+    "nameEn": "NBN",
+    "logo": "https://raw.githubusercontent.com/fraudiay79/logos/master/lb/nbn.png",
+    "type": "channel",
+    "position": 271,
+    "streamsFile": "streams/3013.json"
+  },
+  {
+    "id": 3014,
+    "categoryId": "nilesat_vip",
+    "name": "الجديد",
+    "nameEn": "الجديد",
+    "logo": "https://raw.githubusercontent.com/fraudiay79/logos/master/lb/aljadeed.png",
+    "type": "channel",
+    "position": 272,
+    "streamsFile": "streams/3014.json"
+  },
+  {
+    "id": 3015,
+    "categoryId": "nilesat_vip",
+    "name": "FUTURE LBN",
+    "nameEn": "FUTURE LBN",
+    "logo": "https://i.ibb.co/ZB8x8TP/futlbn.png",
+    "type": "channel",
+    "position": 273,
+    "streamsFile": "streams/3015.json"
+  },
+  {
+    "id": 3016,
+    "categoryId": "nilesat_vip",
+    "name": "تلفزيون لبنان #EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live",
+    "nameEn": "تلفزيون لبنان #EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live",
+    "logo": "https://www.teleliban.com.lb/images/telelogo.png",
+    "type": "channel",
+    "position": 274,
+    "streamsFile": "streams/3016.json"
+  },
+  {
+    "id": 3017,
+    "categoryId": "nilesat_vip",
+    "name": "صوت لبنان",
+    "nameEn": "صوت لبنان",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 275,
+    "streamsFile": "streams/3017.json"
+  },
+  {
+    "id": 3018,
+    "categoryId": "nilesat_vip",
+    "name": "OTV",
+    "nameEn": "OTV",
+    "logo": "https://otv.com.lb/wp-content/themes/otv/inc/assets/images/logo.svg",
+    "type": "channel",
+    "position": 276,
+    "streamsFile": "streams/3018.json"
+  },
+  {
+    "id": 3019,
+    "categoryId": "nilesat_vip",
+    "name": "المنار",
+    "nameEn": "المنار",
+    "logo": "https://www.almanar.com.lb/framework/assets/images/logo-tech.png",
+    "type": "channel",
+    "position": 277,
+    "streamsFile": "streams/3019.json"
+  },
+  {
+    "id": 3020,
+    "categoryId": "nilesat_vip",
+    "name": "الميادين",
+    "nameEn": "الميادين",
+    "logo": "https://cdn.almayadeen.tv/images/logo/new-logo-small.png",
+    "type": "channel",
+    "position": 278,
+    "streamsFile": "streams/3020.json"
+  },
+  {
+    "id": 3021,
+    "categoryId": "nilesat_vip",
+    "name": "نبأ",
+    "nameEn": "نبأ",
+    "logo": "https://raw.githubusercontent.com/fraudiay79/logos/master/lb/nabaa.png",
+    "type": "channel",
+    "position": 279,
+    "streamsFile": "streams/3021.json"
+  },
+  {
+    "id": 3022,
+    "categoryId": "nilesat_vip",
+    "name": "الإتحاد",
+    "nameEn": "الإتحاد",
+    "logo": "https://www.alittihad.tv/live/assets/images/logo_new.png",
+    "type": "channel",
+    "position": 280,
+    "streamsFile": "streams/3022.json"
+  },
+  {
+    "id": 3023,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Animated-Flag-Libya.gif",
+    "type": "channel",
+    "position": 281,
+    "streamsFile": "streams/3023.json"
+  },
+  {
+    "id": 3024,
+    "categoryId": "nilesat_vip",
+    "name": "سلام",
+    "nameEn": "سلام",
+    "logo": "https://i.ibb.co/vzZ6yvs/salam.png",
+    "type": "channel",
+    "position": 282,
+    "streamsFile": "streams/3024.json"
+  },
+  {
+    "id": 3025,
+    "categoryId": "nilesat_vip",
+    "name": "المسار",
+    "nameEn": "المسار",
+    "logo": "https://almasartv.ly/wp-content/uploads/2022/01/logo.png",
+    "type": "channel",
+    "position": 283,
+    "streamsFile": "streams/3025.json"
+  },
+  {
+    "id": 3026,
+    "categoryId": "nilesat_vip",
+    "name": "قناة ليبيا off",
+    "nameEn": "قناة ليبيا off",
+    "logo": "https://i.ibb.co/svdWnwb/libyach.webp",
+    "type": "channel",
+    "position": 285,
+    "streamsFile": "streams/3026.json"
+  },
+  {
+    "id": 3027,
+    "categoryId": "nilesat_vip",
+    "name": "الوسط",
+    "nameEn": "الوسط",
+    "logo": "https://i.ibb.co/p1khXv7/wtv.png",
+    "type": "channel",
+    "position": 286,
+    "streamsFile": "streams/3027.json"
+  },
+  {
+    "id": 3028,
+    "categoryId": "nilesat_vip",
+    "name": "فبراير",
+    "nameEn": "فبراير",
+    "logo": "https://i.ibb.co/YLrrhGK/febrayer.png",
+    "type": "channel",
+    "position": 287,
+    "streamsFile": "streams/3028.json"
+  },
+  {
+    "id": 3029,
+    "categoryId": "nilesat_vip",
+    "name": "الجماهيرية",
+    "nameEn": "الجماهيرية",
+    "logo": "https://i.ibb.co/X5222cT/jamahiria.png",
+    "type": "channel",
+    "position": 288,
+    "streamsFile": "streams/3029.json"
+  },
+  {
+    "id": 3030,
+    "categoryId": "nilesat_vip",
+    "name": "ليبيا الحدث off",
+    "nameEn": "ليبيا الحدث off",
+    "logo": "https://libyaalhadath.net/wp-content/uploads/2022/06/Untitled-1.png",
+    "type": "channel",
+    "position": 289,
+    "streamsFile": "streams/3030.json"
+  },
+  {
+    "id": 3031,
+    "categoryId": "nilesat_vip",
+    "name": "ليبيا الإقتصادية off",
+    "nameEn": "ليبيا الإقتصادية off",
+    "logo": "https://libyabusinesstv.com/wp-content/uploads/2022/06/Logo-V.png",
+    "type": "channel",
+    "position": 290,
+    "streamsFile": "streams/3031.json"
+  },
+  {
+    "id": 3032,
+    "categoryId": "nilesat_vip",
+    "name": "February Channel",
+    "nameEn": "February Channel",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 291,
+    "streamsFile": "streams/3032.json"
+  },
+  {
+    "id": 3033,
+    "categoryId": "nilesat_vip",
+    "name": "Libya Al Ahrar TV #EXTVLCOPT:http-referrer=https://player.castr.com/live_8c1539b0eb6c11eda9f0c7bd90506d4f",
+    "nameEn": "Libya Al Ahrar TV #EXTVLCOPT:http-referrer=https://player.castr.com/live_8c1539b0eb6c11eda9f0c7bd90506d4f",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 292,
+    "streamsFile": "streams/3033.json"
+  },
+  {
+    "id": 3034,
+    "categoryId": "nilesat_vip",
+    "name": "Libya Al Wataniya",
+    "nameEn": "Libya Al Wataniya",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 293,
+    "streamsFile": "streams/3034.json"
+  },
+  {
+    "id": 3035,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Egypt%28Moving%29.gif",
+    "type": "channel",
+    "position": 294,
+    "streamsFile": "streams/3035.json"
+  },
+  {
+    "id": 3036,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://media.elcinema.com/tvguide/1198_1.png",
+    "type": "channel",
+    "position": 297,
+    "streamsFile": "streams/3036.json"
+  },
+  {
+    "id": 3037,
+    "categoryId": "nilesat_vip",
+    "name": "EXTRA NEWS",
+    "nameEn": "EXTRA NEWS",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 300,
+    "streamsFile": "streams/3037.json"
+  },
+  {
+    "id": 3038,
+    "categoryId": "nilesat_vip",
+    "name": "النهار الأولى",
+    "nameEn": "النهار الأولى",
+    "logo": "https://media.elcinema.com/tvguide/1193_1.png",
+    "type": "channel",
+    "position": 307,
+    "streamsFile": "streams/3038.json"
+  },
+  {
+    "id": 3039,
+    "categoryId": "nilesat_vip",
+    "name": "TEN",
+    "nameEn": "TEN",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 313,
+    "streamsFile": "streams/3039.json"
+  },
+  {
+    "id": 3040,
+    "categoryId": "nilesat_vip",
+    "name": "القاهرة و الناس 2",
+    "nameEn": "القاهرة و الناس 2",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 315,
+    "streamsFile": "streams/3040.json"
+  },
+  {
+    "id": 3041,
+    "categoryId": "nilesat_vip",
+    "name": "مكملين",
+    "nameEn": "مكملين",
+    "logo": "https://mekameleen.tv/public/css/logo.png",
+    "type": "channel",
+    "position": 317,
+    "streamsFile": "streams/3041.json"
+  },
+  {
+    "id": 3042,
+    "categoryId": "nilesat_vip",
+    "name": "الشّعوب",
+    "nameEn": "الشّعوب",
+    "logo": "https://alshoub.tv/wp-content/uploads/2022/11/logo-red.png",
+    "type": "channel",
+    "position": 318,
+    "streamsFile": "streams/3042.json"
+  },
+  {
+    "id": 3043,
+    "categoryId": "nilesat_vip",
+    "name": "وطن",
+    "nameEn": "وطن",
+    "logo": "https://watanegypt.tv/wp-content/uploads/2021/10/Logo2020-1-1.png",
+    "type": "channel",
+    "position": 319,
+    "streamsFile": "streams/3043.json"
+  },
+  {
+    "id": 3044,
+    "categoryId": "nilesat_vip",
+    "name": "الموريتانية 1",
+    "nameEn": "الموريتانية 1",
+    "logo": "https://tvm.mr/ar/wp-content/uploads/2022/10/cropped-LOGO-FACEBOOK.png",
+    "type": "channel",
+    "position": 321,
+    "streamsFile": "streams/3044.json"
+  },
+  {
+    "id": 3045,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/rHNTYpR/sahle-TV.png",
+    "type": "channel",
+    "position": 326,
+    "streamsFile": "streams/3045.json"
+  },
+  {
+    "id": 3046,
+    "categoryId": "nilesat_vip",
+    "name": "صحراء 24",
+    "nameEn": "صحراء 24",
+    "logo": "https://saharamedias.net/wp-content/uploads/2024/04/Sahara24Live-1-1.gif",
+    "type": "channel",
+    "position": 333,
+    "streamsFile": "streams/3046.json"
+  },
+  {
+    "id": 3047,
+    "categoryId": "nilesat_vip",
+    "name": "Space Toon FHD",
+    "nameEn": "Space Toon FHD",
+    "logo": "https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png",
+    "type": "channel",
+    "position": 335,
+    "streamsFile": "streams/3047.json"
+  },
+  {
+    "id": 3048,
+    "categoryId": "nilesat_vip",
+    "name": "Space Toon",
+    "nameEn": "Space Toon",
+    "logo": "https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png",
+    "type": "channel",
+    "position": 336,
+    "streamsFile": "streams/3048.json"
+  },
+  {
+    "id": 3049,
+    "categoryId": "nilesat_vip",
+    "name": "MBC 3",
+    "nameEn": "MBC 3",
+    "logo": "https://tv.taghtia.com/assets/channels/mbc3.png",
+    "type": "channel",
+    "position": 337,
+    "streamsFile": "streams/3049.json"
+  },
+  {
+    "id": 3050,
+    "categoryId": "nilesat_vip",
+    "name": "ماجد",
+    "nameEn": "ماجد",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f7/Majid_2020.png",
+    "type": "channel",
+    "position": 338,
+    "streamsFile": "streams/3050.json"
+  },
+  {
+    "id": 3051,
+    "categoryId": "nilesat_vip",
+    "name": "Cartoon Network Arabia",
+    "nameEn": "Cartoon Network Arabia",
+    "logo": "https://cncdn.dmti.cloud/4870486cf3ad9290b4ace5cd2b81d931eac1aefe/static/media/cn-logo-short.1e292202.svg",
+    "type": "channel",
+    "position": 339,
+    "streamsFile": "streams/3051.json"
+  },
+  {
+    "id": 3052,
+    "categoryId": "nilesat_vip",
+    "name": "أطفال و مواهب",
+    "nameEn": "أطفال و مواهب",
+    "logo": "https://tv.taghtia.com/assets/channels/atfal-wa-mawahib.png",
+    "type": "channel",
+    "position": 340,
+    "streamsFile": "streams/3052.json"
+  },
+  {
+    "id": 3053,
+    "categoryId": "nilesat_vip",
+    "name": "Rotana Kids",
+    "nameEn": "Rotana Kids",
+    "logo": "https://rotana.net/triAssets/themes/TriTheme/images/channels/kids.png",
+    "type": "channel",
+    "position": 341,
+    "streamsFile": "streams/3053.json"
+  },
+  {
+    "id": 3054,
+    "categoryId": "nilesat_vip",
+    "name": "GULLI BILARRABI",
+    "nameEn": "GULLI BILARRABI",
+    "logo": "https://raw.githubusercontent.com/fraudiay79/logos/master/fr/gulli.png",
+    "type": "channel",
+    "position": 342,
+    "streamsFile": "streams/3054.json"
+  },
+  {
+    "id": 3055,
+    "categoryId": "nilesat_vip",
+    "name": "TIJI",
+    "nameEn": "TIJI",
+    "logo": "https://raw.githubusercontent.com/fraudiay79/logos/master/fr/tiji.png",
+    "type": "channel",
+    "position": 343,
+    "streamsFile": "streams/3055.json"
+  },
+  {
+    "id": 3056,
+    "categoryId": "nilesat_vip",
+    "name": "ناشيونال جيوغرافيك أبو ظبي",
+    "nameEn": "ناشيونال جيوغرافيك أبو ظبي",
+    "logo": "https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5ff6eb7f11.png",
+    "type": "channel",
+    "position": 346,
+    "streamsFile": "streams/3056.json"
+  },
+  {
+    "id": 3057,
+    "categoryId": "nilesat_vip",
+    "name": "الشرق الوثائقية",
+    "nameEn": "الشرق الوثائقية",
+    "logo": "https://nowcdn.asharq.com/200x0/15115670301691498834.png",
+    "type": "channel",
+    "position": 347,
+    "streamsFile": "streams/3057.json"
+  },
+  {
+    "id": 3058,
+    "categoryId": "nilesat_vip",
+    "name": "الشرق Discovery",
+    "nameEn": "الشرق Discovery",
+    "logo": "https://asharqdiscovery.com/assets/images/asharq-discover-logo.svg",
+    "type": "channel",
+    "position": 349,
+    "streamsFile": "streams/3058.json"
+  },
+  {
+    "id": 3059,
+    "categoryId": "nilesat_vip",
+    "name": "الجزيرة الوثائقية",
+    "nameEn": "الجزيرة الوثائقية",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png",
+    "type": "channel",
+    "position": 350,
+    "streamsFile": "streams/3059.json"
+  },
+  {
+    "id": 3060,
+    "categoryId": "nilesat_vip",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Breaking.gif",
+    "type": "channel",
+    "position": 351,
+    "streamsFile": "streams/3060.json"
+  },
+  {
+    "id": 3061,
+    "categoryId": "nilesat_vip",
+    "name": "الجزيرة الإخبارية",
+    "nameEn": "الجزيرة الإخبارية",
+    "logo": "https://i.ibb.co/884RcMF/aljazera.png",
+    "type": "channel",
+    "position": 352,
+    "streamsFile": "streams/3061.json"
+  },
+  {
+    "id": 3062,
+    "categoryId": "nilesat_vip",
+    "name": "الجزيرة مباشر",
+    "nameEn": "الجزيرة مباشر",
+    "logo": "https://i1.sndcdn.com/avatars-000163249127-onw500-t240x240.jpg",
+    "type": "channel",
+    "position": 353,
+    "streamsFile": "streams/3062.json"
+  },
+  {
+    "id": 3063,
+    "categoryId": "nilesat_vip",
+    "name": "2الجزيرة مباشر",
+    "nameEn": "2الجزيرة مباشر",
+    "logo": "https://i1.sndcdn.com/avatars-000163249127-onw500-t240x240.jpg",
+    "type": "channel",
+    "position": 354,
+    "streamsFile": "streams/3063.json"
+  },
+  {
+    "id": 3064,
+    "categoryId": "nilesat_vip",
+    "name": "العربية",
+    "nameEn": "العربية",
+    "logo": "https://i.ibb.co/w7wk4p0/alarabiya.png",
+    "type": "channel",
+    "position": 355,
+    "streamsFile": "streams/3064.json"
+  },
+  {
+    "id": 3065,
+    "categoryId": "nilesat_vip",
+    "name": "العربية الحدث",
+    "nameEn": "العربية الحدث",
+    "logo": "https://i.ibb.co/sw6tV5W/alhadath.jpg",
+    "type": "channel",
+    "position": 356,
+    "streamsFile": "streams/3065.json"
+  },
+  {
+    "id": 3066,
+    "categoryId": "nilesat_vip",
+    "name": "العربية Buisness",
+    "nameEn": "العربية Buisness",
+    "logo": "https://vid.alarabiya.net/images/2023/10/27/62f548e2-46ca-470b-93a9-c9f80deefef9/62f548e2-46ca-470b-93a9-c9f80deefef9_16x9_1200x676.jpg?width=1120&format=jpg",
+    "type": "channel",
+    "position": 357,
+    "streamsFile": "streams/3066.json"
+  },
+  {
+    "id": 3067,
+    "categoryId": "nilesat_vip",
+    "name": "CNBC عربية",
+    "nameEn": "CNBC عربية",
+    "logo": "https://www.cnbcarabia.com/_next/static/media/cnbc-logo-white.b6d7d504.svg",
+    "type": "channel",
+    "position": 358,
+    "streamsFile": "streams/3067.json"
+  },
+  {
+    "id": 3068,
+    "categoryId": "nilesat_vip",
+    "name": "الشرق",
+    "nameEn": "الشرق",
+    "logo": "https://i.ibb.co/6P5CKrZ/asharq.png",
+    "type": "channel",
+    "position": 359,
+    "streamsFile": "streams/3068.json"
+  },
+  {
+    "id": 3069,
+    "categoryId": "nilesat_vip",
+    "name": "العربي",
+    "nameEn": "العربي",
+    "logo": "https://i.ibb.co/qxJbQHP/alaraby.png",
+    "type": "channel",
+    "position": 360,
+    "streamsFile": "streams/3069.json"
+  },
+  {
+    "id": 3070,
+    "categoryId": "nilesat_vip",
+    "name": "القاهرة الإخبارية",
+    "nameEn": "القاهرة الإخبارية",
+    "logo": "https://alqaheranews.net/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.6a2665e0.png&w=1200&q=75",
+    "type": "channel",
+    "position": 361,
+    "streamsFile": "streams/3070.json"
+  },
+  {
+    "id": 3071,
+    "categoryId": "nilesat_vip",
+    "name": "الحرِّة",
+    "nameEn": "الحرِّة",
+    "logo": "https://i.ibb.co/0jdHZW6/alhurra.png",
+    "type": "channel",
+    "position": 362,
+    "streamsFile": "streams/3071.json"
+  },
+  {
+    "id": 3072,
+    "categoryId": "nilesat_vip",
+    "name": "روسيا اليوم",
+    "nameEn": "روسيا اليوم",
+    "logo": "https://i.ibb.co/QPP13X6/rtar.jpg",
+    "type": "channel",
+    "position": 363,
+    "streamsFile": "streams/3072.json"
+  },
+  {
+    "id": 3073,
+    "categoryId": "nilesat_vip",
+    "name": "الحـــوار",
+    "nameEn": "الحـــوار",
+    "logo": "https://alhiwar.tv/wp-content/uploads/2021/11/HIWAR-LOGO_PNG.png",
+    "type": "channel",
+    "position": 364,
+    "streamsFile": "streams/3073.json"
+  },
+  {
+    "id": 3074,
+    "categoryId": "nilesat_vip",
+    "name": "بي بي سي عربي",
+    "nameEn": "بي بي سي عربي",
+    "logo": "https://i.ibb.co/yRc4rDX/bbcar.png",
+    "type": "channel",
+    "position": 365,
+    "streamsFile": "streams/3074.json"
+  },
+  {
+    "id": 3075,
+    "categoryId": "nilesat_vip",
+    "name": "سكاي نيوز عربية",
+    "nameEn": "سكاي نيوز عربية",
+    "logo": "https://i.ibb.co/fFyvbrC/skynewsar.png",
+    "type": "channel",
+    "position": 366,
+    "streamsFile": "streams/3075.json"
+  },
+  {
+    "id": 3076,
+    "categoryId": "nilesat_vip",
+    "name": "المشهد",
+    "nameEn": "المشهد",
+    "logo": "https://almashhad.com/static/images/LogoBlue.svg",
+    "type": "channel",
+    "position": 367,
+    "streamsFile": "streams/3076.json"
+  },
+  {
+    "id": 3077,
+    "categoryId": "nilesat_vip",
+    "name": "الميادين",
+    "nameEn": "الميادين",
+    "logo": "https://cdn.almayadeen.tv/images/logo/new-logo-small.png",
+    "type": "channel",
+    "position": 368,
+    "streamsFile": "streams/3077.json"
+  },
+  {
+    "id": 3078,
+    "categoryId": "nilesat_vip",
+    "name": "العالم الإيرانية",
+    "nameEn": "العالم الإيرانية",
+    "logo": "https://i.ibb.co/8d1Srb9/alalam.jpg",
+    "type": "channel",
+    "position": 369,
+    "streamsFile": "streams/3078.json"
+  },
+  {
+    "id": 3079,
+    "categoryId": "nilesat_vip",
+    "name": "صوت ألمانيا",
+    "nameEn": "صوت ألمانيا",
+    "logo": "https://i.ibb.co/Fmvtnr7/dw-ar.png",
+    "type": "channel",
+    "position": 370,
+    "streamsFile": "streams/3079.json"
+  },
+  {
+    "id": 3080,
+    "categoryId": "nilesat_vip",
+    "name": "فرنسا 24",
+    "nameEn": "فرنسا 24",
+    "logo": "https://i.ibb.co/5KW5f2K/france24ar.png",
+    "type": "channel",
+    "position": 371,
+    "streamsFile": "streams/3080.json"
+  },
+  {
+    "id": 3081,
+    "categoryId": "nilesat_vip",
+    "name": "TRT العربية",
+    "nameEn": "TRT العربية",
+    "logo": "https://i.ibb.co/GQbQGkG/trt-ar.jpg",
+    "type": "channel",
+    "position": 372,
+    "streamsFile": "streams/3081.json"
+  },
+  {
+    "id": 3082,
+    "categoryId": "nilesat_vip",
+    "name": "CGTN العربية",
+    "nameEn": "CGTN العربية",
+    "logo": "https://i.ibb.co/qMFKcBh/CGTN-arabic.png",
+    "type": "channel",
+    "position": 373,
+    "streamsFile": "streams/3082.json"
+  },
+  {
+    "id": 3083,
+    "categoryId": "nilesat_vip",
+    "name": "CNN INT",
+    "nameEn": "CNN INT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CNNinternational-logo.png/1200px-CNNinternational-logo.png",
+    "type": "channel",
+    "position": 375,
+    "streamsFile": "streams/3083.json"
+  },
+  {
+    "id": 3084,
+    "categoryId": "nilesat_vip",
+    "name": "FOX NEWS NOW",
+    "nameEn": "FOX NEWS NOW",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/LiveNOW_from_FOX.png",
+    "type": "channel",
+    "position": 376,
+    "streamsFile": "streams/3084.json"
+  },
+  {
+    "id": 3085,
+    "categoryId": "nilesat_vip",
+    "name": "NBC NEWS NOW",
+    "nameEn": "NBC NEWS NOW",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/NBC_News_Now_2023.svg",
+    "type": "channel",
+    "position": 377,
+    "streamsFile": "streams/3085.json"
+  },
+  {
+    "id": 3086,
+    "categoryId": "nilesat_vip",
+    "name": "ABC NEWS",
+    "nameEn": "ABC NEWS",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/2560px-ABC_News_logo_2021.svg.png",
+    "type": "channel",
+    "position": 378,
+    "streamsFile": "streams/3086.json"
+  },
+  {
+    "id": 3087,
+    "categoryId": "nilesat_vip",
+    "name": "CBS NEWS",
+    "nameEn": "CBS NEWS",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/1024px-CBS_News.svg.png",
+    "type": "channel",
+    "position": 379,
+    "streamsFile": "streams/3087.json"
+  },
+  {
+    "id": 3088,
+    "categoryId": "nilesat_vip",
+    "name": "BBC NEWS",
+    "nameEn": "BBC NEWS",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/BBC_News_HD_Logo.svg/2560px-BBC_News_HD_Logo.svg.png",
+    "type": "channel",
+    "position": 380,
+    "streamsFile": "streams/3088.json"
+  },
+  {
+    "id": 3089,
+    "categoryId": "nilesat_vip",
+    "name": "SKY NEWS",
+    "nameEn": "SKY NEWS",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",
+    "type": "channel",
+    "position": 381,
+    "streamsFile": "streams/3089.json"
+  },
+  {
+    "id": 3090,
+    "categoryId": "nilesat_vip",
+    "name": "EURONEWS EN",
+    "nameEn": "EURONEWS EN",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png",
+    "type": "channel",
+    "position": 382,
+    "streamsFile": "streams/3090.json"
+  },
+  {
+    "id": 3091,
+    "categoryId": "nilesat_vip",
+    "name": "FRANCE 24 EN",
+    "nameEn": "FRANCE 24 EN",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png",
+    "type": "channel",
+    "position": 383,
+    "streamsFile": "streams/3091.json"
+  }
+]

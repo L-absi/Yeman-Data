@@ -1,0 +1,442 @@
+[
+  {
+    "id": 2746,
+    "categoryId": "mbc_tv2",
+    "name": "MBC 1 (4K)",
+    "nameEn": "MBC 1 (4K)",
+    "logo": "https://i.imgur.com/CiA3plN.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/2746.json"
+  },
+  {
+    "id": 2747,
+    "categoryId": "mbc_tv2",
+    "name": "MBC 1 USA (4K)",
+    "nameEn": "MBC 1 USA (4K)",
+    "logo": "https://i.imgur.com/CiA3plN.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/2747.json"
+  },
+  {
+    "id": 2748,
+    "categoryId": "mbc_tv2",
+    "name": "MBC 2 HD",
+    "nameEn": "MBC 2 HD",
+    "logo": "https://i.imgur.com/KXuzL1u.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/2748.json"
+  },
+  {
+    "id": 2749,
+    "categoryId": "mbc_tv2",
+    "name": "MBC 3 USA (4K)",
+    "nameEn": "MBC 3 USA (4K)",
+    "logo": "https://i.imgur.com/PVt8OPN.png",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/2749.json"
+  },
+  {
+    "id": 2750,
+    "categoryId": "mbc_tv2",
+    "name": "MBC 4 (4K)",
+    "nameEn": "MBC 4 (4K)",
+    "logo": "https://i.imgur.com/BcXASJp.png",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/2750.json"
+  },
+  {
+    "id": 2751,
+    "categoryId": "mbc_tv2",
+    "name": "MBC 5 (4K)",
+    "nameEn": "MBC 5 (4K)",
+    "logo": "https://i.imgur.com/fRWaDyF.png",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/2751.json"
+  },
+  {
+    "id": 2752,
+    "categoryId": "mbc_tv2",
+    "name": "MBC Bollywood (4K)",
+    "nameEn": "MBC Bollywood (4K)",
+    "logo": "https://i.imgur.com/TTAGFHG.png",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/2752.json"
+  },
+  {
+    "id": 2753,
+    "categoryId": "mbc_tv2",
+    "name": "MBC Drama KSA (4K)",
+    "nameEn": "MBC Drama KSA (4K)",
+    "logo": "https://i.imgur.com/g5PWnqp.png",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/2753.json"
+  },
+  {
+    "id": 2754,
+    "categoryId": "mbc_tv2",
+    "name": "MBC Drama USA (4K)",
+    "nameEn": "MBC Drama USA (4K)",
+    "logo": "https://i.imgur.com/g5PWnqp.png",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/2754.json"
+  },
+  {
+    "id": 2755,
+    "categoryId": "mbc_tv2",
+    "name": "MBC Iraq (4K)",
+    "nameEn": "MBC Iraq (4K)",
+    "logo": "https://i.imgur.com/D0LxiPE.png",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/2755.json"
+  },
+  {
+    "id": 2756,
+    "categoryId": "mbc_tv2",
+    "name": "MBC Masr USA (4K)",
+    "nameEn": "MBC Masr USA (4K)",
+    "logo": "https://i.imgur.com/o2elx0u.png",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/2756.json"
+  },
+  {
+    "id": 2757,
+    "categoryId": "mbc_tv2",
+    "name": "MBC Masr 2 (4K)",
+    "nameEn": "MBC Masr 2 (4K)",
+    "logo": "https://i.imgur.com/KHo7Gtn.png",
+    "type": "channel",
+    "position": 18,
+    "streamsFile": "streams/2757.json"
+  },
+  {
+    "id": 2758,
+    "categoryId": "mbc_tv2",
+    "name": "MBC Masr Drama (4K)",
+    "nameEn": "MBC Masr Drama (4K)",
+    "logo": "https://media0070.elcinema.com/tvguide/1399_1.png",
+    "type": "channel",
+    "position": 19,
+    "streamsFile": "streams/2758.json"
+  },
+  {
+    "id": 2759,
+    "categoryId": "mbc_tv2",
+    "name": "MBC+ Drama (4K)",
+    "nameEn": "MBC+ Drama (4K)",
+    "logo": "https://i.imgur.com/lxWdjXG.png",
+    "type": "channel",
+    "position": 20,
+    "streamsFile": "streams/2759.json"
+  },
+  {
+    "id": 2760,
+    "categoryId": "mbc_tv2",
+    "name": "MBC ACTION",
+    "nameEn": "MBC ACTION",
+    "logo": "https://logo.iptveditor.com/mbcaction.png",
+    "type": "channel",
+    "position": 21,
+    "streamsFile": "streams/2760.json"
+  },
+  {
+    "id": 2761,
+    "categoryId": "mbc_tv2",
+    "name": "MBC ACTION+",
+    "nameEn": "MBC ACTION+",
+    "logo": "https://logo.iptveditor.com/mbcaction.png",
+    "type": "channel",
+    "position": 22,
+    "streamsFile": "streams/2761.json"
+  },
+  {
+    "id": 2762,
+    "categoryId": "mbc_tv2",
+    "name": "MBC Max",
+    "nameEn": "MBC Max",
+    "logo": "https://pbs.twimg.com/profile_images/705029909643661313/sH8E6qhX_400x400.jpg",
+    "type": "channel",
+    "position": 23,
+    "streamsFile": "streams/2762.json"
+  },
+  {
+    "id": 2763,
+    "categoryId": "mbc_tv2",
+    "name": "MBC-Persia (4K)",
+    "nameEn": "MBC-Persia (4K)",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mLXFwsgLUH8xbGK7kgael74oOUHBD__uXsg6XjbvYkF-U=s900-c-k-c0x00ffffff-no-rj",
+    "type": "channel",
+    "position": 24,
+    "streamsFile": "streams/2763.json"
+  },
+  {
+    "id": 2764,
+    "categoryId": "mbc_tv2",
+    "name": "MY-MBC Wanasah (4K)",
+    "nameEn": "MY-MBC Wanasah (4K)",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png",
+    "type": "channel",
+    "position": 25,
+    "streamsFile": "streams/2764.json"
+  },
+  {
+    "id": 2765,
+    "categoryId": "mbc_tv2",
+    "name": "MY-MBC FM (4K)",
+    "nameEn": "MY-MBC FM (4K)",
+    "logo": "https://cdn-radiotime-logos.tunein.com/p465453g.png",
+    "type": "channel",
+    "position": 26,
+    "streamsFile": "streams/2765.json"
+  },
+  {
+    "id": 2766,
+    "categoryId": "mbc_tv2",
+    "name": "MY-MBC panoramafm (4K)",
+    "nameEn": "MY-MBC panoramafm (4K)",
+    "logo": "https://i.ibb.co/tsWQ5pz/panorama.jpg",
+    "type": "channel",
+    "position": 27,
+    "streamsFile": "streams/2766.json"
+  },
+  {
+    "id": 2767,
+    "categoryId": "mbc_tv2",
+    "name": "MBC 1 SD",
+    "nameEn": "MBC 1 SD",
+    "logo": "https://i.imgur.com/CiA3plN.png",
+    "type": "channel",
+    "position": 28,
+    "streamsFile": "streams/2767.json"
+  },
+  {
+    "id": 2768,
+    "categoryId": "mbc_tv2",
+    "name": "MBC 4 SD",
+    "nameEn": "MBC 4 SD",
+    "logo": "https://i.imgur.com/BcXASJp.png",
+    "type": "channel",
+    "position": 29,
+    "streamsFile": "streams/2768.json"
+  },
+  {
+    "id": 2769,
+    "categoryId": "mbc_tv2",
+    "name": "MBC Bollywood SD",
+    "nameEn": "MBC Bollywood SD",
+    "logo": "https://i.imgur.com/TTAGFHG.png",
+    "type": "channel",
+    "position": 30,
+    "streamsFile": "streams/2769.json"
+  },
+  {
+    "id": 2770,
+    "categoryId": "mbc_tv2",
+    "name": "MBC Drama KSA SD",
+    "nameEn": "MBC Drama KSA SD",
+    "logo": "https://i.imgur.com/g5PWnqp.png",
+    "type": "channel",
+    "position": 31,
+    "streamsFile": "streams/2770.json"
+  },
+  {
+    "id": 2771,
+    "categoryId": "mbc_tv2",
+    "name": "MBC+ Drama SD",
+    "nameEn": "MBC+ Drama SD",
+    "logo": "https://i.imgur.com/lxWdjXG.png",
+    "type": "channel",
+    "position": 32,
+    "streamsFile": "streams/2771.json"
+  },
+  {
+    "id": 2772,
+    "categoryId": "mbc_tv2",
+    "name": "MBC Masr 1 SD",
+    "nameEn": "MBC Masr 1 SD",
+    "logo": "https://i.imgur.com/o2elx0u.png",
+    "type": "channel",
+    "position": 33,
+    "streamsFile": "streams/2772.json"
+  },
+  {
+    "id": 2773,
+    "categoryId": "mbc_tv2",
+    "name": "MBC Masr Drama SD",
+    "nameEn": "MBC Masr Drama SD",
+    "logo": "https://media0070.elcinema.com/tvguide/1399_1.png",
+    "type": "channel",
+    "position": 34,
+    "streamsFile": "streams/2773.json"
+  },
+  {
+    "id": 2774,
+    "categoryId": "mbc_tv2",
+    "name": "|MBC| Panorama SD",
+    "nameEn": "|MBC| Panorama SD",
+    "logo": "https://i.ibb.co/tsWQ5pz/panorama.jpg",
+    "type": "channel",
+    "position": 35,
+    "streamsFile": "streams/2774.json"
+  },
+  {
+    "id": 2775,
+    "categoryId": "mbc_tv2",
+    "name": "|MBC| 1 FHD",
+    "nameEn": "|MBC| 1 FHD",
+    "logo": "https://i.ibb.co/N19JFwZ/mbc.png",
+    "type": "channel",
+    "position": 36,
+    "streamsFile": "streams/2775.json"
+  },
+  {
+    "id": 2776,
+    "categoryId": "mbc_tv2",
+    "name": "|MBC| Masr FHD",
+    "nameEn": "|MBC| Masr FHD",
+    "logo": "https://i.ibb.co/BnhWg65/mbcmasr.png",
+    "type": "channel",
+    "position": 37,
+    "streamsFile": "streams/2776.json"
+  },
+  {
+    "id": 2777,
+    "categoryId": "mbc_tv2",
+    "name": "|MBC| Masr 2 FHD",
+    "nameEn": "|MBC| Masr 2 FHD",
+    "logo": "https://i.ibb.co/M7B22HL/mbcmasr2.jpg",
+    "type": "channel",
+    "position": 38,
+    "streamsFile": "streams/2777.json"
+  },
+  {
+    "id": 2778,
+    "categoryId": "mbc_tv2",
+    "name": "|MBC| Masr Drama FHD",
+    "nameEn": "|MBC| Masr Drama FHD",
+    "logo": "https://media0070.elcinema.com/tvguide/1399_1.png",
+    "type": "channel",
+    "position": 39,
+    "streamsFile": "streams/2778.json"
+  },
+  {
+    "id": 2779,
+    "categoryId": "mbc_tv2",
+    "name": "|MBC| Drama FHD",
+    "nameEn": "|MBC| Drama FHD",
+    "logo": "https://bit.ly/3zkk7A8",
+    "type": "channel",
+    "position": 40,
+    "streamsFile": "streams/2779.json"
+  },
+  {
+    "id": 2780,
+    "categoryId": "mbc_tv2",
+    "name": "|MBC| Panorama FHD",
+    "nameEn": "|MBC| Panorama FHD",
+    "logo": "hhttps://i.ibb.co/tsWQ5pz/panorama.jpg",
+    "type": "channel",
+    "position": 41,
+    "streamsFile": "streams/2780.json"
+  },
+  {
+    "id": 2781,
+    "categoryId": "mbc_tv2",
+    "name": "|MBC| 1 HD",
+    "nameEn": "|MBC| 1 HD",
+    "logo": "http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png",
+    "type": "channel",
+    "position": 42,
+    "streamsFile": "streams/2781.json"
+  },
+  {
+    "id": 2782,
+    "categoryId": "mbc_tv2",
+    "name": "|MBC| Masr HD",
+    "nameEn": "|MBC| Masr HD",
+    "logo": "https://i.ibb.co/BnhWg65/mbcmasr.png",
+    "type": "channel",
+    "position": 43,
+    "streamsFile": "streams/2782.json"
+  },
+  {
+    "id": 2783,
+    "categoryId": "mbc_tv2",
+    "name": "|MBC| Masr Drama HD",
+    "nameEn": "|MBC| Masr Drama HD",
+    "logo": "https://media0070.elcinema.com/tvguide/1399_1.png",
+    "type": "channel",
+    "position": 44,
+    "streamsFile": "streams/2783.json"
+  },
+  {
+    "id": 2784,
+    "categoryId": "mbc_tv2",
+    "name": "|MBC| Drama HD",
+    "nameEn": "|MBC| Drama HD",
+    "logo": "https://bit.ly/3zkk7A8",
+    "type": "channel",
+    "position": 45,
+    "streamsFile": "streams/2784.json"
+  },
+  {
+    "id": 2785,
+    "categoryId": "mbc_tv2",
+    "name": "|MBC| 1 LOW",
+    "nameEn": "|MBC| 1 LOW",
+    "logo": "http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png",
+    "type": "channel",
+    "position": 46,
+    "streamsFile": "streams/2785.json"
+  },
+  {
+    "id": 2786,
+    "categoryId": "mbc_tv2",
+    "name": "|MBC| Masr LOW",
+    "nameEn": "|MBC| Masr LOW",
+    "logo": "https://i.ibb.co/BnhWg65/mbcmasr.png",
+    "type": "channel",
+    "position": 47,
+    "streamsFile": "streams/2786.json"
+  },
+  {
+    "id": 2787,
+    "categoryId": "mbc_tv2",
+    "name": "|MBC| Masr Drama LOW",
+    "nameEn": "|MBC| Masr Drama LOW",
+    "logo": "https://media0070.elcinema.com/tvguide/1399_1.png",
+    "type": "channel",
+    "position": 48,
+    "streamsFile": "streams/2787.json"
+  },
+  {
+    "id": 2788,
+    "categoryId": "mbc_tv2",
+    "name": "|MBC| Drama LOW",
+    "nameEn": "|MBC| Drama LOW",
+    "logo": "https://bit.ly/3zkk7A8",
+    "type": "channel",
+    "position": 49,
+    "streamsFile": "streams/2788.json"
+  },
+  {
+    "id": 2789,
+    "categoryId": "mbc_tv2",
+    "name": "|MBC| Panorama LOW",
+    "nameEn": "|MBC| Panorama LOW",
+    "logo": "https://i.ibb.co/tsWQ5pz/panorama.jpg",
+    "type": "channel",
+    "position": 50,
+    "streamsFile": "streams/2789.json"
+  }
+]

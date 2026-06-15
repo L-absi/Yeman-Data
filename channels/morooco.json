@@ -1,0 +1,262 @@
+[
+  {
+    "id": 2259,
+    "categoryId": "morooco",
+    "name": "2M",
+    "nameEn": "2M",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/2259.json"
+  },
+  {
+    "id": 2260,
+    "categoryId": "morooco",
+    "name": "2M",
+    "nameEn": "2M",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/2260.json"
+  },
+  {
+    "id": 2261,
+    "categoryId": "morooco",
+    "name": "Arryadia (480p) #EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/",
+    "nameEn": "Arryadia (480p) #EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/2261.json"
+  },
+  {
+    "id": 2262,
+    "categoryId": "morooco",
+    "name": "2M",
+    "nameEn": "2M",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/2262.json"
+  },
+  {
+    "id": 2263,
+    "categoryId": "morooco",
+    "name": "2M Monde #EXTVLCOPT:http-referrer=https://2m.ma #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",
+    "nameEn": "2M Monde #EXTVLCOPT:http-referrer=https://2m.ma #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/2263.json"
+  },
+  {
+    "id": 2264,
+    "categoryId": "morooco",
+    "name": "2M Monde +1 (1080p)",
+    "nameEn": "2M Monde +1 (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/2264.json"
+  },
+  {
+    "id": 2265,
+    "categoryId": "morooco",
+    "name": "Al Aoula Inter",
+    "nameEn": "Al Aoula Inter",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/2265.json"
+  },
+  {
+    "id": 2266,
+    "categoryId": "morooco",
+    "name": "Arryadia",
+    "nameEn": "Arryadia",
+    "logo": "http://www.snrtlive.ma/sites/all/themes/snrtlive/images/arriyadia.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/2266.json"
+  },
+  {
+    "id": 2267,
+    "categoryId": "morooco",
+    "name": "Al Maghribia",
+    "nameEn": "Al Maghribia",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/2267.json"
+  },
+  {
+    "id": 2268,
+    "categoryId": "morooco",
+    "name": "Al Maghribia",
+    "nameEn": "Al Maghribia",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/2268.json"
+  },
+  {
+    "id": 2269,
+    "categoryId": "morooco",
+    "name": "Al Maghribia",
+    "nameEn": "Al Maghribia",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/2269.json"
+  },
+  {
+    "id": 2270,
+    "categoryId": "morooco",
+    "name": "Assadissa",
+    "nameEn": "Assadissa",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/2270.json"
+  },
+  {
+    "id": 2271,
+    "categoryId": "morooco",
+    "name": "Chada TV (720p)",
+    "nameEn": "Chada TV (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/2271.json"
+  },
+  {
+    "id": 2272,
+    "categoryId": "morooco",
+    "name": "Chada TV (720p)",
+    "nameEn": "Chada TV (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/2272.json"
+  },
+  {
+    "id": 2273,
+    "categoryId": "morooco",
+    "name": "Chada TV (720p)",
+    "nameEn": "Chada TV (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/2273.json"
+  },
+  {
+    "id": 2274,
+    "categoryId": "morooco",
+    "name": "Medi 1 TV Afrique (720p)",
+    "nameEn": "Medi 1 TV Afrique (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/2274.json"
+  },
+  {
+    "id": 2275,
+    "categoryId": "morooco",
+    "name": "Medi 1 TV Afrique (720p)",
+    "nameEn": "Medi 1 TV Afrique (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/2275.json"
+  },
+  {
+    "id": 2276,
+    "categoryId": "morooco",
+    "name": "Medi1TV Afrique",
+    "nameEn": "Medi1TV Afrique",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/2276.json"
+  },
+  {
+    "id": 2277,
+    "categoryId": "morooco",
+    "name": "Medi 1 TV Arabic (720p)",
+    "nameEn": "Medi 1 TV Arabic (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/2277.json"
+  },
+  {
+    "id": 2278,
+    "categoryId": "morooco",
+    "name": "Medi 1 TV Arabic (720p)",
+    "nameEn": "Medi 1 TV Arabic (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 18,
+    "streamsFile": "streams/2278.json"
+  },
+  {
+    "id": 2279,
+    "categoryId": "morooco",
+    "name": "Medi 1 TV Maghreb (720p)",
+    "nameEn": "Medi 1 TV Maghreb (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 19,
+    "streamsFile": "streams/2279.json"
+  },
+  {
+    "id": 2280,
+    "categoryId": "morooco",
+    "name": "Medi 1 TV Maghreb (720p)",
+    "nameEn": "Medi 1 TV Maghreb (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 20,
+    "streamsFile": "streams/2280.json"
+  },
+  {
+    "id": 2281,
+    "categoryId": "morooco",
+    "name": "Medi1TV Maghreb",
+    "nameEn": "Medi1TV Maghreb",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 21,
+    "streamsFile": "streams/2281.json"
+  },
+  {
+    "id": 2282,
+    "categoryId": "morooco",
+    "name": "StoryChannel TV (720p)",
+    "nameEn": "StoryChannel TV (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 22,
+    "streamsFile": "streams/2282.json"
+  },
+  {
+    "id": 2283,
+    "categoryId": "morooco",
+    "name": "Tamazight TV",
+    "nameEn": "Tamazight TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 23,
+    "streamsFile": "streams/2283.json"
+  },
+  {
+    "id": 2284,
+    "categoryId": "morooco",
+    "name": "MBC 5 HD",
+    "nameEn": "MBC 5 HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/4/48/Mbc5.webp",
+    "type": "channel",
+    "position": 66,
+    "streamsFile": "streams/2284.json"
+  }
+]

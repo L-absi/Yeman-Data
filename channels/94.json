@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1806,
+    "categoryId": "94",
+    "name": "Shahid Movies",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/bK3nHHX/image.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1806.json"
+  },
+  {
+    "id": 1797,
+    "categoryId": "94",
+    "name": "Shahid Aflam",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/bK3nHHX/image.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1797.json"
+  },
+  {
+    "id": 1805,
+    "categoryId": "94",
+    "name": "Ragel We Set Settat",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/E0stXgP.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1805.json"
+  },
+  {
+    "id": 1809,
+    "categoryId": "94",
+    "name": "Naser Al Qassaby",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/GtA3e2R.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1809.json"
+  },
+  {
+    "id": 1561,
+    "categoryId": "94",
+    "name": "Shahid Wi Fi",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/bK3nHHX/image.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1561.json"
+  },
+  {
+    "id": 1564,
+    "categoryId": "94",
+    "name": "Shahid WWE",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/bK3nHHX/image.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1564.json"
+  },
+  {
+    "id": 1551,
+    "categoryId": "94",
+    "name": "Shahid Maraya",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/bK3nHHX/image.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1551.json"
+  },
+  {
+    "id": 1554,
+    "categoryId": "94",
+    "name": "Shahid Bab Al Hara",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/bK3nHHX/image.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1554.json"
+  },
+  {
+    "id": 1570,
+    "categoryId": "94",
+    "name": "Shahid El Kebeer",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/bK3nHHX/image.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1570.json"
+  },
+  {
+    "id": 1557,
+    "categoryId": "94",
+    "name": "Shahid Fareej",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/bK3nHHX/image.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1557.json"
+  },
+  {
+    "id": 1558,
+    "categoryId": "94",
+    "name": "Shahid Al Meerath",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/bK3nHHX/image.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1558.json"
+  },
+  {
+    "id": 1565,
+    "categoryId": "94",
+    "name": "Desi Play",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/qovIt8v.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1565.json"
+  },
+  {
+    "id": 1553,
+    "categoryId": "94",
+    "name": "Shahid The Game",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/bK3nHHX/image.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1553.json"
+  },
+  {
+    "id": 1559,
+    "categoryId": "94",
+    "name": "Shahid Selfie",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/bK3nHHX/image.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1559.json"
+  },
+  {
+    "id": 1569,
+    "categoryId": "94",
+    "name": "Shahid Tash",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/bK3nHHX/image.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1569.json"
+  },
+  {
+    "id": 1552,
+    "categoryId": "94",
+    "name": "Shahid Top Chef",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/bK3nHHX/image.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1552.json"
+  },
+  {
+    "id": 1556,
+    "categoryId": "94",
+    "name": "Shahid Hassino",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/bK3nHHX/image.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1556.json"
+  },
+  {
+    "id": 1563,
+    "categoryId": "94",
+    "name": "Shahid Movies Action",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/bK3nHHX/image.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1563.json"
+  },
+  {
+    "id": 1562,
+    "categoryId": "94",
+    "name": "Shahid Movies Thriller",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/bK3nHHX/image.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1562.json"
+  },
+  {
+    "id": 1555,
+    "categoryId": "94",
+    "name": "Shahid Al Asouf",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/bK3nHHX/image.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1555.json"
+  },
+  {
+    "id": 1560,
+    "categoryId": "94",
+    "name": "Shahid Masrah Misr",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/bK3nHHX/image.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1560.json"
+  }
+]

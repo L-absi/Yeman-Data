@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "",
+    "license": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"qaqH4Tq-Htp00qyl4bonRw\",\"k\":\"z-lWhg-0w49wBIBzf6xg0Q\"},{\"kty\":\"oct\",\"kid\":\"Dfo5mkJdMJUCVfNX4kB-3w\",\"k\":\"-y-YjRFcNQZx9CyWsAuNFw\"},{\"kty\":\"oct\",\"kid\":\"3JlsvTnu28gFhh7bYdjNEw\",\"k\":\"wfH7tO9bY-MioiCbJoGwuw\"},{\"kty\":\"oct\",\"kid\":\"m0e5qGnNGQcPsFICRUfLQw\",\"k\":\"CWhcu87IT2KDo-zn9z2-bw\"},{\"kty\":\"oct\",\"kid\":\"Tf1zOP4TyvLCX2BXwolMBg\",\"k\":\"2WxI1mUnQ9drTVbK6XyWvQ\"}],\"type\":\"temporary\"}",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "name": "Cuatro",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/613/1/live.mpd"
+  }
+]

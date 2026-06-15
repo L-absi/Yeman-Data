@@ -1,0 +1,202 @@
+[
+  {
+    "id": 4358,
+    "categoryId": "islamic_tv",
+    "name": "IQRAA 1",
+    "nameEn": "IQRAA 1",
+    "logo": "https://i.ibb.co/S3Wm3q9/iqraanew.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4358.json"
+  },
+  {
+    "id": 4359,
+    "categoryId": "islamic_tv",
+    "name": "IQRAA 2",
+    "nameEn": "IQRAA 2",
+    "logo": "https://i.ibb.co/S3Wm3q9/iqraanew.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4359.json"
+  },
+  {
+    "id": 4360,
+    "categoryId": "islamic_tv",
+    "name": "IQRAA 3",
+    "nameEn": "IQRAA 3",
+    "logo": "https://i.ibb.co/S3Wm3q9/iqraanew.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4360.json"
+  },
+  {
+    "id": 4361,
+    "categoryId": "islamic_tv",
+    "name": "🕌مــكّة",
+    "nameEn": "🕌مــكّة",
+    "logo": "https://bit.ly/2Md9nOO",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4361.json"
+  },
+  {
+    "id": 4362,
+    "categoryId": "islamic_tv",
+    "name": "Quraan Kareem🕌",
+    "nameEn": "Quraan Kareem🕌",
+    "logo": "https://bit.ly/3ZSma9t",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/4362.json"
+  },
+  {
+    "id": 4363,
+    "categoryId": "islamic_tv",
+    "name": "Al Quran Shrja",
+    "nameEn": "Al Quran Shrja",
+    "logo": "https://github.com/abidm8/iptv.ara/blob/main/img/quran.ae.png?raw=true",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/4363.json"
+  },
+  {
+    "id": 4364,
+    "categoryId": "islamic_tv",
+    "name": "Bahrain_Quran TV🕌",
+    "nameEn": "Bahrain_Quran TV🕌",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/4364.json"
+  },
+  {
+    "id": 4365,
+    "categoryId": "islamic_tv",
+    "name": "Alfath Atfal TV 🕌",
+    "nameEn": "Alfath Atfal TV 🕌",
+    "logo": "https://i.imgur.com/p82RKIq.png",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/4365.json"
+  },
+  {
+    "id": 4366,
+    "categoryId": "islamic_tv",
+    "name": "Alfath Sonnah TV🕌",
+    "nameEn": "Alfath Sonnah TV🕌",
+    "logo": "https://i.imgur.com/7VYJStp.png",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/4366.json"
+  },
+  {
+    "id": 4367,
+    "categoryId": "islamic_tv",
+    "name": "Alfath TV🕌",
+    "nameEn": "Alfath TV🕌",
+    "logo": "https://i.imgur.com/87bdieg.png",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/4367.json"
+  },
+  {
+    "id": 4368,
+    "categoryId": "islamic_tv",
+    "name": "Istiqama TV🕌",
+    "nameEn": "Istiqama TV🕌",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/4368.json"
+  },
+  {
+    "id": 4369,
+    "categoryId": "islamic_tv",
+    "name": "Sharjahquran🕌",
+    "nameEn": "Sharjahquran🕌",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/4369.json"
+  },
+  {
+    "id": 4370,
+    "categoryId": "islamic_tv",
+    "name": "Sharjahtv2 TV🕌",
+    "nameEn": "Sharjahtv2 TV🕌",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/4370.json"
+  },
+  {
+    "id": 4371,
+    "categoryId": "islamic_tv",
+    "name": "Al Rahma TV",
+    "nameEn": "Al Rahma TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/4371.json"
+  },
+  {
+    "id": 4372,
+    "categoryId": "islamic_tv",
+    "name": "🕌قــاف",
+    "nameEn": "🕌قــاف",
+    "logo": "https://bit.ly/3zN4EZn",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/4372.json"
+  },
+  {
+    "id": 4373,
+    "categoryId": "islamic_tv",
+    "name": "Al Iarth Al Nabawi🕌",
+    "nameEn": "Al Iarth Al Nabawi🕌",
+    "logo": "https://bit.ly/41b8eZe",
+    "type": "channel",
+    "position": 18,
+    "streamsFile": "streams/4373.json"
+  },
+  {
+    "id": 4374,
+    "categoryId": "islamic_tv",
+    "name": "africatv 1🕌",
+    "nameEn": "africatv 1🕌",
+    "logo": "https://bit.ly/39ZVPhC",
+    "type": "channel",
+    "position": 19,
+    "streamsFile": "streams/4374.json"
+  },
+  {
+    "id": 4375,
+    "categoryId": "islamic_tv",
+    "name": "africatv 2🕌",
+    "nameEn": "africatv 2🕌",
+    "logo": "https://bit.ly/39ZVPhC",
+    "type": "channel",
+    "position": 20,
+    "streamsFile": "streams/4375.json"
+  },
+  {
+    "id": 4376,
+    "categoryId": "islamic_tv",
+    "name": "Maher Al Meaqli-Kaf🕌",
+    "nameEn": "Maher Al Meaqli-Kaf🕌",
+    "logo": "https://bit.ly/2M6CMtZ",
+    "type": "channel",
+    "position": 21,
+    "streamsFile": "streams/4376.json"
+  },
+  {
+    "id": 4377,
+    "categoryId": "islamic_tv",
+    "name": "Affasy TV🕌",
+    "nameEn": "Affasy TV🕌",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 22,
+    "streamsFile": "streams/4377.json"
+  }
+]

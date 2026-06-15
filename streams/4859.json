@@ -1,0 +1,24 @@
+[
+  {
+    "headers": "",
+    "license": "0b6e5fe5b1d140b092e22cc662088276:6bdd76adbc5bb25089983b2500dde7ca",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "name": "Dazn4",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "Dazn5",
+    "Referer": "",
+    "userAgent": "",
+    "position": "1",
+    "url": "http://znty.dyndns.org:5010/hls/eleven4.m3u8"
+  }
+]

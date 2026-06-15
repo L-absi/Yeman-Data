@@ -1,0 +1,11 @@
+[
+  {
+    "headers": "Referer|https://snrt.player.easybroadcast.io/|",
+    "otherHeaders": "",
+    "name": "Arryadia (480p) #EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/",
+    "Referer": "https://snrt.player.easybroadcast.io/",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8"
+  }
+]

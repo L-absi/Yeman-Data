@@ -1,0 +1,62 @@
+[
+  {
+    "id": 4969,
+    "categoryId": "tring_sport",
+    "name": "Tring1",
+    "nameEn": "Tring1",
+    "logo": "https://i5.satexpat.com/cha/al/tring-468x144.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4969.json"
+  },
+  {
+    "id": 4970,
+    "categoryId": "tring_sport",
+    "name": "Tring2",
+    "nameEn": "Tring2",
+    "logo": "https://i5.satexpat.com/cha/al/tring-468x144.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4970.json"
+  },
+  {
+    "id": 4971,
+    "categoryId": "tring_sport",
+    "name": "Tring3",
+    "nameEn": "Tring3",
+    "logo": "https://i5.satexpat.com/cha/al/tring-468x144.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4971.json"
+  },
+  {
+    "id": 4972,
+    "categoryId": "tring_sport",
+    "name": "Tring4",
+    "nameEn": "Tring4",
+    "logo": "https://i5.satexpat.com/cha/al/tring-468x144.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4972.json"
+  },
+  {
+    "id": 4973,
+    "categoryId": "tring_sport",
+    "name": "Tring5",
+    "nameEn": "Tring5",
+    "logo": "https://i5.satexpat.com/cha/al/tring-468x144.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4973.json"
+  },
+  {
+    "id": 4974,
+    "categoryId": "tring_sport",
+    "name": "Tring6",
+    "nameEn": "Tring6",
+    "logo": "https://i5.satexpat.com/cha/al/tring-468x144.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4974.json"
+  }
+]

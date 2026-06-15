@@ -1,0 +1,122 @@
+[
+  {
+    "id": 2247,
+    "categoryId": "mauritanietv",
+    "name": "|MR| AL MOURABITOUNE",
+    "nameEn": "|MR| AL MOURABITOUNE",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/2247.json"
+  },
+  {
+    "id": 2248,
+    "categoryId": "mauritanietv",
+    "name": "|MR| EL WATANIA TV",
+    "nameEn": "|MR| EL WATANIA TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/2248.json"
+  },
+  {
+    "id": 2249,
+    "categoryId": "mauritanietv",
+    "name": "|MR| SAHEL TV",
+    "nameEn": "|MR| SAHEL TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/2249.json"
+  },
+  {
+    "id": 2250,
+    "categoryId": "mauritanietv",
+    "name": "|MR| Arriadia MOURITANIA",
+    "nameEn": "|MR| Arriadia MOURITANIA",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/2250.json"
+  },
+  {
+    "id": 2251,
+    "categoryId": "mauritanietv",
+    "name": "|MR| EL MOURITANIA 2",
+    "nameEn": "|MR| EL MOURITANIA 2",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/2251.json"
+  },
+  {
+    "id": 2252,
+    "categoryId": "mauritanietv",
+    "name": "|MR| Athagavia MOURITANIA",
+    "nameEn": "|MR| Athagavia MOURITANIA",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/2252.json"
+  },
+  {
+    "id": 2253,
+    "categoryId": "mauritanietv",
+    "name": "|MR| ELMAHDRA",
+    "nameEn": "|MR| ELMAHDRA",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/2253.json"
+  },
+  {
+    "id": 2254,
+    "categoryId": "mauritanietv",
+    "name": "|MR| EL MOURITANIA",
+    "nameEn": "|MR| EL MOURITANIA",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/2254.json"
+  },
+  {
+    "id": 2255,
+    "categoryId": "mauritanietv",
+    "name": "|MR| EL MAHADRA Mauritania",
+    "nameEn": "|MR| EL MAHADRA Mauritania",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/2255.json"
+  },
+  {
+    "id": 2256,
+    "categoryId": "mauritanietv",
+    "name": "|MR| AL BARLEMANIA",
+    "nameEn": "|MR| AL BARLEMANIA",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/2256.json"
+  },
+  {
+    "id": 2257,
+    "categoryId": "mauritanietv",
+    "name": "|MR| CHINGUIT TV",
+    "nameEn": "|MR| CHINGUIT TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/2257.json"
+  },
+  {
+    "id": 2258,
+    "categoryId": "mauritanietv",
+    "name": "|MR| AL_MOURITANIYA_HD",
+    "nameEn": "|MR| AL_MOURITANIYA_HD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/2258.json"
+  }
+]

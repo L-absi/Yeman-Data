@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "",
+    "license": "0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "name": "Sport TV 2 PT #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD"
+  }
+]

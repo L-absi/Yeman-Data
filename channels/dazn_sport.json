@@ -1,0 +1,72 @@
+[
+  {
+    "id": 4774,
+    "categoryId": "dazn_sport",
+    "name": "FAST",
+    "nameEn": "FAST",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToB1YkhTgRKUJV-167QVu7CMGN_jPmeJ1miyLXVxYMAA&s=10",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4774.json"
+  },
+  {
+    "id": 4775,
+    "categoryId": "dazn_sport",
+    "name": "SportDigital",
+    "nameEn": "SportDigital",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm1FktMUotJPW-w1EDHTNrFc-ck3_d6kd9npBRjl8IgQ&s=10",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4775.json"
+  },
+  {
+    "id": 4776,
+    "categoryId": "dazn_sport",
+    "name": "Digital+1",
+    "nameEn": "Digital+1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxz480zFjZKYgN1y6ZFvAj4Ra1q-rmf8RnE1vE7meRgA&s=10",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4776.json"
+  },
+  {
+    "id": 4777,
+    "categoryId": "dazn_sport",
+    "name": "Calcio",
+    "nameEn": "Calcio",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcslylbPJzNBHWt5-URcXEz_D229jUtF1jvnrG7T54A&s=10",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4777.json"
+  },
+  {
+    "id": 4778,
+    "categoryId": "dazn_sport",
+    "name": "DFB Play TV 🇩🇪",
+    "nameEn": "DFB Play TV 🇩🇪",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAgW_udRW-HJ1QA4hm1H7_bpWDqvMBeTBflPjGq2af&s",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/4778.json"
+  },
+  {
+    "id": 4779,
+    "categoryId": "dazn_sport",
+    "name": "Sport1",
+    "nameEn": "Sport1",
+    "logo": "https://i.ibb.co/DG6ZNVM/sport1-de.png",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/4779.json"
+  },
+  {
+    "id": 4780,
+    "categoryId": "dazn_sport",
+    "name": "DigitalFree",
+    "nameEn": "DigitalFree",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxz480zFjZKYgN1y6ZFvAj4Ra1q-rmf8RnE1vE7meRgA&s=10",
+    "type": "channel",
+    "position": 68,
+    "streamsFile": "streams/4780.json"
+  }
+]

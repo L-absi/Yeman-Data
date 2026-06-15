@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1024,
+    "categoryId": "52",
+    "name": "BBC Arabic",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/IJMmYPx.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1024.json"
+  },
+  {
+    "id": 1025,
+    "categoryId": "52",
+    "name": "Sky News Arabia",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/pCE9piO.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1025.json"
+  },
+  {
+    "id": 1026,
+    "categoryId": "52",
+    "name": "France 24 Ar",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/geXWJbB.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1026.json"
+  },
+  {
+    "id": 1027,
+    "categoryId": "52",
+    "name": "RT Arabic",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/pg8k9Pn.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1027.json"
+  },
+  {
+    "id": 1028,
+    "categoryId": "52",
+    "name": "TRT Arabic",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/xGoywp3.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1028.json"
+  },
+  {
+    "id": 1029,
+    "categoryId": "52",
+    "name": "Al Jazeera",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/ogn5BxX.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1029.json"
+  },
+  {
+    "id": 1030,
+    "categoryId": "52",
+    "name": "Al Jazeera Mubasher ",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1030.json"
+  },
+  {
+    "id": 1031,
+    "categoryId": "52",
+    "name": "Al Jazeera Doc",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://media.info/l/o/5/5538.1498366495.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1031.json"
+  },
+  {
+    "id": 1032,
+    "categoryId": "52",
+    "name": "Al Hadath",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/Dhw5bG4.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1032.json"
+  },
+  {
+    "id": 1033,
+    "categoryId": "52",
+    "name": "Al Arabiya",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/Fv2ZqaF.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1033.json"
+  },
+  {
+    "id": 1034,
+    "categoryId": "52",
+    "name": "Alhurra",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/AlHurra_logo.svg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1034.json"
+  },
+  {
+    "id": 1035,
+    "categoryId": "52",
+    "name": "Al Mayadeen",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/XsNP1KB.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1035.json"
+  },
+  {
+    "id": 1036,
+    "categoryId": "52",
+    "name": "Al Alam",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/qUyCyGO.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1036.json"
+  },
+  {
+    "id": 1038,
+    "categoryId": "52",
+    "name": "DW Arabia",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/7UvVW9e.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1038.json"
+  },
+  {
+    "id": 1052,
+    "categoryId": "52",
+    "name": "Alaraby TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/pTd93En.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1052.json"
+  },
+  {
+    "id": 1053,
+    "categoryId": "52",
+    "name": "Alhiwar TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/M3iM6yT.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1053.json"
+  },
+  {
+    "id": 1581,
+    "categoryId": "52",
+    "name": "Alqanat 9 ",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://media.licdn.com/dms/image/C4D0BAQFC5M9PqPbpOA/company-logo_200_200/0/1519884622748?e=2147483647&v=beta&t=YshFqlPR83IsIlMsIfvRdqrLDHyobGuETbNN-_Oex94",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1581.json"
+  },
+  {
+    "id": 1917,
+    "categoryId": "52",
+    "name": "Al Mashhad",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://im4.ezgif.com/tmp/ezgif-4-7a6a22ed3c.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1917.json"
+  },
+  {
+    "id": 1418,
+    "categoryId": "52",
+    "name": "Asharq News",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/L1K408W.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1418.json"
+  },
+  {
+    "id": 1419,
+    "categoryId": "52",
+    "name": "Alghad TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/NTPVfQZ.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1419.json"
+  },
+  {
+    "id": 1443,
+    "categoryId": "52",
+    "name": "CNBC Arabia",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/CNBC_Arabia_Logo_2022.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1443.json"
+  }
+]

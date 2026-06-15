@@ -1,0 +1,35 @@
+[
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "Alkass Three",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8"
+  },
+  {
+    "headers": "find|m3u8",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "find|m3u8",
+    "name": "Ser2",
+    "Referer": "",
+    "userAgent": "",
+    "position": "1",
+    "url": "https://qna.org.qa/ar-QA/Live-Streaming-Channel-details?id=%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D9%83%D8%A7%D8%B3-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-1&date=23/12/2024"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "S1",
+    "Referer": "",
+    "userAgent": "",
+    "position": "2",
+    "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Local",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8",
+    "urlType": 1,
+    "userAgent": "",
+    "Referer": "",
+    "origin": null,
+    "headers": [],
+    "drm": null
+  },
+  {
+    "name": "2",
+    "url": "https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel5/index.m3u8",
+    "urlType": 1,
+    "userAgent": "",
+    "Referer": "",
+    "origin": null,
+    "headers": [],
+    "drm": null
+  }
+]

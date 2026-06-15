@@ -1,0 +1,35 @@
+[
+  {
+    "headers": "user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "ALW",
+    "Referer": "",
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)",
+    "position": "0",
+    "url": "http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237014.m3u8"
+  },
+  {
+    "headers": "user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "ALW2",
+    "Referer": "",
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)",
+    "position": "0",
+    "url": "http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237015.m3u8"
+  },
+  {
+    "headers": "Referer|https://increasecattle.net/embed/szkiaelgpj01|user-agent|yusfiptv|find|m3u8",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "find|m3u8",
+    "name": "Alw1",
+    "Referer": "https://increasecattle.net/embed/szkiaelgpj01",
+    "userAgent": "yusfiptv",
+    "position": "01",
+    "url": "https://increasecattle.net/embed/szkiaelgpj01"
+  }
+]

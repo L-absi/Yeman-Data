@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1575,
+    "categoryId": "86",
+    "name": "SSC News",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1575.json"
+  },
+  {
+    "id": 1397,
+    "categoryId": "86",
+    "name": "SSC 1",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1397.json"
+  },
+  {
+    "id": 1398,
+    "categoryId": "86",
+    "name": "SSC 2",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1398.json"
+  },
+  {
+    "id": 1399,
+    "categoryId": "86",
+    "name": "SSC 3",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1399.json"
+  },
+  {
+    "id": 1400,
+    "categoryId": "86",
+    "name": "SSC 4",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1400.json"
+  },
+  {
+    "id": 1401,
+    "categoryId": "86",
+    "name": "SSC 5",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1401.json"
+  },
+  {
+    "id": 1402,
+    "categoryId": "86",
+    "name": "SSC Extra 1",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1402.json"
+  },
+  {
+    "id": 1403,
+    "categoryId": "86",
+    "name": "SSC Extra 2",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1403.json"
+  },
+  {
+    "id": 1793,
+    "categoryId": "86",
+    "name": "SSC Extra 3",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1793.json"
+  }
+]

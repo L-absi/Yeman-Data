@@ -1,0 +1,156 @@
+[
+  {
+    "id": 2000,
+    "categoryId": "100",
+    "name": "Alkass 1",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2000.json"
+  },
+  {
+    "id": 2001,
+    "categoryId": "100",
+    "name": "Alkass 2",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2001.json"
+  },
+  {
+    "id": 2002,
+    "categoryId": "100",
+    "name": "Alkass 3",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2002.json"
+  },
+  {
+    "id": 2003,
+    "categoryId": "100",
+    "name": "Alkass 4",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2003.json"
+  },
+  {
+    "id": 2004,
+    "categoryId": "100",
+    "name": "Alkass 5",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2004.json"
+  },
+  {
+    "id": 2008,
+    "categoryId": "100",
+    "name": "Alkass 6",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2008.json"
+  },
+  {
+    "id": 2005,
+    "categoryId": "100",
+    "name": "Dubai Sports 1",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaIdnVgVHV7aV3rc5KMjf0HYYam4FobeIqqtmOumD5ElqPK--NBFjgzfWAtfTcOLYD2mnSmLSuGzTOA-d3X1clyEOTHRLuwByN6ucvodWYanroIOxA__MN3VpL4m2O8L2po4NUOUYDiDmPb3Xd5kXg-AQUu8p2hS3415Cm6rkL989MiZ2Crh6LOkCi/s320/dubai_sports_1.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2005.json"
+  },
+  {
+    "id": 2006,
+    "categoryId": "100",
+    "name": "Dubai Sports 2",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvLL8wZohwxk2TvSli-qseodyXdenTVOsLqUTlQ3MghE7RjU3E4aEj-Psg1HP7JT1wLHm6rqTZ2ASQubnUo_B760HKWcZ14KBmvHAaM4sdOuuHbVnkVkimBo2lWYEzX9HykwruKKd4EyGMNxWnFGwaJC3d46Svv-SGXW-SSINzgkj6k0OZIi7Gmpg0/s320/dubai_sports_2.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2006.json"
+  },
+  {
+    "id": 2009,
+    "categoryId": "100",
+    "name": "Dubai Sports 2",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvLL8wZohwxk2TvSli-qseodyXdenTVOsLqUTlQ3MghE7RjU3E4aEj-Psg1HP7JT1wLHm6rqTZ2ASQubnUo_B760HKWcZ14KBmvHAaM4sdOuuHbVnkVkimBo2lWYEzX9HykwruKKd4EyGMNxWnFGwaJC3d46Svv-SGXW-SSINzgkj6k0OZIi7Gmpg0/s320/dubai_sports_2.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2009.json"
+  },
+  {
+    "id": 2007,
+    "categoryId": "100",
+    "name": "Dubai Sports 3",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijos0jkB2pJlp3nXlO-df-QINoG4IE-v5TvvfvVkeuhscX-kPzGxHliIOO3-CzJLVOD3ZCh3XyT9qkH_hg9s6UKuf3Ehnx2baRhHVNhblPt7R8XMBynKwPuCNWY6K3uVPmahYgg5kyTjX6sJch3Jhi1gFGsr2f3_3WhlkrU1WvPGh_7mdRGEZ7cQK2/s320/dubai_sports_3.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2007.json"
+  },
+  {
+    "id": 1415,
+    "categoryId": "100",
+    "name": "ON Time Sports 1",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/On_Time_Sports_Logo.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1415.json"
+  },
+  {
+    "id": 1416,
+    "categoryId": "100",
+    "name": "ON Time Sports 2",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/Zk2dCy7.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1416.json"
+  },
+  {
+    "id": 1417,
+    "categoryId": "100",
+    "name": "ON Time Sports 3",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/uCkq57D.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1417.json"
+  },
+  {
+    "id": 1397,
+    "categoryId": "100",
+    "name": "SSC 1",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1397.json"
+  }
+]

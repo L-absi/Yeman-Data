@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "name": "",
+      "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+      "url_type": 3,
+      "user_agent": "Mozilla/5.0",
+      "referer": "",
+      "event_channel_id": null,
+      "headers": {},
+      "drm": null
+    }
+  ]
+}

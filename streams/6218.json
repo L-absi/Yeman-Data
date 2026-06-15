@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "name": "",
+      "url": "https://estreams.tv.nej.cz/dash/CH_TVP1_HD.ism/playlist.mpd",
+      "url_type": 3,
+      "user_agent": "Mozilla/5.0",
+      "referer": "",
+      "event_channel_id": null,
+      "headers": {},
+      "drm": null
+    }
+  ]
+}

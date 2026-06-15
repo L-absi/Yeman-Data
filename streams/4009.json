@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "user-agent|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0|use-replace|true",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "use-replace|true",
+    "name": "Seta",
+    "Referer": "",
+    "userAgent": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
+    "position": "0",
+    "url": "http://158.101.222.193:88/georgia_play.php?id=setanta_georgia"
+  }
+]

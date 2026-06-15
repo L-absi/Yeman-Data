@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "",
+    "license": "cc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "name": "Sport TV 4 PT #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=cc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD"
+  }
+]

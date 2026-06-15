@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3191,
+    "categoryId": "aya_cx_tvalwan_قنوات_ألوان",
+    "name": "ALWAN TV 1",
+    "nameEn": "ALWAN TV 1",
+    "logo": "https://up6.cc/2025/05/174640309104961.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/3191.json"
+  },
+  {
+    "id": 3192,
+    "categoryId": "aya_cx_tvalwan_قنوات_ألوان",
+    "name": "ALWAN TV 2",
+    "nameEn": "ALWAN TV 2",
+    "logo": "https://up6.cc/2025/05/174640311747621.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/3192.json"
+  },
+  {
+    "id": 3193,
+    "categoryId": "aya_cx_tvalwan_قنوات_ألوان",
+    "name": "ALWAN TV 3",
+    "nameEn": "ALWAN TV 3",
+    "logo": "https://up6.cc/2025/05/174640314461031.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/3193.json"
+  },
+  {
+    "id": 3194,
+    "categoryId": "aya_cx_tvalwan_قنوات_ألوان",
+    "name": "ALWAN TV 4",
+    "nameEn": "ALWAN TV 4",
+    "logo": "https://up6.cc/2025/05/174640316876931.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/3194.json"
+  },
+  {
+    "id": 3195,
+    "categoryId": "aya_cx_tvalwan_قنوات_ألوان",
+    "name": "ALWAN TV 5",
+    "nameEn": "ALWAN TV 5",
+    "logo": "https://up6.cc/2025/05/174640309104961.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/3195.json"
+  },
+  {
+    "id": 3196,
+    "categoryId": "aya_cx_tvalwan_قنوات_ألوان",
+    "name": "ALWAN TV 6",
+    "nameEn": "ALWAN TV 6",
+    "logo": "https://up6.cc/2025/05/174640309104961.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/3196.json"
+  }
+]

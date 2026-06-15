@@ -1,0 +1,24 @@
+[
+  {
+    "headers": "",
+    "license": "a0723ff5bf2bbbb31dc727e4346b1cc7:29951a0a48586258ab168f26b3f58daa",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "name": "KSA",
+    "Referer": "",
+    "userAgent": "",
+    "position": "1",
+    "url": "https://neacdnpop3-edge01.aws.playco.com/live/eds/KSA_Sports1_HD/DASH/KSA_Sports1_HD.mpd"
+  },
+  {
+    "headers": "Referer|https://www.aloula.sa/|find|m3u8",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "find|m3u8",
+    "name": "ksa",
+    "Referer": "https://www.aloula.sa/",
+    "userAgent": "",
+    "position": "08",
+    "url": "https://aloula.faulio.com/api/v1.1/channels/9/player"
+  }
+]

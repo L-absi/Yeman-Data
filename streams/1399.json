@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Multi",
+    "url": "https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd",
+    "urlType": 1,
+    "userAgent": "",
+    "Referer": "",
+    "origin": null,
+    "headers": [],
+    "drm": {
+      "licenseUrl": null,
+      "headers": {},
+      "scheme": null
+    }
+  }
+]

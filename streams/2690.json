@@ -1,0 +1,50 @@
+[
+  {
+    "license": "0a414b719bade2acc124e22c042290f3:db84a5afa10a001dd73b094c14638212",
+    "headers": "",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "Multi 1",
+    "Referer": "",
+    "userAgent": "",
+    "position": "1",
+    "url": "https://edgiolive.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd"
+  },
+  {
+    "license": "0a414b719bade2acc124e22c042290f3:db84a5afa10a001dd73b094c14638212",
+    "headers": "",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "Multi 2",
+    "Referer": "",
+    "userAgent": "",
+    "position": "3",
+    "url": "https://uselector.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd"
+  },
+  {
+    "license": "e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f",
+    "headers": "tod-drm|true",
+    "scheme": "clearkey",
+    "otherHeaders": "tod-drm|true",
+    "isWeb": "false",
+    "name": "البث الاصلي",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd"
+  },
+  {
+    "license": "0a414b719bade2acc124e22c042290f3:db84a5afa10a001dd73b094c14638212",
+    "headers": "",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "Multi 3",
+    "Referer": "",
+    "userAgent": "",
+    "position": "5",
+    "url": "https://fastly-vod.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd"
+  }
+]

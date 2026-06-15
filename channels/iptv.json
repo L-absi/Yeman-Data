@@ -1,0 +1,1982 @@
+[
+  {
+    "id": 4081,
+    "categoryId": "iptv",
+    "name": "[COLOR orange]--- PRIVATE TV ---[/COLOR]",
+    "nameEn": "[COLOR orange]--- PRIVATE TV ---[/COLOR]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4081.json"
+  },
+  {
+    "id": 4082,
+    "categoryId": "iptv",
+    "name": "TEST 1",
+    "nameEn": "TEST 1",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4082.json"
+  },
+  {
+    "id": 4083,
+    "categoryId": "iptv",
+    "name": "TEST 2",
+    "nameEn": "TEST 2",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4083.json"
+  },
+  {
+    "id": 4084,
+    "categoryId": "iptv",
+    "name": "TEST 3",
+    "nameEn": "TEST 3",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4084.json"
+  },
+  {
+    "id": 4085,
+    "categoryId": "iptv",
+    "name": "TEST 5",
+    "nameEn": "TEST 5",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4085.json"
+  },
+  {
+    "id": 4086,
+    "categoryId": "iptv",
+    "name": "MNCTV",
+    "nameEn": "MNCTV",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d5/MNCTV_Tv_Now.gif/revision/latest/scale-to-width-down/250?cb=20190302025433",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/4086.json"
+  },
+  {
+    "id": 4087,
+    "categoryId": "iptv",
+    "name": "RCTI",
+    "nameEn": "RCTI",
+    "logo": "https://toppng.com/uploads/preview/rcti-tegak-logo-rcti-tegak-11563500815caw6siko4p.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/4087.json"
+  },
+  {
+    "id": 4088,
+    "categoryId": "iptv",
+    "name": "RTV 1",
+    "nameEn": "RTV 1",
+    "logo": "https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/4088.json"
+  },
+  {
+    "id": 4089,
+    "categoryId": "iptv",
+    "name": "RTV 2",
+    "nameEn": "RTV 2",
+    "logo": "https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/4089.json"
+  },
+  {
+    "id": 4090,
+    "categoryId": "iptv",
+    "name": "GTV",
+    "nameEn": "GTV",
+    "logo": "https://1.bp.blogspot.com/-BHJ3W6LF_ik/W-y7RilyI8I/AAAAAAAAP_o/INVLO7MqmrsNJjjzb6ZD6YhnuHlSlQMNgCLcBGAs/s1600/GTV.png",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/4090.json"
+  },
+  {
+    "id": 4091,
+    "categoryId": "iptv",
+    "name": "TV ONE",
+    "nameEn": "TV ONE",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_tvone_small1.png",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/4091.json"
+  },
+  {
+    "id": 4092,
+    "categoryId": "iptv",
+    "name": "INDOSIAR 1",
+    "nameEn": "INDOSIAR 1",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/4092.json"
+  },
+  {
+    "id": 4093,
+    "categoryId": "iptv",
+    "name": "INDOSIAR 2",
+    "nameEn": "INDOSIAR 2",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/4093.json"
+  },
+  {
+    "id": 4094,
+    "categoryId": "iptv",
+    "name": "SCTV 1",
+    "nameEn": "SCTV 1",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/4094.json"
+  },
+  {
+    "id": 4095,
+    "categoryId": "iptv",
+    "name": "SCTV 2",
+    "nameEn": "SCTV 2",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/4095.json"
+  },
+  {
+    "id": 4096,
+    "categoryId": "iptv",
+    "name": "ANTV 1",
+    "nameEn": "ANTV 1",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_antv_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/4096.json"
+  },
+  {
+    "id": 4097,
+    "categoryId": "iptv",
+    "name": "ANTV 2",
+    "nameEn": "ANTV 2",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_antv_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 18,
+    "streamsFile": "streams/4097.json"
+  },
+  {
+    "id": 4098,
+    "categoryId": "iptv",
+    "name": "TRANS TV",
+    "nameEn": "TRANS TV",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 19,
+    "streamsFile": "streams/4098.json"
+  },
+  {
+    "id": 4099,
+    "categoryId": "iptv",
+    "name": "TRANS TV 2",
+    "nameEn": "TRANS TV 2",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 20,
+    "streamsFile": "streams/4099.json"
+  },
+  {
+    "id": 4100,
+    "categoryId": "iptv",
+    "name": "TRANS 7",
+    "nameEn": "TRANS 7",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 21,
+    "streamsFile": "streams/4100.json"
+  },
+  {
+    "id": 4101,
+    "categoryId": "iptv",
+    "name": "TRANS 7 2",
+    "nameEn": "TRANS 7 2",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 22,
+    "streamsFile": "streams/4101.json"
+  },
+  {
+    "id": 4102,
+    "categoryId": "iptv",
+    "name": "METRO TV",
+    "nameEn": "METRO TV",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 23,
+    "streamsFile": "streams/4102.json"
+  },
+  {
+    "id": 4103,
+    "categoryId": "iptv",
+    "name": "KOMPAS TV",
+    "nameEn": "KOMPAS TV",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 24,
+    "streamsFile": "streams/4103.json"
+  },
+  {
+    "id": 4104,
+    "categoryId": "iptv",
+    "name": "NET TV 1",
+    "nameEn": "NET TV 1",
+    "logo": "https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 25,
+    "streamsFile": "streams/4104.json"
+  },
+  {
+    "id": 4105,
+    "categoryId": "iptv",
+    "name": "NET TV 2",
+    "nameEn": "NET TV 2",
+    "logo": "https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 26,
+    "streamsFile": "streams/4105.json"
+  },
+  {
+    "id": 4106,
+    "categoryId": "iptv",
+    "name": "RRI NET",
+    "nameEn": "RRI NET",
+    "logo": "https://www.useetv.com/pimages/logo_rri_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 27,
+    "streamsFile": "streams/4106.json"
+  },
+  {
+    "id": 4107,
+    "categoryId": "iptv",
+    "name": "CNN ASIA",
+    "nameEn": "CNN ASIA",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 28,
+    "streamsFile": "streams/4107.json"
+  },
+  {
+    "id": 4108,
+    "categoryId": "iptv",
+    "name": "BERITA SATU TV",
+    "nameEn": "BERITA SATU TV",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 29,
+    "streamsFile": "streams/4108.json"
+  },
+  {
+    "id": 4109,
+    "categoryId": "iptv",
+    "name": "CNBC INDONESIA TV",
+    "nameEn": "CNBC INDONESIA TV",
+    "logo": "https://www.rapidtvnews.com/images/CNBC_TV18_logo.jpg",
+    "type": "channel",
+    "position": 30,
+    "streamsFile": "streams/4109.json"
+  },
+  {
+    "id": 4110,
+    "categoryId": "iptv",
+    "name": "TVRI-M-NASIONAL",
+    "nameEn": "TVRI-M-NASIONAL",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 31,
+    "streamsFile": "streams/4110.json"
+  },
+  {
+    "id": 4111,
+    "categoryId": "iptv",
+    "name": "TVRI DKI",
+    "nameEn": "TVRI DKI",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 32,
+    "streamsFile": "streams/4111.json"
+  },
+  {
+    "id": 4112,
+    "categoryId": "iptv",
+    "name": "TVRI JTM",
+    "nameEn": "TVRI JTM",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 33,
+    "streamsFile": "streams/4112.json"
+  },
+  {
+    "id": 4113,
+    "categoryId": "iptv",
+    "name": "TVRI BALI",
+    "nameEn": "TVRI BALI",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 34,
+    "streamsFile": "streams/4113.json"
+  },
+  {
+    "id": 4114,
+    "categoryId": "iptv",
+    "name": "PHOTO TV",
+    "nameEn": "PHOTO TV",
+    "logo": "https://www.useetv.com/pimages/logo_useephoto_small.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 35,
+    "streamsFile": "streams/4114.json"
+  },
+  {
+    "id": 4115,
+    "categoryId": "iptv",
+    "name": "UTV PRIME",
+    "nameEn": "UTV PRIME",
+    "logo": "https://www.useetv.com/pimages/logo_useeprime_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 36,
+    "streamsFile": "streams/4115.json"
+  },
+  {
+    "id": 4116,
+    "categoryId": "iptv",
+    "name": "R.TERAMPIL",
+    "nameEn": "R.TERAMPIL",
+    "logo": "https://thumbs2.imgbox.com/ec/c0/UnXb8cVm_t.jpg",
+    "type": "channel",
+    "position": 37,
+    "streamsFile": "streams/4116.json"
+  },
+  {
+    "id": 4117,
+    "categoryId": "iptv",
+    "name": "SEA TODAY",
+    "nameEn": "SEA TODAY",
+    "logo": "https://www.useetv.com/pimages/logo_seatoday_small.png?v=1",
+    "type": "channel",
+    "position": 38,
+    "streamsFile": "streams/4117.json"
+  },
+  {
+    "id": 4118,
+    "categoryId": "iptv",
+    "name": "CNA TV",
+    "nameEn": "CNA TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 39,
+    "streamsFile": "streams/4118.json"
+  },
+  {
+    "id": 4119,
+    "categoryId": "iptv",
+    "name": "IDX CHANNELS",
+    "nameEn": "IDX CHANNELS",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 40,
+    "streamsFile": "streams/4119.json"
+  },
+  {
+    "id": 4120,
+    "categoryId": "iptv",
+    "name": "[COLOR orange]--- REGIONAL STATE ---[/COLOR]",
+    "nameEn": "[COLOR orange]--- REGIONAL STATE ---[/COLOR]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 41,
+    "streamsFile": "streams/4120.json"
+  },
+  {
+    "id": 4121,
+    "categoryId": "iptv",
+    "name": "TV EDUKASI",
+    "nameEn": "TV EDUKASI",
+    "logo": "https://images.useetv.com/logo_tvedukasi_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 42,
+    "streamsFile": "streams/4121.json"
+  },
+  {
+    "id": 4122,
+    "categoryId": "iptv",
+    "name": "K-Star",
+    "nameEn": "K-Star",
+    "logo": "http://cdn.ninmedia.net/channel/1652856393429909758.png",
+    "type": "channel",
+    "position": 43,
+    "streamsFile": "streams/4122.json"
+  },
+  {
+    "id": 4123,
+    "categoryId": "iptv",
+    "name": "CNI TV",
+    "nameEn": "CNI TV",
+    "logo": "http://cdn.ninmedia.net/channel/1654221602857138598.png",
+    "type": "channel",
+    "position": 44,
+    "streamsFile": "streams/4123.json"
+  },
+  {
+    "id": 4124,
+    "categoryId": "iptv",
+    "name": "KSB-TV",
+    "nameEn": "KSB-TV",
+    "logo": "http://cdn.ninmedia.net/channel/1649048187600191401.png",
+    "type": "channel",
+    "position": 45,
+    "streamsFile": "streams/4124.json"
+  },
+  {
+    "id": 4125,
+    "categoryId": "iptv",
+    "name": "AFB-TV",
+    "nameEn": "AFB-TV",
+    "logo": "http://cdn.ninmedia.net/channel/1655191031292202722.png",
+    "type": "channel",
+    "position": 46,
+    "streamsFile": "streams/4125.json"
+  },
+  {
+    "id": 4126,
+    "categoryId": "iptv",
+    "name": "ATVLI-TV",
+    "nameEn": "ATVLI-TV",
+    "logo": "http://cdn.ninmedia.net/channel/1649129937157280801.jpeg",
+    "type": "channel",
+    "position": 47,
+    "streamsFile": "streams/4126.json"
+  },
+  {
+    "id": 4127,
+    "categoryId": "iptv",
+    "name": "NCB-TV",
+    "nameEn": "NCB-TV",
+    "logo": "http://cdn.ninmedia.net/channel/16513889772827905.jpeg",
+    "type": "channel",
+    "position": 48,
+    "streamsFile": "streams/4127.json"
+  },
+  {
+    "id": 4128,
+    "categoryId": "iptv",
+    "name": "CHANNEL DESA TV",
+    "nameEn": "CHANNEL DESA TV",
+    "logo": "https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/12032943_903014076420343_6779637624341404803_n.png?_nc_cat=108&_nc_sid=85a577&_nc_oc=AQnGG0M1I7Vd9X5dr2IbNwp9wHTvYnxd2wleRViv6zW6WRgW4K5D6MbiPFkjMlvjCyE&_nc_ht=scontent-sin6-2.xx&oh=c688fb73920427cfd0ea1bcd445a9f07&oe=5E966AC4",
+    "type": "channel",
+    "position": 49,
+    "streamsFile": "streams/4128.json"
+  },
+  {
+    "id": 4129,
+    "categoryId": "iptv",
+    "name": "O CHANNEL",
+    "nameEn": "O CHANNEL",
+    "logo": "https://www.useetv.com/pimages/logo_ochannel_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 50,
+    "streamsFile": "streams/4129.json"
+  },
+  {
+    "id": 4130,
+    "categoryId": "iptv",
+    "name": "ELSHINTA TV",
+    "nameEn": "ELSHINTA TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 51,
+    "streamsFile": "streams/4130.json"
+  },
+  {
+    "id": 4131,
+    "categoryId": "iptv",
+    "name": "DAAI",
+    "nameEn": "DAAI",
+    "logo": "https://www.useetv.com/pimages/logo_daaitv_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 52,
+    "streamsFile": "streams/4131.json"
+  },
+  {
+    "id": 4132,
+    "categoryId": "iptv",
+    "name": "MAGNA TV",
+    "nameEn": "MAGNA TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 53,
+    "streamsFile": "streams/4132.json"
+  },
+  {
+    "id": 4133,
+    "categoryId": "iptv",
+    "name": "ADVENTURE TV",
+    "nameEn": "ADVENTURE TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 54,
+    "streamsFile": "streams/4133.json"
+  },
+  {
+    "id": 4134,
+    "categoryId": "iptv",
+    "name": "LOMBOK TV",
+    "nameEn": "LOMBOK TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 55,
+    "streamsFile": "streams/4134.json"
+  },
+  {
+    "id": 4135,
+    "categoryId": "iptv",
+    "name": "GPR TV",
+    "nameEn": "GPR TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 56,
+    "streamsFile": "streams/4135.json"
+  },
+  {
+    "id": 4136,
+    "categoryId": "iptv",
+    "name": "DM MALANG TV",
+    "nameEn": "DM MALANG TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 57,
+    "streamsFile": "streams/4136.json"
+  },
+  {
+    "id": 4137,
+    "categoryId": "iptv",
+    "name": "JANGKAR TV",
+    "nameEn": "JANGKAR TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 58,
+    "streamsFile": "streams/4137.json"
+  },
+  {
+    "id": 4138,
+    "categoryId": "iptv",
+    "name": "RIAU RBein  TV",
+    "nameEn": "RIAU RBein  TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 59,
+    "streamsFile": "streams/4138.json"
+  },
+  {
+    "id": 4139,
+    "categoryId": "iptv",
+    "name": "UGO ONE TV",
+    "nameEn": "UGO ONE TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 60,
+    "streamsFile": "streams/4139.json"
+  },
+  {
+    "id": 4140,
+    "categoryId": "iptv",
+    "name": "JTV",
+    "nameEn": "JTV",
+    "logo": "https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 61,
+    "streamsFile": "streams/4140.json"
+  },
+  {
+    "id": 4141,
+    "categoryId": "iptv",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://pbs.twimg.com/profile_images/950408345445285888/kZLgeCmK_400x400.jpg",
+    "type": "channel",
+    "position": 62,
+    "streamsFile": "streams/4141.json"
+  },
+  {
+    "id": 4142,
+    "categoryId": "iptv",
+    "name": "AREK TV",
+    "nameEn": "AREK TV",
+    "logo": "https://pbs.twimg.com/profile_images/378800000427923796/a367cdcbc7510c783b456e8be4d6d9db.png",
+    "type": "channel",
+    "position": 63,
+    "streamsFile": "streams/4142.json"
+  },
+  {
+    "id": 4143,
+    "categoryId": "iptv",
+    "name": "JAKARTA GLOBE NEWS",
+    "nameEn": "JAKARTA GLOBE NEWS",
+    "logo": "https://yt3.ggpht.com/-BbAcB7WSiqc/AAAAAAAAAAI/AAAAAAAAAAA/yA_Eo7PYLJI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "type": "channel",
+    "position": 64,
+    "streamsFile": "streams/4143.json"
+  },
+  {
+    "id": 4144,
+    "categoryId": "iptv",
+    "name": "JURNAL TV",
+    "nameEn": "JURNAL TV",
+    "logo": "https://jurnaltv.net/wp-content/uploads/2019/11/logo.png",
+    "type": "channel",
+    "position": 65,
+    "streamsFile": "streams/4144.json"
+  },
+  {
+    "id": 4145,
+    "categoryId": "iptv",
+    "name": "DIGDBein  TV",
+    "nameEn": "DIGDBein  TV",
+    "logo": "https://pbs.twimg.com/profile_images/992311619974709248/rWGFh-wL_400x400.jpg",
+    "type": "channel",
+    "position": 66,
+    "streamsFile": "streams/4145.json"
+  },
+  {
+    "id": 4146,
+    "categoryId": "iptv",
+    "name": "BATU TV",
+    "nameEn": "BATU TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png",
+    "type": "channel",
+    "position": 67,
+    "streamsFile": "streams/4146.json"
+  },
+  {
+    "id": 4147,
+    "categoryId": "iptv",
+    "name": "SALING SAPA TV",
+    "nameEn": "SALING SAPA TV",
+    "logo": "https://yt3.ggpht.com/-1iO-f7p94mU/AAAAAAAAAAI/AAAAAAAAAAA/SrN5r51cvvE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "type": "channel",
+    "position": 68,
+    "streamsFile": "streams/4147.json"
+  },
+  {
+    "id": 4148,
+    "categoryId": "iptv",
+    "name": "INSPIRA TV",
+    "nameEn": "INSPIRA TV",
+    "logo": "https://lh4.ggpht.com/Gd6HCfyHndcJxuCwaZdld9FSxpSAtfS8X0Lu7jgmtik0atyB8R0E6Qd9JNrLme6kZg=w300",
+    "type": "channel",
+    "position": 69,
+    "streamsFile": "streams/4148.json"
+  },
+  {
+    "id": 4149,
+    "categoryId": "iptv",
+    "name": "THE INDONESIAN CHANNEL",
+    "nameEn": "THE INDONESIAN CHANNEL",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVzBlQyGE7gWM3MLL1fOBBV_7l35_JuNPkrGPLvJIE4lj-5p54",
+    "type": "channel",
+    "position": 70,
+    "streamsFile": "streams/4149.json"
+  },
+  {
+    "id": 4150,
+    "categoryId": "iptv",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://pbs.twimg.com/profile_images/687179150071738368/6Fj2ZfwH.png",
+    "type": "channel",
+    "position": 71,
+    "streamsFile": "streams/4150.json"
+  },
+  {
+    "id": 4151,
+    "categoryId": "iptv",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://pbs.twimg.com/profile_images/1237670426379055104/xfyZo4Q3_400x400.jpg",
+    "type": "channel",
+    "position": 72,
+    "streamsFile": "streams/4151.json"
+  },
+  {
+    "id": 4152,
+    "categoryId": "iptv",
+    "name": "JEK TV",
+    "nameEn": "JEK TV",
+    "logo": "https://pbs.twimg.com/profile_images/2701355336/a58096d47a26ccbd82779004b9e8099c_400x400.jpeg",
+    "type": "channel",
+    "position": 73,
+    "streamsFile": "streams/4152.json"
+  },
+  {
+    "id": 4153,
+    "categoryId": "iptv",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/id/4/4e/Sunda_Kiwari_TV.png",
+    "type": "channel",
+    "position": 74,
+    "streamsFile": "streams/4153.json"
+  },
+  {
+    "id": 4154,
+    "categoryId": "iptv",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://yt3.ggpht.com/-OmQO6EEx2SI/AAAAAAAAAAI/AAAAAAAAAAA/8jGbdzEBpoU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "type": "channel",
+    "position": 75,
+    "streamsFile": "streams/4154.json"
+  },
+  {
+    "id": 4155,
+    "categoryId": "iptv",
+    "name": "DPR RI TV",
+    "nameEn": "DPR RI TV",
+    "logo": "https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy_400x400.jpg",
+    "type": "channel",
+    "position": 76,
+    "streamsFile": "streams/4155.json"
+  },
+  {
+    "id": 4156,
+    "categoryId": "iptv",
+    "name": "",
+    "nameEn": "",
+    "logo": "http://3.bp.blogspot.com/-zfOsIfk0lCA/VWEoFaFs_1I/AAAAAAAAAzo/YSsoEzH3PIs/s1600/rctv3.jpg",
+    "type": "channel",
+    "position": 77,
+    "streamsFile": "streams/4156.json"
+  },
+  {
+    "id": 4157,
+    "categoryId": "iptv",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://lh4.googleusercontent.com/proxy/n41rsZpwT0wdI3Ya0NMDl_IyT4bzLxRbo6P9DNq7I89SHf2MNdARdNtNDcH6EV13ql9FjrvDVfqcv-wuW1m1HJK1bdAp6U3vBAintFTGm7L9JFFr1g",
+    "type": "channel",
+    "position": 78,
+    "streamsFile": "streams/4157.json"
+  },
+  {
+    "id": 4158,
+    "categoryId": "iptv",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://lh4.googleusercontent.com/proxy/GftysU-A4MY2h0Ei_oTbHsf5nt-yNpAjFTyCwfDu59RAkOY3xGy4gzvht25qhRpzK-H3KdBPddpHJwWjgRI",
+    "type": "channel",
+    "position": 79,
+    "streamsFile": "streams/4158.json"
+  },
+  {
+    "id": 4159,
+    "categoryId": "iptv",
+    "name": "SEMARANG TV",
+    "nameEn": "SEMARANG TV",
+    "logo": "https://yt3.ggpht.com/-z2R_7gWoj1A/AAAAAAAAAAI/AAAAAAAAAAA/SH-hlrW9DXo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "type": "channel",
+    "position": 80,
+    "streamsFile": "streams/4159.json"
+  },
+  {
+    "id": 4160,
+    "categoryId": "iptv",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://pbs.twimg.com/profile_images/2479366906/427965_384676491563786_1216174982_n_400x400.jpg",
+    "type": "channel",
+    "position": 81,
+    "streamsFile": "streams/4160.json"
+  },
+  {
+    "id": 4161,
+    "categoryId": "iptv",
+    "name": "MADU TV",
+    "nameEn": "MADU TV",
+    "logo": "https://yt3.ggpht.com/a-/AAuE7mCZjmYOda09jOYJvvmU98VgFF8zZeQGw4sa6w=s800-mo-c-c0xffffffff-rj-k-no",
+    "type": "channel",
+    "position": 82,
+    "streamsFile": "streams/4161.json"
+  },
+  {
+    "id": 4162,
+    "categoryId": "iptv",
+    "name": "NUSANTARA TV",
+    "nameEn": "NUSANTARA TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 83,
+    "streamsFile": "streams/4162.json"
+  },
+  {
+    "id": 4163,
+    "categoryId": "iptv",
+    "name": "[COLOR yellow]-- MOVIES --[/COLOR]",
+    "nameEn": "[COLOR yellow]-- MOVIES --[/COLOR]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 84,
+    "streamsFile": "streams/4163.json"
+  },
+  {
+    "id": 4164,
+    "categoryId": "iptv",
+    "name": "SINEMA INDO",
+    "nameEn": "SINEMA INDO",
+    "logo": "https://myrepublic.co.id/wp-content/uploads/2019/02/sinema-indonesia.jpg",
+    "type": "channel",
+    "position": 85,
+    "streamsFile": "streams/4164.json"
+  },
+  {
+    "id": 4165,
+    "categoryId": "iptv",
+    "name": "My Cinema",
+    "nameEn": "My Cinema",
+    "logo": "https://www.useetv.com/pimages/logo_new-mycinema_small.png",
+    "type": "channel",
+    "position": 86,
+    "streamsFile": "streams/4165.json"
+  },
+  {
+    "id": 4166,
+    "categoryId": "iptv",
+    "name": "My Cinema Asia",
+    "nameEn": "My Cinema Asia",
+    "logo": "https://www.useetv.com/pimages/logo_new-mycinemaasia_small.png",
+    "type": "channel",
+    "position": 87,
+    "streamsFile": "streams/4166.json"
+  },
+  {
+    "id": 4167,
+    "categoryId": "iptv",
+    "name": "ZEE BIOSKOP",
+    "nameEn": "ZEE BIOSKOP",
+    "logo": "https://www.useetv.com/pimages/logo_zbioskop_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 88,
+    "streamsFile": "streams/4167.json"
+  },
+  {
+    "id": 4168,
+    "categoryId": "iptv",
+    "name": "CCM",
+    "nameEn": "CCM",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 89,
+    "streamsFile": "streams/4168.json"
+  },
+  {
+    "id": 4169,
+    "categoryId": "iptv",
+    "name": "THRILL",
+    "nameEn": "THRILL",
+    "logo": "https://www.useetv.com/pimages/logo_thrill_small1.png?v=2.0.0.13",
+    "type": "channel",
+    "position": 90,
+    "streamsFile": "streams/4169.json"
+  },
+  {
+    "id": 4170,
+    "categoryId": "iptv",
+    "name": "B-ADVENTURE TV",
+    "nameEn": "B-ADVENTURE TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 91,
+    "streamsFile": "streams/4170.json"
+  },
+  {
+    "id": 4171,
+    "categoryId": "iptv",
+    "name": "CLASSIC GEM TV",
+    "nameEn": "CLASSIC GEM TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 92,
+    "streamsFile": "streams/4171.json"
+  },
+  {
+    "id": 4172,
+    "categoryId": "iptv",
+    "name": "B BIOSKOP TV",
+    "nameEn": "B BIOSKOP TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 93,
+    "streamsFile": "streams/4172.json"
+  },
+  {
+    "id": 4173,
+    "categoryId": "iptv",
+    "name": "AMERICAN HORROR TV",
+    "nameEn": "AMERICAN HORROR TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 94,
+    "streamsFile": "streams/4173.json"
+  },
+  {
+    "id": 4174,
+    "categoryId": "iptv",
+    "name": "FOX LIFE",
+    "nameEn": "FOX LIFE",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 95,
+    "streamsFile": "streams/4174.json"
+  },
+  {
+    "id": 4175,
+    "categoryId": "iptv",
+    "name": "WOWW TV",
+    "nameEn": "WOWW TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 96,
+    "streamsFile": "streams/4175.json"
+  },
+  {
+    "id": 4176,
+    "categoryId": "iptv",
+    "name": "[COLOR yellow]-- MUSIK ---[/COLOR]",
+    "nameEn": "[COLOR yellow]-- MUSIK ---[/COLOR]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 97,
+    "streamsFile": "streams/4176.json"
+  },
+  {
+    "id": 4177,
+    "categoryId": "iptv",
+    "name": "FICOM TV",
+    "nameEn": "FICOM TV",
+    "logo": "https://pbs.twimg.com/profile_images/1411701251407028227/7Gt_IyW1_400x400.jpg",
+    "type": "channel",
+    "position": 98,
+    "streamsFile": "streams/4177.json"
+  },
+  {
+    "id": 4178,
+    "categoryId": "iptv",
+    "name": "POP TV",
+    "nameEn": "POP TV",
+    "logo": "http://cdn.ninmedia.net/channel/1543559777098897219.png",
+    "type": "channel",
+    "position": 99,
+    "streamsFile": "streams/4178.json"
+  },
+  {
+    "id": 4179,
+    "categoryId": "iptv",
+    "name": "DANGDUT MANTUL TV",
+    "nameEn": "DANGDUT MANTUL TV",
+    "logo": "http://cdn.ninmedia.net/channel/1653288868266739489.jpeg",
+    "type": "channel",
+    "position": 100,
+    "streamsFile": "streams/4179.json"
+  },
+  {
+    "id": 4180,
+    "categoryId": "iptv",
+    "name": "MALEO TV",
+    "nameEn": "MALEO TV",
+    "logo": "http://cdn.ninmedia.net/channel/1536115719360341218.png",
+    "type": "channel",
+    "position": 101,
+    "streamsFile": "streams/4180.json"
+  },
+  {
+    "id": 4181,
+    "categoryId": "iptv",
+    "name": "DTIVI",
+    "nameEn": "DTIVI",
+    "logo": "http://cdn.ninmedia.net/channel/1650357476875259271.png",
+    "type": "channel",
+    "position": 102,
+    "streamsFile": "streams/4181.json"
+  },
+  {
+    "id": 4182,
+    "categoryId": "iptv",
+    "name": "KARAOKE TV",
+    "nameEn": "KARAOKE TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 103,
+    "streamsFile": "streams/4182.json"
+  },
+  {
+    "id": 4183,
+    "categoryId": "iptv",
+    "name": "POP NAGASWARA TV",
+    "nameEn": "POP NAGASWARA TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 104,
+    "streamsFile": "streams/4183.json"
+  },
+  {
+    "id": 4184,
+    "categoryId": "iptv",
+    "name": "NAGASWARA DANGDUT TV",
+    "nameEn": "NAGASWARA DANGDUT TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 105,
+    "streamsFile": "streams/4184.json"
+  },
+  {
+    "id": 4185,
+    "categoryId": "iptv",
+    "name": "DEEJAY TV",
+    "nameEn": "DEEJAY TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 106,
+    "streamsFile": "streams/4185.json"
+  },
+  {
+    "id": 4186,
+    "categoryId": "iptv",
+    "name": "MH ONE MUSIC TV",
+    "nameEn": "MH ONE MUSIC TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYljsYCM4mGaEHuVyYeCbjZQo75ywE73uPt1Ul4hn4qJvc9mnB&s",
+    "type": "channel",
+    "position": 107,
+    "streamsFile": "streams/4186.json"
+  },
+  {
+    "id": 4187,
+    "categoryId": "iptv",
+    "name": "CTPAHA TV",
+    "nameEn": "CTPAHA TV",
+    "logo": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/bd/5f/bb/bd5fbb5a-c3c7-c004-1fb3-6d399b479900/source/512x512bb.jpg",
+    "type": "channel",
+    "position": 108,
+    "streamsFile": "streams/4187.json"
+  },
+  {
+    "id": 4188,
+    "categoryId": "iptv",
+    "name": "TOP MUSIC",
+    "nameEn": "TOP MUSIC",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREh8ZaHsWm_1ON8lUCwImz93yxCD-Pxr-k_yTM87dx1TvND6dh&s",
+    "type": "channel",
+    "position": 109,
+    "streamsFile": "streams/4188.json"
+  },
+  {
+    "id": 4189,
+    "categoryId": "iptv",
+    "name": "OPOJA TV",
+    "nameEn": "OPOJA TV",
+    "logo": "https://image.winudf.com/v2/image/Y29tLndPUE9KQVRWOV9zY3JlZW5zaG90c180X2FkZTdmZGI/screen-4.jpg?h=800&fakeurl=1&type=.jpg",
+    "type": "channel",
+    "position": 110,
+    "streamsFile": "streams/4189.json"
+  },
+  {
+    "id": 4190,
+    "categoryId": "iptv",
+    "name": "M20 TV",
+    "nameEn": "M20 TV",
+    "logo": "https://pbs.twimg.com/profile_images/718591669596209152/7yUFYpbP.jpg",
+    "type": "channel",
+    "position": 111,
+    "streamsFile": "streams/4190.json"
+  },
+  {
+    "id": 4191,
+    "categoryId": "iptv",
+    "name": "CINE VOICE",
+    "nameEn": "CINE VOICE",
+    "logo": "https://pbs.twimg.com/profile_images/829667813069459456/_-eH9lW6.jpg",
+    "type": "channel",
+    "position": 112,
+    "streamsFile": "streams/4191.json"
+  },
+  {
+    "id": 4192,
+    "categoryId": "iptv",
+    "name": "STEEL BIRD",
+    "nameEn": "STEEL BIRD",
+    "logo": "https://i.ytimg.com/vi/xzDqVQObyYw/maxresdefault.jpg",
+    "type": "channel",
+    "position": 113,
+    "streamsFile": "streams/4192.json"
+  },
+  {
+    "id": 4193,
+    "categoryId": "iptv",
+    "name": "MUZIC LAWAS",
+    "nameEn": "MUZIC LAWAS",
+    "logo": "https://i1.wp.com/tbkmagazine.com/wp-content/uploads/2013/07/77753-retromusicvideologo.png?fit=600%2C600&ssl=1",
+    "type": "channel",
+    "position": 114,
+    "streamsFile": "streams/4193.json"
+  },
+  {
+    "id": 4194,
+    "categoryId": "iptv",
+    "name": "DJING KARAOKE TV",
+    "nameEn": "DJING KARAOKE TV",
+    "logo": "http://www.arm-tv.com/wp-content/uploads/2016/07/djing-hot-hd-tv.png",
+    "type": "channel",
+    "position": 115,
+    "streamsFile": "streams/4194.json"
+  },
+  {
+    "id": 4195,
+    "categoryId": "iptv",
+    "name": "DJING DANCEFLOOR",
+    "nameEn": "DJING DANCEFLOOR",
+    "logo": "http://www.djing.com/img/facebook.png",
+    "type": "channel",
+    "position": 116,
+    "streamsFile": "streams/4195.json"
+  },
+  {
+    "id": 4196,
+    "categoryId": "iptv",
+    "name": "DJING UNDERGROUND",
+    "nameEn": "DJING UNDERGROUND",
+    "logo": "http://www.djing.com/img/facebook.png",
+    "type": "channel",
+    "position": 117,
+    "streamsFile": "streams/4196.json"
+  },
+  {
+    "id": 4197,
+    "categoryId": "iptv",
+    "name": "NOSTALGIA PERSIA TV",
+    "nameEn": "NOSTALGIA PERSIA TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 118,
+    "streamsFile": "streams/4197.json"
+  },
+  {
+    "id": 4198,
+    "categoryId": "iptv",
+    "name": "[COLOR yellow]<== KIDS ==>[/COLOR]",
+    "nameEn": "[COLOR yellow]<== KIDS ==>[/COLOR]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 119,
+    "streamsFile": "streams/4198.json"
+  },
+  {
+    "id": 4199,
+    "categoryId": "iptv",
+    "name": "BUMLEBEE TV",
+    "nameEn": "BUMLEBEE TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 120,
+    "streamsFile": "streams/4199.json"
+  },
+  {
+    "id": 4200,
+    "categoryId": "iptv",
+    "name": "DISNEY CH",
+    "nameEn": "DISNEY CH",
+    "logo": "https://www.seekpng.com/png/detail/369-3698560_top-10-disney-tv-shows-disney-channel.png",
+    "type": "channel",
+    "position": 121,
+    "streamsFile": "streams/4200.json"
+  },
+  {
+    "id": 4201,
+    "categoryId": "iptv",
+    "name": "DUCK TV",
+    "nameEn": "DUCK TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm9qEI1t8q5xaIOFRcJwsW6IU-1Vb1TJa2UQ&usqp=CAU",
+    "type": "channel",
+    "position": 122,
+    "streamsFile": "streams/4201.json"
+  },
+  {
+    "id": 4202,
+    "categoryId": "iptv",
+    "name": "TEST TV",
+    "nameEn": "TEST TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 123,
+    "streamsFile": "streams/4202.json"
+  },
+  {
+    "id": 4203,
+    "categoryId": "iptv",
+    "name": "TOON GOOGLES TV",
+    "nameEn": "TOON GOOGLES TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWyBzN3yl9OafcVZVZ14YaY6i9Y6zwNlQbDQ&usqp=CAU",
+    "type": "channel",
+    "position": 124,
+    "streamsFile": "streams/4203.json"
+  },
+  {
+    "id": 4204,
+    "categoryId": "iptv",
+    "name": "ZOOMO TV",
+    "nameEn": "ZOOMO TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 125,
+    "streamsFile": "streams/4204.json"
+  },
+  {
+    "id": 4205,
+    "categoryId": "iptv",
+    "name": "D-KIDS",
+    "nameEn": "D-KIDS",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 126,
+    "streamsFile": "streams/4205.json"
+  },
+  {
+    "id": 4206,
+    "categoryId": "iptv",
+    "name": "PBS KIDS",
+    "nameEn": "PBS KIDS",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 127,
+    "streamsFile": "streams/4206.json"
+  },
+  {
+    "id": 4207,
+    "categoryId": "iptv",
+    "name": "CINESTAR TV",
+    "nameEn": "CINESTAR TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 128,
+    "streamsFile": "streams/4207.json"
+  },
+  {
+    "id": 4208,
+    "categoryId": "iptv",
+    "name": "3ABN KIDS TV",
+    "nameEn": "3ABN KIDS TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 129,
+    "streamsFile": "streams/4208.json"
+  },
+  {
+    "id": 4209,
+    "categoryId": "iptv",
+    "name": "SPACETOON TV",
+    "nameEn": "SPACETOON TV",
+    "logo": "https://pbs.twimg.com/media/D4z6eoZWsAAEORG.jpg",
+    "type": "channel",
+    "position": 130,
+    "streamsFile": "streams/4209.json"
+  },
+  {
+    "id": 4210,
+    "categoryId": "iptv",
+    "name": "SAT 7 KIDS TV",
+    "nameEn": "SAT 7 KIDS TV",
+    "logo": "https://pbs.twimg.com/profile_images/1308759079/SAT-7_Kids_Train_logo_cropped2.png",
+    "type": "channel",
+    "position": 131,
+    "streamsFile": "streams/4210.json"
+  },
+  {
+    "id": 4211,
+    "categoryId": "iptv",
+    "name": "GEO JOJ FAM TV",
+    "nameEn": "GEO JOJ FAM TV",
+    "logo": "https://www.pcdays.cz/wp-content/uploads/2016/10/V%C3%BDst%C5%99i%C5%BEek-1-300x260.png",
+    "type": "channel",
+    "position": 132,
+    "streamsFile": "streams/4211.json"
+  },
+  {
+    "id": 4212,
+    "categoryId": "iptv",
+    "name": "[COLOR yellow] -- SPORTS -- [/COLOR]",
+    "nameEn": "[COLOR yellow] -- SPORTS -- [/COLOR]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 133,
+    "streamsFile": "streams/4212.json"
+  },
+  {
+    "id": 4213,
+    "categoryId": "iptv",
+    "name": "BEIN TV",
+    "nameEn": "BEIN TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 134,
+    "streamsFile": "streams/4213.json"
+  },
+  {
+    "id": 4214,
+    "categoryId": "iptv",
+    "name": "FOX SPORTS TV",
+    "nameEn": "FOX SPORTS TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 135,
+    "streamsFile": "streams/4214.json"
+  },
+  {
+    "id": 4215,
+    "categoryId": "iptv",
+    "name": "MOVISTAR TV",
+    "nameEn": "MOVISTAR TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 136,
+    "streamsFile": "streams/4215.json"
+  },
+  {
+    "id": 4216,
+    "categoryId": "iptv",
+    "name": "SONY TEN TV",
+    "nameEn": "SONY TEN TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 137,
+    "streamsFile": "streams/4216.json"
+  },
+  {
+    "id": 4217,
+    "categoryId": "iptv",
+    "name": "STAR SPORTS TV",
+    "nameEn": "STAR SPORTS TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 138,
+    "streamsFile": "streams/4217.json"
+  },
+  {
+    "id": 4218,
+    "categoryId": "iptv",
+    "name": "RED BULL TV",
+    "nameEn": "RED BULL TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 139,
+    "streamsFile": "streams/4218.json"
+  },
+  {
+    "id": 4219,
+    "categoryId": "iptv",
+    "name": "ALL SPORTS",
+    "nameEn": "ALL SPORTS",
+    "logo": "https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg",
+    "type": "channel",
+    "position": 140,
+    "streamsFile": "streams/4219.json"
+  },
+  {
+    "id": 4220,
+    "categoryId": "iptv",
+    "name": "TNT SPORTS",
+    "nameEn": "TNT SPORTS",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 141,
+    "streamsFile": "streams/4220.json"
+  },
+  {
+    "id": 4221,
+    "categoryId": "iptv",
+    "name": "SKYNET SPORTS",
+    "nameEn": "SKYNET SPORTS",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 142,
+    "streamsFile": "streams/4221.json"
+  },
+  {
+    "id": 4222,
+    "categoryId": "iptv",
+    "name": "SPORTS TV",
+    "nameEn": "SPORTS TV",
+    "logo": "https://sport-tv-guide.live/images/stations/a671.png",
+    "type": "channel",
+    "position": 143,
+    "streamsFile": "streams/4222.json"
+  },
+  {
+    "id": 4223,
+    "categoryId": "iptv",
+    "name": "TURK SPORTS",
+    "nameEn": "TURK SPORTS",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/15/Turkmenistan_FA.png",
+    "type": "channel",
+    "position": 144,
+    "streamsFile": "streams/4223.json"
+  },
+  {
+    "id": 4224,
+    "categoryId": "iptv",
+    "name": "DUBAI SPORTS",
+    "nameEn": "DUBAI SPORTS",
+    "logo": "https://live-tv-channels.org/pt-data/uploads/logo/ae-dubai-sports-3-2141.jpg",
+    "type": "channel",
+    "position": 145,
+    "streamsFile": "streams/4224.json"
+  },
+  {
+    "id": 4225,
+    "categoryId": "iptv",
+    "name": "PERSIJA TV",
+    "nameEn": "PERSIJA TV",
+    "logo": "https://3.bp.blogspot.com/-nQ63ycWH2JY/XfVenYjPswI/AAAAAAAApBM/kns-LSWh5kkhUC6Vl7NeY50H79Oe0MoAgCLcBGAsYHQ/s1600/persija-tv-channel-logo.png",
+    "type": "channel",
+    "position": 146,
+    "streamsFile": "streams/4225.json"
+  },
+  {
+    "id": 4226,
+    "categoryId": "iptv",
+    "name": "HIPO DROMO TV",
+    "nameEn": "HIPO DROMO TV",
+    "logo": "https://elsenderodelapostador.files.wordpress.com/2014/04/70-a-os-hip-dromo-de-las-am-ricas.jpg",
+    "type": "channel",
+    "position": 147,
+    "streamsFile": "streams/4226.json"
+  },
+  {
+    "id": 4227,
+    "categoryId": "iptv",
+    "name": "FIJI TV",
+    "nameEn": "FIJI TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 148,
+    "streamsFile": "streams/4227.json"
+  },
+  {
+    "id": 4228,
+    "categoryId": "iptv",
+    "name": "[COLOR yellow]--- PRIME ---[/COLOR]",
+    "nameEn": "[COLOR yellow]--- PRIME ---[/COLOR]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 149,
+    "streamsFile": "streams/4228.json"
+  },
+  {
+    "id": 4229,
+    "categoryId": "iptv",
+    "name": "ANIMAL PLANET",
+    "nameEn": "ANIMAL PLANET",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 150,
+    "streamsFile": "streams/4229.json"
+  },
+  {
+    "id": 4230,
+    "categoryId": "iptv",
+    "name": "PLUTO TV",
+    "nameEn": "PLUTO TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 151,
+    "streamsFile": "streams/4230.json"
+  },
+  {
+    "id": 4231,
+    "categoryId": "iptv",
+    "name": "ALJAZEERA TV",
+    "nameEn": "ALJAZEERA TV",
+    "logo": "https://pbs.twimg.com/profile_images/1190503677108400128/q7i77pmz_400x400.jpg",
+    "type": "channel",
+    "position": 152,
+    "streamsFile": "streams/4231.json"
+  },
+  {
+    "id": 4232,
+    "categoryId": "iptv",
+    "name": "NAT GEO",
+    "nameEn": "NAT GEO",
+    "logo": "https://pbs.twimg.com/profile_images/484326679397949440/PVw5xya8.jpeg",
+    "type": "channel",
+    "position": 153,
+    "streamsFile": "streams/4232.json"
+  },
+  {
+    "id": 4233,
+    "categoryId": "iptv",
+    "name": "ARIRANG CH 1",
+    "nameEn": "ARIRANG CH 1",
+    "logo": "https://yt3.ggpht.com/a/AATXAJxUTFH_okedgSJjn05aUDalloMKRsHWAiZA=s900-c-k-c0xffffffff-no-rj-mo",
+    "type": "channel",
+    "position": 154,
+    "streamsFile": "streams/4233.json"
+  },
+  {
+    "id": 4234,
+    "categoryId": "iptv",
+    "name": "RUPAVAHINI TV",
+    "nameEn": "RUPAVAHINI TV",
+    "logo": "https://pbs.twimg.com/profile_images/694459806560706561/7mTVrj0K_400x400.png",
+    "type": "channel",
+    "position": 155,
+    "streamsFile": "streams/4234.json"
+  },
+  {
+    "id": 4235,
+    "categoryId": "iptv",
+    "name": "MIX MAJOR TV",
+    "nameEn": "MIX MAJOR TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 156,
+    "streamsFile": "streams/4235.json"
+  },
+  {
+    "id": 4236,
+    "categoryId": "iptv",
+    "name": "MV LAO TV",
+    "nameEn": "MV LAO TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 157,
+    "streamsFile": "streams/4236.json"
+  },
+  {
+    "id": 4237,
+    "categoryId": "iptv",
+    "name": "THAESAN TV",
+    "nameEn": "THAESAN TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 158,
+    "streamsFile": "streams/4237.json"
+  },
+  {
+    "id": 4238,
+    "categoryId": "iptv",
+    "name": "TV5 TV",
+    "nameEn": "TV5 TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 159,
+    "streamsFile": "streams/4238.json"
+  },
+  {
+    "id": 4239,
+    "categoryId": "iptv",
+    "name": "AJYAL TV",
+    "nameEn": "AJYAL TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 160,
+    "streamsFile": "streams/4239.json"
+  },
+  {
+    "id": 4240,
+    "categoryId": "iptv",
+    "name": "[COLOR orange]--- RELIGIUS ---[/COLOR]",
+    "nameEn": "[COLOR orange]--- RELIGIUS ---[/COLOR]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 161,
+    "streamsFile": "streams/4240.json"
+  },
+  {
+    "id": 4241,
+    "categoryId": "iptv",
+    "name": "AL - IMAN TV",
+    "nameEn": "AL - IMAN TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 162,
+    "streamsFile": "streams/4241.json"
+  },
+  {
+    "id": 4242,
+    "categoryId": "iptv",
+    "name": "MUADZ TV",
+    "nameEn": "MUADZ TV",
+    "logo": "https://yt3.ggpht.com/a/AATXAJzd5aEsIa57JzUyq_-LFVCkO_OpmofCR_UcNg=s900-c-k-c0xffffffff-no-rj-mo",
+    "type": "channel",
+    "position": 163,
+    "streamsFile": "streams/4242.json"
+  },
+  {
+    "id": 4243,
+    "categoryId": "iptv",
+    "name": "NU TV",
+    "nameEn": "NU TV",
+    "logo": "https://pbs.twimg.com/profile_images/923125215135023104/_M18xUuw_400x400.jpg",
+    "type": "channel",
+    "position": 164,
+    "streamsFile": "streams/4243.json"
+  },
+  {
+    "id": 4244,
+    "categoryId": "iptv",
+    "name": "NU CH",
+    "nameEn": "NU CH",
+    "logo": "http://cdn.ninmedia.net/channel/1599798114614906265.png",
+    "type": "channel",
+    "position": 165,
+    "streamsFile": "streams/4244.json"
+  },
+  {
+    "id": 4245,
+    "categoryId": "iptv",
+    "name": "WHITE CHANNEL TV",
+    "nameEn": "WHITE CHANNEL TV",
+    "logo": "https://pbs.twimg.com/profile_images/1057196598151639040/5IGC-BzB.jpg",
+    "type": "channel",
+    "position": 166,
+    "streamsFile": "streams/4245.json"
+  },
+  {
+    "id": 4246,
+    "categoryId": "iptv",
+    "name": "[COLOR yellow]<== LIFESTYLE ==>[/COLOR]",
+    "nameEn": "[COLOR yellow]<== LIFESTYLE ==>[/COLOR]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 167,
+    "streamsFile": "streams/4246.json"
+  },
+  {
+    "id": 4247,
+    "categoryId": "iptv",
+    "name": "D - SHOWBIZZ",
+    "nameEn": "D - SHOWBIZZ",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 168,
+    "streamsFile": "streams/4247.json"
+  },
+  {
+    "id": 4248,
+    "categoryId": "iptv",
+    "name": "EXPO TV",
+    "nameEn": "EXPO TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 169,
+    "streamsFile": "streams/4248.json"
+  },
+  {
+    "id": 4249,
+    "categoryId": "iptv",
+    "name": "OTOMOTIF",
+    "nameEn": "OTOMOTIF",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 170,
+    "streamsFile": "streams/4249.json"
+  },
+  {
+    "id": 4250,
+    "categoryId": "iptv",
+    "name": "SHOP CHANNEL TV",
+    "nameEn": "SHOP CHANNEL TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 171,
+    "streamsFile": "streams/4250.json"
+  },
+  {
+    "id": 4251,
+    "categoryId": "iptv",
+    "name": "QVC BEAUTY TV",
+    "nameEn": "QVC BEAUTY TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/QVC_Logo.jpg",
+    "type": "channel",
+    "position": 172,
+    "streamsFile": "streams/4251.json"
+  },
+  {
+    "id": 4252,
+    "categoryId": "iptv",
+    "name": "[COLOR yellow]<== POOOO ==>[/COLOR]",
+    "nameEn": "[COLOR yellow]<== POOOO ==>[/COLOR]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 173,
+    "streamsFile": "streams/4252.json"
+  },
+  {
+    "id": 4253,
+    "categoryId": "iptv",
+    "name": "ALIF LAM MIM",
+    "nameEn": "ALIF LAM MIM",
+    "logo": "https://1.bp.blogspot.com/-JD0tqwQ5oW8/XWCK547dt6I/AAAAAAAABJk/fOwV2u9swb4BH-FJxynMCcu_-4QcYd7fgCLcBGAs/s1600/alif%2Blam%2Bmim.png",
+    "type": "channel",
+    "position": 174,
+    "streamsFile": "streams/4253.json"
+  },
+  {
+    "id": 4254,
+    "categoryId": "iptv",
+    "name": "MY NAME IS KHAN",
+    "nameEn": "MY NAME IS KHAN",
+    "logo": "http://static.sify.com/cms/image/my-name-is-khan-tcnk6Aeidbgfi.jpg",
+    "type": "channel",
+    "position": 175,
+    "streamsFile": "streams/4254.json"
+  },
+  {
+    "id": 4255,
+    "categoryId": "iptv",
+    "name": "CEK TOKO SEBELAH",
+    "nameEn": "CEK TOKO SEBELAH",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 176,
+    "streamsFile": "streams/4255.json"
+  },
+  {
+    "id": 4256,
+    "categoryId": "iptv",
+    "name": "BODY GUARD UGALAN",
+    "nameEn": "BODY GUARD UGALAN",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 177,
+    "streamsFile": "streams/4256.json"
+  },
+  {
+    "id": 4257,
+    "categoryId": "iptv",
+    "name": "ROMPIS",
+    "nameEn": "ROMPIS",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 178,
+    "streamsFile": "streams/4257.json"
+  },
+  {
+    "id": 4258,
+    "categoryId": "iptv",
+    "name": "INSYALLAH SAH",
+    "nameEn": "INSYALLAH SAH",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 179,
+    "streamsFile": "streams/4258.json"
+  },
+  {
+    "id": 4259,
+    "categoryId": "iptv",
+    "name": "Faith & The City",
+    "nameEn": "Faith & The City",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 180,
+    "streamsFile": "streams/4259.json"
+  },
+  {
+    "id": 4260,
+    "categoryId": "iptv",
+    "name": "Partikelir",
+    "nameEn": "Partikelir",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 181,
+    "streamsFile": "streams/4260.json"
+  },
+  {
+    "id": 4261,
+    "categoryId": "iptv",
+    "name": "Suster Ngesot Urban Legend",
+    "nameEn": "Suster Ngesot Urban Legend",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 182,
+    "streamsFile": "streams/4261.json"
+  },
+  {
+    "id": 4262,
+    "categoryId": "iptv",
+    "name": "Alas Pati",
+    "nameEn": "Alas Pati",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 183,
+    "streamsFile": "streams/4262.json"
+  },
+  {
+    "id": 4263,
+    "categoryId": "iptv",
+    "name": "[COLOR orange]--- NEW ENTRY ---[/COLOR]",
+    "nameEn": "[COLOR orange]--- NEW ENTRY ---[/COLOR]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 184,
+    "streamsFile": "streams/4263.json"
+  },
+  {
+    "id": 4264,
+    "categoryId": "iptv",
+    "name": "Birds of Prey (2020)",
+    "nameEn": "Birds of Prey (2020)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 185,
+    "streamsFile": "streams/4264.json"
+  },
+  {
+    "id": 4265,
+    "categoryId": "iptv",
+    "name": "The Unsung Warrior (2020)",
+    "nameEn": "The Unsung Warrior (2020)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 186,
+    "streamsFile": "streams/4265.json"
+  },
+  {
+    "id": 4266,
+    "categoryId": "iptv",
+    "name": "Sonic the Hedgehog (2020)",
+    "nameEn": "Sonic the Hedgehog (2020)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 187,
+    "streamsFile": "streams/4266.json"
+  },
+  {
+    "id": 4267,
+    "categoryId": "iptv",
+    "name": "Lost Girls (2020)",
+    "nameEn": "Lost Girls (2020)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 188,
+    "streamsFile": "streams/4267.json"
+  },
+  {
+    "id": 4268,
+    "categoryId": "iptv",
+    "name": "Onward (2020)",
+    "nameEn": "Onward (2020)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 189,
+    "streamsFile": "streams/4268.json"
+  },
+  {
+    "id": 4269,
+    "categoryId": "iptv",
+    "name": "Bloodshot (2020)",
+    "nameEn": "Bloodshot (2020)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 190,
+    "streamsFile": "streams/4269.json"
+  },
+  {
+    "id": 4270,
+    "categoryId": "iptv",
+    "name": "Naga Bonar Jadi 2 (2007)",
+    "nameEn": "Naga Bonar Jadi 2 (2007)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 191,
+    "streamsFile": "streams/4270.json"
+  },
+  {
+    "id": 4271,
+    "categoryId": "iptv",
+    "name": "Galih Dan Ratna (2017)",
+    "nameEn": "Galih Dan Ratna (2017)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 192,
+    "streamsFile": "streams/4271.json"
+  },
+  {
+    "id": 4272,
+    "categoryId": "iptv",
+    "name": "Sepatu Dahlan (2014)",
+    "nameEn": "Sepatu Dahlan (2014)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 193,
+    "streamsFile": "streams/4272.json"
+  },
+  {
+    "id": 4273,
+    "categoryId": "iptv",
+    "name": "Guna Darma TV",
+    "nameEn": "Guna Darma TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 194,
+    "streamsFile": "streams/4273.json"
+  },
+  {
+    "id": 4274,
+    "categoryId": "iptv",
+    "name": "One Upon Time",
+    "nameEn": "One Upon Time",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 195,
+    "streamsFile": "streams/4274.json"
+  },
+  {
+    "id": 4275,
+    "categoryId": "iptv",
+    "name": "Mortal Kombat 2021",
+    "nameEn": "Mortal Kombat 2021",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 196,
+    "streamsFile": "streams/4275.json"
+  },
+  {
+    "id": 4276,
+    "categoryId": "iptv",
+    "name": "Mulan 2021",
+    "nameEn": "Mulan 2021",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 197,
+    "streamsFile": "streams/4276.json"
+  },
+  {
+    "id": 4277,
+    "categoryId": "iptv",
+    "name": "Spy 2021",
+    "nameEn": "Spy 2021",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 198,
+    "streamsFile": "streams/4277.json"
+  },
+  {
+    "id": 4278,
+    "categoryId": "iptv",
+    "name": "Artemis 2021",
+    "nameEn": "Artemis 2021",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 199,
+    "streamsFile": "streams/4278.json"
+  }
+]

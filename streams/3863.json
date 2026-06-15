@@ -1,0 +1,11 @@
+[
+  {
+    "headers": "Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4|",
+    "otherHeaders": "",
+    "name": "History #EXTVLCOPT:http-referrer=https://www.visionplus.id/ #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5",
+    "Referer": "https://forcedtoplay.xyz/server_lookup.php?channel_id=premium",
+    "userAgent": "OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4",
+    "position": "0",
+    "url": "https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd"
+  }
+]

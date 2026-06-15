@@ -1,0 +1,38 @@
+[
+  {
+    "name": "1",
+    "url": "https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8",
+    "urlType": 1,
+    "userAgent": "",
+    "Referer": "",
+    "origin": null,
+    "headers": [],
+    "drm": null
+  },
+  {
+    "name": "YouTube",
+    "url": "https://ythls.armelin.one/channel/UCW2QcKZiU8aUGg4yxCIditg.m3u8",
+    "urlType": 1,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://x.com/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://x.com/"
+    },
+    "drm": null
+  },
+  {
+    "name": "Dailymotion",
+    "url": "http://www.dailymotion.com/embed/video/x2j4lj9?autoPlay=1",
+    "urlType": 5,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://x.com/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://x.com/"
+    },
+    "drm": null
+  }
+]

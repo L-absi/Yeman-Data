@@ -1,0 +1,14 @@
+[
+  {
+    "license": "",
+    "headers": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "Multi",
+    "Referer": "",
+    "userAgent": "",
+    "position": "",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264"
+  }
+]

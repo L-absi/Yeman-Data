@@ -1,0 +1,35 @@
+[
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "thm",
+    "Referer": "",
+    "userAgent": "",
+    "position": "1",
+    "url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd"
+  },
+  {
+    "headers": "user-agent|k1Kaeell3Mko )b0)V5Df0e1Vl.MoK )d;5o3C3L65dzb;dld l 0G103zGV6 lANLb7 iM1ek3dl50 T),,e3kor. TMdo1MCW lMimldHe(7/93oL|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "thm7",
+    "Referer": "",
+    "userAgent": "k1Kaeell3Mko )b0)V5Df0e1Vl.MoK )d;5o3C3L65dzb;dld l 0G103zGV6 lANLb7 iM1ek3dl50 T),,e3kor. TMdo1MCW lMimldHe(7/93oL",
+    "position": "2",
+    "url": "https://w.shahidtv.net/live/34682514/73347194/359.m3u8"
+  },
+  {
+    "headers": "Referer|https://direct.aflam4you.net/|user-agent|Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36|find|m3u8",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "find|m3u8",
+    "name": "thm3",
+    "Referer": "https://direct.aflam4you.net/",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36",
+    "position": "25",
+    "url": "https://handicapskate.net/embed/tr81yto0ib1p"
+  }
+]

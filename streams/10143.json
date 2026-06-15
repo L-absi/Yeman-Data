@@ -1,0 +1,35 @@
+[
+  {
+    "headers": "User-Agent|Mozilla/5.0",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "▶️ HD",
+    "Referer": "",
+    "userAgent": "",
+    "position": "1",
+    "url": "https://stream.camcloud.stream/stream/fd1979023964/playlist.m3u8"
+  },
+  {
+    "headers": "User-Agent|Mozilla/5.0",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "▶️ SD",
+    "Referer": "",
+    "userAgent": "",
+    "position": "2",
+    "url": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181669.ts"
+  },
+  {
+    "headers": "User-Agent|Mozilla/5.0",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "▶️ 4K",
+    "Referer": "",
+    "userAgent": "",
+    "position": "3",
+    "url": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181671.ts"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 2790,
+    "categoryId": "mix_vip",
+    "name": "MixONE",
+    "nameEn": "MixONE",
+    "logo": "https://media0087.elcinema.com/tvguide/1373_1.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/2790.json"
+  },
+  {
+    "id": 2791,
+    "categoryId": "mix_vip",
+    "name": "MixBelAraby",
+    "nameEn": "MixBelAraby",
+    "logo": "https://media0087.elcinema.com/tvguide/1371_1.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/2791.json"
+  },
+  {
+    "id": 2792,
+    "categoryId": "mix_vip",
+    "name": "MixTV",
+    "nameEn": "MixTV",
+    "logo": "https://media0087.elcinema.com/tvguide/1371_1.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/2792.json"
+  },
+  {
+    "id": 2793,
+    "categoryId": "mix_vip",
+    "name": "MBC Bollywood",
+    "nameEn": "MBC Bollywood",
+    "logo": "https://i.imgur.com/fMjhK06.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/2793.json"
+  },
+  {
+    "id": 2794,
+    "categoryId": "mix_vip",
+    "name": "Hala London TV Production",
+    "nameEn": "Hala London TV Production",
+    "logo": "http://halalondon.com/images/Production2.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/2794.json"
+  },
+  {
+    "id": 2795,
+    "categoryId": "mix_vip",
+    "name": "VOD CINEMA SD",
+    "nameEn": "VOD CINEMA SD",
+    "logo": "https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/2795.json"
+  }
+]

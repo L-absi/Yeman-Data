@@ -1,0 +1,152 @@
+[
+  {
+    "id": 3959,
+    "categoryId": "event_sport",
+    "name": "AYA1",
+    "nameEn": "AYA1",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/3959.json"
+  },
+  {
+    "id": 3960,
+    "categoryId": "event_sport",
+    "name": "AYA2",
+    "nameEn": "AYA2",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/3960.json"
+  },
+  {
+    "id": 3961,
+    "categoryId": "event_sport",
+    "name": "AYA3",
+    "nameEn": "AYA3",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/3961.json"
+  },
+  {
+    "id": 3962,
+    "categoryId": "event_sport",
+    "name": "AYA4",
+    "nameEn": "AYA4",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/3962.json"
+  },
+  {
+    "id": 3963,
+    "categoryId": "event_sport",
+    "name": "AYA5",
+    "nameEn": "AYA5",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/3963.json"
+  },
+  {
+    "id": 3964,
+    "categoryId": "event_sport",
+    "name": "AYA6",
+    "nameEn": "AYA6",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/3964.json"
+  },
+  {
+    "id": 3965,
+    "categoryId": "event_sport",
+    "name": "AYA7",
+    "nameEn": "AYA7",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/3965.json"
+  },
+  {
+    "id": 3966,
+    "categoryId": "event_sport",
+    "name": "AYA8",
+    "nameEn": "AYA8",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/3966.json"
+  },
+  {
+    "id": 3967,
+    "categoryId": "event_sport",
+    "name": "AYA9",
+    "nameEn": "AYA9",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/3967.json"
+  },
+  {
+    "id": 3968,
+    "categoryId": "event_sport",
+    "name": "AYA10",
+    "nameEn": "AYA10",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/3968.json"
+  },
+  {
+    "id": 3969,
+    "categoryId": "event_sport",
+    "name": "AYA11",
+    "nameEn": "AYA11",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/3969.json"
+  },
+  {
+    "id": 3970,
+    "categoryId": "event_sport",
+    "name": "AYA12",
+    "nameEn": "AYA12",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/3970.json"
+  },
+  {
+    "id": 3971,
+    "categoryId": "event_sport",
+    "name": "AYA13",
+    "nameEn": "AYA13",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/3971.json"
+  },
+  {
+    "id": 3972,
+    "categoryId": "event_sport",
+    "name": "AYA14",
+    "nameEn": "AYA14",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/3972.json"
+  },
+  {
+    "id": 3973,
+    "categoryId": "event_sport",
+    "name": "AYA15",
+    "nameEn": "AYA15",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/3973.json"
+  }
+]

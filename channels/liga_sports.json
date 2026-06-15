@@ -1,0 +1,102 @@
+[
+  {
+    "id": 3991,
+    "categoryId": "liga_sports",
+    "name": "Eng",
+    "nameEn": "Eng",
+    "logo": "https://images.bfmtv.com/C5rkv8VPD84yH7JKiGKYN3sHkOE=/0x0:0x0/400x0/site_manager_images/image_contenu3_top_categories_1688048101027_1732458001199.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/3991.json"
+  },
+  {
+    "id": 3992,
+    "categoryId": "liga_sports",
+    "name": "Seta",
+    "nameEn": "Seta",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOuNOvPkw0ifxNdEd3xy-T7y36NsfW_wggJIBwqFNcQ&s=10",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/3992.json"
+  },
+  {
+    "id": 3993,
+    "categoryId": "liga_sports",
+    "name": "Fanacode",
+    "nameEn": "Fanacode",
+    "logo": "https://images.bfmtv.com/C5rkv8VPD84yH7JKiGKYN3sHkOE=/0x0:0x0/400x0/site_manager_images/image_contenu3_top_categories_1688048101027_1732458001199.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/3993.json"
+  },
+  {
+    "id": 3994,
+    "categoryId": "liga_sports",
+    "name": "PRM1",
+    "nameEn": "PRM1",
+    "logo": "https://images.bfmtv.com/C5rkv8VPD84yH7JKiGKYN3sHkOE=/0x0:0x0/400x0/site_manager_images/image_contenu3_top_categories_1688048101027_1732458001199.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/3994.json"
+  },
+  {
+    "id": 3995,
+    "categoryId": "liga_sports",
+    "name": "SKY",
+    "nameEn": "SKY",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/3995.json"
+  },
+  {
+    "id": 3996,
+    "categoryId": "liga_sports",
+    "name": "Liga",
+    "nameEn": "Liga",
+    "logo": "https://images.bfmtv.com/C5rkv8VPD84yH7JKiGKYN3sHkOE=/0x0:0x0/400x0/site_manager_images/image_contenu3_top_categories_1688048101027_1732458001199.png",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/3996.json"
+  },
+  {
+    "id": 3997,
+    "categoryId": "liga_sports",
+    "name": "Dazn1",
+    "nameEn": "Dazn1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1WqnudkeW3yyQknO2tBwMhYAID9P34K56GEKtFUPSrg&s=10",
+    "type": "channel",
+    "position": 88,
+    "streamsFile": "streams/3997.json"
+  },
+  {
+    "id": 3998,
+    "categoryId": "liga_sports",
+    "name": "Dazn2",
+    "nameEn": "Dazn2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1WqnudkeW3yyQknO2tBwMhYAID9P34K56GEKtFUPSrg&s=10",
+    "type": "channel",
+    "position": 89,
+    "streamsFile": "streams/3998.json"
+  },
+  {
+    "id": 3999,
+    "categoryId": "liga_sports",
+    "name": "Dazn3",
+    "nameEn": "Dazn3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1WqnudkeW3yyQknO2tBwMhYAID9P34K56GEKtFUPSrg&s=10",
+    "type": "channel",
+    "position": 90,
+    "streamsFile": "streams/3999.json"
+  },
+  {
+    "id": 4000,
+    "categoryId": "liga_sports",
+    "name": "La liga Inside",
+    "nameEn": "La liga Inside",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png",
+    "type": "channel",
+    "position": 112,
+    "streamsFile": "streams/4000.json"
+  }
+]

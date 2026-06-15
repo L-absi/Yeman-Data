@@ -1,0 +1,14 @@
+[
+  {
+    "license": "https://wv.drm.intigral-ott.net:8063/?deviceId=MGEzNDAzZTUtMzM2Zi0zMDc5LWI0ODQtMzQyYjcwMGRhZGZh/",
+    "headers": "",
+    "scheme": "widevine",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "test",
+    "Referer": "",
+    "userAgent": "",
+    "position": "",
+    "url": "https://edgiolive.cdn.intigral-ott.net/ABD/ABD.isml/manifest.mpd"
+  }
+]

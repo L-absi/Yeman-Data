@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "Referer|https://snrtlive.ma/|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "server 1",
+    "Referer": "https://snrtlive.ma/",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://cdn.live.easybroadcast.io:443/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8"
+  }
+]

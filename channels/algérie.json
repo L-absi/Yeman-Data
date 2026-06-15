@@ -1,0 +1,282 @@
+[
+  {
+    "id": 2014,
+    "categoryId": "algérie",
+    "name": "4Kids TV",
+    "nameEn": "4Kids TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/2014.json"
+  },
+  {
+    "id": 2015,
+    "categoryId": "algérie",
+    "name": "AL24 News (1080p)",
+    "nameEn": "AL24 News (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/2015.json"
+  },
+  {
+    "id": 2016,
+    "categoryId": "algérie",
+    "name": "AL24 News",
+    "nameEn": "AL24 News",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/2016.json"
+  },
+  {
+    "id": 2017,
+    "categoryId": "algérie",
+    "name": "Amou Yazid TV (576p)",
+    "nameEn": "Amou Yazid TV (576p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/2017.json"
+  },
+  {
+    "id": 2018,
+    "categoryId": "algérie",
+    "name": "Bahia TV",
+    "nameEn": "Bahia TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/2018.json"
+  },
+  {
+    "id": 2019,
+    "categoryId": "algérie",
+    "name": "CNA (Chaîne Nord Africaine) (360p) [Not 24/7]",
+    "nameEn": "CNA (Chaîne Nord Africaine) (360p) [Not 24/7]",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/2019.json"
+  },
+  {
+    "id": 2020,
+    "categoryId": "algérie",
+    "name": "Echorouk News",
+    "nameEn": "Echorouk News",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/2020.json"
+  },
+  {
+    "id": 2021,
+    "categoryId": "algérie",
+    "name": "Echorouk TV",
+    "nameEn": "Echorouk TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/2021.json"
+  },
+  {
+    "id": 2022,
+    "categoryId": "algérie",
+    "name": "El Djazair N1",
+    "nameEn": "El Djazair N1",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/2022.json"
+  },
+  {
+    "id": 2023,
+    "categoryId": "algérie",
+    "name": "El Fadjer TV (720p)",
+    "nameEn": "El Fadjer TV (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/2023.json"
+  },
+  {
+    "id": 2024,
+    "categoryId": "algérie",
+    "name": "El Hayat TV",
+    "nameEn": "El Hayat TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/2024.json"
+  },
+  {
+    "id": 2025,
+    "categoryId": "algérie",
+    "name": "El-Heddaf TV",
+    "nameEn": "El-Heddaf TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/2025.json"
+  },
+  {
+    "id": 2026,
+    "categoryId": "algérie",
+    "name": "Ennahar TV",
+    "nameEn": "Ennahar TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/2026.json"
+  },
+  {
+    "id": 2027,
+    "categoryId": "algérie",
+    "name": "One TV",
+    "nameEn": "One TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/2027.json"
+  },
+  {
+    "id": 2028,
+    "categoryId": "algérie",
+    "name": "Samira TV",
+    "nameEn": "Samira TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/2028.json"
+  },
+  {
+    "id": 2029,
+    "categoryId": "algérie",
+    "name": "TV1 Algerian Television (1080p)",
+    "nameEn": "TV1 Algerian Television (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/2029.json"
+  },
+  {
+    "id": 2030,
+    "categoryId": "algérie",
+    "name": "TV2",
+    "nameEn": "TV2",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/2030.json"
+  },
+  {
+    "id": 2031,
+    "categoryId": "algérie",
+    "name": "TV2",
+    "nameEn": "TV2",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 18,
+    "streamsFile": "streams/2031.json"
+  },
+  {
+    "id": 2032,
+    "categoryId": "algérie",
+    "name": "TV2",
+    "nameEn": "TV2",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 19,
+    "streamsFile": "streams/2032.json"
+  },
+  {
+    "id": 2033,
+    "categoryId": "algérie",
+    "name": "TV2 Canal Algérie (1080p)",
+    "nameEn": "TV2 Canal Algérie (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 20,
+    "streamsFile": "streams/2033.json"
+  },
+  {
+    "id": 2034,
+    "categoryId": "algérie",
+    "name": "TV3 Algeria (576p)",
+    "nameEn": "TV3 Algeria (576p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 21,
+    "streamsFile": "streams/2034.json"
+  },
+  {
+    "id": 2035,
+    "categoryId": "algérie",
+    "name": "TV4 Tamazight TV (576p)",
+    "nameEn": "TV4 Tamazight TV (576p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 22,
+    "streamsFile": "streams/2035.json"
+  },
+  {
+    "id": 2036,
+    "categoryId": "algérie",
+    "name": "TV5 Coran TV (576p)",
+    "nameEn": "TV5 Coran TV (576p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 23,
+    "streamsFile": "streams/2036.json"
+  },
+  {
+    "id": 2037,
+    "categoryId": "algérie",
+    "name": "TV6 E-shababiya (1080p)",
+    "nameEn": "TV6 E-shababiya (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 24,
+    "streamsFile": "streams/2037.json"
+  },
+  {
+    "id": 2038,
+    "categoryId": "algérie",
+    "name": "TV7 El maarifa TV (576p)",
+    "nameEn": "TV7 El maarifa TV (576p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 25,
+    "streamsFile": "streams/2038.json"
+  },
+  {
+    "id": 2039,
+    "categoryId": "algérie",
+    "name": "TV8 El-Dhakira TV (576p)",
+    "nameEn": "TV8 El-Dhakira TV (576p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 26,
+    "streamsFile": "streams/2039.json"
+  },
+  {
+    "id": 2040,
+    "categoryId": "algérie",
+    "name": "TV9 El-Barlamaniya (1080p)",
+    "nameEn": "TV9 El-Barlamaniya (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 27,
+    "streamsFile": "streams/2040.json"
+  },
+  {
+    "id": 2041,
+    "categoryId": "algérie",
+    "name": "ZAHRA TV",
+    "nameEn": "ZAHRA TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 28,
+    "streamsFile": "streams/2041.json"
+  }
+]

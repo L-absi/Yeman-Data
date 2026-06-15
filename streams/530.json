@@ -1,0 +1,15 @@
+[
+  {
+    "name": "1",
+    "url": "chrome-extension://eakdijdofmnclopcffkkgmndadhbjgka/player.html#https://video.twimg.com/amplify_video/1688142359043719168/pl/i75oJEaNrZG6nFf0.m3u8?tag=16&container=fmp4",
+    "urlType": 5,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://x.com/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://x.com/"
+    },
+    "drm": null
+  }
+]

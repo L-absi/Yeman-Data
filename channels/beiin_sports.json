@@ -1,0 +1,162 @@
+[
+  {
+    "id": 3891,
+    "categoryId": "beiin_sports",
+    "name": "bein1",
+    "nameEn": "bein1",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350667_ico.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/3891.json"
+  },
+  {
+    "id": 3892,
+    "categoryId": "beiin_sports",
+    "name": "bein 2",
+    "nameEn": "bein 2",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350668_ico.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/3892.json"
+  },
+  {
+    "id": 3893,
+    "categoryId": "beiin_sports",
+    "name": "bein 3",
+    "nameEn": "bein 3",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350669_ico.png",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/3893.json"
+  },
+  {
+    "id": 3894,
+    "categoryId": "beiin_sports",
+    "name": "bein4",
+    "nameEn": "bein4",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350670_ico.png",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/3894.json"
+  },
+  {
+    "id": 3895,
+    "categoryId": "beiin_sports",
+    "name": "bein5",
+    "nameEn": "bein5",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350671_ico.png",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/3895.json"
+  },
+  {
+    "id": 3896,
+    "categoryId": "beiin_sports",
+    "name": "bein6",
+    "nameEn": "bein6",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350672_ico.png",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/3896.json"
+  },
+  {
+    "id": 3897,
+    "categoryId": "beiin_sports",
+    "name": "BeiN 7",
+    "nameEn": "BeiN 7",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350673_ico.png",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/3897.json"
+  },
+  {
+    "id": 3898,
+    "categoryId": "beiin_sports",
+    "name": "beIN Global",
+    "nameEn": "beIN Global",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/3898.json"
+  },
+  {
+    "id": 3899,
+    "categoryId": "beiin_sports",
+    "name": "BeiN 1",
+    "nameEn": "BeiN 1",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350667_ico.png",
+    "type": "channel",
+    "position": 55,
+    "streamsFile": "streams/3899.json"
+  },
+  {
+    "id": 3900,
+    "categoryId": "beiin_sports",
+    "name": "BeiN 2",
+    "nameEn": "BeiN 2",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350668_ico.png",
+    "type": "channel",
+    "position": 56,
+    "streamsFile": "streams/3900.json"
+  },
+  {
+    "id": 3901,
+    "categoryId": "beiin_sports",
+    "name": "BeiN 3",
+    "nameEn": "BeiN 3",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350669_ico.png",
+    "type": "channel",
+    "position": 57,
+    "streamsFile": "streams/3901.json"
+  },
+  {
+    "id": 3902,
+    "categoryId": "beiin_sports",
+    "name": "BeiN 4",
+    "nameEn": "BeiN 4",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350670_ico.png",
+    "type": "channel",
+    "position": 58,
+    "streamsFile": "streams/3902.json"
+  },
+  {
+    "id": 3903,
+    "categoryId": "beiin_sports",
+    "name": "BeiN 5",
+    "nameEn": "BeiN 5",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350671_ico.png",
+    "type": "channel",
+    "position": 59,
+    "streamsFile": "streams/3903.json"
+  },
+  {
+    "id": 3904,
+    "categoryId": "beiin_sports",
+    "name": "Bein 6",
+    "nameEn": "BeiN 6 tst",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350672_ico.png",
+    "type": "channel",
+    "position": 60,
+    "streamsFile": "streams/3904.json"
+  },
+  {
+    "id": 3905,
+    "categoryId": "beiin_sports",
+    "name": "BeiN 8",
+    "nameEn": "BeiN 8",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350674_ico.png",
+    "type": "channel",
+    "position": 65,
+    "streamsFile": "streams/3905.json"
+  },
+  {
+    "id": 3906,
+    "categoryId": "beiin_sports",
+    "name": "BeiN 9",
+    "nameEn": "BeiN 9",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350674_ico.png",
+    "type": "channel",
+    "position": 69,
+    "streamsFile": "streams/3906.json"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4958,
+    "categoryId": "tivibu_sport",
+    "name": "Tvibu1",
+    "nameEn": "Tvibu1",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4958.json"
+  },
+  {
+    "id": 4959,
+    "categoryId": "tivibu_sport",
+    "name": "Tvibu2",
+    "nameEn": "Tvibu2",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4959.json"
+  },
+  {
+    "id": 4960,
+    "categoryId": "tivibu_sport",
+    "name": "Tvibu3",
+    "nameEn": "Tvibu3",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4960.json"
+  },
+  {
+    "id": 4961,
+    "categoryId": "tivibu_sport",
+    "name": "Tvibu4",
+    "nameEn": "Tvibu4",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4961.json"
+  }
+]

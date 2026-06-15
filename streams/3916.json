@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "",
+    "license": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"AyToOigBHgp+zSbC2m3Jhw\",\"k\":\"SVCqXP1u5KutwaA4qgQw7Q\"},{\"kty\":\"oct\",\"kid\":\"iIUBWZlo/qHr2MV/5LsWeA\",\"k\":\"ElWjItI0DWof6Fi5DERicQ\"},{\"kty\":\"oct\",\"kid\":\"jPvBc/nVBhwxmMLlppnyiQ\",\"k\":\"FIc94bVDAsnxeaGIK4gFug\"},{\"kty\":\"oct\",\"kid\":\"LtuYltLJgHfMMBw5W7Noew\",\"k\":\"0gPWIZK5B48ddV+Cx/gL7w\"}]}",
+    "scheme": "clearkey;widevine;playready",
+    "otherHeaders": "",
+    "name": "\"k\":\"dGwC0eaIT+LkQRYkugVVKA\"}]}",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd"
+  }
+]

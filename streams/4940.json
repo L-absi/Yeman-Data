@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "",
+    "license": "002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "name": "NFL #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd"
+  }
+]

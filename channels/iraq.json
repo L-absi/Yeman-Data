@@ -1,0 +1,722 @@
+[
+  {
+    "id": 2066,
+    "categoryId": "iraq",
+    "name": "ABNsat (720p)",
+    "nameEn": "ABNsat (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/2066.json"
+  },
+  {
+    "id": 2067,
+    "categoryId": "iraq",
+    "name": "Afaq TV",
+    "nameEn": "Afaq TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/2067.json"
+  },
+  {
+    "id": 2068,
+    "categoryId": "iraq",
+    "name": "Afarin TV (720p) [Not 24/7]",
+    "nameEn": "Afarin TV (720p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/2068.json"
+  },
+  {
+    "id": 2069,
+    "categoryId": "iraq",
+    "name": "Al Ahd TV",
+    "nameEn": "Al Ahd TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/2069.json"
+  },
+  {
+    "id": 2070,
+    "categoryId": "iraq",
+    "name": "Al Anwar 2",
+    "nameEn": "Al Anwar 2",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/2070.json"
+  },
+  {
+    "id": 2071,
+    "categoryId": "iraq",
+    "name": "Al Ayyam TV",
+    "nameEn": "Al Ayyam TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/2071.json"
+  },
+  {
+    "id": 2072,
+    "categoryId": "iraq",
+    "name": "Al Eshraq TV",
+    "nameEn": "Al Eshraq TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/2072.json"
+  },
+  {
+    "id": 2073,
+    "categoryId": "iraq",
+    "name": "Al Etejah TV",
+    "nameEn": "Al Etejah TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/2073.json"
+  },
+  {
+    "id": 2074,
+    "categoryId": "iraq",
+    "name": "Al Ghadeer TV",
+    "nameEn": "Al Ghadeer TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/2074.json"
+  },
+  {
+    "id": 2075,
+    "categoryId": "iraq",
+    "name": "Al Iraqia (720p)",
+    "nameEn": "Al Iraqia (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/2075.json"
+  },
+  {
+    "id": 2076,
+    "categoryId": "iraq",
+    "name": "Al Iraqia News (720p)",
+    "nameEn": "Al Iraqia News (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/2076.json"
+  },
+  {
+    "id": 2077,
+    "categoryId": "iraq",
+    "name": "Al Janoub TV",
+    "nameEn": "Al Janoub TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/2077.json"
+  },
+  {
+    "id": 2078,
+    "categoryId": "iraq",
+    "name": "Al Nujaba",
+    "nameEn": "Al Nujaba",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/2078.json"
+  },
+  {
+    "id": 2079,
+    "categoryId": "iraq",
+    "name": "Al Rafidain (720p) [Not 24/7]",
+    "nameEn": "Al Rafidain (720p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/2079.json"
+  },
+  {
+    "id": 2080,
+    "categoryId": "iraq",
+    "name": "Al Rasheed (408p) [Not 24/7]",
+    "nameEn": "Al Rasheed (408p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/2080.json"
+  },
+  {
+    "id": 2081,
+    "categoryId": "iraq",
+    "name": "Al Sharqiya (1080p) [Not 24/7]",
+    "nameEn": "Al Sharqiya (1080p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/2081.json"
+  },
+  {
+    "id": 2082,
+    "categoryId": "iraq",
+    "name": "Al Sharqiya News (1080p)",
+    "nameEn": "Al Sharqiya News (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/2082.json"
+  },
+  {
+    "id": 2083,
+    "categoryId": "iraq",
+    "name": "Al-Jawadain TV (1080p) [Not 24/7]",
+    "nameEn": "Al-Jawadain TV (1080p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 18,
+    "streamsFile": "streams/2083.json"
+  },
+  {
+    "id": 2084,
+    "categoryId": "iraq",
+    "name": "Al-Naeem TV (576p)",
+    "nameEn": "Al-Naeem TV (576p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 19,
+    "streamsFile": "streams/2084.json"
+  },
+  {
+    "id": 2085,
+    "categoryId": "iraq",
+    "name": "Al-Sharqiya (1080p)",
+    "nameEn": "Al-Sharqiya (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 20,
+    "streamsFile": "streams/2085.json"
+  },
+  {
+    "id": 2086,
+    "categoryId": "iraq",
+    "name": "Al-Sharqiya News (1080p)",
+    "nameEn": "Al-Sharqiya News (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 21,
+    "streamsFile": "streams/2086.json"
+  },
+  {
+    "id": 2087,
+    "categoryId": "iraq",
+    "name": "Alforat TV (1080p)",
+    "nameEn": "Alforat TV (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 22,
+    "streamsFile": "streams/2087.json"
+  },
+  {
+    "id": 2088,
+    "categoryId": "iraq",
+    "name": "Alkafeel: The window of Al-Kafeel (720p) [Not 24/7]",
+    "nameEn": "Alkafeel: The window of Al-Kafeel (720p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 23,
+    "streamsFile": "streams/2088.json"
+  },
+  {
+    "id": 2089,
+    "categoryId": "iraq",
+    "name": "Alqanat9 TV (1080p)",
+    "nameEn": "Alqanat9 TV (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 24,
+    "streamsFile": "streams/2089.json"
+  },
+  {
+    "id": 2090,
+    "categoryId": "iraq",
+    "name": "Alquran (1080p)",
+    "nameEn": "Alquran (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 25,
+    "streamsFile": "streams/2090.json"
+  },
+  {
+    "id": 2091,
+    "categoryId": "iraq",
+    "name": "Althaqalayn TV",
+    "nameEn": "Althaqalayn TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 26,
+    "streamsFile": "streams/2091.json"
+  },
+  {
+    "id": 2092,
+    "categoryId": "iraq",
+    "name": "Althaqalayn TV",
+    "nameEn": "Althaqalayn TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 27,
+    "streamsFile": "streams/2092.json"
+  },
+  {
+    "id": 2093,
+    "categoryId": "iraq",
+    "name": "Amozhgary TV (1080p)",
+    "nameEn": "Amozhgary TV (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 28,
+    "streamsFile": "streams/2093.json"
+  },
+  {
+    "id": 2094,
+    "categoryId": "iraq",
+    "name": "Assyrian ANB (720p)",
+    "nameEn": "Assyrian ANB (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 29,
+    "streamsFile": "streams/2094.json"
+  },
+  {
+    "id": 2095,
+    "categoryId": "iraq",
+    "name": "Ava TV (1080p)",
+    "nameEn": "Ava TV (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 30,
+    "streamsFile": "streams/2095.json"
+  },
+  {
+    "id": 2096,
+    "categoryId": "iraq",
+    "name": "Bayyinat TV (404p)",
+    "nameEn": "Bayyinat TV (404p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 31,
+    "streamsFile": "streams/2096.json"
+  },
+  {
+    "id": 2097,
+    "categoryId": "iraq",
+    "name": "BeitolAbbas TV Channel (720p)",
+    "nameEn": "BeitolAbbas TV Channel (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 32,
+    "streamsFile": "streams/2097.json"
+  },
+  {
+    "id": 2098,
+    "categoryId": "iraq",
+    "name": "Dijlah Tarab (1080p)",
+    "nameEn": "Dijlah Tarab (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 33,
+    "streamsFile": "streams/2098.json"
+  },
+  {
+    "id": 2099,
+    "categoryId": "iraq",
+    "name": "Dijlah TV (1080p)",
+    "nameEn": "Dijlah TV (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 34,
+    "streamsFile": "streams/2099.json"
+  },
+  {
+    "id": 2100,
+    "categoryId": "iraq",
+    "name": "Dua Channel (720p)",
+    "nameEn": "Dua Channel (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 35,
+    "streamsFile": "streams/2100.json"
+  },
+  {
+    "id": 2101,
+    "categoryId": "iraq",
+    "name": "Gali Kurdistan (720p) [Not 24/7]",
+    "nameEn": "Gali Kurdistan (720p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 36,
+    "streamsFile": "streams/2101.json"
+  },
+  {
+    "id": 2102,
+    "categoryId": "iraq",
+    "name": "Hadi TV Azeri and Russian (720p)",
+    "nameEn": "Hadi TV Azeri and Russian (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 37,
+    "streamsFile": "streams/2102.json"
+  },
+  {
+    "id": 2103,
+    "categoryId": "iraq",
+    "name": "Hadi TV English and Urdu (720p)",
+    "nameEn": "Hadi TV English and Urdu (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 38,
+    "streamsFile": "streams/2103.json"
+  },
+  {
+    "id": 2104,
+    "categoryId": "iraq",
+    "name": "Hadi TV Farsi (720p)",
+    "nameEn": "Hadi TV Farsi (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 39,
+    "streamsFile": "streams/2104.json"
+  },
+  {
+    "id": 2105,
+    "categoryId": "iraq",
+    "name": "Hadi TV Hausa (720p)",
+    "nameEn": "Hadi TV Hausa (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 40,
+    "streamsFile": "streams/2105.json"
+  },
+  {
+    "id": 2106,
+    "categoryId": "iraq",
+    "name": "Hadi TV Pashto and Persian (720p)",
+    "nameEn": "Hadi TV Pashto and Persian (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 41,
+    "streamsFile": "streams/2106.json"
+  },
+  {
+    "id": 2107,
+    "categoryId": "iraq",
+    "name": "Hudhud TV",
+    "nameEn": "Hudhud TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 42,
+    "streamsFile": "streams/2107.json"
+  },
+  {
+    "id": 2108,
+    "categoryId": "iraq",
+    "name": "Imam Hussein TV 1 (1080p) [Not 24/7]",
+    "nameEn": "Imam Hussein TV 1 (1080p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 43,
+    "streamsFile": "streams/2108.json"
+  },
+  {
+    "id": 2109,
+    "categoryId": "iraq",
+    "name": "Imam Hussein TV 2 (1080p) [Not 24/7]",
+    "nameEn": "Imam Hussein TV 2 (1080p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 44,
+    "streamsFile": "streams/2109.json"
+  },
+  {
+    "id": 2110,
+    "categoryId": "iraq",
+    "name": "Imam Hussein TV 3 (1080p) [Not 24/7]",
+    "nameEn": "Imam Hussein TV 3 (1080p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 45,
+    "streamsFile": "streams/2110.json"
+  },
+  {
+    "id": 2111,
+    "categoryId": "iraq",
+    "name": "Imam Hussein TV 4 (1080p) [Not 24/7]",
+    "nameEn": "Imam Hussein TV 4 (1080p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 46,
+    "streamsFile": "streams/2111.json"
+  },
+  {
+    "id": 2112,
+    "categoryId": "iraq",
+    "name": "Imam Hussein TV 5 (1080p) [Not 24/7]",
+    "nameEn": "Imam Hussein TV 5 (1080p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 47,
+    "streamsFile": "streams/2112.json"
+  },
+  {
+    "id": 2113,
+    "categoryId": "iraq",
+    "name": "Imam Hussein TV 6 (1080p) [Not 24/7]",
+    "nameEn": "Imam Hussein TV 6 (1080p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 48,
+    "streamsFile": "streams/2113.json"
+  },
+  {
+    "id": 2114,
+    "categoryId": "iraq",
+    "name": "iNEWS TV (1080p)",
+    "nameEn": "iNEWS TV (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 49,
+    "streamsFile": "streams/2114.json"
+  },
+  {
+    "id": 2115,
+    "categoryId": "iraq",
+    "name": "Ishtar TV (1080p)",
+    "nameEn": "Ishtar TV (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 50,
+    "streamsFile": "streams/2115.json"
+  },
+  {
+    "id": 2116,
+    "categoryId": "iraq",
+    "name": "Kurd Channel (480p)",
+    "nameEn": "Kurd Channel (480p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 51,
+    "streamsFile": "streams/2116.json"
+  },
+  {
+    "id": 2117,
+    "categoryId": "iraq",
+    "name": "Kurdistan 24 (720p)",
+    "nameEn": "Kurdistan 24 (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 52,
+    "streamsFile": "streams/2117.json"
+  },
+  {
+    "id": 2118,
+    "categoryId": "iraq",
+    "name": "Kurdistan TV (720p) [Not 24/7]",
+    "nameEn": "Kurdistan TV (720p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 53,
+    "streamsFile": "streams/2118.json"
+  },
+  {
+    "id": 2119,
+    "categoryId": "iraq",
+    "name": "KurdMax Show (720p)",
+    "nameEn": "KurdMax Show (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 54,
+    "streamsFile": "streams/2119.json"
+  },
+  {
+    "id": 2120,
+    "categoryId": "iraq",
+    "name": "KurdMax Sorani (1080p)",
+    "nameEn": "KurdMax Sorani (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 55,
+    "streamsFile": "streams/2120.json"
+  },
+  {
+    "id": 2121,
+    "categoryId": "iraq",
+    "name": "Kurdsat (1080p)",
+    "nameEn": "Kurdsat (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 56,
+    "streamsFile": "streams/2121.json"
+  },
+  {
+    "id": 2122,
+    "categoryId": "iraq",
+    "name": "KurdSat News (1080p) [Not 24/7]",
+    "nameEn": "KurdSat News (1080p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 57,
+    "streamsFile": "streams/2122.json"
+  },
+  {
+    "id": 2123,
+    "categoryId": "iraq",
+    "name": "Marjaeyat TV Arabic (1080p)",
+    "nameEn": "Marjaeyat TV Arabic (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 58,
+    "streamsFile": "streams/2123.json"
+  },
+  {
+    "id": 2124,
+    "categoryId": "iraq",
+    "name": "Marjaeyat TV English (1080p)",
+    "nameEn": "Marjaeyat TV English (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 59,
+    "streamsFile": "streams/2124.json"
+  },
+  {
+    "id": 2125,
+    "categoryId": "iraq",
+    "name": "Marjaeyat TV Persian (240p) [Not 24/7]",
+    "nameEn": "Marjaeyat TV Persian (240p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 60,
+    "streamsFile": "streams/2125.json"
+  },
+  {
+    "id": 2126,
+    "categoryId": "iraq",
+    "name": "NRT TV (720p) [Not 24/7]",
+    "nameEn": "NRT TV (720p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 61,
+    "streamsFile": "streams/2126.json"
+  },
+  {
+    "id": 2127,
+    "categoryId": "iraq",
+    "name": "NUBAR Plus TV (720p)",
+    "nameEn": "NUBAR Plus TV (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 62,
+    "streamsFile": "streams/2127.json"
+  },
+  {
+    "id": 2128,
+    "categoryId": "iraq",
+    "name": "NUBAR TV (1080p)",
+    "nameEn": "NUBAR TV (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 63,
+    "streamsFile": "streams/2128.json"
+  },
+  {
+    "id": 2129,
+    "categoryId": "iraq",
+    "name": "Payam TV (720p) [Not 24/7]",
+    "nameEn": "Payam TV (720p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 64,
+    "streamsFile": "streams/2129.json"
+  },
+  {
+    "id": 2130,
+    "categoryId": "iraq",
+    "name": "Rudaw TV (1080p)",
+    "nameEn": "Rudaw TV (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 65,
+    "streamsFile": "streams/2130.json"
+  },
+  {
+    "id": 2131,
+    "categoryId": "iraq",
+    "name": "Safeer TV (1080p)",
+    "nameEn": "Safeer TV (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 66,
+    "streamsFile": "streams/2131.json"
+  },
+  {
+    "id": 2132,
+    "categoryId": "iraq",
+    "name": "Speda TV (720p)",
+    "nameEn": "Speda TV (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 67,
+    "streamsFile": "streams/2132.json"
+  },
+  {
+    "id": 2133,
+    "categoryId": "iraq",
+    "name": "SPI Quran (720p)",
+    "nameEn": "SPI Quran (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 68,
+    "streamsFile": "streams/2133.json"
+  },
+  {
+    "id": 2134,
+    "categoryId": "iraq",
+    "name": "SPI TV (720p)",
+    "nameEn": "SPI TV (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 69,
+    "streamsFile": "streams/2134.json"
+  },
+  {
+    "id": 2135,
+    "categoryId": "iraq",
+    "name": "UTV (1080p)",
+    "nameEn": "UTV (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 70,
+    "streamsFile": "streams/2135.json"
+  },
+  {
+    "id": 2136,
+    "categoryId": "iraq",
+    "name": "Waar TV (720p)",
+    "nameEn": "Waar TV (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 71,
+    "streamsFile": "streams/2136.json"
+  },
+  {
+    "id": 2137,
+    "categoryId": "iraq",
+    "name": "Zagros (720p) [Not 24/7]",
+    "nameEn": "Zagros (720p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 72,
+    "streamsFile": "streams/2137.json"
+  }
+]

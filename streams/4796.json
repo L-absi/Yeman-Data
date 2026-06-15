@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "Referer|https://player.killerstreams.tv/|user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "ESPN 5",
+    "Referer": "https://player.killerstreams.tv/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+    "position": "0",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 4009,
+    "categoryId": "premier_sport",
+    "name": "Seta",
+    "nameEn": "Seta",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKy6e_VXVOYonzE2CL19gULCnpQPOeQ-bzgg&s",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4009.json"
+  },
+  {
+    "id": 4010,
+    "categoryId": "premier_sport",
+    "name": "Fan",
+    "nameEn": "Fan",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKy6e_VXVOYonzE2CL19gULCnpQPOeQ-bzgg&s",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4010.json"
+  },
+  {
+    "id": 4011,
+    "categoryId": "premier_sport",
+    "name": "Seta",
+    "nameEn": "Seta",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOuNOvPkw0ifxNdEd3xy-T7y36NsfW_wggJIBwqFNcQ&s=10",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/4011.json"
+  },
+  {
+    "id": 4012,
+    "categoryId": "premier_sport",
+    "name": "Fubo1",
+    "nameEn": "Fubo1",
+    "logo": "https://i.imgur.com/dAPtBTh.png",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/4012.json"
+  },
+  {
+    "id": 4013,
+    "categoryId": "premier_sport",
+    "name": "Now 1",
+    "nameEn": "Now 1",
+    "logo": "https://i.imgur.com/dAPtBTh.png",
+    "type": "channel",
+    "position": 55,
+    "streamsFile": "streams/4013.json"
+  },
+  {
+    "id": 4014,
+    "categoryId": "premier_sport",
+    "name": "Now 2",
+    "nameEn": "Now 2",
+    "logo": "https://i.imgur.com/dAPtBTh.png",
+    "type": "channel",
+    "position": 56,
+    "streamsFile": "streams/4014.json"
+  },
+  {
+    "id": 4015,
+    "categoryId": "premier_sport",
+    "name": "Now 3",
+    "nameEn": "Now 3",
+    "logo": "https://i.imgur.com/dAPtBTh.png",
+    "type": "channel",
+    "position": 57,
+    "streamsFile": "streams/4015.json"
+  },
+  {
+    "id": 4016,
+    "categoryId": "premier_sport",
+    "name": "Now 4",
+    "nameEn": "Now 4",
+    "logo": "https://i.imgur.com/dAPtBTh.png",
+    "type": "channel",
+    "position": 58,
+    "streamsFile": "streams/4016.json"
+  },
+  {
+    "id": 4017,
+    "categoryId": "premier_sport",
+    "name": "Now 5",
+    "nameEn": "Now 5",
+    "logo": "https://i.imgur.com/dAPtBTh.png",
+    "type": "channel",
+    "position": 59,
+    "streamsFile": "streams/4017.json"
+  },
+  {
+    "id": 4018,
+    "categoryId": "premier_sport",
+    "name": "Now 6",
+    "nameEn": "Now 6",
+    "logo": "https://i.imgur.com/dAPtBTh.png",
+    "type": "channel",
+    "position": 62,
+    "streamsFile": "streams/4018.json"
+  },
+  {
+    "id": 4019,
+    "categoryId": "premier_sport",
+    "name": "Premier",
+    "nameEn": "Premier",
+    "logo": "https://i.imgur.com/dAPtBTh.png",
+    "type": "channel",
+    "position": 1885,
+    "streamsFile": "streams/4019.json"
+  },
+  {
+    "id": 4020,
+    "categoryId": "premier_sport",
+    "name": "Peacock",
+    "nameEn": "Peacock",
+    "logo": "https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",
+    "type": "channel",
+    "position": 1888,
+    "streamsFile": "streams/4020.json"
+  }
+]

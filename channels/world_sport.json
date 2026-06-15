@@ -1,0 +1,114 @@
+[
+  {
+    "id": 10126,
+    "name": "TRT1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRbF8GsXVTmDRLnN7Ju8_WA2_wNJVoLRwaFv4VLkUMkQ&s",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10126.json"
+  },
+  {
+    "id": 10127,
+    "name": "M6",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzANEKIVoFrXqDWo1YpRz1n8mZTqJQ_Ej1bwyhQD1Jg&s=10",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10127.json"
+  },
+  {
+    "id": 10128,
+    "name": "TF1",
+    "logo": "https://picserve.netplus.ch/channels/tf1hd.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10128.json"
+  },
+  {
+    "id": 10129,
+    "name": "ZDF",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp5lBQO2t-CoE48er5XE2ZLfEttkTOhx3XdQ&s",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10129.json"
+  },
+  {
+    "id": 10130,
+    "name": "ARD1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/ARD_2019_logo.svg/langfr-250px-ARD_2019_logo.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10130.json"
+  },
+  {
+    "id": 10131,
+    "name": "W9",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkk-7q015zPztVQJtrZ5oGkybnNjcSVD63OMY-d8qqiQ&s=10",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10131.json"
+  },
+  {
+    "id": 10132,
+    "name": "TVE",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/960px-Logo_TVE-Internacional.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10132.json"
+  },
+  {
+    "id": 10133,
+    "name": "ORF1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/langfr-250px-ORF_1_2019.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10133.json"
+  },
+  {
+    "id": 10134,
+    "name": "Servus",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYqCfD1fwL4OmXcIsHGAB500gYTn2oLFsBg&s",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10134.json"
+  },
+  {
+    "id": 10135,
+    "name": "Tve",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/960px-Logo_TVE-Internacional.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10135.json"
+  },
+  {
+    "id": 10136,
+    "name": "TVP Sport",
+    "logo": "https://iptvboss.xyz/logos/Poland/TVPSport.pl.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10136.json"
+  },
+  {
+    "id": 10137,
+    "name": "TVP1",
+    "logo": "https://r-scale-6e.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866669/images/55947096.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10137.json"
+  },
+  {
+    "id": 10138,
+    "name": "ZDF HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp5lBQO2t-CoE48er5XE2ZLfEttkTOhx3XdQ&s",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10138.json"
+  },
+  {
+    "id": 10139,
+    "name": "RAI1",
+    "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/9/94/Rai_1_HD_%282016-.n.v.%29.png/revision/latest/scale-to-width-down/250?cb=20170515182736",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10139.json"
+  }
+]

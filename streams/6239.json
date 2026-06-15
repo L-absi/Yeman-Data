@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "name": "GO3 SPORT OPEN #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=",
+      "url": "https://v4-kun-nk16-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
+      "url_type": 3,
+      "user_agent": "Mozilla/5.0",
+      "referer": "",
+      "event_channel_id": null,
+      "headers": {},
+      "drm": {
+        "scheme": "clearkey",
+        "key_id": "a6b967afcb974bb5a549377b4f09befd",
+        "key": "87d993257a099324ccd0215475fc61a0"
+      }
+    }
+  ]
+}

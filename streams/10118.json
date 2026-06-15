@@ -1,0 +1,35 @@
+[
+  {
+    "headers": "user-agent|Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "MAX",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1",
+    "position": "0",
+    "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/NjdvR1ntLaHjEd_-EIFiuy9gYGkj57n_RAiJifNjQktADVhOBfyx2xSoUvTiFUbZZKiVGrgA9fLdTLZpNB8DMA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live"
+  },
+  {
+    "headers": "user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "MAX1",
+    "Referer": "",
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)",
+    "position": "1",
+    "url": "https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk4.marketplace-io-none-kode-steeeee.lol&id=bmax1080&key=MmYmJhIhdIDJHdoF22"
+  },
+  {
+    "headers": "Referer|http://23370wa.xyz/|user-agent|Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15|http://23370wa.xyz/",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "http://23370wa.xyz/",
+    "name": "MAX2",
+    "Referer": "http://23370wa.xyz/",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+    "position": "2",
+    "url": "http://23370wa.xyz/play/BMoDRXtRtbrnsYhxpeoI7p0qnIN-dwkiUVPvk2eMsAU/ts"
+  }
+]

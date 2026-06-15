@@ -1,0 +1,272 @@
+[
+  {
+    "id": 4030,
+    "categoryId": "tv_sport-f1",
+    "name": "beIN Sports 1",
+    "nameEn": "beIN Sports 1",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/a097c34e337a8c9294d62cdfc17bb577.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4030.json"
+  },
+  {
+    "id": 4031,
+    "categoryId": "tv_sport-f1",
+    "name": "beIN Sports 2",
+    "nameEn": "beIN Sports 2",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/06dc8a8bae7d49bc3033271575498a7e.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4031.json"
+  },
+  {
+    "id": 4032,
+    "categoryId": "tv_sport-f1",
+    "name": "beIN Sports 3",
+    "nameEn": "beIN Sports 3",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/305e84a2db716775c64388f60741decb.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4032.json"
+  },
+  {
+    "id": 4033,
+    "categoryId": "tv_sport-f1",
+    "name": "beIN Sports 4",
+    "nameEn": "beIN Sports 4",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/449d45498946dd728453b1a4041b67c7.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4033.json"
+  },
+  {
+    "id": 4034,
+    "categoryId": "tv_sport-f1",
+    "name": "beIN Sports 5",
+    "nameEn": "beIN Sports 5",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/7f1ec6d635bc895634c24c181120e80d.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4034.json"
+  },
+  {
+    "id": 4035,
+    "categoryId": "tv_sport-f1",
+    "name": "beIN Sports 6",
+    "nameEn": "beIN Sports 6",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/ff919dc1e73746e934dfd9f078d7e59d.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4035.json"
+  },
+  {
+    "id": 4036,
+    "categoryId": "tv_sport-f1",
+    "name": "beIN Sports 7",
+    "nameEn": "beIN Sports 7",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/fcec8d4f6e2e146452bb1f3b8e0aec67.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4036.json"
+  },
+  {
+    "id": 4037,
+    "categoryId": "tv_sport-f1",
+    "name": "Shahid Sports 1",
+    "nameEn": "Shahid Sports 1",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/bfe3651fe49e9bce3ede00abdfc947b5.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4037.json"
+  },
+  {
+    "id": 4038,
+    "categoryId": "tv_sport-f1",
+    "name": "Shahid Sports 2",
+    "nameEn": "Shahid Sports 2",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/4102b6f93e8d714c934bc1402f967251.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4038.json"
+  },
+  {
+    "id": 4039,
+    "categoryId": "tv_sport-f1",
+    "name": "StarzPlay Sports 1",
+    "nameEn": "StarzPlay Sports 1",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/5f2ce666ac8ac24077c75ea6813af80a.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4039.json"
+  },
+  {
+    "id": 4040,
+    "categoryId": "tv_sport-f1",
+    "name": "StarzPlay Sports 2",
+    "nameEn": "StarzPlay Sports 2",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/8521dda1b1a231080d77e8a684ae42c4.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4040.json"
+  },
+  {
+    "id": 4041,
+    "categoryId": "tv_sport-f1",
+    "name": "StarzPlay Sports 3",
+    "nameEn": "StarzPlay Sports 3",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/c8b306970d3e1001b2f4a1ad7d6b4c1a.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4041.json"
+  },
+  {
+    "id": 4042,
+    "categoryId": "tv_sport-f1",
+    "name": "الكأس 1",
+    "nameEn": "الكأس 1",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/42cf49229c816ec7d185ef544c722b7b.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4042.json"
+  },
+  {
+    "id": 4043,
+    "categoryId": "tv_sport-f1",
+    "name": "الكأس 2",
+    "nameEn": "الكأس 2",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/f2219a0eb15101600b96fcca7341bf98.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4043.json"
+  },
+  {
+    "id": 4044,
+    "categoryId": "tv_sport-f1",
+    "name": "الكأس 3",
+    "nameEn": "الكأس 3",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/ad5d0ebbd674d12fe5b7d91f733cc4cd.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4044.json"
+  },
+  {
+    "id": 4045,
+    "categoryId": "tv_sport-f1",
+    "name": "الكأس 4",
+    "nameEn": "الكأس 4",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/27def98e8b30fcedf93cb7b1badbf7ac.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4045.json"
+  },
+  {
+    "id": 4046,
+    "categoryId": "tv_sport-f1",
+    "name": "ثمانية 1",
+    "nameEn": "ثمانية 1",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/f20bbd05d94ff48ebde36d24443e2446.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4046.json"
+  },
+  {
+    "id": 4047,
+    "categoryId": "tv_sport-f1",
+    "name": "ثمانية 2",
+    "nameEn": "ثمانية 2",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/a7624339b545f8adbb6abb3845e26627.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4047.json"
+  },
+  {
+    "id": 4048,
+    "categoryId": "tv_sport-f1",
+    "name": "ثمانية 3",
+    "nameEn": "ثمانية 3",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/9f30f8f59647c466701b220613b16d8c.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4048.json"
+  },
+  {
+    "id": 4049,
+    "categoryId": "tv_sport-f1",
+    "name": "AD Sport 1",
+    "nameEn": "AD Sport 1",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/b1895c8bcad9fe764ec25f17c6636da8.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4049.json"
+  },
+  {
+    "id": 4050,
+    "categoryId": "tv_sport-f1",
+    "name": "AD Sport 2",
+    "nameEn": "AD Sport 2",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/8d130de35fe372a24a3ace30c8ff57cf.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4050.json"
+  },
+  {
+    "id": 4051,
+    "categoryId": "tv_sport-f1",
+    "name": "ON Sport 1",
+    "nameEn": "ON Sport 1",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/e6f0f2e9e0d026121bcdb875b4e84659.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4051.json"
+  },
+  {
+    "id": 4052,
+    "categoryId": "tv_sport-f1",
+    "name": "ON Sport 2",
+    "nameEn": "ON Sport 2",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/e5ee1c8c5e9245378ec46544232ff32d.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4052.json"
+  },
+  {
+    "id": 4053,
+    "categoryId": "tv_sport-f1",
+    "name": "On Sport MAX",
+    "nameEn": "On Sport MAX",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/9d92aca83e1b9a6b3fef841683fe92bc.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4053.json"
+  },
+  {
+    "id": 4054,
+    "categoryId": "tv_sport-f1",
+    "name": "STC",
+    "nameEn": "STC",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/c662370ccc3b90f9e834631922cb53d1.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4054.json"
+  },
+  {
+    "id": 4055,
+    "categoryId": "tv_sport-f1",
+    "name": "الشارقة الرياضية",
+    "nameEn": "الشارقة الرياضية",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/2d962a9afb566aac7faa7797b9ed73d6.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4055.json"
+  },
+  {
+    "id": 4056,
+    "categoryId": "tv_sport-f1",
+    "name": "المغربية الرياضية",
+    "nameEn": "المغربية الرياضية",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/71a595d8c53bcd9eca048009b8cd0db9.webp",
+    "type": "movie-api",
+    "position": 0,
+    "streamsFile": "streams/4056.json"
+  }
+]

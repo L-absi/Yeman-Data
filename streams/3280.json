@@ -1,0 +1,11 @@
+[
+  {
+    "headers": "Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4|",
+    "otherHeaders": "",
+    "name": "M+ HD #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
+    "Referer": "https://forcedtoplay.xyz/server_lookup.php?channel_id=premium",
+    "userAgent": "OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4",
+    "position": "0",
+    "url": "http://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8"
+  }
+]

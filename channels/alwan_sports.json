@@ -1,0 +1,62 @@
+[
+  {
+    "id": 5734,
+    "categoryId": "alwan_sports",
+    "name": "AL1",
+    "nameEn": "AL1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPMAW68z2n_pschRQ0I_w_PxrX1vE7nPsWJ-Fw7NwsA&s",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/5734.json"
+  },
+  {
+    "id": 5735,
+    "categoryId": "alwan_sports",
+    "name": "AL2",
+    "nameEn": "AL2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPMAW68z2n_pschRQ0I_w_PxrX1vE7nPsWJ-Fw7NwsA&s",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/5735.json"
+  },
+  {
+    "id": 5736,
+    "categoryId": "alwan_sports",
+    "name": "AL3",
+    "nameEn": "AL3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPMAW68z2n_pschRQ0I_w_PxrX1vE7nPsWJ-Fw7NwsA&s",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/5736.json"
+  },
+  {
+    "id": 5737,
+    "categoryId": "alwan_sports",
+    "name": "AL4",
+    "nameEn": "AL4",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPMAW68z2n_pschRQ0I_w_PxrX1vE7nPsWJ-Fw7NwsA&s",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/5737.json"
+  },
+  {
+    "id": 5738,
+    "categoryId": "alwan_sports",
+    "name": "AL5",
+    "nameEn": "AL5",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPMAW68z2n_pschRQ0I_w_PxrX1vE7nPsWJ-Fw7NwsA&s",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/5738.json"
+  },
+  {
+    "id": 5739,
+    "categoryId": "alwan_sports",
+    "name": "AL6",
+    "nameEn": "AL6",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPMAW68z2n_pschRQ0I_w_PxrX1vE7nPsWJ-Fw7NwsA&s",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/5739.json"
+  }
+]

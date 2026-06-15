@@ -1,0 +1,57 @@
+[
+  {
+    "id": 810,
+    "categoryId": "31",
+    "name": "Oman TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/huPvVoT.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/810.json"
+  },
+  {
+    "id": 811,
+    "categoryId": "31",
+    "name": "Oman Mubashir",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/r9qHbfR.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/811.json"
+  },
+  {
+    "id": 812,
+    "categoryId": "31",
+    "name": "Oman Cultural",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/mdnw0Go.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/812.json"
+  },
+  {
+    "id": 813,
+    "categoryId": "31",
+    "name": "Oman Sport",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/A3mKgS8.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/813.json"
+  },
+  {
+    "id": 814,
+    "categoryId": "31",
+    "name": "Istiqama TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/Un2ofth.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/814.json"
+  }
+]

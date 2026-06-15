@@ -1,0 +1,72 @@
+[
+  {
+    "id": 4962,
+    "categoryId": "tnt_sport",
+    "name": "TNT1",
+    "nameEn": "TNT1",
+    "logo": "https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/4962.json"
+  },
+  {
+    "id": 4963,
+    "categoryId": "tnt_sport",
+    "name": "TNT2",
+    "nameEn": "TNT2",
+    "logo": "https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4963.json"
+  },
+  {
+    "id": 4964,
+    "categoryId": "tnt_sport",
+    "name": "TNT3",
+    "nameEn": "TNT3",
+    "logo": "https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4964.json"
+  },
+  {
+    "id": 4965,
+    "categoryId": "tnt_sport",
+    "name": "TNT4",
+    "nameEn": "TNT4",
+    "logo": "https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4965.json"
+  },
+  {
+    "id": 4966,
+    "categoryId": "tnt_sport",
+    "name": "Telemundo",
+    "nameEn": "Telemundo",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScfibGZ_ifvzyQDt-pbToxQnoXCNTN1NJ44GbuGknPng&s=10",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4966.json"
+  },
+  {
+    "id": 4967,
+    "categoryId": "tnt_sport",
+    "name": "CBS",
+    "nameEn": "CBS",
+    "logo": "https://i1.sndcdn.com/artworks-000367577007-ikrm5a-t500x500.jpg",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4967.json"
+  },
+  {
+    "id": 4968,
+    "categoryId": "tnt_sport",
+    "name": "CBS CL",
+    "nameEn": "CBS CL",
+    "logo": "https://static1.squarespace.com/static/5cc3d1b051f4d40415789cc2/5cc3d53ada28cf0001d12755/5dd23ab0e4692e5af28bb2c9/1574059253150/cbs-uefa-champions-league.png?format=1500w",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4968.json"
+  }
+]

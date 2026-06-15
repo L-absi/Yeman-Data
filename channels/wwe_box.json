@@ -1,0 +1,32 @@
+[
+  {
+    "id": 4078,
+    "categoryId": "wwe_box",
+    "name": "Live1",
+    "nameEn": "Live1",
+    "logo": "",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/4078.json"
+  },
+  {
+    "id": 4079,
+    "categoryId": "wwe_box",
+    "name": "Live2",
+    "nameEn": "Live2",
+    "logo": "",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4079.json"
+  },
+  {
+    "id": 4080,
+    "categoryId": "wwe_box",
+    "name": "Live3",
+    "nameEn": "Live3",
+    "logo": "",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4080.json"
+  }
+]

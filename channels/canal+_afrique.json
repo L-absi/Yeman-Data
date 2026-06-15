@@ -1,0 +1,52 @@
+[
+  {
+    "id": 4758,
+    "categoryId": "canal+_afrique",
+    "name": "Canal+ AF1",
+    "nameEn": "Canal+ AF1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkycV-W4qf0MIrzIrDLgWPDFwZbJpuT8Lfbg&s",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4758.json"
+  },
+  {
+    "id": 4759,
+    "categoryId": "canal+_afrique",
+    "name": "Canal+ AF2",
+    "nameEn": "Canal+ AF2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkycV-W4qf0MIrzIrDLgWPDFwZbJpuT8Lfbg&s",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4759.json"
+  },
+  {
+    "id": 4760,
+    "categoryId": "canal+_afrique",
+    "name": "Canal+ AF3",
+    "nameEn": "Canal+ AF3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkycV-W4qf0MIrzIrDLgWPDFwZbJpuT8Lfbg&s",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4760.json"
+  },
+  {
+    "id": 4761,
+    "categoryId": "canal+_afrique",
+    "name": "Canal+ AF4",
+    "nameEn": "Canal+ AF4",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkycV-W4qf0MIrzIrDLgWPDFwZbJpuT8Lfbg&s",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4761.json"
+  },
+  {
+    "id": 4762,
+    "categoryId": "canal+_afrique",
+    "name": "Canal+ AF5",
+    "nameEn": "Canal+ AF5",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkycV-W4qf0MIrzIrDLgWPDFwZbJpuT8Lfbg&s",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4762.json"
+  }
+]

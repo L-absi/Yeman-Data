@@ -1,0 +1,200 @@
+[
+  {
+    "id": 135,
+    "categoryId": "11",
+    "name": "MBC 1",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/135.json"
+  },
+  {
+    "id": 136,
+    "categoryId": "11",
+    "name": "MBC 2",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/136.json"
+  },
+  {
+    "id": 137,
+    "categoryId": "11",
+    "name": "MBC 3",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/62/MBC_3_Transparent_Background_Logo.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/137.json"
+  },
+  {
+    "id": 138,
+    "categoryId": "11",
+    "name": "MBC 4",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/800px-MBC_4_TV_Channel_Logo.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/138.json"
+  },
+  {
+    "id": 139,
+    "categoryId": "11",
+    "name": "MBC 5",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/5_MBC.webp",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/139.json"
+  },
+  {
+    "id": 130,
+    "categoryId": "11",
+    "name": "MBC IRAQ",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/MBC_Iraq.svg/640px-MBC_Iraq.svg.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/130.json"
+  },
+  {
+    "id": 131,
+    "categoryId": "11",
+    "name": "MBC Maser",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/1200px-MBC_Masr_Logo.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/131.json"
+  },
+  {
+    "id": 132,
+    "categoryId": "11",
+    "name": "MBC Masr 2",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/MBC_Masr_2_Logo.svg/1200px-MBC_Masr_2_Logo.svg.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/132.json"
+  },
+  {
+    "id": 133,
+    "categoryId": "11",
+    "name": "MBC Drama",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://4.bp.blogspot.com/-xdlWCS_9bjo/WxKH_A9QB4I/AAAAAAAATlM/7uO647kh7tACExdgVrp6VJg4CIYEhDO8gCLcBGAs/s1600/mbc_ae_drama_hd%2BFrequency.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/133.json"
+  },
+  {
+    "id": 134,
+    "categoryId": "11",
+    "name": "MBC Drama +",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "http://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/134.json"
+  },
+  {
+    "id": 1640,
+    "categoryId": "11",
+    "name": "MBC Variety",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://gobx.com/wp-content/uploads/2019/05/MBC-Variety-1.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1640.json"
+  },
+  {
+    "id": 140,
+    "categoryId": "11",
+    "name": "MBC Action",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/1logo_mbc_action.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/140.json"
+  },
+  {
+    "id": 141,
+    "categoryId": "11",
+    "name": "MBC Max",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/141.json"
+  },
+  {
+    "id": 142,
+    "categoryId": "11",
+    "name": "MBC Bollywood",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7d8b44a9-c029-43b0-9982-bf2769d2232a/djp77td-9f83df44-afc5-4a34-aa20-5238df55770e.png/v1/fill/w_447,h_773/mbc_bollywood_logo_letter_b_2013_now__by_gaafar278_djp77td-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzczIiwicGF0aCI6IlwvZlwvN2Q4YjQ0YTktYzAyOS00M2IwLTk5ODItYmYyNzY5ZDIyMzJhXC9kanA3N3RkLTlmODNkZjQ0LWFmYzUtNGEzNC1hYTIwLTUyMzhkZjU1NzcwZS5wbmciLCJ3aWR0aCI6Ijw9NDQ3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.-dna2joeA5yAh_AQBwm2RpTWROXKh0ZyvLWA64thi-M",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/142.json"
+  },
+  {
+    "id": 143,
+    "categoryId": "11",
+    "name": "MBC Persia ",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/143.json"
+  },
+  {
+    "id": 144,
+    "categoryId": "11",
+    "name": "MBC FM",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/144.json"
+  },
+  {
+    "id": 145,
+    "categoryId": "11",
+    "name": "Panorama FM",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Panorama_FM_Logo.svg/1200px-Panorama_FM_Logo.svg.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/145.json"
+  },
+  {
+    "id": 146,
+    "categoryId": "11",
+    "name": "Wanasah",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/146.json"
+  }
+]

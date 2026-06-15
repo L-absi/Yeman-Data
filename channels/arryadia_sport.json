@@ -1,0 +1,62 @@
+[
+  {
+    "id": 5740,
+    "categoryId": "arryadia_sport",
+    "name": "Arryadia TNT",
+    "nameEn": "Arryadia TNT",
+    "logo": "https://livemedia.ma/static/img/channels/arryadia-tnt.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/5740.json"
+  },
+  {
+    "id": 5741,
+    "categoryId": "arryadia_sport",
+    "name": "Arryadia",
+    "nameEn": "Arryadia",
+    "logo": "https://yt3.googleusercontent.com/ZvdsfeYl_U-N1ECyfqJPWYYswIc9eHE6sVd2qP5sPq7cq0hm401BE_H6RYlju3V1juC9p_Cl=s900-c-k-c0x00ffffff-no-rj",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/5741.json"
+  },
+  {
+    "id": 5742,
+    "categoryId": "arryadia_sport",
+    "name": "Arryadia HD1",
+    "nameEn": "Arryadia HD1",
+    "logo": "https://yt3.googleusercontent.com/ZvdsfeYl_U-N1ECyfqJPWYYswIc9eHE6sVd2qP5sPq7cq0hm401BE_H6RYlju3V1juC9p_Cl=s900-c-k-c0x00ffffff-no-rj",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/5742.json"
+  },
+  {
+    "id": 5743,
+    "categoryId": "arryadia_sport",
+    "name": "Arryadia HD2",
+    "nameEn": "Arryadia HD2",
+    "logo": "https://yt3.googleusercontent.com/ZvdsfeYl_U-N1ECyfqJPWYYswIc9eHE6sVd2qP5sPq7cq0hm401BE_H6RYlju3V1juC9p_Cl=s900-c-k-c0x00ffffff-no-rj",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/5743.json"
+  },
+  {
+    "id": 5744,
+    "categoryId": "arryadia_sport",
+    "name": "Arryadia HD3",
+    "nameEn": "Arryadia HD3",
+    "logo": "https://yt3.googleusercontent.com/ZvdsfeYl_U-N1ECyfqJPWYYswIc9eHE6sVd2qP5sPq7cq0hm401BE_H6RYlju3V1juC9p_Cl=s900-c-k-c0x00ffffff-no-rj",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/5744.json"
+  },
+  {
+    "id": 5745,
+    "categoryId": "arryadia_sport",
+    "name": "Almghribia",
+    "nameEn": "Almghribia",
+    "logo": "",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/5745.json"
+  }
+]

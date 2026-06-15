@@ -1,0 +1,52 @@
+[
+  {
+    "id": 4975,
+    "categoryId": "tsn_sports",
+    "name": "TSN1",
+    "nameEn": "TSN1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsH8zoEI8anMW3e7iTcm5ZYpI7nZ6Rwu831Y7TMJz3gQ&s=10",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/4975.json"
+  },
+  {
+    "id": 4976,
+    "categoryId": "tsn_sports",
+    "name": "TSN2",
+    "nameEn": "TSN2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsH8zoEI8anMW3e7iTcm5ZYpI7nZ6Rwu831Y7TMJz3gQ&s=10",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4976.json"
+  },
+  {
+    "id": 4977,
+    "categoryId": "tsn_sports",
+    "name": "TSN3",
+    "nameEn": "TSN3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsH8zoEI8anMW3e7iTcm5ZYpI7nZ6Rwu831Y7TMJz3gQ&s=10",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4977.json"
+  },
+  {
+    "id": 4978,
+    "categoryId": "tsn_sports",
+    "name": "TSN4",
+    "nameEn": "TSN4",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsH8zoEI8anMW3e7iTcm5ZYpI7nZ6Rwu831Y7TMJz3gQ&s=10",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4978.json"
+  },
+  {
+    "id": 4979,
+    "categoryId": "tsn_sports",
+    "name": "TSN5",
+    "nameEn": "TSN5",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsH8zoEI8anMW3e7iTcm5ZYpI7nZ6Rwu831Y7TMJz3gQ&s=10",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4979.json"
+  }
+]

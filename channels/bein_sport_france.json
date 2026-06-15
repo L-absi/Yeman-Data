@@ -1,0 +1,132 @@
+[
+  {
+    "id": 3910,
+    "categoryId": "bein_sport_france",
+    "name": "Bein1FR",
+    "nameEn": "Bein1FR",
+    "logo": "https://iili.io/JhkLZXa.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/3910.json"
+  },
+  {
+    "id": 3911,
+    "categoryId": "bein_sport_france",
+    "name": "Bein2FR",
+    "nameEn": "Bein2FR",
+    "logo": "https://iili.io/JhkQ9dN.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/3911.json"
+  },
+  {
+    "id": 3912,
+    "categoryId": "bein_sport_france",
+    "name": "BEIN 1",
+    "nameEn": "BEIN 1",
+    "logo": "https://iili.io/JhkLZXa.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/3912.json"
+  },
+  {
+    "id": 3913,
+    "categoryId": "bein_sport_france",
+    "name": "BEIN 2",
+    "nameEn": "BEIN 2",
+    "logo": "https://iili.io/JhkQ9dN.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/3913.json"
+  },
+  {
+    "id": 3914,
+    "categoryId": "bein_sport_france",
+    "name": "Bein3FR",
+    "nameEn": "Bein3FR",
+    "logo": "https://iili.io/JhkQCrl.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/3914.json"
+  },
+  {
+    "id": 3915,
+    "categoryId": "bein_sport_france",
+    "name": "BEIN 3",
+    "nameEn": "BEIN 3",
+    "logo": "https://iili.io/JhkQCrl.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/3915.json"
+  },
+  {
+    "id": 3916,
+    "categoryId": "bein_sport_france",
+    "name": "Bein4FR",
+    "nameEn": "Bein4FR",
+    "logo": "https://iili.io/JmoxkJt.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/3916.json"
+  },
+  {
+    "id": 3917,
+    "categoryId": "bein_sport_france",
+    "name": "Bein5FR",
+    "nameEn": "Bein5FR",
+    "logo": "https://iili.io/Jmoxv5X.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/3917.json"
+  },
+  {
+    "id": 3918,
+    "categoryId": "bein_sport_france",
+    "name": "Bein6FR",
+    "nameEn": "Bein6FR",
+    "logo": "https://iili.io/Jmox8en.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/3918.json"
+  },
+  {
+    "id": 3919,
+    "categoryId": "bein_sport_france",
+    "name": "Bein7FR",
+    "nameEn": "Bein7FR",
+    "logo": "https://iili.io/JmoxOgI.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/3919.json"
+  },
+  {
+    "id": 3920,
+    "categoryId": "bein_sport_france",
+    "name": "Bein8FR",
+    "nameEn": "Bein8FR",
+    "logo": "https://iili.io/JmoxN0N.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/3920.json"
+  },
+  {
+    "id": 3921,
+    "categoryId": "bein_sport_france",
+    "name": "Bein9FR",
+    "nameEn": "Bein9FR",
+    "logo": "https://iili.io/JmoxhsR.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/3921.json"
+  },
+  {
+    "id": 3922,
+    "categoryId": "bein_sport_france",
+    "name": "Bein10FR",
+    "nameEn": "Bein10FR",
+    "logo": "https://iili.io/Jmoxwfp.png",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/3922.json"
+  }
+]

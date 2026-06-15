@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Dubai Sports 2",
+    "url": "https://dmi-live-a.akamaized.net/Content/Channel/dubaisports2/HLS/master.m3u8",
+    "urlType": 3,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://www.awaan.ae/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://www.awaan.ae/"
+    },
+    "drm": null
+  }
+]

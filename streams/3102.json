@@ -1,0 +1,11 @@
+[
+  {
+    "headers": "Referer|https://rotana.net/|",
+    "otherHeaders": "",
+    "name": "PANORAMA FM",
+    "Referer": "https://rotana.net/",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/index.m3u8"
+  }
+]

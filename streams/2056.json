@@ -1,0 +1,26 @@
+[
+  {
+    "license": "",
+    "headers": "Referer|https://cast-x.app/|origin|https://cast-x.app",
+    "scheme": "",
+    "otherHeaders": "origin|https://cast-x.app",
+    "isWeb": "false",
+    "name": "2",
+    "Referer": "https://cast-x.app/",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://morocco.castxtv47.workers.dev/4.m3u8"
+  },
+  {
+    "license": "",
+    "headers": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "1",
+    "Referer": "",
+    "userAgent": "",
+    "position": "5555",
+    "url": "http://a501.variety-buy.store/api/channel/542"
+  }
+]

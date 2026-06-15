@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "name": "",
+      "url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+      "url_type": 3,
+      "user_agent": "Mozilla/5.0",
+      "referer": "",
+      "event_channel_id": null,
+      "headers": {},
+      "drm": {
+        "scheme": "clearkey",
+        "key_id": "429bcf031bbf3146a67f3f583e4c4355",
+        "key": "d1b92aba5a38a518c8b8a1fd2bca4398"
+      }
+    }
+  ]
+}

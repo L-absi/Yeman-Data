@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "name": "ZDF1",
+      "url": "https://estreams.tv.nej.cz/dash/CH_ZDF_HD.ism/playlist.mpd",
+      "url_type": 3,
+      "user_agent": "Mozilla/5.0",
+      "referer": "",
+      "event_channel_id": null,
+      "headers": {},
+      "drm": null
+    },
+    {
+      "name": "ZDF2",
+      "url": "https://estreams.tv.nej.cz/dash/CH_ZDF_Portable.ism/playlist.mpd",
+      "url_type": 3,
+      "user_agent": "Mozilla/5.0",
+      "referer": "",
+      "event_channel_id": null,
+      "headers": {},
+      "drm": null
+    }
+  ]
+}

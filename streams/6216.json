@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "name": "",
+      "url": "https://lilac01.pontiscloud.com/live/eds/TVE/live_dash_cld/TVE.mpd?|referer=https://webclient.antinaplayplus.com.ar/",
+      "url_type": 3,
+      "user_agent": "Mozilla/5.0",
+      "referer": "",
+      "event_channel_id": null,
+      "headers": {},
+      "drm": {
+        "scheme": "clearkey",
+        "key_id": "49c79f1d16db45b4e6671c3a7550e8fc",
+        "key": "ac26680d5cfdcab87e4139a410b9984b"
+      }
+    }
+  ]
+}

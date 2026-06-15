@@ -1,0 +1,52 @@
+[
+  {
+    "id": 5751,
+    "categoryId": "aya_cx_tvstarzplay_ستارز_بلاي",
+    "name": "STZ1 AR",
+    "nameEn": "STZ1 AR",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnCsuEMLjdzQOtvRzqiFwFbcdLxsi6ZDUZ661HtmvZg&s=10",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/5751.json"
+  },
+  {
+    "id": 5752,
+    "categoryId": "aya_cx_tvstarzplay_ستارز_بلاي",
+    "name": "STZ2 AR",
+    "nameEn": "STZ2 AR",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnCsuEMLjdzQOtvRzqiFwFbcdLxsi6ZDUZ661HtmvZg&s=10",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/5752.json"
+  },
+  {
+    "id": 5753,
+    "categoryId": "aya_cx_tvstarzplay_ستارز_بلاي",
+    "name": "STZ3 AR",
+    "nameEn": "STZ3 AR",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnCsuEMLjdzQOtvRzqiFwFbcdLxsi6ZDUZ661HtmvZg&s=10",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/5753.json"
+  },
+  {
+    "id": 5754,
+    "categoryId": "aya_cx_tvstarzplay_ستارز_بلاي",
+    "name": "STZSD",
+    "nameEn": "STZSD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLUEWUh15A8TtXFxQifGwcaCcVeRngN6qdxjBeVx5Iw&s=10",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/5754.json"
+  },
+  {
+    "id": 5755,
+    "categoryId": "aya_cx_tvstarzplay_ستارز_بلاي",
+    "name": "STZHD",
+    "nameEn": "STZHD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLUEWUh15A8TtXFxQifGwcaCcVeRngN6qdxjBeVx5Iw&s=10",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/5755.json"
+  }
+]

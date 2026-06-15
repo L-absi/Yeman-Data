@@ -1,0 +1,382 @@
+[
+  {
+    "id": 2138,
+    "categoryId": "jordantv",
+    "name": "Al Mamlaka TV (1080p)",
+    "nameEn": "Al Mamlaka TV (1080p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/2138.json"
+  },
+  {
+    "id": 2139,
+    "categoryId": "jordantv",
+    "name": "AL HAQEQA AL DAWLIAH",
+    "nameEn": "AL HAQEQA AL DAWLIAH",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/2139.json"
+  },
+  {
+    "id": 2140,
+    "categoryId": "jordantv",
+    "name": "Amman TV (720p)",
+    "nameEn": "Amman TV (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/2140.json"
+  },
+  {
+    "id": 2141,
+    "categoryId": "jordantv",
+    "name": "Darsak Tawjihi",
+    "nameEn": "Darsak Tawjihi",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/2141.json"
+  },
+  {
+    "id": 2142,
+    "categoryId": "jordantv",
+    "name": "Amman TV (720p)",
+    "nameEn": "Amman TV (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/2142.json"
+  },
+  {
+    "id": 2143,
+    "categoryId": "jordantv",
+    "name": "Jordan Amen",
+    "nameEn": "Jordan Amen",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/2143.json"
+  },
+  {
+    "id": 2144,
+    "categoryId": "jordantv",
+    "name": "A One TV",
+    "nameEn": "A One TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/2144.json"
+  },
+  {
+    "id": 2145,
+    "categoryId": "jordantv",
+    "name": "Darsak 2",
+    "nameEn": "Darsak 2",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/2145.json"
+  },
+  {
+    "id": 2146,
+    "categoryId": "jordantv",
+    "name": "Fajer 2 TV (720p)",
+    "nameEn": "Fajer 2 TV (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/2146.json"
+  },
+  {
+    "id": 2147,
+    "categoryId": "jordantv",
+    "name": "Darsak 1",
+    "nameEn": "Darsak 1",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/2147.json"
+  },
+  {
+    "id": 2148,
+    "categoryId": "jordantv",
+    "name": "Ismaoona TV (720p)",
+    "nameEn": "Ismaoona TV (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/2148.json"
+  },
+  {
+    "id": 2149,
+    "categoryId": "jordantv",
+    "name": "|JOR| AL YARMOUK TV",
+    "nameEn": "|JOR| AL YARMOUK TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/2149.json"
+  },
+  {
+    "id": 2150,
+    "categoryId": "jordantv",
+    "name": "Jawhara FM (720p) [Not 24/7]",
+    "nameEn": "Jawhara FM (720p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/2150.json"
+  },
+  {
+    "id": 2151,
+    "categoryId": "jordantv",
+    "name": "[JORDAN] A one TV Jordan",
+    "nameEn": "[JORDAN] A one TV Jordan",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/2151.json"
+  },
+  {
+    "id": 2152,
+    "categoryId": "jordantv",
+    "name": "Jordan Satellite Channel",
+    "nameEn": "Jordan Satellite Channel",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/2152.json"
+  },
+  {
+    "id": 2153,
+    "categoryId": "jordantv",
+    "name": "[JORDAN] JORDAN SAMA",
+    "nameEn": "[JORDAN] JORDAN SAMA",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/2153.json"
+  },
+  {
+    "id": 2154,
+    "categoryId": "jordantv",
+    "name": "Melody FM Jordan (720p) [Not 24/7]",
+    "nameEn": "Melody FM Jordan (720p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/2154.json"
+  },
+  {
+    "id": 2155,
+    "categoryId": "jordantv",
+    "name": "|JOR| Jordan Sport",
+    "nameEn": "|JOR| Jordan Sport",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/2155.json"
+  },
+  {
+    "id": 2156,
+    "categoryId": "jordantv",
+    "name": "Nojoum TV (720p)",
+    "nameEn": "Nojoum TV (720p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/2156.json"
+  },
+  {
+    "id": 2157,
+    "categoryId": "jordantv",
+    "name": "|JOR| A_ONE_TV",
+    "nameEn": "|JOR| A_ONE_TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/2157.json"
+  },
+  {
+    "id": 2158,
+    "categoryId": "jordantv",
+    "name": "Radio Fann Jordan: City View (180p) [Not 24/7]",
+    "nameEn": "Radio Fann Jordan: City View (180p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/2158.json"
+  },
+  {
+    "id": 2159,
+    "categoryId": "jordantv",
+    "name": "|JOR| Amman_TV",
+    "nameEn": "|JOR| Amman_TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/2159.json"
+  },
+  {
+    "id": 2160,
+    "categoryId": "jordantv",
+    "name": "Radio Fann Jordan: Control Studio (220p) [Not 24/7]",
+    "nameEn": "Radio Fann Jordan: Control Studio (220p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/2160.json"
+  },
+  {
+    "id": 2161,
+    "categoryId": "jordantv",
+    "name": "[JOR] ROYA",
+    "nameEn": "[JOR] ROYA",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/2161.json"
+  },
+  {
+    "id": 2162,
+    "categoryId": "jordantv",
+    "name": "Radio Fann Jordan: Studio (180p) [Not 24/7]",
+    "nameEn": "Radio Fann Jordan: Studio (180p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/2162.json"
+  },
+  {
+    "id": 2163,
+    "categoryId": "jordantv",
+    "name": "|JOR| Jordan TV",
+    "nameEn": "|JOR| Jordan TV",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/2163.json"
+  },
+  {
+    "id": 2164,
+    "categoryId": "jordantv",
+    "name": "Radio Yaqeen Jordan: City View (180p) [Not 24/7]",
+    "nameEn": "Radio Yaqeen Jordan: City View (180p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/2164.json"
+  },
+  {
+    "id": 2165,
+    "categoryId": "jordantv",
+    "name": "|JOR| Jordan",
+    "nameEn": "|JOR| Jordan",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/2165.json"
+  },
+  {
+    "id": 2166,
+    "categoryId": "jordantv",
+    "name": "Radio Yaqeen Jordan: Control Studio (180p) [Not 24/7]",
+    "nameEn": "Radio Yaqeen Jordan: Control Studio (180p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/2166.json"
+  },
+  {
+    "id": 2167,
+    "categoryId": "jordantv",
+    "name": "Radio Yaqeen Jordan: Studio (180p) [Not 24/7]",
+    "nameEn": "Radio Yaqeen Jordan: Studio (180p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/2167.json"
+  },
+  {
+    "id": 2168,
+    "categoryId": "jordantv",
+    "name": "Rotana Radio Jordan: City View (180p) [Not 24/7]",
+    "nameEn": "Rotana Radio Jordan: City View (180p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/2168.json"
+  },
+  {
+    "id": 2169,
+    "categoryId": "jordantv",
+    "name": "Rotana Radio Jordan: Control Studio (180p)",
+    "nameEn": "Rotana Radio Jordan: Control Studio (180p)",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 18,
+    "streamsFile": "streams/2169.json"
+  },
+  {
+    "id": 2170,
+    "categoryId": "jordantv",
+    "name": "Rotana Radio Jordan: Studio (180p) [Not 24/7]",
+    "nameEn": "Rotana Radio Jordan: Studio (180p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 19,
+    "streamsFile": "streams/2170.json"
+  },
+  {
+    "id": 2171,
+    "categoryId": "jordantv",
+    "name": "Rotana Tarab Jordan: City View (180p) [Not 24/7]",
+    "nameEn": "Rotana Tarab Jordan: City View (180p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 20,
+    "streamsFile": "streams/2171.json"
+  },
+  {
+    "id": 2172,
+    "categoryId": "jordantv",
+    "name": "Rotana Tarab Jordan: Control Studio (180p) [Not 24/7]",
+    "nameEn": "Rotana Tarab Jordan: Control Studio (180p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 21,
+    "streamsFile": "streams/2172.json"
+  },
+  {
+    "id": 2173,
+    "categoryId": "jordantv",
+    "name": "Roya TV (720p) [Not 24/7]",
+    "nameEn": "Roya TV (720p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 22,
+    "streamsFile": "streams/2173.json"
+  },
+  {
+    "id": 2174,
+    "categoryId": "jordantv",
+    "name": "Thakafah TV (720p) [Not 24/7]",
+    "nameEn": "Thakafah TV (720p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 23,
+    "streamsFile": "streams/2174.json"
+  },
+  {
+    "id": 2175,
+    "categoryId": "jordantv",
+    "name": "Toyor Al-Jannah (720p) [Not 24/7]",
+    "nameEn": "Toyor Al-Jannah (720p) [Not 24/7]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 24,
+    "streamsFile": "streams/2175.json"
+  }
+]

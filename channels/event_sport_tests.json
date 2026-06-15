@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3980,
+    "categoryId": "event_sport_tests",
+    "name": "Hala Ramallah",
+    "nameEn": "Hala Ramallah",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/3980.json"
+  },
+  {
+    "id": 3981,
+    "categoryId": "event_sport_tests",
+    "name": "Ajyal TV",
+    "nameEn": "Ajyal TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/3981.json"
+  },
+  {
+    "id": 3982,
+    "categoryId": "event_sport_tests",
+    "name": "მყმ",
+    "nameEn": "მყმ",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/3982.json"
+  },
+  {
+    "id": 3983,
+    "categoryId": "event_sport_tests",
+    "name": "SIR",
+    "nameEn": "SIR",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/3983.json"
+  },
+  {
+    "id": 3984,
+    "categoryId": "event_sport_tests",
+    "name": "TAP",
+    "nameEn": "TAP",
+    "logo": "",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/3984.json"
+  },
+  {
+    "id": 3985,
+    "categoryId": "event_sport_tests",
+    "name": "Buz1",
+    "nameEn": "Buz1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/3985.json"
+  },
+  {
+    "id": 3986,
+    "categoryId": "event_sport_tests",
+    "name": "ᴀʏᴀ4ᴋ",
+    "nameEn": "ᴀʏᴀ4ᴋ",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/3986.json"
+  },
+  {
+    "id": 3987,
+    "categoryId": "event_sport_tests",
+    "name": "Batifa",
+    "nameEn": "Batifa",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/3987.json"
+  }
+]

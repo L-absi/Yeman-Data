@@ -1,0 +1,24 @@
+[
+  {
+    "headers": "Referer|https://equipinsert.net/embed/htubf9wnux5p1h|user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36|find|m3u8",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "find|m3u8",
+    "name": "SERVER1",
+    "Referer": "https://equipinsert.net/embed/htubf9wnux5p1h",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "position": "0",
+    "url": "https://equipinsert.net/embed/htubf9wnux5p1h"
+  },
+  {
+    "headers": "user-agent|Dalvik/2.1.0 (Linux; U; Android 16; SM-M336BU Build/BP2A.250605.031.A3)|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "SERVER2",
+    "Referer": "",
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 16; SM-M336BU Build/BP2A.250605.031.A3)",
+    "position": "01",
+    "url": "http://127.0.0.1:63000/live/me_channel?me_url=turbo://live.0vcmc02vl8agx9z8jqsx/795cc83cb71b7c4a7100533e61987a915721"
+  }
+]

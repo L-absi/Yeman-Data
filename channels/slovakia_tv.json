@@ -1,0 +1,52 @@
+[
+  {
+    "id": 4918,
+    "categoryId": "slovakia_tv",
+    "name": "RTVS Sport 🇸🇰",
+    "nameEn": "RTVS Sport 🇸🇰",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Slovak_Football_Association_logo.svg/1200px-Slovak_Football_Association_logo.svg.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4918.json"
+  },
+  {
+    "id": 4919,
+    "categoryId": "slovakia_tv",
+    "name": "TA3 🇸🇰",
+    "nameEn": "TA3 🇸🇰",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Slovak_Football_Association_logo.svg/1200px-Slovak_Football_Association_logo.svg.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4919.json"
+  },
+  {
+    "id": 4920,
+    "categoryId": "slovakia_tv",
+    "name": "ČT Sport 🇸🇰",
+    "nameEn": "ČT Sport 🇸🇰",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Slovak_Football_Association_logo.svg/1200px-Slovak_Football_Association_logo.svg.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4920.json"
+  },
+  {
+    "id": 4921,
+    "categoryId": "slovakia_tv",
+    "name": "JOJ Šport 🇸🇰",
+    "nameEn": "JOJ Šport 🇸🇰",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Slovak_Football_Association_logo.svg/1200px-Slovak_Football_Association_logo.svg.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4921.json"
+  },
+  {
+    "id": 4922,
+    "categoryId": "slovakia_tv",
+    "name": "Tv4 futbol",
+    "nameEn": "Tv4 futbol",
+    "logo": "",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4922.json"
+  }
+]

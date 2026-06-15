@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3988,
+    "categoryId": "fancode_sport",
+    "name": "FAN1",
+    "nameEn": "FAN1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRsbvCDzYfdfm7JiosS4eyBi0TmJa68lvB6besYGFOQ&s=10",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/3988.json"
+  },
+  {
+    "id": 3989,
+    "categoryId": "fancode_sport",
+    "name": "FAN2",
+    "nameEn": "FAN2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRsbvCDzYfdfm7JiosS4eyBi0TmJa68lvB6besYGFOQ&s=10",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/3989.json"
+  },
+  {
+    "id": 3990,
+    "categoryId": "fancode_sport",
+    "name": "FAN3",
+    "nameEn": "FAN3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRsbvCDzYfdfm7JiosS4eyBi0TmJa68lvB6besYGFOQ&s=10",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/3990.json"
+  }
+]

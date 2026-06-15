@@ -1,0 +1,182 @@
+[
+  {
+    "id": 2676,
+    "categoryId": "aya_cx_tvmbc_قنوات",
+    "name": "MBC 1",
+    "nameEn": "MBC 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2676.json"
+  },
+  {
+    "id": 2677,
+    "categoryId": "aya_cx_tvmbc_قنوات",
+    "name": "MBC 2",
+    "nameEn": "MBC 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/2677.json"
+  },
+  {
+    "id": 2678,
+    "categoryId": "aya_cx_tvmbc_قنوات",
+    "name": "MBC 3",
+    "nameEn": "MBC 3",
+    "logo": "https://b.top4top.io/p_3302aq8841.jpg",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/2678.json"
+  },
+  {
+    "id": 2679,
+    "categoryId": "aya_cx_tvmbc_قنوات",
+    "name": "MBC 4",
+    "nameEn": "MBC 4",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/800px-MBC_4_TV_Channel_Logo.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/2679.json"
+  },
+  {
+    "id": 2680,
+    "categoryId": "aya_cx_tvmbc_قنوات",
+    "name": "MBC 5",
+    "nameEn": "MBC 5",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/5_MBC.webp",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/2680.json"
+  },
+  {
+    "id": 2681,
+    "categoryId": "aya_cx_tvmbc_قنوات",
+    "name": "MBC ACTION",
+    "nameEn": "MBC ACTION",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/1logo_mbc_action.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/2681.json"
+  },
+  {
+    "id": 2682,
+    "categoryId": "aya_cx_tvmbc_قنوات",
+    "name": "MBC DRAMA",
+    "nameEn": "MBC DRAMA",
+    "logo": "https://4.bp.blogspot.com/-xdlWCS_9bjo/WxKH_A9QB4I/AAAAAAAATlM/7uO647kh7tACExdgVrp6VJg4CIYEhDO8gCLcBGAs/s1600/mbc_ae_drama_hd%2BFrequency.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/2682.json"
+  },
+  {
+    "id": 2683,
+    "categoryId": "aya_cx_tvmbc_قنوات",
+    "name": "MBC DRAMA +",
+    "nameEn": "MBC DRAMA +",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL58Io4DUyjKFuSGxT186DIGMqxpLmjUMC1GTsUMBdRg&s=10",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/2683.json"
+  },
+  {
+    "id": 2684,
+    "categoryId": "aya_cx_tvmbc_قنوات",
+    "name": "MBC MASR 1",
+    "nameEn": "MBC MASR 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/1200px-MBC_Masr_Logo.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/2684.json"
+  },
+  {
+    "id": 2685,
+    "categoryId": "aya_cx_tvmbc_قنوات",
+    "name": "Drama Maser",
+    "nameEn": "Drama Maser",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ltaxj23gZSZW6YFydS7ZdWqSTGxeUqypTjMWh95Yig&s=10",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/2685.json"
+  },
+  {
+    "id": 2686,
+    "categoryId": "aya_cx_tvmbc_قنوات",
+    "name": "MBC MASR 2",
+    "nameEn": "MBC MASR 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7Ho_RxwaEhctFWMIJB5-d0Th0Lk-gBHzWXB4WDbyRA&s=10",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/2686.json"
+  },
+  {
+    "id": 2687,
+    "categoryId": "aya_cx_tvmbc_قنوات",
+    "name": "MBC IRAQ",
+    "nameEn": "MBC IRAQ",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwZ9yEJiw2wvgyzpz3H8JZwQM6tBrXMS0euriBtY0GQ&s=10",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/2687.json"
+  },
+  {
+    "id": 2688,
+    "categoryId": "aya_cx_tvmbc_قنوات",
+    "name": "BOLLYWOOD",
+    "nameEn": "BOLLYWOOD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAZK8er0OxCFFV8zqK3wsScE1Wc2GkUcvDY7_v3o7dQ&s=10",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/2688.json"
+  },
+  {
+    "id": 2689,
+    "categoryId": "aya_cx_tvmbc_قنوات",
+    "name": "MBC PERSIA",
+    "nameEn": "MBC PERSIA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/2689.json"
+  },
+  {
+    "id": 2690,
+    "categoryId": "aya_cx_tvmbc_قنوات",
+    "name": "MBC MAX",
+    "nameEn": "MBC MAX",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/2690.json"
+  },
+  {
+    "id": 2691,
+    "categoryId": "aya_cx_tvmbc_قنوات",
+    "name": "MBC Gaming",
+    "nameEn": "MBC Gaming",
+    "logo": "https://c.top4top.io/p_3302s47hx1.jpg",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/2691.json"
+  },
+  {
+    "id": 2692,
+    "categoryId": "aya_cx_tvmbc_قنوات",
+    "name": "MBC Plus Elife",
+    "nameEn": "MBC Plus Elife",
+    "logo": "https://d.top4top.io/p_3302gyfhb1.jpg",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/2692.json"
+  },
+  {
+    "id": 2693,
+    "categoryId": "aya_cx_tvmbc_قنوات",
+    "name": "MBC Variety +",
+    "nameEn": "MBC Variety +",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nRyfelnq-5_IoV_UG7pIi6AlGC5Uhw_oEjJvlreo8J=s900-c-k-c0x00ffffff-no-rj",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/2693.json"
+  }
+]

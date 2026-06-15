@@ -1,0 +1,1232 @@
+[
+  {
+    "id": 5086,
+    "categoryId": "deutchland",
+    "name": "90210",
+    "nameEn": "90210",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/5086.json"
+  },
+  {
+    "id": 5087,
+    "categoryId": "deutchland",
+    "name": "AKIBA PASS TV Anime: Sport",
+    "nameEn": "AKIBA PASS TV Anime: Sport",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/5087.json"
+  },
+  {
+    "id": 5088,
+    "categoryId": "deutchland",
+    "name": "Alle hassen Chris",
+    "nameEn": "Alle hassen Chris",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/5088.json"
+  },
+  {
+    "id": 5089,
+    "categoryId": "deutchland",
+    "name": "Anger Management",
+    "nameEn": "Anger Management",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/5089.json"
+  },
+  {
+    "id": 5090,
+    "categoryId": "deutchland",
+    "name": "Assassination Classroom",
+    "nameEn": "Assassination Classroom",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/5090.json"
+  },
+  {
+    "id": 5091,
+    "categoryId": "deutchland",
+    "name": "Auction Hunters",
+    "nameEn": "Auction Hunters",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/5091.json"
+  },
+  {
+    "id": 5092,
+    "categoryId": "deutchland",
+    "name": "Auf Achse",
+    "nameEn": "Auf Achse",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/5092.json"
+  },
+  {
+    "id": 5093,
+    "categoryId": "deutchland",
+    "name": "Auto Motor Sport",
+    "nameEn": "Auto Motor Sport",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/5093.json"
+  },
+  {
+    "id": 5094,
+    "categoryId": "deutchland",
+    "name": "Avatar",
+    "nameEn": "Avatar",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/5094.json"
+  },
+  {
+    "id": 5095,
+    "categoryId": "deutchland",
+    "name": "Awkward",
+    "nameEn": "Awkward",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/5095.json"
+  },
+  {
+    "id": 5096,
+    "categoryId": "deutchland",
+    "name": "Baywatch",
+    "nameEn": "Baywatch",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/5096.json"
+  },
+  {
+    "id": 5097,
+    "categoryId": "deutchland",
+    "name": "BBC Travel",
+    "nameEn": "BBC Travel",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/5097.json"
+  },
+  {
+    "id": 5098,
+    "categoryId": "deutchland",
+    "name": "Becker",
+    "nameEn": "Becker",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/5098.json"
+  },
+  {
+    "id": 5099,
+    "categoryId": "deutchland",
+    "name": "Beverly Hills 90210",
+    "nameEn": "Beverly Hills 90210",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/5099.json"
+  },
+  {
+    "id": 5100,
+    "categoryId": "deutchland",
+    "name": "Big Time Rush",
+    "nameEn": "Big Time Rush",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/5100.json"
+  },
+  {
+    "id": 5101,
+    "categoryId": "deutchland",
+    "name": "Billiard TV",
+    "nameEn": "Billiard TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/5101.json"
+  },
+  {
+    "id": 5102,
+    "categoryId": "deutchland",
+    "name": "CBS News 24/7",
+    "nameEn": "CBS News 24/7",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/5102.json"
+  },
+  {
+    "id": 5103,
+    "categoryId": "deutchland",
+    "name": "CC Pluto TV",
+    "nameEn": "CC Pluto TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 18,
+    "streamsFile": "streams/5103.json"
+  },
+  {
+    "id": 5104,
+    "categoryId": "deutchland",
+    "name": "Chaos City",
+    "nameEn": "Chaos City",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 19,
+    "streamsFile": "streams/5104.json"
+  },
+  {
+    "id": 5105,
+    "categoryId": "deutchland",
+    "name": "Cheers",
+    "nameEn": "Cheers",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 20,
+    "streamsFile": "streams/5105.json"
+  },
+  {
+    "id": 5106,
+    "categoryId": "deutchland",
+    "name": "Comedy Central South Park",
+    "nameEn": "Comedy Central South Park",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 21,
+    "streamsFile": "streams/5106.json"
+  },
+  {
+    "id": 5107,
+    "categoryId": "deutchland",
+    "name": "DAZN Darts x Pluto TV",
+    "nameEn": "DAZN Darts x Pluto TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 22,
+    "streamsFile": "streams/5107.json"
+  },
+  {
+    "id": 5108,
+    "categoryId": "deutchland",
+    "name": "DAZN Heldinnen x Pluto TV",
+    "nameEn": "DAZN Heldinnen x Pluto TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 23,
+    "streamsFile": "streams/5108.json"
+  },
+  {
+    "id": 5109,
+    "categoryId": "deutchland",
+    "name": "Der Denver-Clan",
+    "nameEn": "Der Denver-Clan",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 24,
+    "streamsFile": "streams/5109.json"
+  },
+  {
+    "id": 5110,
+    "categoryId": "deutchland",
+    "name": "Die Thundermans",
+    "nameEn": "Die Thundermans",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 25,
+    "streamsFile": "streams/5110.json"
+  },
+  {
+    "id": 5111,
+    "categoryId": "deutchland",
+    "name": "Drake & Josh",
+    "nameEn": "Drake & Josh",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 26,
+    "streamsFile": "streams/5111.json"
+  },
+  {
+    "id": 5112,
+    "categoryId": "deutchland",
+    "name": "Ein Engel auf Erden",
+    "nameEn": "Ein Engel auf Erden",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 27,
+    "streamsFile": "streams/5112.json"
+  },
+  {
+    "id": 5113,
+    "categoryId": "deutchland",
+    "name": "Euronews",
+    "nameEn": "Euronews",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 28,
+    "streamsFile": "streams/5113.json"
+  },
+  {
+    "id": 5114,
+    "categoryId": "deutchland",
+    "name": "F.B.I. Files",
+    "nameEn": "F.B.I. Files",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 29,
+    "streamsFile": "streams/5114.json"
+  },
+  {
+    "id": 5115,
+    "categoryId": "deutchland",
+    "name": "Familie Dr. Kleist",
+    "nameEn": "Familie Dr. Kleist",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 30,
+    "streamsFile": "streams/5115.json"
+  },
+  {
+    "id": 5116,
+    "categoryId": "deutchland",
+    "name": "Filmgold",
+    "nameEn": "Filmgold",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 31,
+    "streamsFile": "streams/5116.json"
+  },
+  {
+    "id": 5117,
+    "categoryId": "deutchland",
+    "name": "Fluss-Monster",
+    "nameEn": "Fluss-Monster",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 32,
+    "streamsFile": "streams/5117.json"
+  },
+  {
+    "id": 5118,
+    "categoryId": "deutchland",
+    "name": "Frasier",
+    "nameEn": "Frasier",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 33,
+    "streamsFile": "streams/5118.json"
+  },
+  {
+    "id": 5119,
+    "categoryId": "deutchland",
+    "name": "Fury",
+    "nameEn": "Fury",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 34,
+    "streamsFile": "streams/5119.json"
+  },
+  {
+    "id": 5120,
+    "categoryId": "deutchland",
+    "name": "Germany Shore",
+    "nameEn": "Germany Shore",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 35,
+    "streamsFile": "streams/5120.json"
+  },
+  {
+    "id": 5121,
+    "categoryId": "deutchland",
+    "name": "Goldstar TV",
+    "nameEn": "Goldstar TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 36,
+    "streamsFile": "streams/5121.json"
+  },
+  {
+    "id": 5122,
+    "categoryId": "deutchland",
+    "name": "Hausmeister Krause",
+    "nameEn": "Hausmeister Krause",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 37,
+    "streamsFile": "streams/5122.json"
+  },
+  {
+    "id": 5123,
+    "categoryId": "deutchland",
+    "name": "Hell's Kitchen",
+    "nameEn": "Hell's Kitchen",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 38,
+    "streamsFile": "streams/5123.json"
+  },
+  {
+    "id": 5124,
+    "categoryId": "deutchland",
+    "name": "Hours to Kill Zeitachse des Todes",
+    "nameEn": "Hours to Kill Zeitachse des Todes",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 39,
+    "streamsFile": "streams/5124.json"
+  },
+  {
+    "id": 5125,
+    "categoryId": "deutchland",
+    "name": "iCarly",
+    "nameEn": "iCarly",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 40,
+    "streamsFile": "streams/5125.json"
+  },
+  {
+    "id": 5126,
+    "categoryId": "deutchland",
+    "name": "Ice Pilots",
+    "nameEn": "Ice Pilots",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 41,
+    "streamsFile": "streams/5126.json"
+  },
+  {
+    "id": 5127,
+    "categoryId": "deutchland",
+    "name": "Just.fishing",
+    "nameEn": "Just.fishing",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 42,
+    "streamsFile": "streams/5127.json"
+  },
+  {
+    "id": 5128,
+    "categoryId": "deutchland",
+    "name": "KultKrimi",
+    "nameEn": "KultKrimi",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 43,
+    "streamsFile": "streams/5128.json"
+  },
+  {
+    "id": 5129,
+    "categoryId": "deutchland",
+    "name": "KultKrimi: Der Alte",
+    "nameEn": "KultKrimi: Der Alte",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 44,
+    "streamsFile": "streams/5129.json"
+  },
+  {
+    "id": 5130,
+    "categoryId": "deutchland",
+    "name": "KultKrimi: Der Kommissar",
+    "nameEn": "KultKrimi: Der Kommissar",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 45,
+    "streamsFile": "streams/5130.json"
+  },
+  {
+    "id": 5131,
+    "categoryId": "deutchland",
+    "name": "Kultkrimi: Derrick",
+    "nameEn": "Kultkrimi: Derrick",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 46,
+    "streamsFile": "streams/5131.json"
+  },
+  {
+    "id": 5132,
+    "categoryId": "deutchland",
+    "name": "Love Boat",
+    "nameEn": "Love Boat",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 47,
+    "streamsFile": "streams/5132.json"
+  },
+  {
+    "id": 5133,
+    "categoryId": "deutchland",
+    "name": "Melrose Place",
+    "nameEn": "Melrose Place",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 48,
+    "streamsFile": "streams/5133.json"
+  },
+  {
+    "id": 5134,
+    "categoryId": "deutchland",
+    "name": "Mission Impossible",
+    "nameEn": "Mission Impossible",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 49,
+    "streamsFile": "streams/5134.json"
+  },
+  {
+    "id": 5135,
+    "categoryId": "deutchland",
+    "name": "MOVIEDOME",
+    "nameEn": "MOVIEDOME",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 50,
+    "streamsFile": "streams/5135.json"
+  },
+  {
+    "id": 5136,
+    "categoryId": "deutchland",
+    "name": "Moviepilot TV mit Pluto TV",
+    "nameEn": "Moviepilot TV mit Pluto TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 51,
+    "streamsFile": "streams/5136.json"
+  },
+  {
+    "id": 5137,
+    "categoryId": "deutchland",
+    "name": "MTV Catfish TV Show",
+    "nameEn": "MTV Catfish TV Show",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 52,
+    "streamsFile": "streams/5137.json"
+  },
+  {
+    "id": 5138,
+    "categoryId": "deutchland",
+    "name": "MTV Music",
+    "nameEn": "MTV Music",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 53,
+    "streamsFile": "streams/5138.json"
+  },
+  {
+    "id": 5139,
+    "categoryId": "deutchland",
+    "name": "MTV Pluto TV",
+    "nameEn": "MTV Pluto TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 54,
+    "streamsFile": "streams/5139.json"
+  },
+  {
+    "id": 5140,
+    "categoryId": "deutchland",
+    "name": "MTV Ridiculousness",
+    "nameEn": "MTV Ridiculousness",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 55,
+    "streamsFile": "streams/5140.json"
+  },
+  {
+    "id": 5141,
+    "categoryId": "deutchland",
+    "name": "MTV Teen Mom",
+    "nameEn": "MTV Teen Mom",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 56,
+    "streamsFile": "streams/5141.json"
+  },
+  {
+    "id": 5142,
+    "categoryId": "deutchland",
+    "name": "MTV The Shores",
+    "nameEn": "MTV The Shores",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 57,
+    "streamsFile": "streams/5142.json"
+  },
+  {
+    "id": 5143,
+    "categoryId": "deutchland",
+    "name": "N24 Doku",
+    "nameEn": "N24 Doku",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 58,
+    "streamsFile": "streams/5143.json"
+  },
+  {
+    "id": 5144,
+    "categoryId": "deutchland",
+    "name": "Naruto",
+    "nameEn": "Naruto",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 59,
+    "streamsFile": "streams/5144.json"
+  },
+  {
+    "id": 5145,
+    "categoryId": "deutchland",
+    "name": "Nick Pluto TV",
+    "nameEn": "Nick Pluto TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 60,
+    "streamsFile": "streams/5145.json"
+  },
+  {
+    "id": 5146,
+    "categoryId": "deutchland",
+    "name": "Pensacola Flügel aus Stahl",
+    "nameEn": "Pensacola Flügel aus Stahl",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 61,
+    "streamsFile": "streams/5146.json"
+  },
+  {
+    "id": 5147,
+    "categoryId": "deutchland",
+    "name": "Perry Mason",
+    "nameEn": "Perry Mason",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 62,
+    "streamsFile": "streams/5147.json"
+  },
+  {
+    "id": 5148,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Animals",
+    "nameEn": "Pluto TV Animals",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 63,
+    "streamsFile": "streams/5148.json"
+  },
+  {
+    "id": 5149,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Anime",
+    "nameEn": "Pluto TV Anime",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 64,
+    "streamsFile": "streams/5149.json"
+  },
+  {
+    "id": 5150,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Crime",
+    "nameEn": "Pluto TV Crime",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 65,
+    "streamsFile": "streams/5150.json"
+  },
+  {
+    "id": 5151,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Explore",
+    "nameEn": "Pluto TV Explore",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 66,
+    "streamsFile": "streams/5151.json"
+  },
+  {
+    "id": 5152,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Food",
+    "nameEn": "Pluto TV Food",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 67,
+    "streamsFile": "streams/5152.json"
+  },
+  {
+    "id": 5153,
+    "categoryId": "deutchland",
+    "name": "Pluto TV heiße Nächte",
+    "nameEn": "Pluto TV heiße Nächte",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 68,
+    "streamsFile": "streams/5153.json"
+  },
+  {
+    "id": 5154,
+    "categoryId": "deutchland",
+    "name": "Pluto TV History",
+    "nameEn": "Pluto TV History",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 69,
+    "streamsFile": "streams/5154.json"
+  },
+  {
+    "id": 5155,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Horror",
+    "nameEn": "Pluto TV Horror",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 70,
+    "streamsFile": "streams/5155.json"
+  },
+  {
+    "id": 5156,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Knallhart",
+    "nameEn": "Pluto TV Knallhart",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 71,
+    "streamsFile": "streams/5156.json"
+  },
+  {
+    "id": 5157,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Kultfilme",
+    "nameEn": "Pluto TV Kultfilme",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 72,
+    "streamsFile": "streams/5157.json"
+  },
+  {
+    "id": 5158,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Movies",
+    "nameEn": "Pluto TV Movies",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 73,
+    "streamsFile": "streams/5158.json"
+  },
+  {
+    "id": 5159,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Mystery",
+    "nameEn": "Pluto TV Mystery",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 74,
+    "streamsFile": "streams/5159.json"
+  },
+  {
+    "id": 5160,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Nature",
+    "nameEn": "Pluto TV Nature",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 75,
+    "streamsFile": "streams/5160.json"
+  },
+  {
+    "id": 5161,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Paranormal",
+    "nameEn": "Pluto TV Paranormal",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 76,
+    "streamsFile": "streams/5161.json"
+  },
+  {
+    "id": 5162,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Polar+",
+    "nameEn": "Pluto TV Polar+",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 77,
+    "streamsFile": "streams/5162.json"
+  },
+  {
+    "id": 5163,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Polizeiserien",
+    "nameEn": "Pluto TV Polizeiserien",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 78,
+    "streamsFile": "streams/5163.json"
+  },
+  {
+    "id": 5164,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Sci-Fi",
+    "nameEn": "Pluto TV Sci-Fi",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 79,
+    "streamsFile": "streams/5164.json"
+  },
+  {
+    "id": 5165,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Science",
+    "nameEn": "Pluto TV Science",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 80,
+    "streamsFile": "streams/5165.json"
+  },
+  {
+    "id": 5166,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Serie",
+    "nameEn": "Pluto TV Serie",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 81,
+    "streamsFile": "streams/5166.json"
+  },
+  {
+    "id": 5167,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Serie+",
+    "nameEn": "Pluto TV Serie+",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 82,
+    "streamsFile": "streams/5167.json"
+  },
+  {
+    "id": 5168,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Sitcoms",
+    "nameEn": "Pluto TV Sitcoms",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 83,
+    "streamsFile": "streams/5168.json"
+  },
+  {
+    "id": 5169,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Sitcoms+",
+    "nameEn": "Pluto TV Sitcoms+",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 84,
+    "streamsFile": "streams/5169.json"
+  },
+  {
+    "id": 5170,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Space",
+    "nameEn": "Pluto TV Space",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 85,
+    "streamsFile": "streams/5170.json"
+  },
+  {
+    "id": 5171,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Star Trek",
+    "nameEn": "Pluto TV Star Trek",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 86,
+    "streamsFile": "streams/5171.json"
+  },
+  {
+    "id": 5172,
+    "categoryId": "deutchland",
+    "name": "Pluto TV True Crime",
+    "nameEn": "Pluto TV True Crime",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 87,
+    "streamsFile": "streams/5172.json"
+  },
+  {
+    "id": 5173,
+    "categoryId": "deutchland",
+    "name": "Pluto TV Western",
+    "nameEn": "Pluto TV Western",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 88,
+    "streamsFile": "streams/5173.json"
+  },
+  {
+    "id": 5174,
+    "categoryId": "deutchland",
+    "name": "Rauchende Colts",
+    "nameEn": "Rauchende Colts",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 89,
+    "streamsFile": "streams/5174.json"
+  },
+  {
+    "id": 5175,
+    "categoryId": "deutchland",
+    "name": "Rawhide Tausend Meilen Staub",
+    "nameEn": "Rawhide Tausend Meilen Staub",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 90,
+    "streamsFile": "streams/5175.json"
+  },
+  {
+    "id": 5176,
+    "categoryId": "deutchland",
+    "name": "Realmadrid TV",
+    "nameEn": "Realmadrid TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 91,
+    "streamsFile": "streams/5176.json"
+  },
+  {
+    "id": 5177,
+    "categoryId": "deutchland",
+    "name": "Red Shoe Diaries",
+    "nameEn": "Red Shoe Diaries",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 92,
+    "streamsFile": "streams/5177.json"
+  },
+  {
+    "id": 5178,
+    "categoryId": "deutchland",
+    "name": "RoboCop",
+    "nameEn": "RoboCop",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 93,
+    "streamsFile": "streams/5178.json"
+  },
+  {
+    "id": 5179,
+    "categoryId": "deutchland",
+    "name": "Rules of Engagement",
+    "nameEn": "Rules of Engagement",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 94,
+    "streamsFile": "streams/5179.json"
+  },
+  {
+    "id": 5180,
+    "categoryId": "deutchland",
+    "name": "Sabrina Total verhext!",
+    "nameEn": "Sabrina Total verhext!",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 95,
+    "streamsFile": "streams/5180.json"
+  },
+  {
+    "id": 5181,
+    "categoryId": "deutchland",
+    "name": "South Park: Butters Collection",
+    "nameEn": "South Park: Butters Collection",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 96,
+    "streamsFile": "streams/5181.json"
+  },
+  {
+    "id": 5182,
+    "categoryId": "deutchland",
+    "name": "South Park: Cartman Collection",
+    "nameEn": "South Park: Cartman Collection",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 97,
+    "streamsFile": "streams/5182.json"
+  },
+  {
+    "id": 5183,
+    "categoryId": "deutchland",
+    "name": "South Park: Kenny Collection",
+    "nameEn": "South Park: Kenny Collection",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 98,
+    "streamsFile": "streams/5183.json"
+  },
+  {
+    "id": 5184,
+    "categoryId": "deutchland",
+    "name": "South Park: Kyle Collection",
+    "nameEn": "South Park: Kyle Collection",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 99,
+    "streamsFile": "streams/5184.json"
+  },
+  {
+    "id": 5185,
+    "categoryId": "deutchland",
+    "name": "South Park: Original Version",
+    "nameEn": "South Park: Original Version",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 100,
+    "streamsFile": "streams/5185.json"
+  },
+  {
+    "id": 5186,
+    "categoryId": "deutchland",
+    "name": "South Park: Stan Collection",
+    "nameEn": "South Park: Stan Collection",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 101,
+    "streamsFile": "streams/5186.json"
+  },
+  {
+    "id": 5187,
+    "categoryId": "deutchland",
+    "name": "SPIEGEL TV",
+    "nameEn": "SPIEGEL TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 102,
+    "streamsFile": "streams/5187.json"
+  },
+  {
+    "id": 5188,
+    "categoryId": "deutchland",
+    "name": "SPIEGEL TV Konflikte",
+    "nameEn": "SPIEGEL TV Konflikte",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 103,
+    "streamsFile": "streams/5188.json"
+  },
+  {
+    "id": 5189,
+    "categoryId": "deutchland",
+    "name": "SpongeBob Schwammkopf",
+    "nameEn": "SpongeBob Schwammkopf",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 104,
+    "streamsFile": "streams/5189.json"
+  },
+  {
+    "id": 5190,
+    "categoryId": "deutchland",
+    "name": "Star Trek: Deep Space Nine",
+    "nameEn": "Star Trek: Deep Space Nine",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 105,
+    "streamsFile": "streams/5190.json"
+  },
+  {
+    "id": 5191,
+    "categoryId": "deutchland",
+    "name": "Takeshi's Castle",
+    "nameEn": "Takeshi's Castle",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 106,
+    "streamsFile": "streams/5191.json"
+  },
+  {
+    "id": 5192,
+    "categoryId": "deutchland",
+    "name": "Täterjagd",
+    "nameEn": "Täterjagd",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 107,
+    "streamsFile": "streams/5192.json"
+  },
+  {
+    "id": 5193,
+    "categoryId": "deutchland",
+    "name": "Teen Nick",
+    "nameEn": "Teen Nick",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 108,
+    "streamsFile": "streams/5193.json"
+  },
+  {
+    "id": 5194,
+    "categoryId": "deutchland",
+    "name": "Telenovela ZDF",
+    "nameEn": "Telenovela ZDF",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 109,
+    "streamsFile": "streams/5194.json"
+  },
+  {
+    "id": 5195,
+    "categoryId": "deutchland",
+    "name": "Terra Mater WILD",
+    "nameEn": "Terra Mater WILD",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 110,
+    "streamsFile": "streams/5195.json"
+  },
+  {
+    "id": 5196,
+    "categoryId": "deutchland",
+    "name": "Top Gear",
+    "nameEn": "Top Gear",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 111,
+    "streamsFile": "streams/5196.json"
+  },
+  {
+    "id": 5197,
+    "categoryId": "deutchland",
+    "name": "Totally Turtles",
+    "nameEn": "Totally Turtles",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 112,
+    "streamsFile": "streams/5197.json"
+  },
+  {
+    "id": 5198,
+    "categoryId": "deutchland",
+    "name": "Transformers TV",
+    "nameEn": "Transformers TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 113,
+    "streamsFile": "streams/5198.json"
+  },
+  {
+    "id": 5199,
+    "categoryId": "deutchland",
+    "name": "Unentdeckt Mörder unter uns",
+    "nameEn": "Unentdeckt Mörder unter uns",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 114,
+    "streamsFile": "streams/5199.json"
+  },
+  {
+    "id": 5200,
+    "categoryId": "deutchland",
+    "name": "Unforgettable",
+    "nameEn": "Unforgettable",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 115,
+    "streamsFile": "streams/5200.json"
+  },
+  {
+    "id": 5201,
+    "categoryId": "deutchland",
+    "name": "Victorious",
+    "nameEn": "Victorious",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 116,
+    "streamsFile": "streams/5201.json"
+  },
+  {
+    "id": 5202,
+    "categoryId": "deutchland",
+    "name": "Wicked Tuna",
+    "nameEn": "Wicked Tuna",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 117,
+    "streamsFile": "streams/5202.json"
+  },
+  {
+    "id": 5203,
+    "categoryId": "deutchland",
+    "name": "Willkommen bei den Louds",
+    "nameEn": "Willkommen bei den Louds",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 118,
+    "streamsFile": "streams/5203.json"
+  },
+  {
+    "id": 5204,
+    "categoryId": "deutchland",
+    "name": "Wings Die Überflieger",
+    "nameEn": "Wings Die Überflieger",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 119,
+    "streamsFile": "streams/5204.json"
+  },
+  {
+    "id": 5205,
+    "categoryId": "deutchland",
+    "name": "World Poker Tour",
+    "nameEn": "World Poker Tour",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 120,
+    "streamsFile": "streams/5205.json"
+  },
+  {
+    "id": 5206,
+    "categoryId": "deutchland",
+    "name": "X-Factor: Das Unfassbare",
+    "nameEn": "X-Factor: Das Unfassbare",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 121,
+    "streamsFile": "streams/5206.json"
+  },
+  {
+    "id": 5207,
+    "categoryId": "deutchland",
+    "name": "Yu-Gi-Oh!",
+    "nameEn": "Yu-Gi-Oh!",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 122,
+    "streamsFile": "streams/5207.json"
+  },
+  {
+    "id": 5208,
+    "categoryId": "deutchland",
+    "name": "Zoey 101",
+    "nameEn": "Zoey 101",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 123,
+    "streamsFile": "streams/5208.json"
+  }
+]

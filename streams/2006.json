@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Dubai 2",
+    "url": "https://link.theplatform.eu/s/dmimain/media/dmi-prod-live-media-dubaisports2",
+    "urlType": 7,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://www.dubaiplus.net/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://www.dubaiplus.net/"
+    },
+    "drm": null
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "BN6",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/adaptive.m3u8"
+  },
+  {
+    "headers": "user-agent|Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "BN2",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+    "position": "0",
+    "url": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "B7",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein5.m3u8"
+  },
+  {
+    "headers": "user-agent|ExoPlayer|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "B5",
+    "Referer": "",
+    "userAgent": "ExoPlayer",
+    "position": "0",
+    "url": "https://ostora.3alaenet.workers.dev/?id=5&quality=2&type=ys"
+  },
+  {
+    "headers": "user-agent|Halow TV/1.0.5 (Linux;Android 9) AndroidXMedia3/1.8.0|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "B5",
+    "Referer": "",
+    "userAgent": "Halow TV/1.0.5 (Linux;Android 9) AndroidXMedia3/1.8.0",
+    "position": "0",
+    "url": "http://sportook.online/BEIN-S5/video.m3u8"
+  },
+  {
+    "headers": "Referer|https://wagontorch.net/embed/xu1bvfawm/|user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|find|m3u8",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "find|m3u8",
+    "name": "BEIN",
+    "Referer": "https://wagontorch.net/embed/xu1bvfawm/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "position": "02",
+    "url": "https://wagontorch.net/embed/xu1bvfawm/"
+  }
+]

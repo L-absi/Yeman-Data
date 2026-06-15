@@ -1,0 +1,35 @@
+[
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "Time",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://w.shahidtv.net/live/67324286/62788299/53.m3u8"
+  },
+  {
+    "headers": "user-agent|zuper.livetv/1.2 (Linux;Android 9) AndroidXMedia3/1.1.1|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "ON1",
+    "Referer": "",
+    "userAgent": "zuper.livetv/1.2 (Linux;Android 9) AndroidXMedia3/1.1.1",
+    "position": "2",
+    "url": "http://apk.arabic-ch.space/live/006900/index.m3u8"
+  },
+  {
+    "headers": "Referer|https://direct.aflam4you.net|find|m3u8",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "find|m3u8",
+    "name": "Tv2",
+    "Referer": "https://direct.aflam4you.net",
+    "userAgent": "",
+    "position": "5",
+    "url": "https://handicapskate.net/embed/g2q0e"
+  }
+]

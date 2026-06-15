@@ -1,0 +1,642 @@
+[
+  {
+    "id": 5795,
+    "categoryId": "italytv",
+    "name": "Italian- Dazn 1",
+    "nameEn": "Italian- Dazn 1",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/5795.json"
+  },
+  {
+    "id": 5796,
+    "categoryId": "italytv",
+    "name": "Italian- TgCom24",
+    "nameEn": "Italian- TgCom24",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/5796.json"
+  },
+  {
+    "id": 5797,
+    "categoryId": "italytv",
+    "name": "Italian- Boing",
+    "nameEn": "Italian- Boing",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/5797.json"
+  },
+  {
+    "id": 5798,
+    "categoryId": "italytv",
+    "name": "Italian- SkyArteFHD",
+    "nameEn": "Italian- SkyArteFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/5798.json"
+  },
+  {
+    "id": 5799,
+    "categoryId": "italytv",
+    "name": "Italian- Nat Geo Wild HD",
+    "nameEn": "Italian- Nat Geo Wild HD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/5799.json"
+  },
+  {
+    "id": 5800,
+    "categoryId": "italytv",
+    "name": "Italian- DiscoveryFHD",
+    "nameEn": "Italian- DiscoveryFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/5800.json"
+  },
+  {
+    "id": 5801,
+    "categoryId": "italytv",
+    "name": "Italian- DiscoverySciFHD",
+    "nameEn": "Italian- DiscoverySciFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/5801.json"
+  },
+  {
+    "id": 5802,
+    "categoryId": "italytv",
+    "name": "Italian- NationalGeoFHD",
+    "nameEn": "Italian- NationalGeoFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/5802.json"
+  },
+  {
+    "id": 5803,
+    "categoryId": "italytv",
+    "name": "Italian- InterChannel",
+    "nameEn": "Italian- InterChannel",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/5803.json"
+  },
+  {
+    "id": 5804,
+    "categoryId": "italytv",
+    "name": "Italian- SkySerieAFHD",
+    "nameEn": "Italian- SkySerieAFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/5804.json"
+  },
+  {
+    "id": 5805,
+    "categoryId": "italytv",
+    "name": "Italian- Eurosport1FHD",
+    "nameEn": "Italian- Eurosport1FHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/5805.json"
+  },
+  {
+    "id": 5806,
+    "categoryId": "italytv",
+    "name": "Italian- SuperTennisFHD",
+    "nameEn": "Italian- SuperTennisFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/5806.json"
+  },
+  {
+    "id": 5807,
+    "categoryId": "italytv",
+    "name": "Italian- PESCAeCaccia",
+    "nameEn": "Italian- PESCAeCaccia",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/5807.json"
+  },
+  {
+    "id": 5808,
+    "categoryId": "italytv",
+    "name": "Italian- CACCIAePesca",
+    "nameEn": "Italian- CACCIAePesca",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/5808.json"
+  },
+  {
+    "id": 5809,
+    "categoryId": "italytv",
+    "name": "Italian- SkySportArenaHD",
+    "nameEn": "Italian- SkySportArenaHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/5809.json"
+  },
+  {
+    "id": 5810,
+    "categoryId": "italytv",
+    "name": "Italian- SkySportF1FHD",
+    "nameEn": "Italian- SkySportF1FHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/5810.json"
+  },
+  {
+    "id": 5811,
+    "categoryId": "italytv",
+    "name": "Italian- SkySportUnoFHD",
+    "nameEn": "Italian- SkySportUnoFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/5811.json"
+  },
+  {
+    "id": 5812,
+    "categoryId": "italytv",
+    "name": "Italian- SkySport24FHD",
+    "nameEn": "Italian- SkySport24FHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 18,
+    "streamsFile": "streams/5812.json"
+  },
+  {
+    "id": 5813,
+    "categoryId": "italytv",
+    "name": "Italian- SkySportFootballFHD",
+    "nameEn": "Italian- SkySportFootballFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 19,
+    "streamsFile": "streams/5813.json"
+  },
+  {
+    "id": 5814,
+    "categoryId": "italytv",
+    "name": "Italian- ComedyCentral",
+    "nameEn": "Italian- ComedyCentral",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 20,
+    "streamsFile": "streams/5814.json"
+  },
+  {
+    "id": 5815,
+    "categoryId": "italytv",
+    "name": "Italian- Alice",
+    "nameEn": "Italian- Alice",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 21,
+    "streamsFile": "streams/5815.json"
+  },
+  {
+    "id": 5816,
+    "categoryId": "italytv",
+    "name": "Italian- FoodNetwork Disc",
+    "nameEn": "Italian- FoodNetwork Disc",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 22,
+    "streamsFile": "streams/5816.json"
+  },
+  {
+    "id": 5817,
+    "categoryId": "italytv",
+    "name": "Italian- TopCrime",
+    "nameEn": "Italian- TopCrime",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 23,
+    "streamsFile": "streams/5817.json"
+  },
+  {
+    "id": 5818,
+    "categoryId": "italytv",
+    "name": "Italian- PremiumStoriesFHD",
+    "nameEn": "Italian- PremiumStoriesFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 24,
+    "streamsFile": "streams/5818.json"
+  },
+  {
+    "id": 5819,
+    "categoryId": "italytv",
+    "name": "Italian- SkyCinemaCollectionFHD",
+    "nameEn": "Italian- SkyCinemaCollectionFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 25,
+    "streamsFile": "streams/5819.json"
+  },
+  {
+    "id": 5820,
+    "categoryId": "italytv",
+    "name": "Italian- SkyTg24",
+    "nameEn": "Italian- SkyTg24",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 26,
+    "streamsFile": "streams/5820.json"
+  },
+  {
+    "id": 5821,
+    "categoryId": "italytv",
+    "name": "Italian- SkyAtlantic 1FHD",
+    "nameEn": "Italian- SkyAtlantic 1FHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 27,
+    "streamsFile": "streams/5821.json"
+  },
+  {
+    "id": 5822,
+    "categoryId": "italytv",
+    "name": "Italian- SkyUnoFHD",
+    "nameEn": "Italian- SkyUnoFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 28,
+    "streamsFile": "streams/5822.json"
+  },
+  {
+    "id": 5823,
+    "categoryId": "italytv",
+    "name": "Italian- DMAXFHD",
+    "nameEn": "Italian- DMAXFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 29,
+    "streamsFile": "streams/5823.json"
+  },
+  {
+    "id": 5824,
+    "categoryId": "italytv",
+    "name": "Italian- PremiumActionFHD",
+    "nameEn": "Italian- PremiumActionFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 30,
+    "streamsFile": "streams/5824.json"
+  },
+  {
+    "id": 5825,
+    "categoryId": "italytv",
+    "name": "Italian- PremiumCrimeFHD",
+    "nameEn": "Italian- PremiumCrimeFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 31,
+    "streamsFile": "streams/5825.json"
+  },
+  {
+    "id": 5826,
+    "categoryId": "italytv",
+    "name": "Italian- PremiumCinema 1",
+    "nameEn": "Italian- PremiumCinema 1",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 32,
+    "streamsFile": "streams/5826.json"
+  },
+  {
+    "id": 5827,
+    "categoryId": "italytv",
+    "name": "Italian- SkyCinemaDue24FHD",
+    "nameEn": "Italian- SkyCinemaDue24FHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 33,
+    "streamsFile": "streams/5827.json"
+  },
+  {
+    "id": 5828,
+    "categoryId": "italytv",
+    "name": "Italian- SkyCinemaRomanceFHD",
+    "nameEn": "Italian- SkyCinemaRomanceFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 34,
+    "streamsFile": "streams/5828.json"
+  },
+  {
+    "id": 5829,
+    "categoryId": "italytv",
+    "name": "Italian- SkyCinemaSuspenceFHD",
+    "nameEn": "Italian- SkyCinemaSuspenceFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 35,
+    "streamsFile": "streams/5829.json"
+  },
+  {
+    "id": 5830,
+    "categoryId": "italytv",
+    "name": "Italian- SkyCinemaComedyFHD",
+    "nameEn": "Italian- SkyCinemaComedyFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 36,
+    "streamsFile": "streams/5830.json"
+  },
+  {
+    "id": 5831,
+    "categoryId": "italytv",
+    "name": "Italian- SkyCinemaActionFHD",
+    "nameEn": "Italian- SkyCinemaActionFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 37,
+    "streamsFile": "streams/5831.json"
+  },
+  {
+    "id": 5832,
+    "categoryId": "italytv",
+    "name": "Italian- SkyCinemaDramaFHD",
+    "nameEn": "Italian- SkyCinemaDramaFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 38,
+    "streamsFile": "streams/5832.json"
+  },
+  {
+    "id": 5833,
+    "categoryId": "italytv",
+    "name": "Italian- SkyCinemaFamilyFHD",
+    "nameEn": "Italian- SkyCinemaFamilyFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 39,
+    "streamsFile": "streams/5833.json"
+  },
+  {
+    "id": 5834,
+    "categoryId": "italytv",
+    "name": "Italian- SkyCinemaDueFHD",
+    "nameEn": "Italian- SkyCinemaDueFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 40,
+    "streamsFile": "streams/5834.json"
+  },
+  {
+    "id": 5835,
+    "categoryId": "italytv",
+    "name": "Italian- SkyCinemaUnoFHD",
+    "nameEn": "Italian- SkyCinemaUnoFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 41,
+    "streamsFile": "streams/5835.json"
+  },
+  {
+    "id": 5836,
+    "categoryId": "italytv",
+    "name": "Italian- LA7d FHD",
+    "nameEn": "Italian- LA7d FHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 42,
+    "streamsFile": "streams/5836.json"
+  },
+  {
+    "id": 5837,
+    "categoryId": "italytv",
+    "name": "Italian- La7FHD",
+    "nameEn": "Italian- La7FHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 43,
+    "streamsFile": "streams/5837.json"
+  },
+  {
+    "id": 5838,
+    "categoryId": "italytv",
+    "name": "Italian- MediasetEXTRA",
+    "nameEn": "Italian- MediasetEXTRA",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 44,
+    "streamsFile": "streams/5838.json"
+  },
+  {
+    "id": 5839,
+    "categoryId": "italytv",
+    "name": "Italian- Canale5FHD",
+    "nameEn": "Italian- Canale5FHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 45,
+    "streamsFile": "streams/5839.json"
+  },
+  {
+    "id": 5840,
+    "categoryId": "italytv",
+    "name": "Italian- Canale5HD",
+    "nameEn": "Italian- Canale5HD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 46,
+    "streamsFile": "streams/5840.json"
+  },
+  {
+    "id": 5841,
+    "categoryId": "italytv",
+    "name": "Italian- Italia uno FHD",
+    "nameEn": "Italian- Italia uno FHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 47,
+    "streamsFile": "streams/5841.json"
+  },
+  {
+    "id": 5842,
+    "categoryId": "italytv",
+    "name": "Italian- Italia1HD",
+    "nameEn": "Italian- Italia1HD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 48,
+    "streamsFile": "streams/5842.json"
+  },
+  {
+    "id": 5843,
+    "categoryId": "italytv",
+    "name": "Italian- RealTimeD-FHD",
+    "nameEn": "Italian- RealTimeD-FHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 49,
+    "streamsFile": "streams/5843.json"
+  },
+  {
+    "id": 5844,
+    "categoryId": "italytv",
+    "name": "Italian- Rete4FHD",
+    "nameEn": "Italian- Rete4FHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 50,
+    "streamsFile": "streams/5844.json"
+  },
+  {
+    "id": 5845,
+    "categoryId": "italytv",
+    "name": "Italian- RSILa1FHD",
+    "nameEn": "Italian- RSILa1FHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 51,
+    "streamsFile": "streams/5845.json"
+  },
+  {
+    "id": 5846,
+    "categoryId": "italytv",
+    "name": "Italian- RSILa2FHD",
+    "nameEn": "Italian- RSILa2FHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 52,
+    "streamsFile": "streams/5846.json"
+  },
+  {
+    "id": 5847,
+    "categoryId": "italytv",
+    "name": "Italian- Rai1FHD",
+    "nameEn": "Italian- Rai1FHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 53,
+    "streamsFile": "streams/5847.json"
+  },
+  {
+    "id": 5848,
+    "categoryId": "italytv",
+    "name": "Italian- Rai2FHD",
+    "nameEn": "Italian- Rai2FHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 54,
+    "streamsFile": "streams/5848.json"
+  },
+  {
+    "id": 5849,
+    "categoryId": "italytv",
+    "name": "Italian- Rai2HD",
+    "nameEn": "Italian- Rai2HD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 55,
+    "streamsFile": "streams/5849.json"
+  },
+  {
+    "id": 5850,
+    "categoryId": "italytv",
+    "name": "Italian- Rai3FHD",
+    "nameEn": "Italian- Rai3FHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 56,
+    "streamsFile": "streams/5850.json"
+  },
+  {
+    "id": 5851,
+    "categoryId": "italytv",
+    "name": "Italian- Rai4 HD",
+    "nameEn": "Italian- Rai4 HD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 57,
+    "streamsFile": "streams/5851.json"
+  },
+  {
+    "id": 5852,
+    "categoryId": "italytv",
+    "name": "Italian- Rai5 HD",
+    "nameEn": "Italian- Rai5 HD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 58,
+    "streamsFile": "streams/5852.json"
+  },
+  {
+    "id": 5853,
+    "categoryId": "italytv",
+    "name": "Italian- RaiGulpFHD",
+    "nameEn": "Italian- RaiGulpFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 59,
+    "streamsFile": "streams/5853.json"
+  },
+  {
+    "id": 5854,
+    "categoryId": "italytv",
+    "name": "Italian- RaiMovieFHD",
+    "nameEn": "Italian- RaiMovieFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 60,
+    "streamsFile": "streams/5854.json"
+  },
+  {
+    "id": 5855,
+    "categoryId": "italytv",
+    "name": "Italian- RaiPremiumFHD",
+    "nameEn": "Italian- RaiPremiumFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 61,
+    "streamsFile": "streams/5855.json"
+  },
+  {
+    "id": 5856,
+    "categoryId": "italytv",
+    "name": "Italian- RaiScuolaFHD",
+    "nameEn": "Italian- RaiScuolaFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 62,
+    "streamsFile": "streams/5856.json"
+  },
+  {
+    "id": 5857,
+    "categoryId": "italytv",
+    "name": "Italian- RaiSportFHD",
+    "nameEn": "Italian- RaiSportFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 63,
+    "streamsFile": "streams/5857.json"
+  },
+  {
+    "id": 5858,
+    "categoryId": "italytv",
+    "name": "Italian- RaiStoriaFHD",
+    "nameEn": "Italian- RaiStoriaFHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "type": "channel",
+    "position": 64,
+    "streamsFile": "streams/5858.json"
+  }
+]

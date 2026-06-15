@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4787,
+    "categoryId": "eleven_sports",
+    "name": "Eleven 1",
+    "nameEn": "Eleven 1",
+    "logo": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-1-hd(1).png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4787.json"
+  },
+  {
+    "id": 4788,
+    "categoryId": "eleven_sports",
+    "name": "Eleven 2",
+    "nameEn": "Eleven 2",
+    "logo": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-2-hd(1).png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4788.json"
+  },
+  {
+    "id": 4789,
+    "categoryId": "eleven_sports",
+    "name": "Eleven 3",
+    "nameEn": "Eleven 3",
+    "logo": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-3-hd(1).png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4789.json"
+  },
+  {
+    "id": 4790,
+    "categoryId": "eleven_sports",
+    "name": "Canal+2",
+    "nameEn": "Canal+2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tKwZKyCTYjYDfZJ0aSc784JR6i-GT9UEkhfCCtHWWA&s=10",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4790.json"
+  }
+]

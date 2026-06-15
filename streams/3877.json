@@ -1,0 +1,11 @@
+[
+  {
+    "headers": "Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4|",
+    "otherHeaders": "",
+    "name": "Channel 8 (SGP) #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260",
+    "Referer": "https://forcedtoplay.xyz/server_lookup.php?channel_id=premium",
+    "userAgent": "OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4",
+    "position": "0",
+    "url": "https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 2728,
+    "categoryId": "aya_cx_tvshahid_شاهد",
+    "name": "الكبير أوي",
+    "nameEn": "الكبير أوي",
+    "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/2728.json"
+  },
+  {
+    "id": 2729,
+    "categoryId": "aya_cx_tvshahid_شاهد",
+    "name": "طاش ما طاش",
+    "nameEn": "طاش ما طاش",
+    "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/2729.json"
+  },
+  {
+    "id": 2730,
+    "categoryId": "aya_cx_tvshahid_شاهد",
+    "name": "موفيز أكشن",
+    "nameEn": "موفيز أكشن",
+    "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/2730.json"
+  },
+  {
+    "id": 2731,
+    "categoryId": "aya_cx_tvshahid_شاهد",
+    "name": "The Game اللعبة",
+    "nameEn": "The Game اللعبة",
+    "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/2731.json"
+  },
+  {
+    "id": 2732,
+    "categoryId": "aya_cx_tvshahid_شاهد",
+    "name": "واي فاي",
+    "nameEn": "واي فاي",
+    "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
+    "type": "channel",
+    "position": 50,
+    "streamsFile": "streams/2732.json"
+  },
+  {
+    "id": 2733,
+    "categoryId": "aya_cx_tvshahid_شاهد",
+    "name": "تركي دراما",
+    "nameEn": "تركي دراما",
+    "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/2733.json"
+  },
+  {
+    "id": 2734,
+    "categoryId": "aya_cx_tvshahid_شاهد",
+    "name": "Top Gear توب",
+    "nameEn": "Top Gear توب",
+    "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/2734.json"
+  },
+  {
+    "id": 2735,
+    "categoryId": "aya_cx_tvshahid_شاهد",
+    "name": "رمضان يجمعنا",
+    "nameEn": "رمضان يجمعنا",
+    "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/2735.json"
+  },
+  {
+    "id": 2736,
+    "categoryId": "aya_cx_tvshahid_شاهد",
+    "name": "باب الحارة",
+    "nameEn": "باب الحارة",
+    "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2736.json"
+  },
+  {
+    "id": 2737,
+    "categoryId": "aya_cx_tvshahid_شاهد",
+    "name": "موفيز Thriller",
+    "nameEn": "موفيز Thriller",
+    "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/2737.json"
+  },
+  {
+    "id": 2738,
+    "categoryId": "aya_cx_tvshahid_شاهد",
+    "name": "أفلام",
+    "nameEn": "أفلام",
+    "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/2738.json"
+  },
+  {
+    "id": 2739,
+    "categoryId": "aya_cx_tvshahid_شاهد",
+    "name": "مرايا",
+    "nameEn": "مرايا",
+    "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/2739.json"
+  },
+  {
+    "id": 2740,
+    "categoryId": "aya_cx_tvshahid_شاهد",
+    "name": "فريج أطفال",
+    "nameEn": "فريج أطفال",
+    "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/2740.json"
+  },
+  {
+    "id": 2741,
+    "categoryId": "aya_cx_tvshahid_شاهد",
+    "name": "توب شيف",
+    "nameEn": "توب شيف",
+    "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/2741.json"
+  },
+  {
+    "id": 2742,
+    "categoryId": "aya_cx_tvshahid_شاهد",
+    "name": "الكبير أوي",
+    "nameEn": "الكبير أوي",
+    "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/2742.json"
+  },
+  {
+    "id": 2743,
+    "categoryId": "aya_cx_tvshahid_شاهد",
+    "name": "موفيز",
+    "nameEn": "موفيز",
+    "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/2743.json"
+  },
+  {
+    "id": 2744,
+    "categoryId": "aya_cx_tvshahid_شاهد",
+    "name": "نيتور تايم",
+    "nameEn": "نيتور تايم",
+    "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/2744.json"
+  },
+  {
+    "id": 2745,
+    "categoryId": "aya_cx_tvshahid_شاهد",
+    "name": "راجل وست ستات",
+    "nameEn": "راجل وست ستات",
+    "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/2745.json"
+  }
+]

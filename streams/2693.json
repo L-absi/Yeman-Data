@@ -1,0 +1,50 @@
+[
+  {
+    "license": "e5af533daeb9c443a78888ac6b2a2eb4:43ab3a679a943a11877cb219d2b7239c",
+    "headers": "",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "Multi 2",
+    "Referer": "",
+    "userAgent": "",
+    "position": "2",
+    "url": "https://uselector.cdn.intigral-ott.net/MBV/MBV.isml/manifest.mpd"
+  },
+  {
+    "license": "e5af533daeb9c443a78888ac6b2a2eb4:43ab3a679a943a11877cb219d2b7239c",
+    "headers": "",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "1",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://uselector.cdn.intigral-ott.net/MBV/MBV.isml/manifest.mpd"
+  },
+  {
+    "license": "e5af533daeb9c443a78888ac6b2a2eb4:43ab3a679a943a11877cb219d2b7239c",
+    "headers": "",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "Multi 1",
+    "Referer": "",
+    "userAgent": "",
+    "position": "1",
+    "url": "https://neacdnpop3-edge02.aws.playco.com/live/eds/MBC_Plus_Variety_HD/DASH/MBC_Plus_Variety_HD.mpd"
+  },
+  {
+    "license": "e5af533daeb9c443a78888ac6b2a2eb4:43ab3a679a943a11877cb219d2b7239c",
+    "headers": "",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "Multi 3",
+    "Referer": "",
+    "userAgent": "",
+    "position": "3",
+    "url": "https://edgiolive.cdn.intigral-ott.net/MBV/MBV.isml/manifest.mpd"
+  }
+]

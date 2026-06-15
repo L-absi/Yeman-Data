@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "",
+    "license": "ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "name": "SpoTV HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd"
+  }
+]

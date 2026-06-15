@@ -1,0 +1,302 @@
+[
+  {
+    "id": 4378,
+    "categoryId": "quran_karim",
+    "name": "Juz 1",
+    "nameEn": "Juz 1",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4378.json"
+  },
+  {
+    "id": 4379,
+    "categoryId": "quran_karim",
+    "name": "Juz 2",
+    "nameEn": "Juz 2",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4379.json"
+  },
+  {
+    "id": 4380,
+    "categoryId": "quran_karim",
+    "name": "Juz 3",
+    "nameEn": "Juz 3",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4380.json"
+  },
+  {
+    "id": 4381,
+    "categoryId": "quran_karim",
+    "name": "Juz 4",
+    "nameEn": "Juz 4",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4381.json"
+  },
+  {
+    "id": 4382,
+    "categoryId": "quran_karim",
+    "name": "Juz 5",
+    "nameEn": "Juz 5",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4382.json"
+  },
+  {
+    "id": 4383,
+    "categoryId": "quran_karim",
+    "name": "Juz 6",
+    "nameEn": "Juz 6",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4383.json"
+  },
+  {
+    "id": 4384,
+    "categoryId": "quran_karim",
+    "name": "Juz 7",
+    "nameEn": "Juz 7",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/4384.json"
+  },
+  {
+    "id": 4385,
+    "categoryId": "quran_karim",
+    "name": "Juz 8",
+    "nameEn": "Juz 8",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/4385.json"
+  },
+  {
+    "id": 4386,
+    "categoryId": "quran_karim",
+    "name": "Juz 9",
+    "nameEn": "Juz 9",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/4386.json"
+  },
+  {
+    "id": 4387,
+    "categoryId": "quran_karim",
+    "name": "Juz 10",
+    "nameEn": "Juz 10",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/4387.json"
+  },
+  {
+    "id": 4388,
+    "categoryId": "quran_karim",
+    "name": "Juz 11",
+    "nameEn": "Juz 11",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/4388.json"
+  },
+  {
+    "id": 4389,
+    "categoryId": "quran_karim",
+    "name": "Juz 12",
+    "nameEn": "Juz 12",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/4389.json"
+  },
+  {
+    "id": 4390,
+    "categoryId": "quran_karim",
+    "name": "Juz 13",
+    "nameEn": "Juz 13",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/4390.json"
+  },
+  {
+    "id": 4391,
+    "categoryId": "quran_karim",
+    "name": "Juz 14",
+    "nameEn": "Juz 14",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/4391.json"
+  },
+  {
+    "id": 4392,
+    "categoryId": "quran_karim",
+    "name": "Juz 15",
+    "nameEn": "Juz 15",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/4392.json"
+  },
+  {
+    "id": 4393,
+    "categoryId": "quran_karim",
+    "name": "Juz 16",
+    "nameEn": "Juz 16",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/4393.json"
+  },
+  {
+    "id": 4394,
+    "categoryId": "quran_karim",
+    "name": "Juz 17",
+    "nameEn": "Juz 17",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/4394.json"
+  },
+  {
+    "id": 4395,
+    "categoryId": "quran_karim",
+    "name": "Juz 18",
+    "nameEn": "Juz 18",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 18,
+    "streamsFile": "streams/4395.json"
+  },
+  {
+    "id": 4396,
+    "categoryId": "quran_karim",
+    "name": "Juz 19",
+    "nameEn": "Juz 19",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 19,
+    "streamsFile": "streams/4396.json"
+  },
+  {
+    "id": 4397,
+    "categoryId": "quran_karim",
+    "name": "Juz 20",
+    "nameEn": "Juz 20",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 20,
+    "streamsFile": "streams/4397.json"
+  },
+  {
+    "id": 4398,
+    "categoryId": "quran_karim",
+    "name": "Juz 21",
+    "nameEn": "Juz 21",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 21,
+    "streamsFile": "streams/4398.json"
+  },
+  {
+    "id": 4399,
+    "categoryId": "quran_karim",
+    "name": "Juz 22",
+    "nameEn": "Juz 22",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 22,
+    "streamsFile": "streams/4399.json"
+  },
+  {
+    "id": 4400,
+    "categoryId": "quran_karim",
+    "name": "Juz 23",
+    "nameEn": "Juz 23",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 23,
+    "streamsFile": "streams/4400.json"
+  },
+  {
+    "id": 4401,
+    "categoryId": "quran_karim",
+    "name": "Juz 24",
+    "nameEn": "Juz 24",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 24,
+    "streamsFile": "streams/4401.json"
+  },
+  {
+    "id": 4402,
+    "categoryId": "quran_karim",
+    "name": "Juz 25",
+    "nameEn": "Juz 25",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 25,
+    "streamsFile": "streams/4402.json"
+  },
+  {
+    "id": 4403,
+    "categoryId": "quran_karim",
+    "name": "Juz 26",
+    "nameEn": "Juz 26",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 26,
+    "streamsFile": "streams/4403.json"
+  },
+  {
+    "id": 4404,
+    "categoryId": "quran_karim",
+    "name": "Juz 27",
+    "nameEn": "Juz 27",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 27,
+    "streamsFile": "streams/4404.json"
+  },
+  {
+    "id": 4405,
+    "categoryId": "quran_karim",
+    "name": "Juz 28",
+    "nameEn": "Juz 28",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 28,
+    "streamsFile": "streams/4405.json"
+  },
+  {
+    "id": 4406,
+    "categoryId": "quran_karim",
+    "name": "Juz 29",
+    "nameEn": "Juz 29",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 29,
+    "streamsFile": "streams/4406.json"
+  },
+  {
+    "id": 4407,
+    "categoryId": "quran_karim",
+    "name": "Juz 30",
+    "nameEn": "Juz 30",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "type": "channel",
+    "position": 30,
+    "streamsFile": "streams/4407.json"
+  }
+]

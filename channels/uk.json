@@ -1,0 +1,142 @@
+[
+  {
+    "id": 5863,
+    "categoryId": "uk",
+    "name": "Pluto TV Animals (England) (720p)",
+    "nameEn": "Pluto TV Animals (England) (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/5863.json"
+  },
+  {
+    "id": 5864,
+    "categoryId": "uk",
+    "name": "Pluto TV Antiques Roadshow UK (720p) [Not 24/7]",
+    "nameEn": "Pluto TV Antiques Roadshow UK (720p) [Not 24/7]",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/5864.json"
+  },
+  {
+    "id": 5865,
+    "categoryId": "uk",
+    "name": "Pluto TV Antiques Roadshow UK (240p)",
+    "nameEn": "Pluto TV Antiques Roadshow UK (240p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/5865.json"
+  },
+  {
+    "id": 5866,
+    "categoryId": "uk",
+    "name": "Pluto TV Classic Movies (England) (720p)",
+    "nameEn": "Pluto TV Classic Movies (England) (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/5866.json"
+  },
+  {
+    "id": 5867,
+    "categoryId": "uk",
+    "name": "Pluto TV Classic TV (720p)",
+    "nameEn": "Pluto TV Classic TV (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/5867.json"
+  },
+  {
+    "id": 5868,
+    "categoryId": "uk",
+    "name": "Pluto TV Classic TV (720p)",
+    "nameEn": "Pluto TV Classic TV (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/5868.json"
+  },
+  {
+    "id": 5869,
+    "categoryId": "uk",
+    "name": "Pluto TV Crime (England) (720p) [Not 24/7]",
+    "nameEn": "Pluto TV Crime (England) (720p) [Not 24/7]",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/5869.json"
+  },
+  {
+    "id": 5870,
+    "categoryId": "uk",
+    "name": "Pluto TV Food (England) (720p)",
+    "nameEn": "Pluto TV Food (England) (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/5870.json"
+  },
+  {
+    "id": 5871,
+    "categoryId": "uk",
+    "name": "Pluto TV Movies (England) (684p)",
+    "nameEn": "Pluto TV Movies (England) (684p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/5871.json"
+  },
+  {
+    "id": 5872,
+    "categoryId": "uk",
+    "name": "Pluto TV Paranormal (England) (720p)",
+    "nameEn": "Pluto TV Paranormal (England) (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/5872.json"
+  },
+  {
+    "id": 5873,
+    "categoryId": "uk",
+    "name": "Pluto TV Romance (720p) [Not 24/7]",
+    "nameEn": "Pluto TV Romance (720p) [Not 24/7]",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/5873.json"
+  },
+  {
+    "id": 5874,
+    "categoryId": "uk",
+    "name": "Pluto TV Romance (720p)",
+    "nameEn": "Pluto TV Romance (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/5874.json"
+  },
+  {
+    "id": 5875,
+    "categoryId": "uk",
+    "name": "Pluto TV Romance (684p)",
+    "nameEn": "Pluto TV Romance (684p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/5875.json"
+  },
+  {
+    "id": 5876,
+    "categoryId": "uk",
+    "name": "Pluto TV Sherlock (720p)",
+    "nameEn": "Pluto TV Sherlock (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/5876.json"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "headers": "user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8",
+    "otherHeaders": "find|m3u8",
+    "name": "SPT3",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+    "position": "0",
+    "url": "https://lovetier.bz/player/SPT3"
+  }
+]

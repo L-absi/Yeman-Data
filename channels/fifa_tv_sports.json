@@ -1,0 +1,72 @@
+[
+  {
+    "id": 4803,
+    "categoryId": "fifa_tv_sports",
+    "name": "FIFA+",
+    "nameEn": "FIFA+",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4803.json"
+  },
+  {
+    "id": 4804,
+    "categoryId": "fifa_tv_sports",
+    "name": "FIFA+ French (720p)",
+    "nameEn": "FIFA+ French (720p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4804.json"
+  },
+  {
+    "id": 4805,
+    "categoryId": "fifa_tv_sports",
+    "name": "FIFA+ German (720p)",
+    "nameEn": "FIFA+ German (720p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4805.json"
+  },
+  {
+    "id": 4806,
+    "categoryId": "fifa_tv_sports",
+    "name": "FIFA+ Italy (720p)",
+    "nameEn": "FIFA+ Italy (720p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4806.json"
+  },
+  {
+    "id": 4807,
+    "categoryId": "fifa_tv_sports",
+    "name": "FIFA+ Spain (720p)",
+    "nameEn": "FIFA+ Spain (720p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4807.json"
+  },
+  {
+    "id": 4808,
+    "categoryId": "fifa_tv_sports",
+    "name": "FIFA+ United States (720p)",
+    "nameEn": "FIFA+ United States (720p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4808.json"
+  },
+  {
+    "id": 4809,
+    "categoryId": "fifa_tv_sports",
+    "name": "FIFA++",
+    "nameEn": "FIFA++",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4809.json"
+  }
+]

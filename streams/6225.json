@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "name": "",
+      "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/612/1/live.mpd",
+      "url_type": 3,
+      "user_agent": "Mozilla/5.0",
+      "referer": "",
+      "event_channel_id": null,
+      "headers": {},
+      "drm": {
+        "scheme": "clearkey",
+        "key_id": "rKzUjhLvvbqkebbW2_EQtA",
+        "key": "UAr4myHWTEgz4QfybEJK-w"
+      }
+    }
+  ]
+}

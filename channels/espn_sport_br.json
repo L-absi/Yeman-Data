@@ -1,0 +1,122 @@
+[
+  {
+    "id": 4791,
+    "categoryId": "espn_sport_br",
+    "name": "ESPN",
+    "nameEn": "ESPN",
+    "logo": "https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/4791.json"
+  },
+  {
+    "id": 4792,
+    "categoryId": "espn_sport_br",
+    "name": "TUDN",
+    "nameEn": "TUDN",
+    "logo": "https://www.copaangelina.com/tudn-logo.f5be7aa5.png",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/4792.json"
+  },
+  {
+    "id": 4793,
+    "categoryId": "espn_sport_br",
+    "name": "ESPN 2",
+    "nameEn": "ESPN 2",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png",
+    "type": "channel",
+    "position": 30,
+    "streamsFile": "streams/4793.json"
+  },
+  {
+    "id": 4794,
+    "categoryId": "espn_sport_br",
+    "name": "ESPN 3",
+    "nameEn": "ESPN 3",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png",
+    "type": "channel",
+    "position": 31,
+    "streamsFile": "streams/4794.json"
+  },
+  {
+    "id": 4795,
+    "categoryId": "espn_sport_br",
+    "name": "ESPN 4",
+    "nameEn": "ESPN 4",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png",
+    "type": "channel",
+    "position": 32,
+    "streamsFile": "streams/4795.json"
+  },
+  {
+    "id": 4796,
+    "categoryId": "espn_sport_br",
+    "name": "ESPN 5",
+    "nameEn": "ESPN 5",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png",
+    "type": "channel",
+    "position": 33,
+    "streamsFile": "streams/4796.json"
+  },
+  {
+    "id": 4797,
+    "categoryId": "espn_sport_br",
+    "name": "LaLiga",
+    "nameEn": "LaLiga",
+    "logo": "https://gfr1.b-cdn.net/GFR%20League%20Logos/SPAIN%20LaLiga2.png",
+    "type": "channel",
+    "position": 124,
+    "streamsFile": "streams/4797.json"
+  },
+  {
+    "id": 4798,
+    "categoryId": "espn_sport_br",
+    "name": "FOX SPORTS 1",
+    "nameEn": "FOX SPORTS 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Fox_Sports_Argentina_2026.webp/250px-Fox_Sports_Argentina_2026.webp.png",
+    "type": "channel",
+    "position": 552,
+    "streamsFile": "streams/4798.json"
+  },
+  {
+    "id": 4799,
+    "categoryId": "espn_sport_br",
+    "name": "FOX SPORTS 2",
+    "nameEn": "FOX SPORTS 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Fox_Sports_Argentina_2026.webp/250px-Fox_Sports_Argentina_2026.webp.png",
+    "type": "channel",
+    "position": 555,
+    "streamsFile": "streams/4799.json"
+  },
+  {
+    "id": 4800,
+    "categoryId": "espn_sport_br",
+    "name": "FOX SPORTS 3",
+    "nameEn": "FOX SPORTS 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Fox_Sports_Argentina_2026.webp/250px-Fox_Sports_Argentina_2026.webp.png",
+    "type": "channel",
+    "position": 556,
+    "streamsFile": "streams/4800.json"
+  },
+  {
+    "id": 4801,
+    "categoryId": "espn_sport_br",
+    "name": "Golazo",
+    "nameEn": "Golazo",
+    "logo": "",
+    "type": "channel",
+    "position": 1045,
+    "streamsFile": "streams/4801.json"
+  },
+  {
+    "id": 4802,
+    "categoryId": "espn_sport_br",
+    "name": "DSports +",
+    "nameEn": "DSports +",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png?_=20180613015011",
+    "type": "channel",
+    "position": 2452,
+    "streamsFile": "streams/4802.json"
+  }
+]

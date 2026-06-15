@@ -1,0 +1,112 @@
+[
+  {
+    "id": 5784,
+    "categoryId": "brazil",
+    "name": "Pluto TV Cine Drama (720p)",
+    "nameEn": "Pluto TV Cine Drama (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/5784.json"
+  },
+  {
+    "id": 5785,
+    "categoryId": "brazil",
+    "name": "Pluto TV Cine Família (720p) [Not 24/7]",
+    "nameEn": "Pluto TV Cine Família (720p) [Not 24/7]",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/5785.json"
+  },
+  {
+    "id": 5786,
+    "categoryId": "brazil",
+    "name": "Pluto TV Classic Nick (Brazil) (240p)",
+    "nameEn": "Pluto TV Classic Nick (Brazil) (240p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/5786.json"
+  },
+  {
+    "id": 5787,
+    "categoryId": "brazil",
+    "name": "Pluto TV Filmes Suspense (720p)",
+    "nameEn": "Pluto TV Filmes Suspense (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/5787.json"
+  },
+  {
+    "id": 5788,
+    "categoryId": "brazil",
+    "name": "Pluto TV Investigação (720p)",
+    "nameEn": "Pluto TV Investigação (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/5788.json"
+  },
+  {
+    "id": 5789,
+    "categoryId": "brazil",
+    "name": "Pluto TV MTV (Brazil) (720p)",
+    "nameEn": "Pluto TV MTV (Brazil) (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/5789.json"
+  },
+  {
+    "id": 5790,
+    "categoryId": "brazil",
+    "name": "Pluto TV Natureza (720p)",
+    "nameEn": "Pluto TV Natureza (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/5790.json"
+  },
+  {
+    "id": 5791,
+    "categoryId": "brazil",
+    "name": "Pluto TV Nick Jr. Club (720p)",
+    "nameEn": "Pluto TV Nick Jr. Club (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/5791.json"
+  },
+  {
+    "id": 5792,
+    "categoryId": "brazil",
+    "name": "Pluto TV Nick Jr. Club (720p)",
+    "nameEn": "Pluto TV Nick Jr. Club (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/5792.json"
+  },
+  {
+    "id": 5793,
+    "categoryId": "brazil",
+    "name": "Pluto TV Retrô (684p)",
+    "nameEn": "Pluto TV Retrô (684p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/5793.json"
+  },
+  {
+    "id": 5794,
+    "categoryId": "brazil",
+    "name": "Pluto TV Vida Real (720p)",
+    "nameEn": "Pluto TV Vida Real (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/5794.json"
+  }
+]

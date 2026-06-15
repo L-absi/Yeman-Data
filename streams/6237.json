@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "name": "GO3 SPORT 1 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=",
+      "url": "https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd",
+      "url_type": 3,
+      "user_agent": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd",
+      "referer": "",
+      "event_channel_id": null,
+      "headers": {
+        "https": "//v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd",
+        "User-Agent": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd"
+      },
+      "drm": {
+        "scheme": "clearkey",
+        "key_id": "f48a8131e05f4d6e84de19f086c781a6",
+        "key": "fd28f2f966a906f4d4dcfd72ae90094e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "Referer|https://1player.baselalsharef.com/albaplayer/bein5/?serv=0|user-agent|Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36|https://1player.baselalsharef.com/albaplayer/bein5/?serv=0",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "https://1player.baselalsharef.com/albaplayer/bein5/?serv=0",
+    "name": "BeIN 8",
+    "Referer": "https://1player.baselalsharef.com/albaplayer/bein5/?serv=0",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+    "position": "0",
+    "url": "http://135.125.109.73:9000/beinsport8_.m3u8"
+  }
+]

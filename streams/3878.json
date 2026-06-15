@@ -1,0 +1,11 @@
+[
+  {
+    "headers": "Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4|",
+    "otherHeaders": "",
+    "name": "Channel U (SGP) #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d",
+    "Referer": "https://forcedtoplay.xyz/server_lookup.php?channel_id=premium",
+    "userAgent": "OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4",
+    "position": "0",
+    "url": "https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd"
+  }
+]

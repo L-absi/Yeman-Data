@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "Referer|https://snrt.player.easybroadcast.io/|user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0|web|y",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "web|y",
+    "name": "Arriadia 1",
+    "Referer": "https://snrt.player.easybroadcast.io/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "position": "0",
+    "url": "https://snrt.player.easybroadcast.io/events/73_arryadia_k2tgcj0?autoplay=1"
+  }
+]

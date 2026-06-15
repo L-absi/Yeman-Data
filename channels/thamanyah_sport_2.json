@@ -1,0 +1,72 @@
+[
+  {
+    "id": 5759,
+    "categoryId": "thamanyah_sport_2",
+    "name": "٨ 1 HD",
+    "nameEn": "٨ 1 HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNoLt8xUQbTvUVqLNT_UQjBn6EfjwctOwY6vzQNOASg&s=10",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/5759.json"
+  },
+  {
+    "id": 5760,
+    "categoryId": "thamanyah_sport_2",
+    "name": "٨ 1 HD2",
+    "nameEn": "٨ 2 HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNoLt8xUQbTvUVqLNT_UQjBn6EfjwctOwY6vzQNOASg&s=10",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/5760.json"
+  },
+  {
+    "id": 5761,
+    "categoryId": "thamanyah_sport_2",
+    "name": "٨ 3 HD",
+    "nameEn": "٨ 3 HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNoLt8xUQbTvUVqLNT_UQjBn6EfjwctOwY6vzQNOASg&s=10",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/5761.json"
+  },
+  {
+    "id": 5762,
+    "categoryId": "thamanyah_sport_2",
+    "name": "٨ 1 HD",
+    "nameEn": "٨ 1 TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNoLt8xUQbTvUVqLNT_UQjBn6EfjwctOwY6vzQNOASg&s=10",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/5762.json"
+  },
+  {
+    "id": 5763,
+    "categoryId": "thamanyah_sport_2",
+    "name": "ITALIA",
+    "nameEn": "ITALIA",
+    "logo": "http://picon.tivi-ott.net:25461/picon/ARGENTINA/%E2%94%83AFCON%E2%94%83%20AFRICA%20CUP%202025/SPORT%20ITALIA.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/5763.json"
+  },
+  {
+    "id": 5764,
+    "categoryId": "thamanyah_sport_2",
+    "name": "SpoTV HD",
+    "nameEn": "SpoTV HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawpH-gLI-7DnswQxMu_8qLWSW2fGo2LUE1Ojo4WwAFA&s=10",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/5764.json"
+  },
+  {
+    "id": 5765,
+    "categoryId": "thamanyah_sport_2",
+    "name": "SpoTV 2",
+    "nameEn": "SpoTV 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawpH-gLI-7DnswQxMu_8qLWSW2fGo2LUE1Ojo4WwAFA&s=10",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/5765.json"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 4860,
+    "categoryId": "premier_brazil",
+    "name": "Première 1",
+    "nameEn": "Première 1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmN_KseTIte9rjpChujgd-Pe8jd8V0E9uObFi9d8NYCQ&s=10",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4860.json"
+  },
+  {
+    "id": 4861,
+    "categoryId": "premier_brazil",
+    "name": "Première 2",
+    "nameEn": "Première 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmN_KseTIte9rjpChujgd-Pe8jd8V0E9uObFi9d8NYCQ&s=10",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4861.json"
+  },
+  {
+    "id": 4862,
+    "categoryId": "premier_brazil",
+    "name": "Première 3",
+    "nameEn": "Première 3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmN_KseTIte9rjpChujgd-Pe8jd8V0E9uObFi9d8NYCQ&s=10",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4862.json"
+  },
+  {
+    "id": 4863,
+    "categoryId": "premier_brazil",
+    "name": "Première 4",
+    "nameEn": "Première 4",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmN_KseTIte9rjpChujgd-Pe8jd8V0E9uObFi9d8NYCQ&s=10",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4863.json"
+  },
+  {
+    "id": 4864,
+    "categoryId": "premier_brazil",
+    "name": "Première 5",
+    "nameEn": "Première 5",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmN_KseTIte9rjpChujgd-Pe8jd8V0E9uObFi9d8NYCQ&s=10",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/4864.json"
+  },
+  {
+    "id": 4865,
+    "categoryId": "premier_brazil",
+    "name": "Sportv 1",
+    "nameEn": "Sportv 1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBgXgz3nw4iD7jY5hTwQy7uLJD-GO77w-mZagrjyyaa0H76U9QnGr5-ss&s=10",
+    "type": "channel",
+    "position": 21,
+    "streamsFile": "streams/4865.json"
+  },
+  {
+    "id": 4866,
+    "categoryId": "premier_brazil",
+    "name": "Sportv 2",
+    "nameEn": "Sportv 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBgXgz3nw4iD7jY5hTwQy7uLJD-GO77w-mZagrjyyaa0H76U9QnGr5-ss&s=10",
+    "type": "channel",
+    "position": 92,
+    "streamsFile": "streams/4866.json"
+  },
+  {
+    "id": 4867,
+    "categoryId": "premier_brazil",
+    "name": "Sportv3",
+    "nameEn": "Sportv3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBgXgz3nw4iD7jY5hTwQy7uLJD-GO77w-mZagrjyyaa0H76U9QnGr5-ss&s=10",
+    "type": "channel",
+    "position": 712,
+    "streamsFile": "streams/4867.json"
+  }
+]

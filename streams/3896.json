@@ -1,0 +1,68 @@
+[
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "BN6",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/adaptive.m3u8"
+  },
+  {
+    "headers": "user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "BEIN",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "position": "0",
+    "url": "http://het128b.ycn-redirect.com/live/1515000000/index.m3u8"
+  },
+  {
+    "headers": "user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "BN6",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "position": "0",
+    "url": "http://het128c.ycn-redirect.com/live/1515000000/index.m3u8"
+  },
+  {
+    "headers": "user-agent|ExoPlayer|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "B6",
+    "Referer": "",
+    "userAgent": "ExoPlayer",
+    "position": "0",
+    "url": "https://ostora.3alaenet.workers.dev/?id=6&quality=1&type=ys"
+  },
+  {
+    "headers": "user-agent|ExoPlayer|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "B4",
+    "Referer": "",
+    "userAgent": "ExoPlayer",
+    "position": "0",
+    "url": "https://ostora.3alaenet.workers.dev/?id=6&quality=2&type=ys"
+  },
+  {
+    "headers": "user-agent|Halow TV/1.0.5 (Linux;Android 9) AndroidXMedia3/1.8.0|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "B6",
+    "Referer": "",
+    "userAgent": "Halow TV/1.0.5 (Linux;Android 9) AndroidXMedia3/1.8.0",
+    "position": "0",
+    "url": "http://sportook.online/BEIN-S6/video.m3u8"
+  }
+]

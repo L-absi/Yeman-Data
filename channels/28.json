@@ -1,0 +1,68 @@
+[
+  {
+    "id": 740,
+    "categoryId": "28",
+    "name": "Bahrain TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/WOg3Me9.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/740.json"
+  },
+  {
+    "id": 741,
+    "categoryId": "28",
+    "name": "Bahrain FM",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/MFz3JE3.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/741.json"
+  },
+  {
+    "id": 742,
+    "categoryId": "28",
+    "name": "Bahrain Quran",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/7prA5wO.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/742.json"
+  },
+  {
+    "id": 743,
+    "categoryId": "28",
+    "name": "Bahrain Inter",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/RkfjuUC.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/743.json"
+  },
+  {
+    "id": 744,
+    "categoryId": "28",
+    "name": "Bahrain Sports",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/93dIsom.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/744.json"
+  },
+  {
+    "id": 745,
+    "categoryId": "28",
+    "name": "Bahrain Sports 2",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/gOQyEPS.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/745.json"
+  }
+]

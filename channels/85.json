@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1415,
+    "categoryId": "85",
+    "name": "ON Time Sports 1",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/On_Time_Sports_Logo.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1415.json"
+  },
+  {
+    "id": 1416,
+    "categoryId": "85",
+    "name": "ON Time Sports 2",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/On_Time_Sports_Logo.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1416.json"
+  },
+  {
+    "id": 1417,
+    "categoryId": "85",
+    "name": "ON Time Sports 3",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/On_Time_Sports_Logo.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1417.json"
+  }
+]

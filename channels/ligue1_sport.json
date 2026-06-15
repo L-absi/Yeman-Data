@@ -1,0 +1,52 @@
+[
+  {
+    "id": 4001,
+    "categoryId": "ligue1_sport",
+    "name": "Xtra",
+    "nameEn": "Xtra",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkTnJ-Mxs9DWW458rBRPWdjMY8_Svg7W0HZg&s",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4001.json"
+  },
+  {
+    "id": 4002,
+    "categoryId": "ligue1_sport",
+    "name": "Ligue1",
+    "nameEn": "Ligue1",
+    "logo": "",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4002.json"
+  },
+  {
+    "id": 4003,
+    "categoryId": "ligue1_sport",
+    "name": "TV5",
+    "nameEn": "TV5",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkTnJ-Mxs9DWW458rBRPWdjMY8_Svg7W0HZg&s",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4003.json"
+  },
+  {
+    "id": 4004,
+    "categoryId": "ligue1_sport",
+    "name": "Elv11",
+    "nameEn": "Elv11",
+    "logo": "",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4004.json"
+  },
+  {
+    "id": 4005,
+    "categoryId": "ligue1_sport",
+    "name": "TV5M",
+    "nameEn": "TV5M",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkTnJ-Mxs9DWW458rBRPWdjMY8_Svg7W0HZg&s",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4005.json"
+  }
+]

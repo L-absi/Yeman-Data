@@ -1,0 +1,982 @@
+[
+  {
+    "id": 5209,
+    "categoryId": "français",
+    "name": "Adjugé vendu !",
+    "nameEn": "Adjugé vendu !",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/5209.json"
+  },
+  {
+    "id": 5210,
+    "categoryId": "français",
+    "name": "Alerte Cobra",
+    "nameEn": "Alerte Cobra",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/5210.json"
+  },
+  {
+    "id": 5211,
+    "categoryId": "français",
+    "name": "Angela Anaconda",
+    "nameEn": "Angela Anaconda",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/5211.json"
+  },
+  {
+    "id": 5212,
+    "categoryId": "français",
+    "name": "Avatar",
+    "nameEn": "Avatar",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/5212.json"
+  },
+  {
+    "id": 5213,
+    "categoryId": "français",
+    "name": "BBC Drama",
+    "nameEn": "BBC Drama",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/5213.json"
+  },
+  {
+    "id": 5214,
+    "categoryId": "français",
+    "name": "Bob l'éponge",
+    "nameEn": "Bob l'éponge",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/5214.json"
+  },
+  {
+    "id": 5215,
+    "categoryId": "français",
+    "name": "Bubble Guppies",
+    "nameEn": "Bubble Guppies",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/5215.json"
+  },
+  {
+    "id": 5216,
+    "categoryId": "français",
+    "name": "C'est pas sorcier",
+    "nameEn": "C'est pas sorcier",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/5216.json"
+  },
+  {
+    "id": 5217,
+    "categoryId": "français",
+    "name": "CATFISH TV",
+    "nameEn": "CATFISH TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/5217.json"
+  },
+  {
+    "id": 5218,
+    "categoryId": "français",
+    "name": "CBS News 24/7",
+    "nameEn": "CBS News 24/7",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/5218.json"
+  },
+  {
+    "id": 5219,
+    "categoryId": "français",
+    "name": "Charlotte aux Fraises",
+    "nameEn": "Charlotte aux Fraises",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/5219.json"
+  },
+  {
+    "id": 5220,
+    "categoryId": "français",
+    "name": "Coeur Océan",
+    "nameEn": "Coeur Océan",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/5220.json"
+  },
+  {
+    "id": 5221,
+    "categoryId": "français",
+    "name": "Degrassi",
+    "nameEn": "Degrassi",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/5221.json"
+  },
+  {
+    "id": 5222,
+    "categoryId": "français",
+    "name": "Detective Conan",
+    "nameEn": "Detective Conan",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/5222.json"
+  },
+  {
+    "id": 5223,
+    "categoryId": "français",
+    "name": "Digimon Adventure",
+    "nameEn": "Digimon Adventure",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/5223.json"
+  },
+  {
+    "id": 5224,
+    "categoryId": "français",
+    "name": "Dora TV",
+    "nameEn": "Dora TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/5224.json"
+  },
+  {
+    "id": 5225,
+    "categoryId": "français",
+    "name": "Dossiers FBI",
+    "nameEn": "Dossiers FBI",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/5225.json"
+  },
+  {
+    "id": 5226,
+    "categoryId": "français",
+    "name": "Echappées Belles & Co",
+    "nameEn": "Echappées Belles & Co",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 18,
+    "streamsFile": "streams/5226.json"
+  },
+  {
+    "id": 5227,
+    "categoryId": "français",
+    "name": "Enquêtes de Choc",
+    "nameEn": "Enquêtes de Choc",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 19,
+    "streamsFile": "streams/5227.json"
+  },
+  {
+    "id": 5228,
+    "categoryId": "français",
+    "name": "Euronews",
+    "nameEn": "Euronews",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 20,
+    "streamsFile": "streams/5228.json"
+  },
+  {
+    "id": 5229,
+    "categoryId": "français",
+    "name": "FailArmy",
+    "nameEn": "FailArmy",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 21,
+    "streamsFile": "streams/5229.json"
+  },
+  {
+    "id": 5230,
+    "categoryId": "français",
+    "name": "Family Club",
+    "nameEn": "Family Club",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 22,
+    "streamsFile": "streams/5230.json"
+  },
+  {
+    "id": 5231,
+    "categoryId": "français",
+    "name": "Génération Sitcoms",
+    "nameEn": "Génération Sitcoms",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 23,
+    "streamsFile": "streams/5231.json"
+  },
+  {
+    "id": 5232,
+    "categoryId": "français",
+    "name": "Hélène et les garçons",
+    "nameEn": "Hélène et les garçons",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 24,
+    "streamsFile": "streams/5232.json"
+  },
+  {
+    "id": 5233,
+    "categoryId": "français",
+    "name": "Homicide",
+    "nameEn": "Homicide",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 25,
+    "streamsFile": "streams/5233.json"
+  },
+  {
+    "id": 5234,
+    "categoryId": "français",
+    "name": "iCarly TV",
+    "nameEn": "iCarly TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 26,
+    "streamsFile": "streams/5234.json"
+  },
+  {
+    "id": 5235,
+    "categoryId": "français",
+    "name": "INA 70",
+    "nameEn": "INA 70",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 27,
+    "streamsFile": "streams/5235.json"
+  },
+  {
+    "id": 5236,
+    "categoryId": "français",
+    "name": "Inazuma Eleven",
+    "nameEn": "Inazuma Eleven",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 28,
+    "streamsFile": "streams/5236.json"
+  },
+  {
+    "id": 5237,
+    "categoryId": "français",
+    "name": "Instant Saga",
+    "nameEn": "Instant Saga",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 29,
+    "streamsFile": "streams/5237.json"
+  },
+  {
+    "id": 5238,
+    "categoryId": "français",
+    "name": "Just Tattoo of Us",
+    "nameEn": "Just Tattoo of Us",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 30,
+    "streamsFile": "streams/5238.json"
+  },
+  {
+    "id": 5239,
+    "categoryId": "français",
+    "name": "Juste pour Rire",
+    "nameEn": "Juste pour Rire",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 31,
+    "streamsFile": "streams/5239.json"
+  },
+  {
+    "id": 5240,
+    "categoryId": "français",
+    "name": "Le miracle de l'amour",
+    "nameEn": "Le miracle de l'amour",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 32,
+    "streamsFile": "streams/5240.json"
+  },
+  {
+    "id": 5241,
+    "categoryId": "français",
+    "name": "Les Années fac",
+    "nameEn": "Les Années fac",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 33,
+    "streamsFile": "streams/5241.json"
+  },
+  {
+    "id": 5242,
+    "categoryId": "français",
+    "name": "Les Cordier",
+    "nameEn": "Les Cordier",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 34,
+    "streamsFile": "streams/5242.json"
+  },
+  {
+    "id": 5243,
+    "categoryId": "français",
+    "name": "Les filles d'à côté",
+    "nameEn": "Les filles d'à côté",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 35,
+    "streamsFile": "streams/5243.json"
+  },
+  {
+    "id": 5244,
+    "categoryId": "français",
+    "name": "Les Nouveaux Detectives",
+    "nameEn": "Les Nouveaux Detectives",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 36,
+    "streamsFile": "streams/5244.json"
+  },
+  {
+    "id": 5245,
+    "categoryId": "français",
+    "name": "Les Z'amours",
+    "nameEn": "Les Z'amours",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 37,
+    "streamsFile": "streams/5245.json"
+  },
+  {
+    "id": 5246,
+    "categoryId": "français",
+    "name": "Louis La Brocante",
+    "nameEn": "Louis La Brocante",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 38,
+    "streamsFile": "streams/5246.json"
+  },
+  {
+    "id": 5247,
+    "categoryId": "français",
+    "name": "MacGyver",
+    "nameEn": "MacGyver",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 39,
+    "streamsFile": "streams/5247.json"
+  },
+  {
+    "id": 5248,
+    "categoryId": "français",
+    "name": "Melrose Place",
+    "nameEn": "Melrose Place",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 40,
+    "streamsFile": "streams/5248.json"
+  },
+  {
+    "id": 5249,
+    "categoryId": "français",
+    "name": "Monster Jam",
+    "nameEn": "Monster Jam",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 41,
+    "streamsFile": "streams/5249.json"
+  },
+  {
+    "id": 5250,
+    "categoryId": "français",
+    "name": "MTV CLASSICS",
+    "nameEn": "MTV CLASSICS",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 42,
+    "streamsFile": "streams/5250.json"
+  },
+  {
+    "id": 5251,
+    "categoryId": "français",
+    "name": "MTV Classics+",
+    "nameEn": "MTV Classics+",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 43,
+    "streamsFile": "streams/5251.json"
+  },
+  {
+    "id": 5252,
+    "categoryId": "français",
+    "name": "Nature Time",
+    "nameEn": "Nature Time",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 44,
+    "streamsFile": "streams/5252.json"
+  },
+  {
+    "id": 5253,
+    "categoryId": "français",
+    "name": "One Piece",
+    "nameEn": "One Piece",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 45,
+    "streamsFile": "streams/5253.json"
+  },
+  {
+    "id": 5254,
+    "categoryId": "français",
+    "name": "Pluto TV Action",
+    "nameEn": "Pluto TV Action",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 46,
+    "streamsFile": "streams/5254.json"
+  },
+  {
+    "id": 5255,
+    "categoryId": "français",
+    "name": "Pluto TV Animaux",
+    "nameEn": "Pluto TV Animaux",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 47,
+    "streamsFile": "streams/5255.json"
+  },
+  {
+    "id": 5256,
+    "categoryId": "français",
+    "name": "Pluto TV Aventure",
+    "nameEn": "Pluto TV Aventure",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 48,
+    "streamsFile": "streams/5256.json"
+  },
+  {
+    "id": 5257,
+    "categoryId": "français",
+    "name": "Pluto TV Catastrophe",
+    "nameEn": "Pluto TV Catastrophe",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 49,
+    "streamsFile": "streams/5257.json"
+  },
+  {
+    "id": 5258,
+    "categoryId": "français",
+    "name": "Pluto TV Ciné",
+    "nameEn": "Pluto TV Ciné",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 50,
+    "streamsFile": "streams/5258.json"
+  },
+  {
+    "id": 5259,
+    "categoryId": "français",
+    "name": "Pluto TV Ciné d'Asie",
+    "nameEn": "Pluto TV Ciné d'Asie",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 51,
+    "streamsFile": "streams/5259.json"
+  },
+  {
+    "id": 5260,
+    "categoryId": "français",
+    "name": "Pluto TV Ciné Rétro",
+    "nameEn": "Pluto TV Ciné Rétro",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 52,
+    "streamsFile": "streams/5260.json"
+  },
+  {
+    "id": 5261,
+    "categoryId": "français",
+    "name": "Pluto TV Ciné+",
+    "nameEn": "Pluto TV Ciné+",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 53,
+    "streamsFile": "streams/5261.json"
+  },
+  {
+    "id": 5262,
+    "categoryId": "français",
+    "name": "Pluto TV Classic Hip-Hop",
+    "nameEn": "Pluto TV Classic Hip-Hop",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 54,
+    "streamsFile": "streams/5262.json"
+  },
+  {
+    "id": 5263,
+    "categoryId": "français",
+    "name": "Pluto TV Classic Rock",
+    "nameEn": "Pluto TV Classic Rock",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 55,
+    "streamsFile": "streams/5263.json"
+  },
+  {
+    "id": 5264,
+    "categoryId": "français",
+    "name": "Pluto TV Classic TV FR",
+    "nameEn": "Pluto TV Classic TV FR",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 56,
+    "streamsFile": "streams/5264.json"
+  },
+  {
+    "id": 5265,
+    "categoryId": "français",
+    "name": "Pluto TV Comédie",
+    "nameEn": "Pluto TV Comédie",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 57,
+    "streamsFile": "streams/5265.json"
+  },
+  {
+    "id": 5266,
+    "categoryId": "français",
+    "name": "Pluto TV Cuisine",
+    "nameEn": "Pluto TV Cuisine",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 58,
+    "streamsFile": "streams/5266.json"
+  },
+  {
+    "id": 5267,
+    "categoryId": "français",
+    "name": "Pluto TV French Collection",
+    "nameEn": "Pluto TV French Collection",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 59,
+    "streamsFile": "streams/5267.json"
+  },
+  {
+    "id": 5268,
+    "categoryId": "français",
+    "name": "Pluto TV Histoire",
+    "nameEn": "Pluto TV Histoire",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 60,
+    "streamsFile": "streams/5268.json"
+  },
+  {
+    "id": 5269,
+    "categoryId": "français",
+    "name": "Pluto TV Inside",
+    "nameEn": "Pluto TV Inside",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 61,
+    "streamsFile": "streams/5269.json"
+  },
+  {
+    "id": 5270,
+    "categoryId": "français",
+    "name": "Pluto TV Investigation",
+    "nameEn": "Pluto TV Investigation",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 62,
+    "streamsFile": "streams/5270.json"
+  },
+  {
+    "id": 5271,
+    "categoryId": "français",
+    "name": "Pluto TV Junior",
+    "nameEn": "Pluto TV Junior",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 63,
+    "streamsFile": "streams/5271.json"
+  },
+  {
+    "id": 5272,
+    "categoryId": "français",
+    "name": "Pluto TV Kids Animation",
+    "nameEn": "Pluto TV Kids Animation",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 64,
+    "streamsFile": "streams/5272.json"
+  },
+  {
+    "id": 5273,
+    "categoryId": "français",
+    "name": "Pluto TV Kids Classics",
+    "nameEn": "Pluto TV Kids Classics",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 65,
+    "streamsFile": "streams/5273.json"
+  },
+  {
+    "id": 5274,
+    "categoryId": "français",
+    "name": "Pluto TV Kids Gaming",
+    "nameEn": "Pluto TV Kids Gaming",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 66,
+    "streamsFile": "streams/5274.json"
+  },
+  {
+    "id": 5275,
+    "categoryId": "français",
+    "name": "Pluto TV Kids Séries",
+    "nameEn": "Pluto TV Kids Séries",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 67,
+    "streamsFile": "streams/5275.json"
+  },
+  {
+    "id": 5276,
+    "categoryId": "français",
+    "name": "Pluto TV Love Songs",
+    "nameEn": "Pluto TV Love Songs",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 68,
+    "streamsFile": "streams/5276.json"
+  },
+  {
+    "id": 5277,
+    "categoryId": "français",
+    "name": "Pluto TV Paranormal",
+    "nameEn": "Pluto TV Paranormal",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 69,
+    "streamsFile": "streams/5277.json"
+  },
+  {
+    "id": 5278,
+    "categoryId": "français",
+    "name": "Pluto TV Polar",
+    "nameEn": "Pluto TV Polar",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 70,
+    "streamsFile": "streams/5278.json"
+  },
+  {
+    "id": 5279,
+    "categoryId": "français",
+    "name": "Pluto TV Polar+",
+    "nameEn": "Pluto TV Polar+",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 71,
+    "streamsFile": "streams/5279.json"
+  },
+  {
+    "id": 5280,
+    "categoryId": "français",
+    "name": "Pluto TV Rap",
+    "nameEn": "Pluto TV Rap",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 72,
+    "streamsFile": "streams/5280.json"
+  },
+  {
+    "id": 5281,
+    "categoryId": "français",
+    "name": "Pluto TV Reality",
+    "nameEn": "Pluto TV Reality",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 73,
+    "streamsFile": "streams/5281.json"
+  },
+  {
+    "id": 5282,
+    "categoryId": "français",
+    "name": "Pluto TV Retro Toons",
+    "nameEn": "Pluto TV Retro Toons",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 74,
+    "streamsFile": "streams/5282.json"
+  },
+  {
+    "id": 5283,
+    "categoryId": "français",
+    "name": "Pluto TV Romance",
+    "nameEn": "Pluto TV Romance",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 75,
+    "streamsFile": "streams/5283.json"
+  },
+  {
+    "id": 5284,
+    "categoryId": "français",
+    "name": "Pluto TV Sci-Fi",
+    "nameEn": "Pluto TV Sci-Fi",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 76,
+    "streamsFile": "streams/5284.json"
+  },
+  {
+    "id": 5285,
+    "categoryId": "français",
+    "name": "Pluto TV Series",
+    "nameEn": "Pluto TV Series",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 77,
+    "streamsFile": "streams/5285.json"
+  },
+  {
+    "id": 5286,
+    "categoryId": "français",
+    "name": "Pluto TV Séries Fantastiques",
+    "nameEn": "Pluto TV Séries Fantastiques",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 78,
+    "streamsFile": "streams/5286.json"
+  },
+  {
+    "id": 5287,
+    "categoryId": "français",
+    "name": "Pluto TV Super Kids",
+    "nameEn": "Pluto TV Super Kids",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 79,
+    "streamsFile": "streams/5287.json"
+  },
+  {
+    "id": 5288,
+    "categoryId": "français",
+    "name": "Pluto TV Thrillers",
+    "nameEn": "Pluto TV Thrillers",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 80,
+    "streamsFile": "streams/5288.json"
+  },
+  {
+    "id": 5289,
+    "categoryId": "français",
+    "name": "Pluto TV Western",
+    "nameEn": "Pluto TV Western",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 81,
+    "streamsFile": "streams/5289.json"
+  },
+  {
+    "id": 5290,
+    "categoryId": "français",
+    "name": "Qui veut gagner des millions?",
+    "nameEn": "Qui veut gagner des millions?",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 82,
+    "streamsFile": "streams/5290.json"
+  },
+  {
+    "id": 5291,
+    "categoryId": "français",
+    "name": "Realmadrid TV",
+    "nameEn": "Realmadrid TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 83,
+    "streamsFile": "streams/5291.json"
+  },
+  {
+    "id": 5292,
+    "categoryId": "français",
+    "name": "Ridiculousness",
+    "nameEn": "Ridiculousness",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 84,
+    "streamsFile": "streams/5292.json"
+  },
+  {
+    "id": 5293,
+    "categoryId": "français",
+    "name": "Sabrina la série animée",
+    "nameEn": "Sabrina la série animée",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 85,
+    "streamsFile": "streams/5293.json"
+  },
+  {
+    "id": 5294,
+    "categoryId": "français",
+    "name": "Teen Mom",
+    "nameEn": "Teen Mom",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 86,
+    "streamsFile": "streams/5294.json"
+  },
+  {
+    "id": 5295,
+    "categoryId": "français",
+    "name": "The Asylum",
+    "nameEn": "The Asylum",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 87,
+    "streamsFile": "streams/5295.json"
+  },
+  {
+    "id": 5296,
+    "categoryId": "français",
+    "name": "Top Gear",
+    "nameEn": "Top Gear",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 88,
+    "streamsFile": "streams/5296.json"
+  },
+  {
+    "id": 5297,
+    "categoryId": "français",
+    "name": "Tortues Ninja TV",
+    "nameEn": "Tortues Ninja TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 89,
+    "streamsFile": "streams/5297.json"
+  },
+  {
+    "id": 5298,
+    "categoryId": "français",
+    "name": "Toute une histoire",
+    "nameEn": "Toute une histoire",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 90,
+    "streamsFile": "streams/5298.json"
+  },
+  {
+    "id": 5299,
+    "categoryId": "français",
+    "name": "Un gars une fille",
+    "nameEn": "Un gars une fille",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 91,
+    "streamsFile": "streams/5299.json"
+  },
+  {
+    "id": 5300,
+    "categoryId": "français",
+    "name": "Un Village Français",
+    "nameEn": "Un Village Français",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 92,
+    "streamsFile": "streams/5300.json"
+  },
+  {
+    "id": 5301,
+    "categoryId": "français",
+    "name": "Victorious",
+    "nameEn": "Victorious",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 93,
+    "streamsFile": "streams/5301.json"
+  },
+  {
+    "id": 5302,
+    "categoryId": "français",
+    "name": "Walker Texas Ranger",
+    "nameEn": "Walker Texas Ranger",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 94,
+    "streamsFile": "streams/5302.json"
+  },
+  {
+    "id": 5303,
+    "categoryId": "français",
+    "name": "Wild Side TV",
+    "nameEn": "Wild Side TV",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 95,
+    "streamsFile": "streams/5303.json"
+  },
+  {
+    "id": 5304,
+    "categoryId": "français",
+    "name": "WPT",
+    "nameEn": "WPT",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 96,
+    "streamsFile": "streams/5304.json"
+  },
+  {
+    "id": 5305,
+    "categoryId": "français",
+    "name": "Y'a que la vérité qui compte",
+    "nameEn": "Y'a que la vérité qui compte",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 97,
+    "streamsFile": "streams/5305.json"
+  },
+  {
+    "id": 5306,
+    "categoryId": "français",
+    "name": "Yu-Gi-Oh!",
+    "nameEn": "Yu-Gi-Oh!",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 98,
+    "streamsFile": "streams/5306.json"
+  }
+]

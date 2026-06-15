@@ -1,0 +1,26 @@
+[
+  {
+    "license": "",
+    "headers": "find|m3u8",
+    "scheme": "",
+    "otherHeaders": "find|m3u8",
+    "isWeb": "false",
+    "name": "1",
+    "Referer": "",
+    "userAgent": "",
+    "position": "",
+    "url": "https://www.giniko.com/xml/secure/plist.php?ch=1035"
+  },
+  {
+    "license": "",
+    "headers": "Referer|https://rotana.hibridcdn.net/|",
+    "scheme": "",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "M+",
+    "Referer": "https://rotana.hibridcdn.net/",
+    "userAgent": "",
+    "position": "5",
+    "url": "https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8"
+  }
+]

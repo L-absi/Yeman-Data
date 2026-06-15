@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64)|",
+    "license": "c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "name": "Sport TV 1 PT #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key= #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "position": "0",
+    "url": "https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD"
+  }
+]

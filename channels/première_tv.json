@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4868,
+    "categoryId": "première_tv",
+    "name": "Rugby UK",
+    "nameEn": "Rugby UK",
+    "logo": "https://logowik.com/content/uploads/images/premier-sports8286.logowik.com.webp",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/4868.json"
+  },
+  {
+    "id": 4869,
+    "categoryId": "première_tv",
+    "name": "Première 1",
+    "nameEn": "Première 1",
+    "logo": "https://logowik.com/content/uploads/images/premier-sports8286.logowik.com.webp",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4869.json"
+  },
+  {
+    "id": 4870,
+    "categoryId": "première_tv",
+    "name": "Premier2",
+    "nameEn": "Premier2",
+    "logo": "https://logowik.com/content/uploads/images/premier-sports8286.logowik.com.webp",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4870.json"
+  },
+  {
+    "id": 4871,
+    "categoryId": "première_tv",
+    "name": "Seta",
+    "nameEn": "Seta",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOuNOvPkw0ifxNdEd3xy-T7y36NsfW_wggJIBwqFNcQ&s=10",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4871.json"
+  }
+]

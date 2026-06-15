@@ -1,0 +1,112 @@
+[
+  {
+    "id": 2694,
+    "categoryId": "aya_cx_tvrotana_روتانا",
+    "name": "خليجية",
+    "nameEn": "خليجية",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH39M_5QjmRRjYiLKucWOF4RqOY8DM_ALUG5y_QiH4Ew&s=10",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2694.json"
+  },
+  {
+    "id": 2695,
+    "categoryId": "aya_cx_tvrotana_روتانا",
+    "name": "روتانا بلص+",
+    "nameEn": "روتانا بلص+",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEXdheaBYD9GDKIAGdinNhvbH4QcB409sJb9OKCcfXvg&s=10",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/2695.json"
+  },
+  {
+    "id": 2696,
+    "categoryId": "aya_cx_tvrotana_روتانا",
+    "name": "دراما",
+    "nameEn": "دراما",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ2lCDXofWBvD53BjhPEeL-EB7c38l-XDKnVLFI80Mmw&s=10",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/2696.json"
+  },
+  {
+    "id": 2697,
+    "categoryId": "aya_cx_tvrotana_روتانا",
+    "name": "كوميدي",
+    "nameEn": "كوميدي",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7SSUvB4pyPdBjRysqljoOWKmhLRPyaS5GQi3f4Od5kQ&s=10",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/2697.json"
+  },
+  {
+    "id": 2698,
+    "categoryId": "aya_cx_tvrotana_روتانا",
+    "name": "سينما",
+    "nameEn": "سينما",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNena8ox2-jJEPn-TtsVHVco88QPhdRmPnQ&s",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/2698.json"
+  },
+  {
+    "id": 2699,
+    "categoryId": "aya_cx_tvrotana_روتانا",
+    "name": "سينما 2",
+    "nameEn": "سينما 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNena8ox2-jJEPn-TtsVHVco88QPhdRmPnQ&s",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/2699.json"
+  },
+  {
+    "id": 2700,
+    "categoryId": "aya_cx_tvrotana_روتانا",
+    "name": "أفلام+",
+    "nameEn": "أفلام+",
+    "logo": "https://media0050.elcinema.com/tvguide/1218_1.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/2700.json"
+  },
+  {
+    "id": 2701,
+    "categoryId": "aya_cx_tvrotana_روتانا",
+    "name": "كلاسيك",
+    "nameEn": "كلاسيك",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4NIlO5URDGLE2JikmC4N3ARISzHfpR2vjUg&s",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/2701.json"
+  },
+  {
+    "id": 2702,
+    "categoryId": "aya_cx_tvrotana_روتانا",
+    "name": "Cinema+Us",
+    "nameEn": "Cinema+Us",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402587.webp",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/2702.json"
+  },
+  {
+    "id": 2703,
+    "categoryId": "aya_cx_tvrotana_روتانا",
+    "name": "Kids",
+    "nameEn": "Kids",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzgD0oLl9M0Iv5ubF_DYEQ4MCoqWuAAT1oVUIhAruoVA&s=10",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/2703.json"
+  },
+  {
+    "id": 2704,
+    "categoryId": "aya_cx_tvrotana_روتانا",
+    "name": "كليب",
+    "nameEn": "كليب",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402593.webp",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/2704.json"
+  }
+]

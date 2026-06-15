@@ -1,0 +1,32 @@
+[
+  {
+    "id": 4006,
+    "categoryId": "mls_sports",
+    "name": "Sport1",
+    "nameEn": "Sport1",
+    "logo": "",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/4006.json"
+  },
+  {
+    "id": 4007,
+    "categoryId": "mls_sports",
+    "name": "Fox",
+    "nameEn": "Fox",
+    "logo": "",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4007.json"
+  },
+  {
+    "id": 4008,
+    "categoryId": "mls_sports",
+    "name": "VIX",
+    "nameEn": "VIX",
+    "logo": "",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4008.json"
+  }
+]

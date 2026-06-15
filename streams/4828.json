@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "Referer|https://karwan.tv/live/azadi-sport-1.php|find|m3u8;mpd",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "find|m3u8;mpd",
+    "name": "",
+    "Referer": "https://karwan.tv/live/azadi-sport-1.php",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://karwan.tv/live/gewher-sport-1.php"
+  }
+]

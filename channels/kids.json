@@ -1,0 +1,212 @@
+[
+  {
+    "id": 4563,
+    "categoryId": "kids",
+    "name": "MBC3 HD",
+    "nameEn": "MBC3 HD",
+    "logo": "https://i.imgur.com/vONTtdP.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4563.json"
+  },
+  {
+    "id": 4564,
+    "categoryId": "kids",
+    "name": "Spacetoon",
+    "nameEn": "Spacetoon",
+    "logo": "https://i.imgur.com/6gZB1IC.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4564.json"
+  },
+  {
+    "id": 4565,
+    "categoryId": "kids",
+    "name": "Majid",
+    "nameEn": "Majid",
+    "logo": "https://bit.ly/3PFq9Up",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4565.json"
+  },
+  {
+    "id": 4566,
+    "categoryId": "kids",
+    "name": "tom_and_JERRY",
+    "nameEn": "tom_and_JERRY",
+    "logo": "https://static.wikia.nocookie.net/cartoonnetwork/images/b/b5/Tom-and-jerry-1-.jpg",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/4566.json"
+  },
+  {
+    "id": 4567,
+    "categoryId": "kids",
+    "name": "Atfal Wa Mawaheb",
+    "nameEn": "Atfal Wa Mawaheb",
+    "logo": "https://bit.ly/3ymHLyF",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/4567.json"
+  },
+  {
+    "id": 4568,
+    "categoryId": "kids",
+    "name": "Amou Yazid TV",
+    "nameEn": "Amou Yazid TV",
+    "logo": "https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/4568.json"
+  },
+  {
+    "id": 4569,
+    "categoryId": "kids",
+    "name": "ROTANA_KIDS",
+    "nameEn": "ROTANA_KIDS",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids.png",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/4569.json"
+  },
+  {
+    "id": 4570,
+    "categoryId": "kids",
+    "name": "ROTANA_KIDS",
+    "nameEn": "ROTANA_KIDS",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids.png",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/4570.json"
+  },
+  {
+    "id": 4571,
+    "categoryId": "kids",
+    "name": "تلفزيون البهاء",
+    "nameEn": "تلفزيون البهاء",
+    "logo": "http://platform.topuphost.com:8558/img/baha.png",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/4571.json"
+  },
+  {
+    "id": 4572,
+    "categoryId": "kids",
+    "name": "تلفزيون البهاء 2",
+    "nameEn": "تلفزيون البهاء 2",
+    "logo": "http://platform.topuphost.com:8558/img/baha.png",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/4572.json"
+  },
+  {
+    "id": 4573,
+    "categoryId": "kids",
+    "name": "DISNEY",
+    "nameEn": "DISNEY",
+    "logo": "https://i.ibb.co/BPY5XCN/Disney2.jpg",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/4573.json"
+  },
+  {
+    "id": 4574,
+    "categoryId": "kids",
+    "name": "Nickelodeon HD",
+    "nameEn": "Nickelodeon HD",
+    "logo": "https://i.imgur.com/oJuu63l.png",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/4574.json"
+  },
+  {
+    "id": 4575,
+    "categoryId": "kids",
+    "name": "NickToons",
+    "nameEn": "NickToons",
+    "logo": "https://i.imgur.com/zKfH3KI.png",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/4575.json"
+  },
+  {
+    "id": 4576,
+    "categoryId": "kids",
+    "name": "ZooMoo HD",
+    "nameEn": "ZooMoo HD",
+    "logo": "https://i.imgur.com/246vm7R.png",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/4576.json"
+  },
+  {
+    "id": 4577,
+    "categoryId": "kids",
+    "name": "Kids1",
+    "nameEn": "Kids1",
+    "logo": "https://image.winudf.com/v2/image/Y29tLm1hY3NhcHAuQ2FydG9vblRWQ2hfc2NyZWVuXzBfMTUzNzcwNjkxMl8wMjM/screen-0.jpg?fakeurl=1&type=.webp",
+    "type": "channel",
+    "position": 18,
+    "streamsFile": "streams/4577.json"
+  },
+  {
+    "id": 4578,
+    "categoryId": "kids",
+    "name": "Kids2",
+    "nameEn": "Kids2",
+    "logo": "https://image.winudf.com/v2/image/Y29tLm1hY3NhcHAuQ2FydG9vblRWQ2hfc2NyZWVuXzBfMTUzNzcwNjkxMl8wMjM/screen-0.jpg?fakeurl=1&type=.webp",
+    "type": "channel",
+    "position": 19,
+    "streamsFile": "streams/4578.json"
+  },
+  {
+    "id": 4579,
+    "categoryId": "kids",
+    "name": "Kids3",
+    "nameEn": "Kids3",
+    "logo": "https://image.winudf.com/v2/image/Y29tLm1hY3NhcHAuQ2FydG9vblRWQ2hfc2NyZWVuXzBfMTUzNzcwNjkxMl8wMjM/screen-0.jpg?fakeurl=1&type=.webp",
+    "type": "channel",
+    "position": 20,
+    "streamsFile": "streams/4579.json"
+  },
+  {
+    "id": 4580,
+    "categoryId": "kids",
+    "name": "Kids4",
+    "nameEn": "Kids4",
+    "logo": "https://image.winudf.com/v2/image/Y29tLm1hY3NhcHAuQ2FydG9vblRWQ2hfc2NyZWVuXzBfMTUzNzcwNjkxMl8wMjM/screen-0.jpg?fakeurl=1&type=.webp",
+    "type": "channel",
+    "position": 21,
+    "streamsFile": "streams/4580.json"
+  },
+  {
+    "id": 4581,
+    "categoryId": "kids",
+    "name": "Kids5",
+    "nameEn": "Kids5",
+    "logo": "https://image.winudf.com/v2/image/Y29tLm1hY3NhcHAuQ2FydG9vblRWQ2hfc2NyZWVuXzBfMTUzNzcwNjkxMl8wMjM/screen-0.jpg?fakeurl=1&type=.webp",
+    "type": "channel",
+    "position": 22,
+    "streamsFile": "streams/4581.json"
+  },
+  {
+    "id": 4582,
+    "categoryId": "kids",
+    "name": "Kids6",
+    "nameEn": "Kids6",
+    "logo": "https://image.winudf.com/v2/image/Y29tLm1hY3NhcHAuQ2FydG9vblRWQ2hfc2NyZWVuXzBfMTUzNzcwNjkxMl8wMjM/screen-0.jpg?fakeurl=1&type=.webp",
+    "type": "channel",
+    "position": 23,
+    "streamsFile": "streams/4582.json"
+  },
+  {
+    "id": 4583,
+    "categoryId": "kids",
+    "name": "Kids7",
+    "nameEn": "Kids7",
+    "logo": "https://image.winudf.com/v2/image/Y29tLm1hY3NhcHAuQ2FydG9vblRWQ2hfc2NyZWVuXzBfMTUzNzcwNjkxMl8wMjM/screen-0.jpg?fakeurl=1&type=.webp",
+    "type": "channel",
+    "position": 24,
+    "streamsFile": "streams/4583.json"
+  }
+]

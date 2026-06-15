@@ -1,0 +1,18 @@
+[
+  {
+    "id": 10118,
+    "name": "Max1",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10118.json"
+  },
+  {
+    "id": 10119,
+    "name": "Max2",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10119.json"
+  }
+]

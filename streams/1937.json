@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ARABIC",
+    "url": "https://dca-co-live-gcr.gcdn.co/1tv05oanth0h41md85ofaowgm2/web/stream.m3u8?channel=1660&outlet=dazn-mena&plang=ar",
+    "urlType": 1,
+    "userAgent": "random",
+    "Referer": "",
+    "origin": null,
+    "headers": {
+      "User-Agent": "random"
+    },
+    "drm": null
+  },
+  {
+    "name": "ENG",
+    "url": "https://dcb-fl-live.dtcdn.dazn.com/9tkwlfc7xr1d1r6nmolg84hzi/web/stream.mpd?channel=2650&outlet=dazn-mena&plang=ar",
+    "urlType": 1,
+    "userAgent": "random",
+    "Referer": "",
+    "origin": null,
+    "headers": {
+      "User-Agent": "random"
+    },
+    "drm": null
+  },
+  {
+    "name": "HD",
+    "url": "http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=24iT64pnJ_0WKi-JIlfpLA&e=1779922232",
+    "urlType": 3,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://x.com/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://x.com/"
+    },
+    "drm": null
+  },
+  {
+    "name": "SD",
+    "url": "http://het4444.ycn-redirect.com/live/788550011/index.m3u8?t=XiXNHQk37jVz9ZRO3lfILg&e=1779922232",
+    "urlType": 3,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://x.com/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://x.com/"
+    },
+    "drm": null
+  },
+  {
+    "name": "Low",
+    "url": "http://het4444.ycn-redirect.com/live/9883322/index.m3u8?t=-ClTFYlaaihQYA4eBlSZmA&e=1779922232",
+    "urlType": 3,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://x.com/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://x.com/"
+    },
+    "drm": null
+  }
+]

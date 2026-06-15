@@ -1,0 +1,16 @@
+[
+  {
+    "name": "1",
+    "url": "https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd",
+    "urlType": 1,
+    "userAgent": "",
+    "Referer": "",
+    "origin": null,
+    "headers": [],
+    "drm": {
+      "licenseUrl": null,
+      "headers": {},
+      "scheme": null
+    }
+  }
+]

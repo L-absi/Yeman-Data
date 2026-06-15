@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3176,
+    "categoryId": "startz_play",
+    "name": "Rotana Plus",
+    "nameEn": "Rotana Plus",
+    "logo": "",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/3176.json"
+  },
+  {
+    "id": 3177,
+    "categoryId": "startz_play",
+    "name": "StarzPlay Series",
+    "nameEn": "StarzPlay Series",
+    "logo": "",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/3177.json"
+  },
+  {
+    "id": 3178,
+    "categoryId": "startz_play",
+    "name": "StarzPlay Movies",
+    "nameEn": "StarzPlay Movies",
+    "logo": "",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/3178.json"
+  }
+]

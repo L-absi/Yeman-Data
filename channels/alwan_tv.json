@@ -1,0 +1,82 @@
+[
+  {
+    "id": 10140,
+    "name": "الوان 1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10140.json"
+  },
+  {
+    "id": 10141,
+    "name": "الوان 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10141.json"
+  },
+  {
+    "id": 10142,
+    "name": "الوان 3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10142.json"
+  },
+  {
+    "id": 10143,
+    "name": "الوان 4",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10143.json"
+  },
+  {
+    "id": 10144,
+    "name": "الوان 5",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10144.json"
+  },
+  {
+    "id": 10145,
+    "name": "الوان 6",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10145.json"
+  },
+  {
+    "id": 10146,
+    "name": "الوان 7",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10146.json"
+  },
+  {
+    "id": 10147,
+    "name": "الوان 8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10147.json"
+  },
+  {
+    "id": 10148,
+    "name": "الوان 9",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10148.json"
+  },
+  {
+    "id": 10149,
+    "name": "الوان تركي",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10149.json"
+  }
+]

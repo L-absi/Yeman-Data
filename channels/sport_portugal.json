@@ -1,0 +1,62 @@
+[
+  {
+    "id": 4933,
+    "categoryId": "sport_portugal",
+    "name": "SPT1",
+    "nameEn": "SPT1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0P6k2kqgkQ55oHPRBm-Apg3i08ZLSfQEsqQ&s",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4933.json"
+  },
+  {
+    "id": 4934,
+    "categoryId": "sport_portugal",
+    "name": "SPT2",
+    "nameEn": "SPT2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0P6k2kqgkQ55oHPRBm-Apg3i08ZLSfQEsqQ&s",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4934.json"
+  },
+  {
+    "id": 4935,
+    "categoryId": "sport_portugal",
+    "name": "SPT3",
+    "nameEn": "SPT3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0P6k2kqgkQ55oHPRBm-Apg3i08ZLSfQEsqQ&s",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4935.json"
+  },
+  {
+    "id": 4936,
+    "categoryId": "sport_portugal",
+    "name": "SPT4",
+    "nameEn": "SPT4",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0P6k2kqgkQ55oHPRBm-Apg3i08ZLSfQEsqQ&s",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4936.json"
+  },
+  {
+    "id": 4937,
+    "categoryId": "sport_portugal",
+    "name": "SPT5",
+    "nameEn": "SPT5",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0P6k2kqgkQ55oHPRBm-Apg3i08ZLSfQEsqQ&s",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4937.json"
+  },
+  {
+    "id": 4938,
+    "categoryId": "sport_portugal",
+    "name": "SPT6",
+    "nameEn": "SPT6",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0P6k2kqgkQ55oHPRBm-Apg3i08ZLSfQEsqQ&s",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4938.json"
+  }
+]

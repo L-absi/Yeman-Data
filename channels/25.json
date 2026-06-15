@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1573,
+    "categoryId": "25",
+    "name": "Syria Local",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/273453210_109829564957870_2349726580000905895_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=d4Rgwhfo8-8AX-tFH3a&_nc_ht=scontent-lhr8-2.xx&oh=00_AfCWqTElposJ1vOywzMy-XFG3niIqZAeMzK0-igdXE2hDg&oe=6484BB39",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1573.json"
+  },
+  {
+    "id": 839,
+    "categoryId": "25",
+    "name": "Syria TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/71/Syrian_TV_Logo.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/839.json"
+  },
+  {
+    "id": 840,
+    "categoryId": "25",
+    "name": "Syria Drama",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.goalzz.com/?i=aaasar%2Fsyria_drama_log.gif",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/840.json"
+  },
+  {
+    "id": 841,
+    "categoryId": "25",
+    "name": "Syria Edu",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://yt3.googleusercontent.com/ytc/AGIKgqP0M7hIaMv1cp1Wd1kcJDNPBbPjcCJZbZ4dxuSs=s900-c-k-c0x00ffffff-no-rj",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/841.json"
+  },
+  {
+    "id": 843,
+    "categoryId": "25",
+    "name": "Souryana TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://tvtvtv.ru/logos/souryana_tv.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/843.json"
+  },
+  {
+    "id": 844,
+    "categoryId": "25",
+    "name": "Nour El Sham",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://tvtvtv.ru/icons/nour_el-sham.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/844.json"
+  },
+  {
+    "id": 1045,
+    "categoryId": "25",
+    "name": "Ugarit TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ugarittv.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1045.json"
+  },
+  {
+    "id": 845,
+    "categoryId": "25",
+    "name": "Sama Syria",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://www.korafreha2.com/YacineTV_New/ARABIC/samatv.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/845.json"
+  },
+  {
+    "id": 846,
+    "categoryId": "25",
+    "name": "Syria",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/kkQvtxT.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/846.json"
+  },
+  {
+    "id": 847,
+    "categoryId": "25",
+    "name": "Syria News",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/5Iq2zJ1.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/847.json"
+  },
+  {
+    "id": 848,
+    "categoryId": "25",
+    "name": "Halab Today",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/hGyUycp.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/848.json"
+  },
+  {
+    "id": 849,
+    "categoryId": "25",
+    "name": "Lana TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/UIPsjuk.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/849.json"
+  },
+  {
+    "id": 850,
+    "categoryId": "25",
+    "name": "Lana TV +",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/R6t1KYh.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/850.json"
+  },
+  {
+    "id": 851,
+    "categoryId": "25",
+    "name": "Alyaum TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/kaitriA.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/851.json"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": 2654,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera (1080p)",
+    "nameEn": "Al Jazeera (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2654.json"
+  },
+  {
+    "id": 2655,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera Mubasher Broadcast 2 (1080p)",
+    "nameEn": "Al Jazeera Mubasher Broadcast 2 (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2655.json"
+  },
+  {
+    "id": 2656,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera (1080p)",
+    "nameEn": "Al Jazeera (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/2656.json"
+  },
+  {
+    "id": 2657,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera Mubasher Broadcast 2 (1080p)",
+    "nameEn": "Al Jazeera Mubasher Broadcast 2 (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/2657.json"
+  },
+  {
+    "id": 2658,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera (720p)",
+    "nameEn": "Al Jazeera (720p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/2658.json"
+  },
+  {
+    "id": 2659,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera Mubasher 24 (1080p)",
+    "nameEn": "Al Jazeera Mubasher 24 (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/2659.json"
+  },
+  {
+    "id": 2660,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera Arabic (1080p)",
+    "nameEn": "Al Jazeera Arabic (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/2660.json"
+  },
+  {
+    "id": 2661,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera Mubasher 24 (1080p)",
+    "nameEn": "Al Jazeera Mubasher 24 (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/2661.json"
+  },
+  {
+    "id": 2662,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera Arabic (1080p)",
+    "nameEn": "Al Jazeera Arabic (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/2662.json"
+  },
+  {
+    "id": 2663,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera Balkans (1080p)",
+    "nameEn": "Al Jazeera Balkans (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/2663.json"
+  },
+  {
+    "id": 2664,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera Documentary (1080p) [Geo-blocked]",
+    "nameEn": "Al Jazeera Documentary (1080p) [Geo-blocked]",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/2664.json"
+  },
+  {
+    "id": 2665,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera Documentary (1080p) [Geo-blocked]",
+    "nameEn": "Al Jazeera Documentary (1080p) [Geo-blocked]",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/2665.json"
+  },
+  {
+    "id": 2666,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera Documentary (1080p) [Geo-blocked]",
+    "nameEn": "Al Jazeera Documentary (1080p) [Geo-blocked]",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/2666.json"
+  },
+  {
+    "id": 2667,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera English",
+    "nameEn": "Al Jazeera English",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/2667.json"
+  },
+  {
+    "id": 2668,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera English (1080p)",
+    "nameEn": "Al Jazeera English (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/2668.json"
+  },
+  {
+    "id": 2669,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera English (1080p)",
+    "nameEn": "Al Jazeera English (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/2669.json"
+  },
+  {
+    "id": 2670,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera English (1080p)",
+    "nameEn": "Al Jazeera English (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/2670.json"
+  },
+  {
+    "id": 2671,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera English (1080p)",
+    "nameEn": "Al Jazeera English (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/2671.json"
+  },
+  {
+    "id": 2672,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera English (1080p)",
+    "nameEn": "Al Jazeera English (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/2672.json"
+  },
+  {
+    "id": 2673,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera Mubasher (1080p)",
+    "nameEn": "Al Jazeera Mubasher (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/2673.json"
+  },
+  {
+    "id": 2674,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera Mubasher (1080p)",
+    "nameEn": "Al Jazeera Mubasher (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/2674.json"
+  },
+  {
+    "id": 2675,
+    "categoryId": "aljazeera",
+    "name": "Al Jazeera Mubasher (1080p)",
+    "nameEn": "Al Jazeera Mubasher (1080p)",
+    "logo": "https://fls.cjs.jyh/",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/2675.json"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "",
+    "license": "6a20b49be4db4f328e4bb48853124109:f32c1c3c983354bcafb0f2ccb8a59835",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "name": "Polsat Sport Premium 2 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key= 6a20b49be4db4f328e4bb48853124109:f32c1c3c983354bcafb0f2ccb8a59835",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "http://cdn-s-lb2.pluscdn.pl/ch/1459450/267/dash/c0858178/live.mpd"
+  }
+]

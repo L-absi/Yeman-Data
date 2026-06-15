@@ -1,0 +1,26 @@
+[
+  {
+    "license": "2abdaccade913849b5d49f66a0dc5ec0:66a14430097ac3a49564cefd4a18047d",
+    "headers": "",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "Multi",
+    "Referer": "",
+    "userAgent": "",
+    "position": "",
+    "url": "https://akmrwb-live.cdn.intigral-ott.net/ROTI/ROTI.isml/manifest.mpd"
+  },
+  {
+    "license": "",
+    "headers": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "isWeb": "false",
+    "name": "1",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?&token=demo"
+  }
+]

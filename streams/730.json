@@ -1,0 +1,15 @@
+[
+  {
+    "name": "1",
+    "url": "http://51.255.84.28:8081/arrafidaintv/source2/playlist.m3u8?nimblesessionid=1200?t=jtAxD0ovUIM_4LmP6Voc0A&e=1779934105",
+    "urlType": 3,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://x.com/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://x.com/"
+    },
+    "drm": null
+  }
+]

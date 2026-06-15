@@ -1,0 +1,14 @@
+[
+  {
+    "name": "1",
+    "url": "http://foofootv.com/v/?id=MajdKids",
+    "urlType": 6,
+    "userAgent": "",
+    "Referer": "http://foofootv.com/v/?id=MajdKids",
+    "origin": null,
+    "headers": {
+      "Referer": "http://foofootv.com/v/?id=MajdKids"
+    },
+    "drm": null
+  }
+]

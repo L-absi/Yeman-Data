@@ -1,0 +1,62 @@
+[
+  {
+    "id": 4839,
+    "categoryId": "now_sport",
+    "name": "Now 1",
+    "nameEn": "Now 1",
+    "logo": "https://www.nowtv.now.com/media/s-logo/620_e.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4839.json"
+  },
+  {
+    "id": 4840,
+    "categoryId": "now_sport",
+    "name": "Now 2",
+    "nameEn": "Now 2",
+    "logo": "https://www.nowtv.now.com/media/s-logo/620_e.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4840.json"
+  },
+  {
+    "id": 4841,
+    "categoryId": "now_sport",
+    "name": "Now 3",
+    "nameEn": "Now 3",
+    "logo": "https://www.nowtv.now.com/media/s-logo/620_e.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4841.json"
+  },
+  {
+    "id": 4842,
+    "categoryId": "now_sport",
+    "name": "Now 4",
+    "nameEn": "Now 4",
+    "logo": "https://www.nowtv.now.com/media/s-logo/620_e.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4842.json"
+  },
+  {
+    "id": 4843,
+    "categoryId": "now_sport",
+    "name": "Now 5",
+    "nameEn": "Now 5",
+    "logo": "https://www.nowtv.now.com/media/s-logo/620_e.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4843.json"
+  },
+  {
+    "id": 4844,
+    "categoryId": "now_sport",
+    "name": "Now 6",
+    "nameEn": "Now 6",
+    "logo": "https://www.nowtv.now.com/media/s-logo/620_e.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4844.json"
+  }
+]

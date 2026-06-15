@@ -1,0 +1,92 @@
+[
+  {
+    "id": 4021,
+    "categoryId": "seria_a_sport",
+    "name": "Seta",
+    "nameEn": "Seta",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcslylbPJzNBHWt5-URcXEz_D229jUtF1jvnrG7T54A&s=10",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4021.json"
+  },
+  {
+    "id": 4022,
+    "categoryId": "seria_a_sport",
+    "name": "CBS1",
+    "nameEn": "CBS1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcslylbPJzNBHWt5-URcXEz_D229jUtF1jvnrG7T54A&s=10",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4022.json"
+  },
+  {
+    "id": 4023,
+    "categoryId": "seria_a_sport",
+    "name": "CBS",
+    "nameEn": "CBS",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcslylbPJzNBHWt5-URcXEz_D229jUtF1jvnrG7T54A&s=10",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4023.json"
+  },
+  {
+    "id": 4024,
+    "categoryId": "seria_a_sport",
+    "name": "Futbol",
+    "nameEn": "Futbol",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcslylbPJzNBHWt5-URcXEz_D229jUtF1jvnrG7T54A&s=10",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4024.json"
+  },
+  {
+    "id": 4025,
+    "categoryId": "seria_a_sport",
+    "name": "Fox",
+    "nameEn": "Fox",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcslylbPJzNBHWt5-URcXEz_D229jUtF1jvnrG7T54A&s=10",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4025.json"
+  },
+  {
+    "id": 4026,
+    "categoryId": "seria_a_sport",
+    "name": "Calcio",
+    "nameEn": "Calcio",
+    "logo": "",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4026.json"
+  },
+  {
+    "id": 4027,
+    "categoryId": "seria_a_sport",
+    "name": "Rabiaa2",
+    "nameEn": "Rabiaa2",
+    "logo": "",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/4027.json"
+  },
+  {
+    "id": 4028,
+    "categoryId": "seria_a_sport",
+    "name": "STRZSD",
+    "nameEn": "STRZSD",
+    "logo": "",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/4028.json"
+  },
+  {
+    "id": 4029,
+    "categoryId": "seria_a_sport",
+    "name": "STRZHD",
+    "nameEn": "STRZHD",
+    "logo": "",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/4029.json"
+  }
+]

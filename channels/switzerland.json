@@ -1,0 +1,32 @@
+[
+  {
+    "id": 5859,
+    "categoryId": "switzerland",
+    "name": "RSI La 2 (720p)",
+    "nameEn": "RSI La 2 (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/5859.json"
+  },
+  {
+    "id": 5860,
+    "categoryId": "switzerland",
+    "name": "RTS 2 (1080p)",
+    "nameEn": "RTS 2 (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/5860.json"
+  },
+  {
+    "id": 5861,
+    "categoryId": "switzerland",
+    "name": "SRF zwei (1080p)",
+    "nameEn": "SRF zwei (1080p)",
+    "logo": "https://i.imgur.com/887SKjm.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/5861.json"
+  }
+]

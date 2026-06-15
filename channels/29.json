@@ -1,0 +1,112 @@
+[
+  {
+    "id": 795,
+    "categoryId": "29",
+    "name": "Alkass 1",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/795.json"
+  },
+  {
+    "id": 796,
+    "categoryId": "29",
+    "name": "Alkass 2",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/796.json"
+  },
+  {
+    "id": 797,
+    "categoryId": "29",
+    "name": "Alkass 3",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/797.json"
+  },
+  {
+    "id": 798,
+    "categoryId": "29",
+    "name": "Alkass 4",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/798.json"
+  },
+  {
+    "id": 799,
+    "categoryId": "29",
+    "name": "Alkass 5",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/799.json"
+  },
+  {
+    "id": 1642,
+    "categoryId": "29",
+    "name": "Alkass 6",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1642.json"
+  },
+  {
+    "id": 800,
+    "categoryId": "29",
+    "name": "Qatar TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://www.lyngsat-logo.com/logo/tv/qq/qatar_tv.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/800.json"
+  },
+  {
+    "id": 801,
+    "categoryId": "29",
+    "name": "Qatar TV 2",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://www.lyngsat.com/logo/tv/qq/qatar-tv-2-qa.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/801.json"
+  },
+  {
+    "id": 802,
+    "categoryId": "29",
+    "name": "Al Rayyan",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/ubM9a4G.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/802.json"
+  },
+  {
+    "id": 803,
+    "categoryId": "29",
+    "name": "Al Rayyan Qadeem",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/DtdttE0.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/803.json"
+  }
+]

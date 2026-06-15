@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3974,
+    "categoryId": "event_sport_2",
+    "name": "Live1",
+    "nameEn": "Live1",
+    "logo": "",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/3974.json"
+  },
+  {
+    "id": 3975,
+    "categoryId": "event_sport_2",
+    "name": "Live2",
+    "nameEn": "Live2",
+    "logo": "",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/3975.json"
+  },
+  {
+    "id": 3976,
+    "categoryId": "event_sport_2",
+    "name": "Live3",
+    "nameEn": "Live3",
+    "logo": "",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/3976.json"
+  },
+  {
+    "id": 3977,
+    "categoryId": "event_sport_2",
+    "name": "Live4",
+    "nameEn": "Live4",
+    "logo": "",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/3977.json"
+  },
+  {
+    "id": 3978,
+    "categoryId": "event_sport_2",
+    "name": "Live5",
+    "nameEn": "Live5",
+    "logo": "",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/3978.json"
+  },
+  {
+    "id": 3979,
+    "categoryId": "event_sport_2",
+    "name": "Live6",
+    "nameEn": "Live6",
+    "logo": "",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/3979.json"
+  }
+]

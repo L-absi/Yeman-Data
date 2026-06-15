@@ -1,0 +1,102 @@
+[
+  {
+    "id": 5724,
+    "categoryId": "alkass_sport",
+    "name": "Alkass One",
+    "nameEn": "Alkass One",
+    "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/5724.json"
+  },
+  {
+    "id": 5725,
+    "categoryId": "alkass_sport",
+    "name": "Alkass Two",
+    "nameEn": "Alkass Two",
+    "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/5725.json"
+  },
+  {
+    "id": 5726,
+    "categoryId": "alkass_sport",
+    "name": "Alkass Three",
+    "nameEn": "Alkass Three",
+    "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/5726.json"
+  },
+  {
+    "id": 5727,
+    "categoryId": "alkass_sport",
+    "name": "Alkass Four",
+    "nameEn": "Alkass Four",
+    "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/5727.json"
+  },
+  {
+    "id": 5728,
+    "categoryId": "alkass_sport",
+    "name": "Alkass Five",
+    "nameEn": "Alkass Five",
+    "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/5728.json"
+  },
+  {
+    "id": 5729,
+    "categoryId": "alkass_sport",
+    "name": "Alkass Six",
+    "nameEn": "Alkass Six",
+    "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/5729.json"
+  },
+  {
+    "id": 5730,
+    "categoryId": "alkass_sport",
+    "name": "Alkass Siven",
+    "nameEn": "Alkass Siven",
+    "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/5730.json"
+  },
+  {
+    "id": 5731,
+    "categoryId": "alkass_sport",
+    "name": "Alkass Eight",
+    "nameEn": "Alkass Eight",
+    "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/5731.json"
+  },
+  {
+    "id": 5732,
+    "categoryId": "alkass_sport",
+    "name": "Shoof Tv",
+    "nameEn": "Shoof Tv",
+    "logo": "https://up6.cc/2025/04/174510358909161.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/5732.json"
+  },
+  {
+    "id": 5733,
+    "categoryId": "alkass_sport",
+    "name": "Shoof TV 2",
+    "nameEn": "Shoof TV 2",
+    "logo": "https://up6.cc/2025/04/174510358909161.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/5733.json"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 4763,
+    "categoryId": "canal+_sports",
+    "name": "Canal+ foot",
+    "nameEn": "Canal+ foot",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4763.json"
+  },
+  {
+    "id": 4764,
+    "categoryId": "canal+_sports",
+    "name": "CANAL + Sport",
+    "nameEn": "CANAL + Sport",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4764.json"
+  },
+  {
+    "id": 4765,
+    "categoryId": "canal+_sports",
+    "name": "Canal+360",
+    "nameEn": "Canal+360",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4765.json"
+  },
+  {
+    "id": 4766,
+    "categoryId": "canal+_sports",
+    "name": "Canal+",
+    "nameEn": "Canal+",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4766.json"
+  },
+  {
+    "id": 4767,
+    "categoryId": "canal+_sports",
+    "name": "RMC1",
+    "nameEn": "RMC1",
+    "logo": "",
+    "type": "channel",
+    "position": 44,
+    "streamsFile": "streams/4767.json"
+  }
+]

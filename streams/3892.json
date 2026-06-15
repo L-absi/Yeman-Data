@@ -1,0 +1,101 @@
+[
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "FHD",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8"
+  },
+  {
+    "headers": "user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "TOD",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "position": "0",
+    "url": "https://match-now.site/stream/ms2/index.m3u8"
+  },
+  {
+    "headers": "user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "BN7",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "position": "0",
+    "url": "http://het104c.ycn-redirect.com/live/69854211/index.m3u8"
+  },
+  {
+    "headers": "user-agent|Mozilla/5.0|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "B5",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0",
+    "position": "0",
+    "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein2.m3u8"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "B2",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_720.m3u8"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "B4",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PQRQCB2NKUWPMCFCEQXDT4Z3/6125/index.m3u8"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "Bn77",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "http://ssserver.site/BEIN-Spor2/mono.m3u8"
+  },
+  {
+    "headers": "Referer|https://www.syrlive.com/matches/bayern-munich-vs-real-madrid/#google_vignette|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "Bn4",
+    "Referer": "https://www.syrlive.com/matches/bayern-munich-vs-real-madrid/#google_vignette",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://10syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
+  },
+  {
+    "headers": "user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "find|m3u8",
+    "name": "B9",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+    "position": "02",
+    "url": "https://lovetier.bz/player/beINAR2"
+  }
+]

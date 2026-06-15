@@ -1,0 +1,24 @@
+[
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "XTRA",
+    "Referer": "",
+    "userAgent": "",
+    "position": "1",
+    "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"
+  },
+  {
+    "headers": "user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\" --cookies-from-browser firefox --|find|m3u8",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "find|m3u8",
+    "name": "Xtra2",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\" --cookies-from-browser firefox --",
+    "position": "05",
+    "url": "https://www.parsatv.com/m/name=beIN-Sports-Xtra-Espanol#spanish"
+  }
+]

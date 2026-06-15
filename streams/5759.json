@@ -1,0 +1,35 @@
+[
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "FHD",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://w.shahidtv.net/live/34682514/73347194/41.m3u8"
+  },
+  {
+    "headers": "user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "THMHD",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
+    "position": "0",
+    "url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd"
+  },
+  {
+    "headers": "Referer|https://m.syrlive.com/matches/al-hilal-vs-damac-fc/|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "TM8HD",
+    "Referer": "https://m.syrlive.com/matches/al-hilal-vs-damac-fc/",
+    "userAgent": "",
+    "position": "055",
+    "url": "https://3syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
+  }
+]

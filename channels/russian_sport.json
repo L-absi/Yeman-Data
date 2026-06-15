@@ -1,0 +1,392 @@
+[
+  {
+    "id": 4877,
+    "categoryId": "russian_sport",
+    "name": "Eurosport 1+",
+    "nameEn": "Eurosport 1+",
+    "logo": "http://epg.cdntv.online/img/37.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4877.json"
+  },
+  {
+    "id": 4878,
+    "categoryId": "russian_sport",
+    "name": "Eurosport 1 HD",
+    "nameEn": "Eurosport 1 HD",
+    "logo": "http://epg.cdntv.online/img/38.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4878.json"
+  },
+  {
+    "id": 4879,
+    "categoryId": "russian_sport",
+    "name": "Eurosport 2",
+    "nameEn": "Eurosport 2",
+    "logo": "http://epg.cdntv.online/img/39.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4879.json"
+  },
+  {
+    "id": 4880,
+    "categoryId": "russian_sport",
+    "name": "Eurosport 2 HD",
+    "nameEn": "Eurosport 2 HD",
+    "logo": "http://epg.cdntv.online/img/40.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4880.json"
+  },
+  {
+    "id": 4881,
+    "categoryId": "russian_sport",
+    "name": "Extreme sports",
+    "nameEn": "Extreme sports",
+    "logo": "http://epg.cdntv.online/img/41.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4881.json"
+  },
+  {
+    "id": 4882,
+    "categoryId": "russian_sport",
+    "name": "Viju Sport HD",
+    "nameEn": "Viju Sport HD",
+    "logo": "http://epg.cdntv.online/img/43.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4882.json"
+  },
+  {
+    "id": 4883,
+    "categoryId": "russian_sport",
+    "name": "Бокс ТВ",
+    "nameEn": "Бокс ТВ",
+    "logo": "http://epg.cdntv.online/img/44.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/4883.json"
+  },
+  {
+    "id": 4884,
+    "categoryId": "russian_sport",
+    "name": "КХЛ",
+    "nameEn": "КХЛ",
+    "logo": "http://epg.cdntv.online/img/45.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/4884.json"
+  },
+  {
+    "id": 4885,
+    "categoryId": "russian_sport",
+    "name": "КХЛ Prime",
+    "nameEn": "КХЛ Prime",
+    "logo": "http://epg.cdntv.online/img/46.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/4885.json"
+  },
+  {
+    "id": 4886,
+    "categoryId": "russian_sport",
+    "name": "МАТЧ! Арена HD",
+    "nameEn": "МАТЧ! Арена HD",
+    "logo": "http://epg.cdntv.online/img/47.png",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/4886.json"
+  },
+  {
+    "id": 4887,
+    "categoryId": "russian_sport",
+    "name": "Матч! HD",
+    "nameEn": "Матч! HD",
+    "logo": "http://epg.cdntv.online/img/48.png",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/4887.json"
+  },
+  {
+    "id": 4888,
+    "categoryId": "russian_sport",
+    "name": "Матч! Арена",
+    "nameEn": "Матч! Арена",
+    "logo": "http://epg.cdntv.online/img/49.png",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/4888.json"
+  },
+  {
+    "id": 4889,
+    "categoryId": "russian_sport",
+    "name": "Матч! Боец",
+    "nameEn": "Матч! Боец",
+    "logo": "http://epg.cdntv.online/img/50.png",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/4889.json"
+  },
+  {
+    "id": 4890,
+    "categoryId": "russian_sport",
+    "name": "Матч! Игра",
+    "nameEn": "Матч! Игра",
+    "logo": "http://epg.cdntv.online/img/51.png",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/4890.json"
+  },
+  {
+    "id": 4891,
+    "categoryId": "russian_sport",
+    "name": "Матч! Премьер",
+    "nameEn": "Матч! Премьер",
+    "logo": "http://epg.cdntv.online/img/52.png",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/4891.json"
+  },
+  {
+    "id": 4892,
+    "categoryId": "russian_sport",
+    "name": "Матч! Премьер HD",
+    "nameEn": "Матч! Премьер HD",
+    "logo": "http://epg.cdntv.online/img/53.png",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/4892.json"
+  },
+  {
+    "id": 4893,
+    "categoryId": "russian_sport",
+    "name": "Матч! Страна",
+    "nameEn": "Матч! Страна",
+    "logo": "http://epg.cdntv.online/img/54.png",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/4893.json"
+  },
+  {
+    "id": 4894,
+    "categoryId": "russian_sport",
+    "name": "Матч! Футбол 1 HD",
+    "nameEn": "Матч! Футбол 1 HD",
+    "logo": "http://epg.cdntv.online/img/55.png",
+    "type": "channel",
+    "position": 18,
+    "streamsFile": "streams/4894.json"
+  },
+  {
+    "id": 4895,
+    "categoryId": "russian_sport",
+    "name": "Матч! Футбол 2 HD",
+    "nameEn": "Матч! Футбол 2 HD",
+    "logo": "http://epg.cdntv.online/img/56.png",
+    "type": "channel",
+    "position": 19,
+    "streamsFile": "streams/4895.json"
+  },
+  {
+    "id": 4896,
+    "categoryId": "russian_sport",
+    "name": "Матч! Футбол 3 HD",
+    "nameEn": "Матч! Футбол 3 HD",
+    "logo": "http://epg.cdntv.online/img/57.png",
+    "type": "channel",
+    "position": 20,
+    "streamsFile": "streams/4896.json"
+  },
+  {
+    "id": 4897,
+    "categoryId": "russian_sport",
+    "name": "Старт",
+    "nameEn": "Старт",
+    "logo": "http://epg.cdntv.online/img/58.png",
+    "type": "channel",
+    "position": 21,
+    "streamsFile": "streams/4897.json"
+  },
+  {
+    "id": 4898,
+    "categoryId": "russian_sport",
+    "name": "Футбол",
+    "nameEn": "Футбол",
+    "logo": "http://epg.cdntv.online/img/59.png",
+    "type": "channel",
+    "position": 22,
+    "streamsFile": "streams/4898.json"
+  },
+  {
+    "id": 4899,
+    "categoryId": "russian_sport",
+    "name": "Русский Экстрим",
+    "nameEn": "Русский Экстрим",
+    "logo": "http://epg.cdntv.online/img/175.png",
+    "type": "channel",
+    "position": 23,
+    "streamsFile": "streams/4899.json"
+  },
+  {
+    "id": 4900,
+    "categoryId": "russian_sport",
+    "name": "UDAR HD",
+    "nameEn": "UDAR HD",
+    "logo": "http://epg.cdntv.online/img/381.png",
+    "type": "channel",
+    "position": 24,
+    "streamsFile": "streams/4900.json"
+  },
+  {
+    "id": 4901,
+    "categoryId": "russian_sport",
+    "name": "Матч! Игра HD",
+    "nameEn": "Матч! Игра HD",
+    "logo": "http://epg.cdntv.online/img/383.png",
+    "type": "channel",
+    "position": 25,
+    "streamsFile": "streams/4901.json"
+  },
+  {
+    "id": 4902,
+    "categoryId": "russian_sport",
+    "name": "Viju+ Sport",
+    "nameEn": "Viju+ Sport",
+    "logo": "http://epg.cdntv.online/img/460.png",
+    "type": "channel",
+    "position": 26,
+    "streamsFile": "streams/4902.json"
+  },
+  {
+    "id": 4903,
+    "categoryId": "russian_sport",
+    "name": "Мир Баскетбола",
+    "nameEn": "Мир Баскетбола",
+    "logo": "http://epg.cdntv.online/img/462.png",
+    "type": "channel",
+    "position": 27,
+    "streamsFile": "streams/4903.json"
+  },
+  {
+    "id": 4904,
+    "categoryId": "russian_sport",
+    "name": "Старт HD",
+    "nameEn": "Старт HD",
+    "logo": "http://epg.cdntv.online/img/464.png",
+    "type": "channel",
+    "position": 28,
+    "streamsFile": "streams/4904.json"
+  },
+  {
+    "id": 4905,
+    "categoryId": "russian_sport",
+    "name": "Точка отрыва",
+    "nameEn": "Точка отрыва",
+    "logo": "http://epg.cdntv.online/img/465.png",
+    "type": "channel",
+    "position": 29,
+    "streamsFile": "streams/4905.json"
+  },
+  {
+    "id": 4906,
+    "categoryId": "russian_sport",
+    "name": "Матч! Футбол 1",
+    "nameEn": "Матч! Футбол 1",
+    "logo": "http://epg.cdntv.online/img/981.png",
+    "type": "channel",
+    "position": 30,
+    "streamsFile": "streams/4906.json"
+  },
+  {
+    "id": 4907,
+    "categoryId": "russian_sport",
+    "name": "Матч! Футбол 2",
+    "nameEn": "Матч! Футбол 2",
+    "logo": "http://epg.cdntv.online/img/982.png",
+    "type": "channel",
+    "position": 31,
+    "streamsFile": "streams/4907.json"
+  },
+  {
+    "id": 4908,
+    "categoryId": "russian_sport",
+    "name": "Матч! Футбол 3",
+    "nameEn": "Матч! Футбол 3",
+    "logo": "http://epg.cdntv.online/img/983.png",
+    "type": "channel",
+    "position": 32,
+    "streamsFile": "streams/4908.json"
+  },
+  {
+    "id": 4909,
+    "categoryId": "russian_sport",
+    "name": "Сетанта Спорт HD",
+    "nameEn": "Сетанта Спорт HD",
+    "logo": "http://epg.cdntv.online/img/1021.png",
+    "type": "channel",
+    "position": 33,
+    "streamsFile": "streams/4909.json"
+  },
+  {
+    "id": 4910,
+    "categoryId": "russian_sport",
+    "name": "Сетанта Спорт+ HD",
+    "nameEn": "Сетанта Спорт+ HD",
+    "logo": "http://epg.cdntv.online/img/1022.png",
+    "type": "channel",
+    "position": 34,
+    "streamsFile": "streams/4910.json"
+  },
+  {
+    "id": 4911,
+    "categoryId": "russian_sport",
+    "name": "Футбольный HD",
+    "nameEn": "Футбольный HD",
+    "logo": "http://epg.cdntv.online/img/1496.png",
+    "type": "channel",
+    "position": 35,
+    "streamsFile": "streams/4911.json"
+  },
+  {
+    "id": 4912,
+    "categoryId": "russian_sport",
+    "name": "Хоккейный HD",
+    "nameEn": "Хоккейный HD",
+    "logo": "http://epg.cdntv.online/img/1497.png",
+    "type": "channel",
+    "position": 36,
+    "streamsFile": "streams/4912.json"
+  },
+  {
+    "id": 4913,
+    "categoryId": "russian_sport",
+    "name": "Спортивный",
+    "nameEn": "Спортивный",
+    "logo": "http://epg.cdntv.online/img/1498.png",
+    "type": "channel",
+    "position": 37,
+    "streamsFile": "streams/4913.json"
+  },
+  {
+    "id": 4914,
+    "categoryId": "russian_sport",
+    "name": "Russian Extreme HD",
+    "nameEn": "Russian Extreme HD",
+    "logo": "http://epg.cdntv.online/img/1034.png",
+    "type": "channel",
+    "position": 38,
+    "streamsFile": "streams/4914.json"
+  },
+  {
+    "id": 4915,
+    "categoryId": "russian_sport",
+    "name": "Матч! Планета",
+    "nameEn": "Матч! Планета",
+    "logo": "http://epg.cdntv.online/img/1680.png",
+    "type": "channel",
+    "position": 39,
+    "streamsFile": "streams/4915.json"
+  }
+]

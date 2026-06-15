@@ -1,0 +1,62 @@
+[
+  {
+    "id": 4944,
+    "categoryId": "swizerland",
+    "name": "RSI 2",
+    "nameEn": "RSI 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSls0uizAF7Tph0YZGLMbvns-TMHzn-z0QqoUoZCdL_A4QmzcZAh25CcLo&s=10",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4944.json"
+  },
+  {
+    "id": 4945,
+    "categoryId": "swizerland",
+    "name": "RSI La 2",
+    "nameEn": "RSI La 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSls0uizAF7Tph0YZGLMbvns-TMHzn-z0QqoUoZCdL_A4QmzcZAh25CcLo&s=10",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4945.json"
+  },
+  {
+    "id": 4946,
+    "categoryId": "swizerland",
+    "name": "RTS 2",
+    "nameEn": "RTS 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVKdlI3sAmhJqnQXbvfyIBhnPNEwu6qLW_Z8J7ssL_AQ&s=10",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4946.json"
+  },
+  {
+    "id": 4947,
+    "categoryId": "swizerland",
+    "name": "RTS2",
+    "nameEn": "RTS2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVKdlI3sAmhJqnQXbvfyIBhnPNEwu6qLW_Z8J7ssL_AQ&s=10",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4947.json"
+  },
+  {
+    "id": 4948,
+    "categoryId": "swizerland",
+    "name": "SRF zwei",
+    "nameEn": "SRF zwei",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGBMh7f5Go3Ubbon8Y_FmQAH8np-eXmcOznpGeUguoCw&s=10",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4948.json"
+  },
+  {
+    "id": 4949,
+    "categoryId": "swizerland",
+    "name": "SRF zwei",
+    "nameEn": "SRF Zwei",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGBMh7f5Go3Ubbon8Y_FmQAH8np-eXmcOznpGeUguoCw&s=10",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4949.json"
+  }
+]

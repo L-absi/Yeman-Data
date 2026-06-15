@@ -1,0 +1,90 @@
+[
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "BN5",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/adaptive.m3u8"
+  },
+  {
+    "headers": "user-agent|Mozilla/5.0|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "Bein",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0",
+    "position": "0",
+    "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein3.m3u8"
+  },
+  {
+    "headers": "user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "BN5",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "position": "0",
+    "url": "http://het000.4rouwanda-shop.store/live/645587700/index.m3u8"
+  },
+  {
+    "headers": "Referer|https://d.syrlive.com/matches/sundowns-vs-es-tunis/|user-agent|;Gk5.GAlrp/ ;e;ee3KH;9uG Ab3hMWl T0Vo iG.)dMGedVMS/9.(e0M 91ATiGl3- oubHil55iD/li BMuozipi/ReWn ,-2d735rNDiep.i2W-H.er.(f;dS(eo|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "HD4",
+    "Referer": "https://d.syrlive.com/matches/sundowns-vs-es-tunis/",
+    "userAgent": ";Gk5.GAlrp/ ;e;ee3KH;9uG Ab3hMWl T0Vo iG.)dMGedVMS/9.(e0M 91ATiGl3- oubHil55iD/li BMuozipi/ReWn ,-2d735rNDiep.i2W-H.er.(f;dS(eo",
+    "position": "0",
+    "url": "https://10syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
+  },
+  {
+    "headers": "Referer|https://cdnfbcdn.s3.eu-north-1.amazonaws.com/player.html?s1=b4|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "BN3",
+    "Referer": "https://cdnfbcdn.s3.eu-north-1.amazonaws.com/player.html?s1=b4",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://s3.eu-north-1.amazonaws.com/196.d3/hls/0/stream.m3u8"
+  },
+  {
+    "headers": "user-agent|Halow TV/1.0.5 (Linux;Android 9) AndroidXMedia3/1.8.0|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "B4",
+    "Referer": "",
+    "userAgent": "Halow TV/1.0.5 (Linux;Android 9) AndroidXMedia3/1.8.0",
+    "position": "1",
+    "url": "http://sportook.online/BEIN-S3/video.m3u8"
+  },
+  {
+    "headers": "user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "find|m3u8",
+    "name": "B8",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+    "position": "02",
+    "url": "https://lovetier.bz/player/beINAR3"
+  },
+  {
+    "headers": "Referer|https://increasecattle.net/embed/pxx86vu5wcodrt|user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36|find|m3u8",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "find|m3u8",
+    "name": "BN3",
+    "Referer": "https://increasecattle.net/embed/pxx86vu5wcodrt",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+    "position": "02",
+    "url": "https://increasecattle.net/embed/pxx86vu5wcodrt"
+  }
+]

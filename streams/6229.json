@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "name": "",
+      "url": "https://zap-live1-ott.izzigo.tv/15/out/u/dash/TVE-SD/default.mpd",
+      "url_type": 3,
+      "user_agent": "Mozilla/5.0",
+      "referer": "",
+      "event_channel_id": null,
+      "headers": {},
+      "drm": {
+        "scheme": "clearkey",
+        "key_id": "e9c6bff9b7141a1e289061a8334c34cb",
+        "key": "c644f57b253c9a81d723fe252c53079a"
+      }
+    }
+  ]
+}

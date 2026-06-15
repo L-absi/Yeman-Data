@@ -1,0 +1,15 @@
+[
+  {
+    "name": "1",
+    "url": "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8?t=ozDuDGVL0qqXL_y4jG7C8A&e=1779907207",
+    "urlType": 3,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://x.com/",
+    "origin": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Referer": "https://x.com/"
+    },
+    "drm": null
+  }
+]

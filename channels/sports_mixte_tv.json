@@ -1,0 +1,52 @@
+[
+  {
+    "id": 4939,
+    "categoryId": "sports_mixte_tv",
+    "name": "GO3 SPORT 2",
+    "nameEn": "GO3 SPORT 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIwt32Lgt-1tADVqSjLH9I_1FqubShM9Cxc3ndOh9bQQ&s=10",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4939.json"
+  },
+  {
+    "id": 4940,
+    "categoryId": "sports_mixte_tv",
+    "name": "NFL",
+    "nameEn": "NFL",
+    "logo": "https://i.imgur.com/VMx7Xxl.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4940.json"
+  },
+  {
+    "id": 4941,
+    "categoryId": "sports_mixte_tv",
+    "name": "Prima4",
+    "nameEn": "Prima4",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwN9Vm7QbzI3lCck5ACB42W_1aItc5uAd7TbeA0XTYHA&s=10",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4941.json"
+  },
+  {
+    "id": 4942,
+    "categoryId": "sports_mixte_tv",
+    "name": "NBC Sport",
+    "nameEn": "NBC Sport",
+    "logo": "https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/4942.json"
+  },
+  {
+    "id": 4943,
+    "categoryId": "sports_mixte_tv",
+    "name": "Itv Sport",
+    "nameEn": "Itv Sport",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiKeEeKG5zBcQU1zU-xLvPhsp5v-dpadgh3bGSQgPT4g&s=10",
+    "type": "channel",
+    "position": 22,
+    "streamsFile": "streams/4943.json"
+  }
+]

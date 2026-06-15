@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5715,
+    "categoryId": "ad_sport",
+    "name": "AD Sports 1 HD",
+    "nameEn": "AD Sports 1 HD",
+    "logo": "https://www.zarkachat.com/wp-content/uploads/2020/12/sport-abuzabi-channel.jpg",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/5715.json"
+  },
+  {
+    "id": 5716,
+    "categoryId": "ad_sport",
+    "name": "AD Sports 2 HD",
+    "nameEn": "AD Sports 2 HD",
+    "logo": "https://www.zarkachat.com/wp-content/uploads/2020/12/sport-abuzabi-channel.jpg",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/5716.json"
+  },
+  {
+    "id": 5717,
+    "categoryId": "ad_sport",
+    "name": "AD1 ASIA",
+    "nameEn": "AD1 ASIA",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmhvgvGAGuO-Pq4pyrpDStvUgN_NHJ87LohAEocH28w&s=10",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/5717.json"
+  },
+  {
+    "id": 5718,
+    "categoryId": "ad_sport",
+    "name": "AD2 ASIA",
+    "nameEn": "AD2 ASIA",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmhvgvGAGuO-Pq4pyrpDStvUgN_NHJ87LohAEocH28w&s=10",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/5718.json"
+  }
+]

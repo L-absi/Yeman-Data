@@ -1,0 +1,232 @@
+[
+  {
+    "id": 2705,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Drama",
+    "nameEn": "Roya Drama",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2705.json"
+  },
+  {
+    "id": 2706,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Comedy",
+    "nameEn": "Roya Comedy",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/2706.json"
+  },
+  {
+    "id": 2707,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Kitchen",
+    "nameEn": "Roya Kitchen",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/2707.json"
+  },
+  {
+    "id": 2708,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Music",
+    "nameEn": "Roya Music",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/2708.json"
+  },
+  {
+    "id": 2709,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Palestine",
+    "nameEn": "Roya Palestine",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/2709.json"
+  },
+  {
+    "id": 2710,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Kids",
+    "nameEn": "Roya Kids",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/2710.json"
+  },
+  {
+    "id": 2711,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Maraya",
+    "nameEn": "Roya Maraya",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/2711.json"
+  },
+  {
+    "id": 2712,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Intagat",
+    "nameEn": "Roya Intagat",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/2712.json"
+  },
+  {
+    "id": 2713,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Karavan",
+    "nameEn": "Roya Karavan",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/2713.json"
+  },
+  {
+    "id": 2714,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Alaraby",
+    "nameEn": "Roya Alaraby",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/2714.json"
+  },
+  {
+    "id": 2715,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Alaraby2",
+    "nameEn": "Roya Alaraby2",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/2715.json"
+  },
+  {
+    "id": 2716,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Abut World",
+    "nameEn": "Roya Abut World",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/2716.json"
+  },
+  {
+    "id": 2717,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Haki Monawa",
+    "nameEn": "Roya Haki Monawa",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/2717.json"
+  },
+  {
+    "id": 2718,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Mogamarat",
+    "nameEn": "Roya Mogamarat",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/2718.json"
+  },
+  {
+    "id": 2719,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Helwa Ya Donya",
+    "nameEn": "Roya Helwa Ya Donya",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/2719.json"
+  },
+  {
+    "id": 2720,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya 911",
+    "nameEn": "Roya 911",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/2720.json"
+  },
+  {
+    "id": 2721,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Watan 3a Watar",
+    "nameEn": "Roya Watan 3a Watar",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/2721.json"
+  },
+  {
+    "id": 2722,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Haret Al kebe",
+    "nameEn": "Roya Haret Al kebe",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/2722.json"
+  },
+  {
+    "id": 2723,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya AlHeba",
+    "nameEn": "Roya AlHeba",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 18,
+    "streamsFile": "streams/2723.json"
+  },
+  {
+    "id": 2724,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Alzaeem",
+    "nameEn": "Roya Alzaeem",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 19,
+    "streamsFile": "streams/2724.json"
+  },
+  {
+    "id": 2725,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Action",
+    "nameEn": "Roya Action",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 20,
+    "streamsFile": "streams/2725.json"
+  },
+  {
+    "id": 2726,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Masraheyat",
+    "nameEn": "Roya Masraheyat",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 21,
+    "streamsFile": "streams/2726.json"
+  },
+  {
+    "id": 2727,
+    "categoryId": "aya_cx_tvroya_رؤيا",
+    "name": "Roya Jalta",
+    "nameEn": "Roya Jalta",
+    "logo": "https://up6.cc/2025/04/174423141990071.jpg",
+    "type": "channel",
+    "position": 22,
+    "streamsFile": "streams/2727.json"
+  }
+]

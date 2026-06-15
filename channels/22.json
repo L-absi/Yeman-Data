@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1584,
+    "categoryId": "22",
+    "name": "Palestini TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://www.falastini.tv/wp-content/uploads/2017/02/logo.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1584.json"
+  },
+  {
+    "id": 1585,
+    "categoryId": "22",
+    "name": "Nablus Live",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://yt3.googleusercontent.com/l1ryKHTdZ9hqRqNukYo_rnxm9QMl7JuJieNbM3LdoStOSwcMzNyqzAGfdyDqzlcD2RHL5k4CLDU=s900-c-k-c0x00ffffff-no-rj",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1585.json"
+  },
+  {
+    "id": 1586,
+    "categoryId": "22",
+    "name": "Palestine Today",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://sysadmin.etere.com/DocImageArchive/636501560795441744.webp",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1586.json"
+  },
+  {
+    "id": 1587,
+    "categoryId": "22",
+    "name": "Rajeen TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/gJcnzXw/rajeen.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1587.json"
+  },
+  {
+    "id": 700,
+    "categoryId": "22",
+    "name": "Palestine TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/lPhwDRK.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/700.json"
+  },
+  {
+    "id": 701,
+    "categoryId": "22",
+    "name": "Palestine Live",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/HrKLDk2.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/701.json"
+  },
+  {
+    "id": 702,
+    "categoryId": "22",
+    "name": "Al Quds TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.ibb.co/4g4VNx7/quds-tv.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/702.json"
+  },
+  {
+    "id": 704,
+    "categoryId": "22",
+    "name": "Musawa TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/pwCRFpT.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/704.json"
+  },
+  {
+    "id": 705,
+    "categoryId": "22",
+    "name": "Makan",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/oyHl59c.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/705.json"
+  },
+  {
+    "id": 706,
+    "categoryId": "22",
+    "name": "Audeh TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/5mGXzbS.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/706.json"
+  },
+  {
+    "id": 707,
+    "categoryId": "22",
+    "name": "Maan TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/fcE74ur.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/707.json"
+  },
+  {
+    "id": 708,
+    "categoryId": "22",
+    "name": "Al fajr",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/srVLmGC.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/708.json"
+  },
+  {
+    "id": 709,
+    "categoryId": "22",
+    "name": "Al Fajer 2",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/GmDkBkF.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/709.json"
+  },
+  {
+    "id": 710,
+    "categoryId": "22",
+    "name": "Ajyal  TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2tMEnst_Y9192i8U9oZSwgosA-Am7TbDSsA&usqp=CAU",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/710.json"
+  },
+  {
+    "id": 711,
+    "categoryId": "22",
+    "name": "Hala TV",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/UsmMZWa.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/711.json"
+  },
+  {
+    "id": 712,
+    "categoryId": "22",
+    "name": "Marah FM",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://play-lh.googleusercontent.com/qopvjn6sIEU8AuEvQuiFQqgQmW9zSRn5gy20xxEIGme-DcQmfeMoGuO7UGp0vK655WRl",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/712.json"
+  },
+  {
+    "id": 713,
+    "categoryId": "22",
+    "name": "Radio Orient",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnjUdr0UU08BhcUHaKdDfCpjc_ANSBwTRex7T0ukuw=s900-c-k-c0x00ffffff-no-rj",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/713.json"
+  }
+]

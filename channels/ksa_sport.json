@@ -1,0 +1,32 @@
+[
+  {
+    "id": 5756,
+    "categoryId": "ksa_sport",
+    "name": "Ksa Sport 1",
+    "nameEn": "Ksa Sport 1",
+    "logo": "https://i.imgur.com/32ZwaW0.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/5756.json"
+  },
+  {
+    "id": 5757,
+    "categoryId": "ksa_sport",
+    "name": "Ksa Sport 2",
+    "nameEn": "Ksa Sport 2",
+    "logo": "https://i.imgur.com/32ZwaW0.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/5757.json"
+  },
+  {
+    "id": 5758,
+    "categoryId": "ksa_sport",
+    "name": "Ksa Sport 3",
+    "nameEn": "Ksa Sport 3",
+    "logo": "https://i.imgur.com/32ZwaW0.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/5758.json"
+  }
+]

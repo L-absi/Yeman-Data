@@ -1,0 +1,102 @@
+[
+  {
+    "id": 4923,
+    "categoryId": "sport_philippines",
+    "name": "NBA TV Philippines",
+    "nameEn": "NBA TV Philippines",
+    "logo": "https://i.imgur.com/RcxNoIC.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4923.json"
+  },
+  {
+    "id": 4924,
+    "categoryId": "sport_philippines",
+    "name": "PBA Rush",
+    "nameEn": "PBA Rush",
+    "logo": "https://i.imgur.com/Z7oMGiI.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4924.json"
+  },
+  {
+    "id": 4925,
+    "categoryId": "sport_philippines",
+    "name": "One Sports HD Cignal",
+    "nameEn": "One Sports HD Cignal",
+    "logo": "https://i.imgur.com/imI97L2.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4925.json"
+  },
+  {
+    "id": 4926,
+    "categoryId": "sport_philippines",
+    "name": "One Sports Plus",
+    "nameEn": "One Sports Plus",
+    "logo": "https://i.imgur.com/RnDeKOj.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4926.json"
+  },
+  {
+    "id": 4927,
+    "categoryId": "sport_philippines",
+    "name": "UAAP Varsity Channel",
+    "nameEn": "UAAP Varsity Channel",
+    "logo": "https://i.imgur.com/POFK8tM.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4927.json"
+  },
+  {
+    "id": 4928,
+    "categoryId": "sport_philippines",
+    "name": "TAP Sports",
+    "nameEn": "TAP Sports",
+    "logo": "https://i.imgur.com/HWbSPI9.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4928.json"
+  },
+  {
+    "id": 4929,
+    "categoryId": "sport_philippines",
+    "name": "Premier Sports",
+    "nameEn": "Premier Sports",
+    "logo": "https://i.imgur.com/GTfUEnU.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/4929.json"
+  },
+  {
+    "id": 4930,
+    "categoryId": "sport_philippines",
+    "name": "Premier Sports 2",
+    "nameEn": "Premier Sports 2",
+    "logo": "https://i.imgur.com/OWVR172.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/4930.json"
+  },
+  {
+    "id": 4931,
+    "categoryId": "sport_philippines",
+    "name": "SpoTV HD",
+    "nameEn": "SpoTV HD",
+    "logo": "https://i.imgur.com/QExPfsT.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/4931.json"
+  },
+  {
+    "id": 4932,
+    "categoryId": "sport_philippines",
+    "name": "SpoTV 2 HD",
+    "nameEn": "SpoTV 2 HD",
+    "logo": "https://i.imgur.com/7mY1Zxg.png",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/4932.json"
+  }
+]

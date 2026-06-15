@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "Referer|https://live.baranewssumsel.online/bein3/|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "BN1",
+    "Referer": "https://live.baranewssumsel.online/bein3/",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://s3.eu-north-1.amazonaws.com/196.44/hls/0/stream.m3u8"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "1",
+    "url": "http://foofootv.com/v/?id=fire90",
+    "urlType": 6,
+    "userAgent": "",
+    "Referer": "http://foofootv.com/v/?id=fire90",
+    "origin": null,
+    "headers": {
+      "Referer": "http://foofootv.com/v/?id=fire90"
+    },
+    "drm": null
+  }
+]

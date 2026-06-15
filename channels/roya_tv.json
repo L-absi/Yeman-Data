@@ -1,0 +1,382 @@
+[
+  {
+    "id": 3105,
+    "categoryId": "roya_tv",
+    "name": "Roya Drama",
+    "nameEn": "Roya Drama",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/3105.json"
+  },
+  {
+    "id": 3106,
+    "categoryId": "roya_tv",
+    "name": "Roya Comedy",
+    "nameEn": "Roya Comedy",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/3106.json"
+  },
+  {
+    "id": 3107,
+    "categoryId": "roya_tv",
+    "name": "Roya Sport",
+    "nameEn": "Roya Sport",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/3107.json"
+  },
+  {
+    "id": 3108,
+    "categoryId": "roya_tv",
+    "name": "Roya Kitchen",
+    "nameEn": "Roya Kitchen",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/3108.json"
+  },
+  {
+    "id": 3109,
+    "categoryId": "roya_tv",
+    "name": "Roya Music",
+    "nameEn": "Roya Music",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/3109.json"
+  },
+  {
+    "id": 3110,
+    "categoryId": "roya_tv",
+    "name": "رؤيا فلسطين",
+    "nameEn": "رؤيا فلسطين",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/3110.json"
+  },
+  {
+    "id": 3111,
+    "categoryId": "roya_tv",
+    "name": "Roya Kids Originals",
+    "nameEn": "Roya Kids Originals",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/3111.json"
+  },
+  {
+    "id": 3112,
+    "categoryId": "roya_tv",
+    "name": "مرايا",
+    "nameEn": "مرايا",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/3112.json"
+  },
+  {
+    "id": 3113,
+    "categoryId": "roya_tv",
+    "name": "إنتاجات رؤيا",
+    "nameEn": "إنتاجات رؤيا",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/3113.json"
+  },
+  {
+    "id": 3114,
+    "categoryId": "roya_tv",
+    "name": "كرفان",
+    "nameEn": "كرفان",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/3114.json"
+  },
+  {
+    "id": 3115,
+    "categoryId": "roya_tv",
+    "name": "قناة العربي",
+    "nameEn": "قناة العربي",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/3115.json"
+  },
+  {
+    "id": 3116,
+    "categoryId": "roya_tv",
+    "name": "قناة العربي 2",
+    "nameEn": "قناة العربي 2",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/3116.json"
+  },
+  {
+    "id": 3117,
+    "categoryId": "roya_tv",
+    "name": "حول العالم",
+    "nameEn": "حول العالم",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/3117.json"
+  },
+  {
+    "id": 3118,
+    "categoryId": "roya_tv",
+    "name": "حكي منوّع",
+    "nameEn": "حكي منوّع",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/3118.json"
+  },
+  {
+    "id": 3119,
+    "categoryId": "roya_tv",
+    "name": "مغامرات",
+    "nameEn": "مغامرات",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/3119.json"
+  },
+  {
+    "id": 3120,
+    "categoryId": "roya_tv",
+    "name": "حلوة يا دنيا",
+    "nameEn": "حلوة يا دنيا",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 18,
+    "streamsFile": "streams/3120.json"
+  },
+  {
+    "id": 3121,
+    "categoryId": "roya_tv",
+    "name": "العالم الكبير",
+    "nameEn": "العالم الكبير",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 19,
+    "streamsFile": "streams/3121.json"
+  },
+  {
+    "id": 3122,
+    "categoryId": "roya_tv",
+    "name": "911",
+    "nameEn": "911",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 20,
+    "streamsFile": "streams/3122.json"
+  },
+  {
+    "id": 3123,
+    "categoryId": "roya_tv",
+    "name": "طبخ ونفخ",
+    "nameEn": "طبخ ونفخ",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 21,
+    "streamsFile": "streams/3123.json"
+  },
+  {
+    "id": 3124,
+    "categoryId": "roya_tv",
+    "name": "زيست",
+    "nameEn": "زيست",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 22,
+    "streamsFile": "streams/3124.json"
+  },
+  {
+    "id": 3125,
+    "categoryId": "roya_tv",
+    "name": "شيف مان",
+    "nameEn": "شيف مان",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 23,
+    "streamsFile": "streams/3125.json"
+  },
+  {
+    "id": 3126,
+    "categoryId": "roya_tv",
+    "name": "ست النكهات",
+    "nameEn": "ست النكهات",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 24,
+    "streamsFile": "streams/3126.json"
+  },
+  {
+    "id": 3127,
+    "categoryId": "roya_tv",
+    "name": "ساعة محبّة",
+    "nameEn": "ساعة محبّة",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 25,
+    "streamsFile": "streams/3127.json"
+  },
+  {
+    "id": 3128,
+    "categoryId": "roya_tv",
+    "name": "جلطة",
+    "nameEn": "جلطة",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 26,
+    "streamsFile": "streams/3128.json"
+  },
+  {
+    "id": 3129,
+    "categoryId": "roya_tv",
+    "name": "وطن ع وتر",
+    "nameEn": "وطن ع وتر",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 27,
+    "streamsFile": "streams/3129.json"
+  },
+  {
+    "id": 3130,
+    "categoryId": "roya_tv",
+    "name": "مسرحيات",
+    "nameEn": "مسرحيات",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 28,
+    "streamsFile": "streams/3130.json"
+  },
+  {
+    "id": 3131,
+    "categoryId": "roya_tv",
+    "name": "أنا بحكيلك القصة",
+    "nameEn": "أنا بحكيلك القصة",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 29,
+    "streamsFile": "streams/3131.json"
+  },
+  {
+    "id": 3132,
+    "categoryId": "roya_tv",
+    "name": "Adel Imam-1",
+    "nameEn": "Adel Imam-1",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 30,
+    "streamsFile": "streams/3132.json"
+  },
+  {
+    "id": 3133,
+    "categoryId": "roya_tv",
+    "name": "الزعيم",
+    "nameEn": "الزعيم",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 31,
+    "streamsFile": "streams/3133.json"
+  },
+  {
+    "id": 3134,
+    "categoryId": "roya_tv",
+    "name": "أيمن زيدان",
+    "nameEn": "أيمن زيدان",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 32,
+    "streamsFile": "streams/3134.json"
+  },
+  {
+    "id": 3135,
+    "categoryId": "roya_tv",
+    "name": "نادين نجيم",
+    "nameEn": "نادين نجيم",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 33,
+    "streamsFile": "streams/3135.json"
+  },
+  {
+    "id": 3136,
+    "categoryId": "roya_tv",
+    "name": "حارة القبة",
+    "nameEn": "حارة القبة",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 34,
+    "streamsFile": "streams/3136.json"
+  },
+  {
+    "id": 3137,
+    "categoryId": "roya_tv",
+    "name": "بيئة شامية",
+    "nameEn": "بيئة شامية",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 35,
+    "streamsFile": "streams/3137.json"
+  },
+  {
+    "id": 3138,
+    "categoryId": "roya_tv",
+    "name": "أكشن",
+    "nameEn": "أكشن",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 36,
+    "streamsFile": "streams/3138.json"
+  },
+  {
+    "id": 3139,
+    "categoryId": "roya_tv",
+    "name": "الهيبة",
+    "nameEn": "الهيبة",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 37,
+    "streamsFile": "streams/3139.json"
+  },
+  {
+    "id": 3140,
+    "categoryId": "roya_tv",
+    "name": "مجتمعي",
+    "nameEn": "مجتمعي",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 38,
+    "streamsFile": "streams/3140.json"
+  },
+  {
+    "id": 3141,
+    "categoryId": "roya_tv",
+    "name": "Documentaries",
+    "nameEn": "Documentaries",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 39,
+    "streamsFile": "streams/3141.json"
+  },
+  {
+    "id": 3142,
+    "categoryId": "roya_tv",
+    "name": "RedBull TV",
+    "nameEn": "RedBull TV",
+    "logo": "https://bit.ly/3ydKOJy",
+    "type": "channel",
+    "position": 40,
+    "streamsFile": "streams/3142.json"
+  }
+]

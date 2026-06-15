@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1501,
+    "categoryId": "91",
+    "name": "beIN MAX 1",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1501.json"
+  },
+  {
+    "id": 1502,
+    "categoryId": "91",
+    "name": "beIN MAX 2",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1502.json"
+  },
+  {
+    "id": 1503,
+    "categoryId": "91",
+    "name": "beIN MAX 3",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1503.json"
+  },
+  {
+    "id": 1504,
+    "categoryId": "91",
+    "name": "beIN MAX 4",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1504.json"
+  },
+      {
+      "id": 1505,
+      "name": "beIN MAX 5",
+      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png",
+      "is_hide": 0,
+      "priority": 0,
+      "streamsFile": "streams/1505.json"
+    },
+    {
+      "id": 1506,
+      "name": "beIN MAX 6",
+      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png",
+      "is_hide": 0,
+      "priority": 0,
+      "streamsFile": "streams/1506.json"
+    }
+]

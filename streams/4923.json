@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "",
+    "license": "c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "name": "NBA TV Philippines #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd"
+  }
+]

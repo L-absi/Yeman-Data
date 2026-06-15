@@ -1,0 +1,112 @@
+[
+  {
+    "id": 4747,
+    "categoryId": "aya_sports_vip",
+    "name": "QazSport (480p) [Geo-blocked]",
+    "nameEn": "QazSport (480p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/UDJ0P5Q.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4747.json"
+  },
+  {
+    "id": 4748,
+    "categoryId": "aya_sports_vip",
+    "name": "ITV Deportes",
+    "nameEn": "ITV Deportes",
+    "logo": "https://iili.io/J1kV1Bn.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4748.json"
+  },
+  {
+    "id": 4749,
+    "categoryId": "aya_sports_vip",
+    "name": "Barca TV",
+    "nameEn": "Barca TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3tLZzMIx0vNn0UVQ23wYjpcK-dVC2Wt4jZctua3UnIA&s=10",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/4749.json"
+  },
+  {
+    "id": 4750,
+    "categoryId": "aya_sports_vip",
+    "name": "Inter Tv",
+    "nameEn": "Inter Tv",
+    "logo": "https://i.imgur.com/FUTqh2L.png",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/4750.json"
+  },
+  {
+    "id": 4751,
+    "categoryId": "aya_sports_vip",
+    "name": "MU TV",
+    "nameEn": "MU TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQojSeHjJD41ASc6mpy6DxhtAKRXwE2-K1BtPYeqWNxEQ&s=10",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/4751.json"
+  },
+  {
+    "id": 4752,
+    "categoryId": "aya_sports_vip",
+    "name": "Tennis Channel 2",
+    "nameEn": "Tennis Channel 2",
+    "logo": "https://fast.planetecsat.com/wp-content/uploads/2025/01/1730911105436.jpg",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/4752.json"
+  },
+  {
+    "id": 4753,
+    "categoryId": "aya_sports_vip",
+    "name": "Tennis Channel 1",
+    "nameEn": "Tennis Channel 1",
+    "logo": "https://fast.planetecsat.com/wp-content/uploads/2025/01/1730911105436.jpg",
+    "type": "channel",
+    "position": 17,
+    "streamsFile": "streams/4753.json"
+  },
+  {
+    "id": 4754,
+    "categoryId": "aya_sports_vip",
+    "name": "Eurosport 1",
+    "nameEn": "Eurosport 1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyCkTZERY-xt19RvOy4fnrVuH-wjjLPzFCGglCPLsp6g&s=10",
+    "type": "channel",
+    "position": 20,
+    "streamsFile": "streams/4754.json"
+  },
+  {
+    "id": 4755,
+    "categoryId": "aya_sports_vip",
+    "name": "BEIN SPORTS EXTRA Ñ",
+    "nameEn": "BEIN SPORTS EXTRA Ñ",
+    "logo": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg",
+    "type": "channel",
+    "position": 38,
+    "streamsFile": "streams/4755.json"
+  },
+  {
+    "id": 4756,
+    "categoryId": "aya_sports_vip",
+    "name": "UFC",
+    "nameEn": "UFC",
+    "logo": "https://i.ibb.co/k31DCf4/Do0-qz-Jj-Xw-GBUbh-K7n-CQi-Vro2-YT51-DHh-Bw7-On-Tv-Jr35-PEACSqaqhxf-Hdmed-SZr-Ei-LTiuq-ERb-s900-c-k.webp",
+    "type": "channel",
+    "position": 46,
+    "streamsFile": "streams/4756.json"
+  },
+  {
+    "id": 4757,
+    "categoryId": "aya_sports_vip",
+    "name": "PRO Sport International",
+    "nameEn": "PRO Sport International",
+    "logo": "https://i.postimg.cc/7hjCP4mf/PROSport-International.png",
+    "type": "channel",
+    "position": 155,
+    "streamsFile": "streams/4757.json"
+  }
+]

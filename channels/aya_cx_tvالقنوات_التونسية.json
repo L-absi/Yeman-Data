@@ -1,0 +1,102 @@
+[
+  {
+    "id": 2042,
+    "categoryId": "aya_cx_tvالقنوات_التونسية",
+    "name": "Tunsia 2",
+    "nameEn": "Tunsia 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/2042.json"
+  },
+  {
+    "id": 2043,
+    "categoryId": "aya_cx_tvالقنوات_التونسية",
+    "name": "Hannibal",
+    "nameEn": "Hannibal",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/42/Hannibaltv.gif",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/2043.json"
+  },
+  {
+    "id": 2044,
+    "categoryId": "aya_cx_tvالقنوات_التونسية",
+    "name": "Carthage TV",
+    "nameEn": "Carthage TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/a/af/Logo-carthageplus.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/2044.json"
+  },
+  {
+    "id": 2045,
+    "categoryId": "aya_cx_tvالقنوات_التونسية",
+    "name": "Al Mustakillah",
+    "nameEn": "Al Mustakillah",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Almostaqila.jpg",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/2045.json"
+  },
+  {
+    "id": 2046,
+    "categoryId": "aya_cx_tvالقنوات_التونسية",
+    "name": "Elhiwar Ettounsi",
+    "nameEn": "Elhiwar Ettounsi",
+    "logo": "https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/logo-el-hiwar-el-tounsi.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/2046.json"
+  },
+  {
+    "id": 2047,
+    "categoryId": "aya_cx_tvالقنوات_التونسية",
+    "name": "Telvza",
+    "nameEn": "Telvza",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdc3queSUMQwwhHmklcTJI9SX0UrgmsdKZ4KaqX_9b7A&s=10",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/2047.json"
+  },
+  {
+    "id": 2048,
+    "categoryId": "aya_cx_tvالقنوات_التونسية",
+    "name": "Attessia",
+    "nameEn": "Attessia",
+    "logo": "https://i.ibb.co/8DxdBPf/Attessia9.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/2048.json"
+  },
+  {
+    "id": 2049,
+    "categoryId": "aya_cx_tvالقنوات_التونسية",
+    "name": "Tunsia 1",
+    "nameEn": "Tunsia 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/554px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/2049.json"
+  },
+  {
+    "id": 2050,
+    "categoryId": "aya_cx_tvالقنوات_التونسية",
+    "name": "Nessma tv",
+    "nameEn": "Nessma tv",
+    "logo": "https://tunisia.mom-gmr.org/uploads/tx_lfrogmom/media/136_02.jpg",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/2050.json"
+  },
+  {
+    "id": 2051,
+    "categoryId": "aya_cx_tvالقنوات_التونسية",
+    "name": "Jawhara tv",
+    "nameEn": "Jawhara tv",
+    "logo": "https://m.jawharafm.net/ar/img/logo_jfmtv_fini.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/2051.json"
+  }
+]

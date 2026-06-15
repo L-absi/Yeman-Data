@@ -1,0 +1,132 @@
+[
+  {
+    "id": 3092,
+    "categoryId": "rotana_vip2",
+    "name": "Rotana Aflam plus HD",
+    "nameEn": "Rotana Aflam plus HD",
+    "logo": "https://i.imgur.com/DLDfFpu.png",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/3092.json"
+  },
+  {
+    "id": 3093,
+    "categoryId": "rotana_vip2",
+    "name": "M+",
+    "nameEn": "M+",
+    "logo": "https://i.imgur.com/Ho8N310.png",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/3093.json"
+  },
+  {
+    "id": 3094,
+    "categoryId": "rotana_vip2",
+    "name": "روتانا سينما",
+    "nameEn": "روتانا سينما",
+    "logo": "https://i.imgur.com/dGlKoLW.png",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/3094.json"
+  },
+  {
+    "id": 3095,
+    "categoryId": "rotana_vip2",
+    "name": "روتانا كلاسك",
+    "nameEn": "روتانا كلاسك",
+    "logo": "https://i.imgur.com/pMMUvkt.png",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/3095.json"
+  },
+  {
+    "id": 3096,
+    "categoryId": "rotana_vip2",
+    "name": "روتانا خليجية",
+    "nameEn": "روتانا خليجية",
+    "logo": "https://i.imgur.com/6HMluzv.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/3096.json"
+  },
+  {
+    "id": 3097,
+    "categoryId": "rotana_vip2",
+    "name": "Rotana Comedy +",
+    "nameEn": "Rotana Comedy +",
+    "logo": "https://i.imgur.com/IlT8U6S.png",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/3097.json"
+  },
+  {
+    "id": 3098,
+    "categoryId": "rotana_vip2",
+    "name": "Rotana Drama +",
+    "nameEn": "Rotana Drama +",
+    "logo": "https://i.imgur.com/btnhPjZ.png",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/3098.json"
+  },
+  {
+    "id": 3099,
+    "categoryId": "rotana_vip2",
+    "name": "ROTANA M+ +",
+    "nameEn": "ROTANA M+ +",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402611.webp",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/3099.json"
+  },
+  {
+    "id": 3100,
+    "categoryId": "rotana_vip2",
+    "name": "ROTANA MUSIC +",
+    "nameEn": "ROTANA MUSIC +",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402600.webp",
+    "type": "channel",
+    "position": 12,
+    "streamsFile": "streams/3100.json"
+  },
+  {
+    "id": 3101,
+    "categoryId": "rotana_vip2",
+    "name": "",
+    "nameEn": "",
+    "logo": "https://rotanaradios.com/wp-content/uploads/2024/10/Asset-4.png",
+    "type": "channel",
+    "position": 13,
+    "streamsFile": "streams/3101.json"
+  },
+  {
+    "id": 3102,
+    "categoryId": "rotana_vip2",
+    "name": "PANORAMA FM",
+    "nameEn": "PANORAMA FM",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9d/PanoramaFM_2021.png",
+    "type": "channel",
+    "position": 14,
+    "streamsFile": "streams/3102.json"
+  },
+  {
+    "id": 3103,
+    "categoryId": "rotana_vip2",
+    "name": "MBC FM",
+    "nameEn": "MBC FM",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2d/MBC_FM_logo_original.png",
+    "type": "channel",
+    "position": 15,
+    "streamsFile": "streams/3103.json"
+  },
+  {
+    "id": 3104,
+    "categoryId": "rotana_vip2",
+    "name": "ROTANA AFLAM+",
+    "nameEn": "ROTANA AFLAM+",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402547.webp",
+    "type": "channel",
+    "position": 16,
+    "streamsFile": "streams/3104.json"
+  }
+]

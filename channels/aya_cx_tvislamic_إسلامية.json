@@ -1,0 +1,132 @@
+[
+  {
+    "id": 4345,
+    "categoryId": "aya_cx_tvislamic_إسلامية",
+    "name": "قناة بداية",
+    "nameEn": "قناة بداية",
+    "logo": "https://file.rafalnht.com/2d61716d24cc0b66a6c2dee3e9d5a91e.photo.jpg",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/4345.json"
+  },
+  {
+    "id": 4346,
+    "categoryId": "aya_cx_tvislamic_إسلامية",
+    "name": "قناة قاف",
+    "nameEn": "قناة قاف",
+    "logo": "https://bit.ly/3zN4EZn",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/4346.json"
+  },
+  {
+    "id": 4347,
+    "categoryId": "aya_cx_tvislamic_إسلامية",
+    "name": "قناة إقرأ",
+    "nameEn": "قناة إقرأ",
+    "logo": "https://bit.ly/41cxPkf",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4347.json"
+  },
+  {
+    "id": 4348,
+    "categoryId": "aya_cx_tvislamic_إسلامية",
+    "name": "قناة زاد",
+    "nameEn": "قناة زاد",
+    "logo": "https://bit.ly/43sKOk7",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4348.json"
+  },
+  {
+    "id": 4349,
+    "categoryId": "aya_cx_tvislamic_إسلامية",
+    "name": "قناة مكة",
+    "nameEn": "قناة مكة",
+    "logo": "https://bit.ly/2Md9nOO",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4349.json"
+  },
+  {
+    "id": 4350,
+    "categoryId": "aya_cx_tvislamic_إسلامية",
+    "name": "قناة آيات",
+    "nameEn": "قناة آيات",
+    "logo": "https://bit.ly/3mmmTSn",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4350.json"
+  },
+  {
+    "id": 4351,
+    "categoryId": "aya_cx_tvislamic_إسلامية",
+    "name": "قناة الفتح",
+    "nameEn": "قناة الفتح",
+    "logo": "https://bit.ly/3ZTAvSZ",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4351.json"
+  },
+  {
+    "id": 4352,
+    "categoryId": "aya_cx_tvislamic_إسلامية",
+    "name": "القرآن الكريم",
+    "nameEn": "القرآن الكريم",
+    "logo": "https://bit.ly/3ZSma9t",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4352.json"
+  },
+  {
+    "id": 4353,
+    "categoryId": "aya_cx_tvislamic_إسلامية",
+    "name": "قناة الإرث النبوي",
+    "nameEn": "قناة الإرث النبوي",
+    "logo": "https://bit.ly/41b8eZe",
+    "type": "channel",
+    "position": 7,
+    "streamsFile": "streams/4353.json"
+  },
+  {
+    "id": 4354,
+    "categoryId": "aya_cx_tvislamic_إسلامية",
+    "name": "قناة افريقيا 1",
+    "nameEn": "قناة افريقيا 1",
+    "logo": "https://bit.ly/39ZVPhC",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/4354.json"
+  },
+  {
+    "id": 4355,
+    "categoryId": "aya_cx_tvislamic_إسلامية",
+    "name": "قناة أفريقيا 2",
+    "nameEn": "قناة أفريقيا 2",
+    "logo": "https://bit.ly/39ZVPhC",
+    "type": "channel",
+    "position": 9,
+    "streamsFile": "streams/4355.json"
+  },
+  {
+    "id": 4356,
+    "categoryId": "aya_cx_tvislamic_إسلامية",
+    "name": "قناة إستقامة",
+    "nameEn": "قناة إستقامة",
+    "logo": "https://www.gulfupp.com/do.php?img=70653",
+    "type": "channel",
+    "position": 10,
+    "streamsFile": "streams/4356.json"
+  },
+  {
+    "id": 4357,
+    "categoryId": "aya_cx_tvislamic_إسلامية",
+    "name": "قناة الهدى",
+    "nameEn": "قناة الهدى",
+    "logo": "https://www.gulfupp.com/do.php?img=70653",
+    "type": "channel",
+    "position": 11,
+    "streamsFile": "streams/4357.json"
+  }
+]

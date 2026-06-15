@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1412,
+    "categoryId": "84",
+    "name": "Dubai Racing 1",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/bnbrcMQ.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1412.json"
+  },
+  {
+    "id": 1413,
+    "categoryId": "84",
+    "name": "Dubai Racing 2",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/bnbrcMQ.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1413.json"
+  },
+  {
+    "id": 1414,
+    "categoryId": "84",
+    "name": "Dubai Racing 3",
+    "nameAr": "",
+    "nameEn": "",
+    "logo": "https://i.imgur.com/bnbrcMQ.png",
+    "type": "channel",
+    "position": 0,
+    "streamsFile": "streams/1414.json"
+  }
+]

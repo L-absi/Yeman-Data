@@ -1,0 +1,13 @@
+[
+  {
+    "headers": "",
+    "license": "b85c3ede1e37564aab707d2cb6d3f18c:2f4f6594c787f4598b9e9ec12260c67b",
+    "scheme": "clearkey",
+    "otherHeaders": "",
+    "name": "Polsat Sport 1 #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=590abbe92e6e470a9e355d58ec910709:0af2b5f2450474207f6761adc9dc635e",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://lineartv-cdn.t-mobile.pl/bpk-tv/polsatsport/default/index.mpd"
+  }
+]

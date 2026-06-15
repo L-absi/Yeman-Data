@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4810,
+    "categoryId": "fox_sports",
+    "name": "FOX SPORTS",
+    "nameEn": "FOX SPORTS",
+    "logo": "https://i.ibb.co/zbWxZ95/fs1.png",
+    "type": "channel",
+    "position": 1,
+    "streamsFile": "streams/4810.json"
+  },
+  {
+    "id": 4811,
+    "categoryId": "fox_sports",
+    "name": "FOX SPORTS 2",
+    "nameEn": "FOX SPORTS 2",
+    "logo": "https://i.ibb.co/YjrQ0CQ/fs2.png",
+    "type": "channel",
+    "position": 2,
+    "streamsFile": "streams/4811.json"
+  },
+  {
+    "id": 4812,
+    "categoryId": "fox_sports",
+    "name": "FOX SPORTS 3",
+    "nameEn": "FOX SPORTS 3",
+    "logo": "https://i.ibb.co/SBkkDxq/fs3.png",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4812.json"
+  },
+  {
+    "id": 4813,
+    "categoryId": "fox_sports",
+    "name": "FOX SPORTS PREMIUM",
+    "nameEn": "FOX SPORTS PREMIUM",
+    "logo": "https://i.ibb.co/9V35PtY/Dise-o-sin-t-tulo-10.png",
+    "type": "channel",
+    "position": 8,
+    "streamsFile": "streams/4813.json"
+  }
+]

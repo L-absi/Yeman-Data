@@ -1,0 +1,442 @@
+[
+  {
+    "id": 10063,
+    "name": "beIN SPORTS MAX1 HD1080i",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10063.json"
+  },
+  {
+    "id": 10064,
+    "name": "beIN SPORTS MAX2 HD1080i",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10064.json"
+  },
+  {
+    "id": 10065,
+    "name": "beIN SPORTS MAX3 HD1080i",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10065.json"
+  },
+  {
+    "id": 10066,
+    "name": "beIN SPORTS MAX4 HD1080i",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10066.json"
+  },
+  {
+    "id": 10067,
+    "name": "Alwan Sport 1 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10067.json"
+  },
+  {
+    "id": 10068,
+    "name": "Alwan Sport 1 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10068.json"
+  },
+  {
+    "id": 10069,
+    "name": "Alwan Sport 1 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10069.json"
+  },
+  {
+    "id": 10070,
+    "name": "Alwan Sport 2 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10070.json"
+  },
+  {
+    "id": 10071,
+    "name": "Alwan Sport 2 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10071.json"
+  },
+  {
+    "id": 10072,
+    "name": "Alwan Sport 2 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10072.json"
+  },
+  {
+    "id": 10073,
+    "name": "Alwan Sport 3 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10073.json"
+  },
+  {
+    "id": 10074,
+    "name": "Alwan Sport 3 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10074.json"
+  },
+  {
+    "id": 10075,
+    "name": "Alwan Sport 3 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10075.json"
+  },
+  {
+    "id": 10076,
+    "name": "Alwan Sport 4 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10076.json"
+  },
+  {
+    "id": 10077,
+    "name": "Alwan Sport 4 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10077.json"
+  },
+  {
+    "id": 10078,
+    "name": "Alwan Sport 4 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10078.json"
+  },
+  {
+    "id": 10079,
+    "name": "Alwan Sport 5 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10079.json"
+  },
+  {
+    "id": 10080,
+    "name": "Alwan Sport 5 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10080.json"
+  },
+  {
+    "id": 10081,
+    "name": "Alwan Sport 5 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10081.json"
+  },
+  {
+    "id": 10082,
+    "name": "Alwan Sport 6 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10082.json"
+  },
+  {
+    "id": 10083,
+    "name": "Alwan Sport 6 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10083.json"
+  },
+  {
+    "id": 10084,
+    "name": "Alwan Sport 6 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10084.json"
+  },
+  {
+    "id": 10085,
+    "name": "TOD 1",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10085.json"
+  },
+  {
+    "id": 10086,
+    "name": "TOD 2",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10086.json"
+  },
+  {
+    "id": 10087,
+    "name": "TOD 3",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10087.json"
+  },
+  {
+    "id": 10088,
+    "name": "TOD 4",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10088.json"
+  },
+  {
+    "id": 10089,
+    "name": "TOD 5",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10089.json"
+  },
+  {
+    "id": 10090,
+    "name": "TOD 6",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10090.json"
+  },
+  {
+    "id": 10091,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10091.json"
+  },
+  {
+    "id": 10092,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10092.json"
+  },
+  {
+    "id": 10093,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10093.json"
+  },
+  {
+    "id": 10094,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10094.json"
+  },
+  {
+    "id": 10095,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10095.json"
+  },
+  {
+    "id": 10096,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10096.json"
+  },
+  {
+    "id": 10097,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10097.json"
+  },
+  {
+    "id": 10098,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10098.json"
+  },
+  {
+    "id": 10099,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10099.json"
+  },
+  {
+    "id": 10100,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10100.json"
+  },
+  {
+    "id": 10101,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10101.json"
+  },
+  {
+    "id": 10102,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10102.json"
+  },
+  {
+    "id": 10103,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10103.json"
+  },
+  {
+    "id": 10104,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10104.json"
+  },
+  {
+    "id": 10105,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10105.json"
+  },
+  {
+    "id": 10106,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10106.json"
+  },
+  {
+    "id": 10107,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10107.json"
+  },
+  {
+    "id": 10108,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10108.json"
+  },
+  {
+    "id": 10109,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10109.json"
+  },
+  {
+    "id": 10110,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10110.json"
+  },
+  {
+    "id": 10111,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10111.json"
+  },
+  {
+    "id": 10112,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10112.json"
+  },
+  {
+    "id": 10113,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10113.json"
+  },
+  {
+    "id": 10114,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10114.json"
+  },
+  {
+    "id": 10115,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10115.json"
+  },
+  {
+    "id": 10116,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10116.json"
+  },
+  {
+    "id": 10117,
+    "name": "قناة مختارة",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10117.json"
+  }
+]

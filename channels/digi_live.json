@@ -1,0 +1,62 @@
+[
+  {
+    "id": 4781,
+    "categoryId": "digi_live",
+    "name": "DG1",
+    "nameEn": "DG1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2Z_JN23Y3kqjYA1mERNsAxU-n8mvoClSZVPUkHg4&s",
+    "type": "channel",
+    "position": 3,
+    "streamsFile": "streams/4781.json"
+  },
+  {
+    "id": 4782,
+    "categoryId": "digi_live",
+    "name": "DG2",
+    "nameEn": "DG2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2Z_JN23Y3kqjYA1mERNsAxU-n8mvoClSZVPUkHg4&s",
+    "type": "channel",
+    "position": 4,
+    "streamsFile": "streams/4782.json"
+  },
+  {
+    "id": 4783,
+    "categoryId": "digi_live",
+    "name": "DG3",
+    "nameEn": "DG3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2Z_JN23Y3kqjYA1mERNsAxU-n8mvoClSZVPUkHg4&s",
+    "type": "channel",
+    "position": 5,
+    "streamsFile": "streams/4783.json"
+  },
+  {
+    "id": 4784,
+    "categoryId": "digi_live",
+    "name": "DG4",
+    "nameEn": "DG4",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2Z_JN23Y3kqjYA1mERNsAxU-n8mvoClSZVPUkHg4&s",
+    "type": "channel",
+    "position": 6,
+    "streamsFile": "streams/4784.json"
+  },
+  {
+    "id": 4785,
+    "categoryId": "digi_live",
+    "name": "[$]DIGI SPORT 1HD",
+    "nameEn": "DIGI 1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2Z_JN23Y3kqjYA1mERNsAxU-n8mvoClSZVPUkHg4&s",
+    "type": "channel",
+    "position": 122,
+    "streamsFile": "streams/4785.json"
+  },
+  {
+    "id": 4786,
+    "categoryId": "digi_live",
+    "name": "[$]DIGI SPORT 2HD",
+    "nameEn": "DIGI2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2Z_JN23Y3kqjYA1mERNsAxU-n8mvoClSZVPUkHg4&s",
+    "type": "channel",
+    "position": 222,
+    "streamsFile": "streams/4786.json"
+  }
+]
