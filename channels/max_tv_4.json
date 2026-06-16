@@ -1,0 +1,146 @@
+[
+  {
+    "id": 20000,
+    "name": "beIN MAX 1 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20000.json"
+  },
+  {
+    "id": 20001,
+    "name": "beIN MAX 2 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20001.json"
+  },
+  {
+    "id": 20002,
+    "name": "beIN MAX 3 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20002.json"
+  },
+  {
+    "id": 20003,
+    "name": "beIN MAX 1 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20003.json"
+  },
+  {
+    "id": 20004,
+    "name": "beIN MAX 2 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20004.json"
+  },
+  {
+    "id": 20005,
+    "name": "beIN MAX 3 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20005.json"
+  },
+  {
+    "id": 20006,
+    "name": "beIN MAX 1 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20006.json"
+  },
+  {
+    "id": 20007,
+    "name": "beIN MAX 2 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20007.json"
+  },
+  {
+    "id": 20008,
+    "name": "beIN MAX 3 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20008.json"
+  },
+  {
+    "id": 20009,
+    "name": "beIN MAX 1 4k NM",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20009.json"
+  },
+  {
+    "id": 20010,
+    "name": "beIN MAX 1 HD NM",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20010.json"
+  },
+  {
+    "id": 20011,
+    "name": "beIN MAX 1 SD NM",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20011.json"
+  },
+  {
+    "id": 20012,
+    "name": "beIN MAX 2 4K NM",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20012.json"
+  },
+  {
+    "id": 20013,
+    "name": "beIN MAX 2 HD NM",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20013.json"
+  },
+  {
+    "id": 20014,
+    "name": "beIN MAX 2 SD NM",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20014.json"
+  },
+  {
+    "id": 20015,
+    "name": "beIN MAX 4 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20015.json"
+  },
+  {
+    "id": 20016,
+    "name": "beIN MAX 4 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20016.json"
+  },
+  {
+    "id": 20017,
+    "name": "beIN MAX 4 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20017.json"
+  }
+]
