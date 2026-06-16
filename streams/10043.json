@@ -1,13 +1,13 @@
 [
   {
     "headers": "",
-    "license": "",
-    "scheme": "",
+    "license": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+    "scheme": "clearkey",
     "otherHeaders": "",
-    "name": "Alwan Sport 6 SD",
+    "name": "",
     "Referer": "",
     "userAgent": "",
     "position": "0",
-    "url": "http://194.60.93.157/proxy?url=http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/418128.ts"
+    "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd"
   }
 ]

@@ -7,10 +7,10 @@
     "categories": [
       {
         "id": 264,
-        "key": "bein_max_tv",
+        "key": "max_tv",
         "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
-        "name": "BEIN MAX TV",
-        "channelsFile": "channels/bein_max_tv.json"
+        "name": "Max Tv",
+        "channelsFile": "channels/max_tv.json"
       },
       {
         "id": 265,
@@ -35,19 +35,74 @@
       },
       {
         "id": 268,
+        "key": "bein_max_tv",
+        "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+        "name": "BEIN MAX TV",
+        "channelsFile": "channels/bein_max_tv.json"
+      },
+      {
+        "id": 269,
         "key": "alwan_tv",
         "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
         "name": "ALWAN TV",
         "channelsFile": "channels/alwan_tv.json"
       },
       {
-        "id": 269,
-        "key": "go3_sport",
-        "logo": "https://cdn.kursors.lv/2019/12/2019-12-03_1831.png",
-        "name": "GO3 SPORTS",
-        "channelsFile": "channels/go3_sport.json"
+        "id": 270,
+        "key": "aya_cx_tvalwan_قنوات_ألوان",
+        "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
+        "name": "Alwan Tv2",
+        "channelsFile": "channels/aya_cx_tvalwan_قنوات_ألوان.json"
+      },
+      {
+        "id": 271,
+        "key": "max_tv2",
+        "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+        "name": "MAX TV2",
+        "channelsFile": "channels/max_tv2.json"
+      },
+      {
+        "id": 272,
+        "key": "max_tv_4",
+        "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+        "name": "MAX TV 4",
+        "channelsFile": "channels/max_tv_4.json"
+      },
+      {
+        "id": 273,
+        "key": "vix_tv",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6VEa_JrsoIcPZLZTXVgtaGOranOowWf8Mug_E3OQY3Q&s=10",
+        "name": "Vix tv",
+        "channelsFile": "channels/vix_tv.json"
+      },
+      {
+        "id": 274,
+        "key": "alwan_tv_3",
+        "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
+        "name": "Alwan TV 3",
+        "channelsFile": "channels/alwan_tv_3.json"
+      },
+      {
+        "id": 275,
+        "key": "live_match",
+        "logo": "https://myfirstimpression.ch/wp-content/uploads/2025/10/fifa-2026-2.webp",
+        "name": "Live Match",
+        "channelsFile": "channels/live_match.json"
+      },
+      {
+        "id": 276,
+        "key": "fussbal_sport_uhd",
+        "logo": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/3/1/4/7/9/5/6/prosiebensat1uhd-004ac64e2fdcedba.png?force_format=avif%2Cwebp%2Cjpeg&org_if_sml=1&q=30&width=1920",
+        "name": "FUSSBAL SPORT UHD",
+        "channelsFile": "channels/fussbal_sport_uhd.json"
+      },
+      {
+        "id": 277,
+        "key": "kurd_sport",
+        "logo": "",
+        "name": "kURD SPORT",
+        "channelsFile": "channels/kurd_sport.json"
       }
-      
     ]
   },
   {

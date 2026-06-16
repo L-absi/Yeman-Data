@@ -1,13 +1,24 @@
 [
   {
     "headers": "",
-    "license": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"rKzUjhLvvbqkebbW2_EQtA\",\"k\":\"UAr4myHWTEgz4QfybEJK-w\"},{\"kty\":\"oct\",\"kid\":\"Xn4atxoopds39jbUXbiFVA\",\"k\":\"7mr0EVRkhX7IIj1hH_SYkQ\"},{\"kty\":\"oct\",\"kid\":\"WxKIsxtqP3iaIFYUu9f6xw\",\"k\":\"FJgPJXjsog14vXBgGvIUWA\"},{\"kty\":\"oct\",\"kid\":\"UUJpv9uuzWKv4ccKTtooMQ\",\"k\":\"5yq7EORIZFqdJq6EajI2vg\"},{\"kty\":\"oct\",\"kid\":\"4jakHHX2bqKcK0OL0GHMPg\",\"k\":\"FKJfuZFYdmbjoAG35Dn_Jw\"}],\"type\":\"temporary\"}",
+    "license": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
     "scheme": "clearkey",
     "otherHeaders": "",
-    "name": "",
+    "name": "CZ1",
     "Referer": "",
     "userAgent": "",
     "position": "0",
-    "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/612/1/live.mpd"
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "CZ2",
+    "Referer": "",
+    "userAgent": "",
+    "position": "1",
+    "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8"
   }
 ]

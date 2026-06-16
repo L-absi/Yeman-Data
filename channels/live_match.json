@@ -1,0 +1,74 @@
+[
+  {
+    "id": 10112,
+    "name": "FIFA World Cup 2026 (Somoy Tv)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10112.json"
+  },
+  {
+    "id": 10113,
+    "name": "FIFA World Cup 2026 (T-Sports)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10113.json"
+  },
+  {
+    "id": 10114,
+    "name": "FIFA World Cup 2026 (Win Sports)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10114.json"
+  },
+  {
+    "id": 10115,
+    "name": "FIFA World Cup 2026 (Bein Sports)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10115.json"
+  },
+  {
+    "id": 10116,
+    "name": "FIFA World Cup 2026 (DAZN)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10116.json"
+  },
+  {
+    "id": 10117,
+    "name": "FIFA World Cup 2026 (TVP Sports)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10117.json"
+  },
+  {
+    "id": 10118,
+    "name": "FIFA World Cup 2026 (D Sports)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10118.json"
+  },
+  {
+    "id": 10119,
+    "name": "FIFA World Cup 2026 (Case TV)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10119.json"
+  },
+  {
+    "id": 10120,
+    "name": "FIFA World Cup 2026 (Tudn Sports)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10120.json"
+  }
+]

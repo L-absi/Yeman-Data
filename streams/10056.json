@@ -1,24 +1,13 @@
 [
   {
     "headers": "",
-    "license": "\"95620bdd974041409d4674ab629e22d4\":\"c6c226ca1689f528a6f91e86da618f64\",\"181c091002d04c5481c3faab18752843\":\"b081b6169351e0f4bfc40212dfeeed10\",\"1163925b6b37434198130f773bc62841\":\"e2bdd2b87e1ddb502eb7898daece857f\"",
-    "scheme": "clearkey",
-    "otherHeaders": "",
-    "name": "TVP1",
-    "Referer": "",
-    "userAgent": "",
-    "position": "0",
-    "url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd"
-  },
-  {
-    "headers": "",
     "license": "",
     "scheme": "",
     "otherHeaders": "",
-    "name": "TVP2",
+    "name": "TOD 1",
     "Referer": "",
     "userAgent": "",
-    "position": "1",
-    "url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd"
+    "position": "0",
+    "url": "http://gooon.tv:8080/play/link/52ee014d-873c-45e0-8317-965b425d1472/eyJpdiI6Ikp5VGpOSk5lQitRanJVYWZ5Q3pYaUE9PSIsInZhbHVlIjoiZFVmdW8zbjhCQUpha3Y2Wm41UktMa3hLd0VjZkRSWWRGaXN3aTIwSFZXRWFjbytmcHlmZnNkRnRvaG1xNFFSaCIsIm1hYyI6IjE5MTQxNGI1NjRjOTVjNmY5YTEwOTU1M2NjMWZmYjhiZTJmYzQ2Zjk4OGM5OTZlNDc2ODczZTEzMWQ4MjU2ZGUiLCJ0YWciOiIifQ==.m3u8"
   }
 ]

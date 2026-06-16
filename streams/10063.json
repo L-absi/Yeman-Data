@@ -4,10 +4,54 @@
     "license": "",
     "scheme": "",
     "otherHeaders": "",
-    "name": "beIN SPORTS MAX1 HD1080i",
+    "name": "جودة 244",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "position": "0",
+    "url": "http://het4444.ycn-redirect.com/live/9883322/index.m3u8"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "جودة 360",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "position": "0",
+    "url": "http://het4444.ycn-redirect.com/live/788550011/index.m3u8"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "جودة 480",
     "Referer": "",
     "userAgent": "",
     "position": "0",
-    "url": "http://194.60.93.157/proxy?url=http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/462211.ts"
+    "url": "https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=bmax2480&key=FfWDWDwd$$"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "جودة عاليه",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "http://185.160.192.14/live/206923845871/mI45UxamwN/255225.m3u8"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "جودة 720",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "position": "0",
+    "url": "http://het4444.ycn-redirect.com/live/1515000000/index.m3u8"
   }
 ]

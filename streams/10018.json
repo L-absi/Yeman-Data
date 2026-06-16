@@ -1,13 +1,123 @@
 [
   {
+    "headers": "Referer|http://23370wa.xyz/|user-agent|Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "MAX",
+    "Referer": "http://23370wa.xyz/",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+    "position": "0",
+    "url": "http://185.160.192.14/live/171348492752/5S6HGsea3j/255224.m3u8"
+  },
+  {
     "headers": "",
     "license": "",
     "scheme": "",
     "otherHeaders": "",
-    "name": "Alwan Sport 5 SD",
+    "name": "Aya1",
     "Referer": "",
     "userAgent": "",
     "position": "0",
-    "url": "http://194.60.93.157/proxy?url=http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/418125.ts"
+    "url": "http://platform.topuphost.com:8577/live/baha1/playlist.m3u8"
+  },
+  {
+    "headers": "user-agent|stagefright/1.2 (Linux;Android 9)|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "Aya2",
+    "Referer": "",
+    "userAgent": "stagefright/1.2 (Linux;Android 9)",
+    "position": "0",
+    "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1063488.m3u8"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "NM",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "http://185.160.192.14/live/171348492752/5S6HGsea3j/255236.m3u8"
+  },
+  {
+    "headers": "user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "MAX1",
+    "Referer": "",
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)",
+    "position": "1",
+    "url": "http://185.160.192.14/live/171348492752/5S6HGsea3j/255224.m3u8"
+  },
+  {
+    "headers": "Referer|http://23370wa.xyz/|user-agent|Mozilla/5.0|http://23370wa.xyz/",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "http://23370wa.xyz/",
+    "name": "MAX2",
+    "Referer": "http://23370wa.xyz/",
+    "userAgent": "Mozilla/5.0",
+    "position": "2",
+    "url": "https://www.krdtv.online/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2F2L3g1Lwsn-XNV0cRb31CaTwp8OghoeK8WbCkwH9bFDoprbw3z0epmr3MThmLdulDA4VxsvKJ6HoWMoPJJZX-Bw%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4%2Fdynamic_delta.m3u8%3Ftype%3Dlive"
+  },
+  {
+    "headers": "user-agent|Mozilla/5.0|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "MAX3",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0",
+    "position": "3",
+    "url": "https://www.krdtv.online/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FW4sH8e2CkFPS8wtiwb1glvfaB0dliVQCI1zMTO6b1Bc2xu31eCxpr-uV1WNHcQpG5H1jbBuXDJwArokN9Kt7AA%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2Fdynamic_delta.m3u8%3Ftype%3Dlive"
+  },
+  {
+    "headers": "user-agent|Mozilla/5.0|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "MAX0",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0",
+    "position": "4",
+    "url": "https://www.krdtv.online/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FjAFVr2uK4MYYOFYOePQ87ZRlvLtpZXIVDZzf16F76RVcnb2dlm5UBoGzRPDwy7CZMdnUlAaGdBmNywTQd6j7xQ%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4%2Fdynamic_delta.m3u8%3Ftype%3Dlive"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "SHN",
+    "Referer": "",
+    "userAgent": "",
+    "position": "6",
+    "url": "https://cdn.karwan.tv/shna-tv-3/index.m3u8"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "Aya",
+    "Referer": "",
+    "userAgent": "",
+    "position": "7",
+    "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291512.m3u8"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "Max5",
+    "Referer": "",
+    "userAgent": "",
+    "position": "555",
+    "url": "http://104.168.93.100/iptv/play.php?id=shawkat.max1"
   }
 ]

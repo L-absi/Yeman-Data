@@ -1,13 +1,13 @@
 [
   {
     "headers": "",
-    "license": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
-    "scheme": "clearkey",
     "otherHeaders": "",
-    "name": "",
+    "name": "NRT SPORT 4K",
     "Referer": "",
     "userAgent": "",
     "position": "0",
-    "url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash/zdf_hd.mpd"
+    "url": "https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/jAFVr2uK4MYYOFYOePQ87ZRlvLtpZXIVDZzf16F76RVcnb2dlm5UBoGzRPDwy7CZMdnUlAaGdBmNywTQd6j7xQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_delta.m3u8?type=live",
+    "license": "",
+    "scheme": ""
   }
 ]

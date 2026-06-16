@@ -1,13 +1,13 @@
 [
   {
     "headers": "",
-    "license": "",
-    "scheme": "",
+    "license": "7f786be01a0f319594c84ff1472638e6:e14e62c9bcd0559922bb783d2d6c6328",
+    "scheme": "clearkey",
     "otherHeaders": "",
-    "name": "Alwan Sport 3 SD",
+    "name": "",
     "Referer": "",
     "userAgent": "",
     "position": "0",
-    "url": "http://194.60.93.157/proxy?url=http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/418119.ts"
+    "url": "https://simplitv-live.mdn.ors.at/live/eds/das_erste_hd/dash4h/das_erste_hd.mpd"
   }
 ]

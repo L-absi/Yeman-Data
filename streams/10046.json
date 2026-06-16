@@ -1,13 +1,13 @@
 [
   {
     "headers": "",
-    "license": "",
-    "scheme": "",
+    "license": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+    "scheme": "clearkey",
     "otherHeaders": "",
     "name": "",
     "Referer": "",
     "userAgent": "",
     "position": "0",
-    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8"
+    "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd"
   }
 ]

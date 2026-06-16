@@ -1,112 +1,82 @@
 [
   {
-    "id": 4819,
-    "categoryId": "kurd_sport",
-    "name": "AVA",
-    "nameEn": "AVA",
-    "logo": "https://karwan.tv/wp-content/uploads/ava-sport-560x315.jpg",
-    "type": "channel",
-    "position": 0,
-    "streamsFile": "streams/4819.json"
+    "id": 10124,
+    "name": "VAR9",
+    "logo": "https://fls.cjs.jyh/",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10124.json"
   },
   {
-    "id": 4820,
-    "categoryId": "kurd_sport",
-    "name": "Azadi",
-    "nameEn": "Azadi",
-    "logo": "https://karwan.tv/wp-content/uploads/azadi-sport.png",
-    "type": "channel",
-    "position": 2,
-    "streamsFile": "streams/4820.json"
+    "id": 10125,
+    "name": "SN",
+    "logo": "https://fls.cjs.jyh/",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10125.json"
   },
   {
-    "id": 4821,
-    "categoryId": "kurd_sport",
-    "name": "Kob2",
-    "nameEn": "Kob2",
-    "logo": "https://karwan.tv/wp-content/uploads/koblenz-sport-2--560x315.png",
-    "type": "channel",
-    "position": 4,
-    "streamsFile": "streams/4821.json"
+    "id": 10126,
+    "name": "MAX2",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10126.json"
   },
   {
-    "id": 4822,
-    "categoryId": "kurd_sport",
-    "name": "Kob3",
-    "nameEn": "Kob3",
-    "logo": "https://karwan.tv/wp-content/uploads/koblenz-sport-3-560x315.png",
-    "type": "channel",
-    "position": 4,
-    "streamsFile": "streams/4822.json"
+    "id": 10127,
+    "name": "MAX1",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/NEW_beIN-SPORTS-MAX-01.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10127.json"
   },
   {
-    "id": 4823,
-    "categoryId": "kurd_sport",
-    "name": "LD",
-    "nameEn": "LD",
-    "logo": "https://karwan.tv/wp-content/uploads/ld-sport-chek.jpg",
-    "type": "channel",
-    "position": 5,
-    "streamsFile": "streams/4823.json"
-  },
-  {
-    "id": 4824,
-    "categoryId": "kurd_sport",
+    "id": 10128,
     "name": "NRT",
-    "nameEn": "NRT",
-    "logo": "https://karwan.tv/wp-content/uploads/nrt-sport-528x297.png",
-    "type": "channel",
-    "position": 6,
-    "streamsFile": "streams/4824.json"
+    "logo": "https://i.postimg.cc/ydxwrpWS/file_000000000b7c72439060556e8e891f76.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10128.json"
   },
   {
-    "id": 4825,
-    "categoryId": "kurd_sport",
-    "name": "Sima",
-    "nameEn": "Sima",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzvQrERVdpOODIR1BY8wdJ_NUMeEuYtLNGq7HkoOQKdw&s=10",
-    "type": "channel",
-    "position": 7,
-    "streamsFile": "streams/4825.json"
+    "id": 10129,
+    "name": "NRT SPORT 4K",
+    "logo": "https://i.postimg.cc/ydxwrpWS/file_000000000b7c72439060556e8e891f76.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10129.json"
   },
   {
-    "id": 4826,
-    "categoryId": "kurd_sport",
-    "name": "Zaxo",
-    "nameEn": "Zaxo",
-    "logo": "https://karwan.tv/wp-content/uploads/zaxo-sport-528x297.jpg",
-    "type": "channel",
-    "position": 21,
-    "streamsFile": "streams/4826.json"
+    "id": 10130,
+    "name": "beinhdr2",
+    "logo": "https://fls.cjs.jyh/",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10130.json"
   },
   {
-    "id": 4827,
-    "categoryId": "kurd_sport",
-    "name": "AST",
-    "nameEn": "AST",
-    "logo": "https://karwan.tv/wp-content/uploads/astera-528x297.png",
-    "type": "channel",
-    "position": 22,
-    "streamsFile": "streams/4827.json"
+    "id": 10131,
+    "name": "LD",
+    "logo": "https://fls.cjs.jyh/",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10131.json"
   },
   {
-    "id": 4828,
-    "categoryId": "kurd_sport",
-    "name": "Gewher",
-    "nameEn": "Gewher",
-    "logo": "https://karwan.tv/wp-content/uploads/gewher-sport-1.jpg",
-    "type": "channel",
-    "position": 23,
-    "streamsFile": "streams/4828.json"
+    "id": 10132,
+    "name": "4K",
+    "logo": "https://fls.cjs.jyh/",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10132.json"
   },
   {
-    "id": 4829,
-    "categoryId": "kurd_sport",
-    "name": "ASO",
-    "nameEn": "ASO",
-    "logo": "https://karwan.tv/wp-content/uploads/aso-sport-528x297.png",
-    "type": "channel",
-    "position": 24,
-    "streamsFile": "streams/4829.json"
+    "id": 10133,
+    "name": "4K 1",
+    "logo": "https://fls.cjs.jyh/",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10133.json"
   }
 ]

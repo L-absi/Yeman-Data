@@ -1,13 +1,13 @@
 [
   {
-    "headers": "User-Agent|Mozilla/5.0",
-    "license": "",
-    "scheme": "",
+    "headers": "",
+    "license": "1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c",
+    "scheme": "clearkey",
     "otherHeaders": "",
-    "name": "▶️ Default",
+    "name": "",
     "Referer": "",
     "userAgent": "",
-    "position": "1",
-    "url": "http://1ghgh79466.m3u8"
+    "position": "0",
+    "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd"
   }
 ]

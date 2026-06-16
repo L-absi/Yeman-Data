@@ -1,13 +1,13 @@
 [
   {
     "headers": "",
-    "license": "49c79f1d16db45b4e6671c3a7550e8fc:ac26680d5cfdcab87e4139a410b9984b",
-    "scheme": "clearkey",
+    "license": "",
+    "scheme": "",
     "otherHeaders": "",
     "name": "",
     "Referer": "",
     "userAgent": "",
     "position": "0",
-    "url": "https://lilac01.pontiscloud.com/live/eds/TVE/live_dash_cld/TVE.mpd?|referer=https://webclient.antinaplayplus.com.ar/"
+    "url": "https://go.telemetr.io/go?from=channel&url=https%3A%2F%2Fstream1.cinerama.uz%2F1004%2Findex.m3u8"
   }
 ]

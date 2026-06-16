@@ -1,13 +1,24 @@
 [
   {
-    "headers": "",
+    "headers": "user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|",
     "license": "",
     "scheme": "",
     "otherHeaders": "",
-    "name": "LIVE 2",
+    "name": "ALW1",
     "Referer": "",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)",
     "position": "0",
-    "url": "http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=fUEAqrWfZ8iA2ne6m3L7yw&e=1780496437"
+    "url": "http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237017.m3u8"
+  },
+  {
+    "headers": "user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "ALW3",
+    "Referer": "",
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)",
+    "position": "0",
+    "url": "http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237018.m3u8"
   }
 ]

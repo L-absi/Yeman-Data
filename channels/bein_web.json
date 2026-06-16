@@ -1,50 +1,50 @@
 [
   {
-    "id": 10120,
+    "id": 10021,
     "name": "BEIN MAX 1",
     "logo": "https://i.pinimg.com/736x/12/78/71/12787167ddc7078399f26de2aa54f326.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10120.json"
+    "streamsFile": "streams/10021.json"
   },
   {
-    "id": 10121,
+    "id": 10022,
     "name": "BEIN MAX 2",
     "logo": "https://i.pinimg.com/736x/12/78/71/12787167ddc7078399f26de2aa54f326.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10121.json"
+    "streamsFile": "streams/10022.json"
   },
   {
-    "id": 10122,
+    "id": 10023,
     "name": "BEIN MAX 3",
     "logo": "https://i.pinimg.com/736x/12/78/71/12787167ddc7078399f26de2aa54f326.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10122.json"
+    "streamsFile": "streams/10023.json"
   },
   {
-    "id": 10123,
+    "id": 10024,
     "name": "BEIN MAX 4",
     "logo": "https://i.pinimg.com/736x/12/78/71/12787167ddc7078399f26de2aa54f326.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10123.json"
+    "streamsFile": "streams/10024.json"
   },
   {
-    "id": 10124,
+    "id": 10025,
     "name": "BEIN MAX 5",
     "logo": "https://i.pinimg.com/736x/12/78/71/12787167ddc7078399f26de2aa54f326.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10124.json"
+    "streamsFile": "streams/10025.json"
   },
   {
-    "id": 10125,
+    "id": 10026,
     "name": "BEIN MAX 6",
     "logo": "https://i.pinimg.com/736x/12/78/71/12787167ddc7078399f26de2aa54f326.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10125.json"
+    "streamsFile": "streams/10026.json"
   }
 ]

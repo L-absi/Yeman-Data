@@ -4,10 +4,21 @@
     "license": "",
     "scheme": "",
     "otherHeaders": "",
-    "name": "Alwan Sport 6 4K",
+    "name": "ZDF1",
     "Referer": "",
     "userAgent": "",
     "position": "0",
-    "url": "http://194.60.93.157/proxy?url=http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/418126.ts"
+    "url": "https://estreams.tv.nej.cz/dash/CH_ZDF_HD.ism/playlist.mpd"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "ZDF2",
+    "Referer": "",
+    "userAgent": "",
+    "position": "1",
+    "url": "https://estreams.tv.nej.cz/dash/CH_ZDF_Portable.ism/playlist.mpd"
   }
 ]

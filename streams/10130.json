@@ -1,13 +1,13 @@
 [
   {
     "headers": "",
-    "license": "7f786be01a0f319594c84ff1472638e6:e14e62c9bcd0559922bb783d2d6c6328",
-    "scheme": "clearkey",
     "otherHeaders": "",
-    "name": "",
+    "name": "beinhdr2",
     "Referer": "",
     "userAgent": "",
     "position": "0",
-    "url": "https://simplitv-live.mdn.ors.at/live/eds/das_erste_hd/dash4h/das_erste_hd.mpd"
+    "url": "https://live-aburayhan1101.telewebion.ir/ek/faratar/live/1440p/index.m3u8",
+    "license": "",
+    "scheme": ""
   }
 ]

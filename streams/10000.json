@@ -1,13 +1,13 @@
 [
   {
-    "headers": "",
+    "headers": "User-Agent|Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15&Referer|http://23370wa.xyz/",
     "license": "",
     "scheme": "",
     "otherHeaders": "",
-    "name": "beIN SPORTS MAX1 HD1080i",
+    "name": "Serveur Principal",
     "Referer": "",
     "userAgent": "",
     "position": "0",
-    "url": "http://194.60.93.157/proxy?url=http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/462211.ts"
+    "url": "http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/418115.ts"
   }
 ]

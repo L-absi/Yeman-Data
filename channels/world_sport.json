@@ -1,114 +1,234 @@
 [
   {
-    "id": 10126,
-    "name": "TRT1",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRbF8GsXVTmDRLnN7Ju8_WA2_wNJVoLRwaFv4VLkUMkQ&s",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/10126.json"
-  },
-  {
-    "id": 10127,
+    "id": 10027,
     "name": "M6",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzANEKIVoFrXqDWo1YpRz1n8mZTqJQ_Ej1bwyhQD1Jg&s=10",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10127.json"
+    "streamsFile": "streams/10027.json"
   },
   {
-    "id": 10128,
+    "id": 10028,
+    "name": "bN FR",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10028.json"
+  },
+  {
+    "id": 10029,
+    "name": "Tipîk",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10029.json"
+  },
+  {
+    "id": 10030,
+    "name": "TRT 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10030.json"
+  },
+  {
+    "id": 10031,
+    "name": "RTB",
+    "logo": "https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10031.json"
+  },
+  {
+    "id": 10032,
     "name": "TF1",
     "logo": "https://picserve.netplus.ch/channels/tf1hd.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10128.json"
+    "streamsFile": "streams/10032.json"
   },
   {
-    "id": 10129,
+    "id": 10033,
     "name": "ZDF",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp5lBQO2t-CoE48er5XE2ZLfEttkTOhx3XdQ&s",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10129.json"
+    "streamsFile": "streams/10033.json"
   },
   {
-    "id": 10130,
+    "id": 10034,
     "name": "ARD1",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/ARD_2019_logo.svg/langfr-250px-ARD_2019_logo.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10130.json"
+    "streamsFile": "streams/10034.json"
   },
   {
-    "id": 10131,
+    "id": 10035,
     "name": "W9",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkk-7q015zPztVQJtrZ5oGkybnNjcSVD63OMY-d8qqiQ&s=10",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10131.json"
+    "streamsFile": "streams/10035.json"
   },
   {
-    "id": 10132,
-    "name": "TVE",
+    "id": 10036,
+    "name": "RTVE",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/960px-Logo_TVE-Internacional.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10132.json"
+    "streamsFile": "streams/10036.json"
   },
   {
-    "id": 10133,
+    "id": 10037,
     "name": "ORF1",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/langfr-250px-ORF_1_2019.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10133.json"
+    "streamsFile": "streams/10037.json"
   },
   {
-    "id": 10134,
+    "id": 10038,
     "name": "Servus",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYqCfD1fwL4OmXcIsHGAB500gYTn2oLFsBg&s",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10134.json"
+    "streamsFile": "streams/10038.json"
   },
   {
-    "id": 10135,
-    "name": "Tve",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/960px-Logo_TVE-Internacional.svg.png",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/10135.json"
-  },
-  {
-    "id": 10136,
+    "id": 10039,
     "name": "TVP Sport",
     "logo": "https://iptvboss.xyz/logos/Poland/TVPSport.pl.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10136.json"
+    "streamsFile": "streams/10039.json"
   },
   {
-    "id": 10137,
+    "id": 10040,
     "name": "TVP1",
     "logo": "https://r-scale-6e.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866669/images/55947096.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10137.json"
+    "streamsFile": "streams/10040.json"
   },
   {
-    "id": 10138,
+    "id": 10041,
     "name": "ZDF HD",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp5lBQO2t-CoE48er5XE2ZLfEttkTOhx3XdQ&s",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10138.json"
+    "streamsFile": "streams/10041.json"
   },
   {
-    "id": 10139,
-    "name": "RAI1",
-    "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/9/94/Rai_1_HD_%282016-.n.v.%29.png/revision/latest/scale-to-width-down/250?cb=20170515182736",
+    "id": 10042,
+    "name": "Telemundo",
+    "logo": "https://cdn-1.webcatalog.io/catalog/telemundo/telemundo-icon-filled-256.png?v=1714776108926",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10139.json"
+    "streamsFile": "streams/10042.json"
+  },
+  {
+    "id": 10043,
+    "name": "PPV",
+    "logo": "https://ppv-tv.com/wp-content/uploads/2024/12/cropped-Posnetek_zaslona_2024-11-30_122343__1_-removebg-preview.webp",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10043.json"
+  },
+  {
+    "id": 10044,
+    "name": "FOX",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10044.json"
+  },
+  {
+    "id": 10045,
+    "name": "Vix",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH0Zh5dyRS-Mg/company-logo_200_200/company-logo_200_200/0/1723135767103/vix_corporate_logo?e=2147483647&v=beta&t=MqleKzlbLStOnv4Pw2fpffiouXWLuc1AbzJDmjjZhuM",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10045.json"
+  },
+  {
+    "id": 10046,
+    "name": "VRT 1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSle9KVhae83_7xta74ga1aUX0oZsfBF-YNnQ&s",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10046.json"
+  },
+  {
+    "id": 10047,
+    "name": "FX Net",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-nncSPWl3WbGjfCfCiwJ97_94h1jexG5rOg&s",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10047.json"
+  },
+  {
+    "id": 10048,
+    "name": "Caze",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10048.json"
+  },
+  {
+    "id": 10049,
+    "name": "Spor",
+    "logo": "https://static.wikia.nocookie.net/redeglobo/images/9/94/SporTV_Logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20230705122353&path-prefix=pt",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10049.json"
+  },
+  {
+    "id": 10050,
+    "name": "RTE",
+    "logo": "https://tv.assets.pressassociation.io/0540afb9-0248-5f11-808f-61ed22ab1407.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10050.json"
+  },
+  {
+    "id": 10051,
+    "name": "D Sport",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVkxDrqVdcaSZIXgfIVOB31HaRifwtdkEGh-2BKmxqmfKLKFyu_rcgtwLx&s=10",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10051.json"
+  },
+  {
+    "id": 10052,
+    "name": "Match",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwTfM0idm3odrKiiCtg_tCK-PEMCIdx5-AHqbI8NTHHA&s=10",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10052.json"
+  },
+  {
+    "id": 10053,
+    "name": "TVRi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10053.json"
+  },
+  {
+    "id": 10054,
+    "name": "TSN",
+    "logo": "https://m.media-amazon.com/images/I/31c1odhjJAL.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10054.json"
+  },
+  {
+    "id": 10055,
+    "name": "AMZ",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10055.json"
   }
 ]

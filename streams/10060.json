@@ -1,13 +1,13 @@
 [
   {
-    "headers": "user-agent|https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd|",
-    "license": "f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e",
-    "scheme": "clearkey",
+    "headers": "",
+    "license": "",
+    "scheme": "",
     "otherHeaders": "",
-    "name": "GO3 SPORT 1",
+    "name": "TOD 5",
     "Referer": "",
-    "userAgent": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd",
+    "userAgent": "",
     "position": "0",
-    "url": "https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd"
+    "url": "http://gooon.tv:8080/play/link/5bc45278-5cae-4ffa-bdb8-72ac3a5599db/eyJpdiI6Im1GbjAyZnFYMWNSeTVEbWN1dmtRSHc9PSIsInZhbHVlIjoiV1M5UlVGc3FkbWowVFUzZFllMklKTUk5ZkZOTTBCeW1SQzJWL1FmMFRtRjMxVWsveGpnN05QVlV5NUh0ZDR5MyIsIm1hYyI6IjQxYTI1YzkwN2YyNDA4MDA0ZTZjZTdlMTA2YTU4YjY5OTM2NWY2OTk1YjBjNmMyYjI5NWFhODY1N2IxNjVmYjQiLCJ0YWciOiIifQ==.m3u8"
   }
 ]

@@ -1,46 +1,13 @@
 [
   {
-    "headers": "User-Agent|Mozilla/5.0",
-    "license": "",
-    "scheme": "",
+    "headers": "",
+    "license": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
+    "scheme": "clearkey",
     "otherHeaders": "",
-    "name": "▶️ HD",
+    "name": "",
     "Referer": "",
     "userAgent": "",
-    "position": "1",
-    "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291507.m3u8"
-  },
-  {
-    "headers": "User-Agent|Mozilla/5.0",
-    "license": "",
-    "scheme": "",
-    "otherHeaders": "",
-    "name": "▶️ FHD",
-    "Referer": "",
-    "userAgent": "",
-    "position": "2",
-    "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.m3u8"
-  },
-  {
-    "headers": "User-Agent|Mozilla/5.0",
-    "license": "",
-    "scheme": "",
-    "otherHeaders": "",
-    "name": "▶️ 4K",
-    "Referer": "",
-    "userAgent": "",
-    "position": "3",
-    "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291495.m3u8"
-  },
-  {
-    "headers": "User-Agent|Mozilla/5.0",
-    "license": "",
-    "scheme": "",
-    "otherHeaders": "",
-    "name": "▶️ SD",
-    "Referer": "",
-    "userAgent": "",
-    "position": "4",
-    "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291513.m3u8"
+    "position": "0",
+    "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd"
   }
 ]

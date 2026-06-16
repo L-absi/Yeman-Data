@@ -1,13 +1,13 @@
 [
   {
     "headers": "",
-    "license": "",
-    "scheme": "",
+    "license": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+    "scheme": "clearkey",
     "otherHeaders": "",
-    "name": "Alwan Sport 3 HD",
+    "name": "",
     "Referer": "",
     "userAgent": "",
     "position": "0",
-    "url": "http://194.60.93.157/proxy?url=http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/418118.ts"
+    "url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash/zdf_hd.mpd"
   }
 ]

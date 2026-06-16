@@ -1,46 +1,35 @@
 [
   {
-    "headers": "",
+    "headers": "User-Agent|Mozilla/5.0",
     "license": "",
     "scheme": "",
     "otherHeaders": "",
-    "name": "",
+    "name": "▶️ Fhd",
     "Referer": "",
     "userAgent": "",
-    "position": "0",
-    "url": "https://bluesport.fun/live/blue_sport_1/index.m3u8"
+    "position": "1",
+    "url": "http://bouygues-cdn.r1v.us:8080/d49dc02ec79b/k5cfhnm1/237021"
   },
   {
-    "headers": "",
+    "headers": "User-Agent|Mozilla/5.0",
     "license": "",
     "scheme": "",
     "otherHeaders": "",
-    "name": "جودة 244",
+    "name": "▶️ HD",
     "Referer": "",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-    "position": "0",
-    "url": "http://het4444.ycn-redirect.com/live/181818444/index.m3u8"
+    "userAgent": "",
+    "position": "2",
+    "url": "https://stream.camcloud.stream/stream/456de69d002b/playlist.m3u8"
   },
   {
-    "headers": "",
+    "headers": "User-Agent|Mozilla/5.0",
     "license": "",
     "scheme": "",
     "otherHeaders": "",
-    "name": "جودة 360",
+    "name": "▶️ HLS",
     "Referer": "",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-    "position": "0",
-    "url": "http://het4444.ycn-redirect.com/live/115451004/index.m3u8"
-  },
-  {
-    "headers": "",
-    "license": "",
-    "scheme": "",
-    "otherHeaders": "",
-    "name": "جودة 720",
-    "Referer": "",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-    "position": "0",
-    "url": "http://het134b.ycn-redirect.com/live/610303030/index.m3u8"
+    "userAgent": "",
+    "position": "3",
+    "url": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181666.ts"
   }
 ]

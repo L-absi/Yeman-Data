@@ -1,0 +1,26 @@
+[
+  {
+    "id": 10121,
+    "name": "UHD1",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10121.json"
+  },
+  {
+    "id": 10122,
+    "name": "UHD2",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10122.json"
+  },
+  {
+    "id": 10123,
+    "name": "UHD3",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10123.json"
+  }
+]

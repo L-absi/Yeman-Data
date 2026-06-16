@@ -1,13 +1,13 @@
 [
   {
     "headers": "",
-    "license": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"fClVjWFCjpGghfJsp0aIpg\",\"k\":\"WCLDPzkwwChKlbY6uWnEzg\"},{\"kty\":\"oct\",\"kid\":\"-_O2vYzx4bZCv92KYv8sQQ\",\"k\":\"pcmUSBa_XK8Meo-eOczQvA\"},{\"kty\":\"oct\",\"kid\":\"CpJ1UUwSAH6FdDVuX42bhg\",\"k\":\"I-Av_9kbnbKnLGfl-KJpWg\"},{\"kty\":\"oct\",\"kid\":\"7yoU6FxmitnPfxyGYzjfcQ\",\"k\":\"D8chCxdM8Utlh4Fkw_0d9A\"},{\"kty\":\"oct\",\"kid\":\"4XAK4G_Bi-U09ds2Hh6fxA\",\"k\":\"2p-FXfqZ5OHuJ1Q_8taohg\"}],\"type\":\"temporary\"}",
-    "scheme": "clearkey",
     "otherHeaders": "",
-    "name": "",
+    "name": "ldsportchaker",
     "Referer": "",
     "userAgent": "",
     "position": "0",
-    "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/373/1/live.mpd"
+    "url": "https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/MlXwEl5t-eDfCzsv0tJ8ZSHEPsns5td2y4r9aj5-8c0RIfNa73BqoG_-woV8GoZ3jbjI0tuMXjOUZNn1wOCKYA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_delta.m3u8?type=live",
+    "license": "",
+    "scheme": ""
   }
 ]

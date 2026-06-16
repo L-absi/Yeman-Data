@@ -1,13 +1,79 @@
 [
   {
+    "headers": "user-agent|Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "MAX",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1",
+    "position": "0",
+    "url": "http://185.160.192.14/live/206923845871/mI45UxamwN/255225.m3u8"
+  },
+  {
     "headers": "",
     "license": "",
     "scheme": "",
     "otherHeaders": "",
-    "name": "Alwan Sport 6 4K",
+    "name": "MaxSD",
     "Referer": "",
     "userAgent": "",
     "position": "0",
-    "url": "http://194.60.93.157/proxy?url=http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/418126.ts"
+    "url": "http://het128b.ycn-redirect.com/live/1515000000/index.m3u8"
+  },
+  {
+    "headers": "user-agent|Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "HD1",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+    "position": "1",
+    "url": "http://185.160.192.14/live/206923845871/mI45UxamwN/255237.m3u8"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "MAX2",
+    "Referer": "",
+    "userAgent": "",
+    "position": "2",
+    "url": "http://185.160.192.14/live/206923845871/mI45UxamwN/255243.m3u8"
+  },
+  {
+    "headers": "user-agent|stagefright/1.2 (Linux;Android 9)|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "Aya2",
+    "Referer": "",
+    "userAgent": "stagefright/1.2 (Linux;Android 9)",
+    "position": "3",
+    "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1063489.m3u8"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "Mx5",
+    "Referer": "",
+    "userAgent": "",
+    "position": "5",
+    "url": "https://www.krdtv.online/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FW4sH8e2CkFPS8wtiwb1glvfaB0dliVQCI1zMTO6b1Bc2xu31eCxpr-uV1WNHcQpG5H1jbBuXDJwArokN9Kt7AA%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2Fdynamic_delta.m3u8%3Ftype%3Dlive"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "Mx6",
+    "Referer": "",
+    "userAgent": "",
+    "position": "6",
+    "url": "https://www.krdtv.online/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FsPYPNpwqqe7jxVSuO1ijvDz-Q6Sev24EbQJniHu6r8Uc8MmOfVDzV7iec3YJxGsFa5EZzs6L8xtabQpE7ELTeQ%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2Fdynamic_delta.m3u8%3Ftype%3Dlive"
   }
 ]

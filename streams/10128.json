@@ -1,13 +1,13 @@
 [
   {
     "headers": "",
-    "license": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"rKzUjhLvvbqkebbW2_EQtA\",\"k\":\"UAr4myHWTEgz4QfybEJK-w\"},{\"kty\":\"oct\",\"kid\":\"Xn4atxoopds39jbUXbiFVA\",\"k\":\"7mr0EVRkhX7IIj1hH_SYkQ\"},{\"kty\":\"oct\",\"kid\":\"WxKIsxtqP3iaIFYUu9f6xw\",\"k\":\"FJgPJXjsog14vXBgGvIUWA\"},{\"kty\":\"oct\",\"kid\":\"UUJpv9uuzWKv4ccKTtooMQ\",\"k\":\"5yq7EORIZFqdJq6EajI2vg\"},{\"kty\":\"oct\",\"kid\":\"4jakHHX2bqKcK0OL0GHMPg\",\"k\":\"FKJfuZFYdmbjoAG35Dn_Jw\"}],\"type\":\"temporary\"}",
-    "scheme": "clearkey",
     "otherHeaders": "",
-    "name": "",
+    "name": "34e24e33-0772-4bfd-ad07-38df15baee2a",
     "Referer": "",
     "userAgent": "",
     "position": "0",
-    "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/612/1/live.mpd"
+    "url": "https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/jAFVr2uK4MYYOFYOePQ87ZRlvLtpZXIVDZzf16F76RVcnb2dlm5UBoGzRPDwy7CZMdnUlAaGdBmNywTQd6j7xQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live",
+    "license": "",
+    "scheme": ""
   }
 ]

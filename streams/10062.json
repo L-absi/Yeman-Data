@@ -1,13 +1,101 @@
 [
   {
     "headers": "",
-    "license": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
-    "scheme": "clearkey",
+    "license": "",
+    "scheme": "",
     "otherHeaders": "",
-    "name": "GO3 SPORT OPEN",
+    "name": "جودة 360",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "position": "0",
+    "url": "http://het4444.ycn-redirect.com/live/115451004/index.m3u8"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "جودة 720",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "position": "0",
+    "url": "http://het134b.ycn-redirect.com/live/610303030/index.m3u8"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "جودة HD",
     "Referer": "",
     "userAgent": "",
     "position": "0",
-    "url": "https://v4-kun-nk16-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd"
+    "url": "http://rgkkw.live:80/akheelasharaf/97430689947/744517"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "جودة عالية",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "http://185.160.192.14/live/171348492752/5S6HGsea3j/255224.m3u8"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "جودة متعدد 2",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/2hqZ4gfBHiGyHG1b6MBMc35_7j0KbKcSV5A2NBYpT-lluou3b8oRBIBlh1Z7DCQ824XZV6UggY4rBdgrNv_ikw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "سيرفر بلو",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "https://bluesport.fun/live/blue_sport_1/index.m3u8"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "جودة 4K",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "http://rgkkw.live:80/akheelasharaf/97430689947/744523"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "تعليق اجنبي",
+    "Referer": "",
+    "userAgent": "",
+    "position": "0",
+    "url": "http://rgkkw.live:8080/live/akheelasharaf/97430689947/741566.ts"
+  },
+  {
+    "headers": "",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "جودة 244",
+    "Referer": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "position": "0",
+    "url": "http://het4444.ycn-redirect.com/live/181818444/index.m3u8"
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
     "headers": "",
-    "license": "",
-    "scheme": "",
+    "license": "7ee1a23e40b456ebfdaa40c51a24b857:45ffaff5f3221a356c82c3d39bb327ac",
+    "scheme": "clearkey",
     "otherHeaders": "",
     "name": "",
     "Referer": "",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "userAgent": "",
     "position": "0",
-    "url": "http://het4444.ycn-redirect.com/live/115451004/index.m3u8?t=tn1GGj-S2J3QKTJtJXkncw&e=1780500512"
+    "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-93-HD/default.mpd"
   }
 ]

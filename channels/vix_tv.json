@@ -1,0 +1,26 @@
+[
+  {
+    "id": 10109,
+    "name": "Vix 90",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6VEa_JrsoIcPZLZTXVgtaGOranOowWf8Mug_E3OQY3Q&s=10",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10109.json"
+  },
+  {
+    "id": 10110,
+    "name": "Vix 91",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6VEa_JrsoIcPZLZTXVgtaGOranOowWf8Mug_E3OQY3Q&s=10",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10110.json"
+  },
+  {
+    "id": 10111,
+    "name": "Vix 93",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6VEa_JrsoIcPZLZTXVgtaGOranOowWf8Mug_E3OQY3Q&s=10",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10111.json"
+  }
+]

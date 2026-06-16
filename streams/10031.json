@@ -1,13 +1,13 @@
 [
   {
-    "headers": "",
+    "headers": "Referer|https://www.rtbgo.bn/|user-agent|RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1|",
     "license": "",
     "scheme": "",
     "otherHeaders": "",
-    "name": "Alwan Sport 2 SD",
-    "Referer": "",
-    "userAgent": "",
+    "name": "RTB GO LIVE #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/ #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
+    "Referer": "https://www.rtbgo.bn/",
+    "userAgent": "RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
     "position": "0",
-    "url": "http://194.60.93.157/proxy?url=http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/418116.ts"
+    "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8"
   }
 ]

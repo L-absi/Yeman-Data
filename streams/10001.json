@@ -1,13 +1,13 @@
 [
   {
-    "headers": "",
+    "headers": "User-Agent|http://be-ice.com:8080/live/omar777/01103978590/462212.ts",
     "license": "",
     "scheme": "",
     "otherHeaders": "",
-    "name": "beIN SPORTS MAX2 HD1080i",
+    "name": "Serveur Principal",
     "Referer": "",
     "userAgent": "",
     "position": "0",
-    "url": "http://194.60.93.157/proxy?url=http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/462212.ts"
+    "url": "http://185.160.192.14:80/live/171348492752/5S6HGsea3j/255227.m3u8"
   }
 ]

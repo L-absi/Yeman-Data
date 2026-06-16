@@ -1,0 +1,34 @@
+[
+  {
+    "id": 10105,
+    "name": "Bein max 1",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10105.json"
+  },
+  {
+    "id": 10106,
+    "name": "Bein max 2",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10106.json"
+  },
+  {
+    "id": 10107,
+    "name": "Bein max 3",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10107.json"
+  },
+  {
+    "id": 10108,
+    "name": "Bein max 4",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/10108.json"
+  }
+]

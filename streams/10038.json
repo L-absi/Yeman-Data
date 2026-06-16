@@ -1,13 +1,13 @@
 [
   {
     "headers": "",
-    "license": "",
-    "scheme": "",
+    "license": "1c7f3d4aadc504459a12bbd3bbd62944:efa707a9f828120b4c9807be11755e65",
+    "scheme": "clearkey",
     "otherHeaders": "",
-    "name": "Alwan Sport 5 4K",
+    "name": "",
     "Referer": "",
     "userAgent": "",
     "position": "0",
-    "url": "http://194.60.93.157/proxy?url=http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/418123.ts"
+    "url": "https://ac-003.live.p7s1video.net/d25fcd73/t_003/servustv-at/cenc-default.mpd"
   }
 ]

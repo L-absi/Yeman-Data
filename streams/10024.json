@@ -1,13 +1,13 @@
 [
   {
-    "headers": "",
+    "headers": "User-Agent|Mozilla/5.0",
     "license": "",
     "scheme": "",
     "otherHeaders": "",
-    "name": "beIN SPORTS MAX3 HD1080i",
+    "name": "▶️ Default",
     "Referer": "",
     "userAgent": "",
-    "position": "0",
-    "url": "http://194.60.93.157/proxy?url=http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/462213.ts"
+    "position": "1",
+    "url": "http://1ghgh79466.m3u8"
   }
 ]

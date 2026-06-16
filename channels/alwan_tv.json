@@ -1,82 +1,82 @@
 [
   {
-    "id": 10140,
+    "id": 10089,
     "name": "الوان 1",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10140.json"
+    "streamsFile": "streams/10089.json"
   },
   {
-    "id": 10141,
+    "id": 10090,
     "name": "الوان 2",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10141.json"
+    "streamsFile": "streams/10090.json"
   },
   {
-    "id": 10142,
+    "id": 10091,
     "name": "الوان 3",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10142.json"
+    "streamsFile": "streams/10091.json"
   },
   {
-    "id": 10143,
+    "id": 10092,
     "name": "الوان 4",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10143.json"
+    "streamsFile": "streams/10092.json"
   },
   {
-    "id": 10144,
+    "id": 10093,
     "name": "الوان 5",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10144.json"
+    "streamsFile": "streams/10093.json"
   },
   {
-    "id": 10145,
+    "id": 10094,
     "name": "الوان 6",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10145.json"
+    "streamsFile": "streams/10094.json"
   },
   {
-    "id": 10146,
+    "id": 10095,
     "name": "الوان 7",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10146.json"
+    "streamsFile": "streams/10095.json"
   },
   {
-    "id": 10147,
+    "id": 10096,
     "name": "الوان 8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10147.json"
+    "streamsFile": "streams/10096.json"
   },
   {
-    "id": 10148,
+    "id": 10097,
     "name": "الوان 9",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10148.json"
+    "streamsFile": "streams/10097.json"
   },
   {
-    "id": 10149,
+    "id": 10098,
     "name": "الوان تركي",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10149.json"
+    "streamsFile": "streams/10098.json"
   }
 ]

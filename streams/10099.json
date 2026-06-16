@@ -1,13 +1,46 @@
 [
   {
+    "headers": "user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "ALW",
+    "Referer": "",
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)",
+    "position": "0",
+    "url": "http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237014.m3u8"
+  },
+  {
+    "headers": "user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "ALW2",
+    "Referer": "",
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)",
+    "position": "0",
+    "url": "http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237015.m3u8"
+  },
+  {
+    "headers": "Referer|https://increasecattle.net/embed/szkiaelgpj01|user-agent|yusfiptv|",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "Alw1",
+    "Referer": "https://increasecattle.net/embed/szkiaelgpj01",
+    "userAgent": "yusfiptv",
+    "position": "01",
+    "url": "http://104.168.93.100/iptv/play.php?id=shawkat.alwan1"
+  },
+  {
     "headers": "",
     "license": "",
     "scheme": "",
     "otherHeaders": "",
-    "name": "1080",
+    "name": "Alw2",
     "Referer": "",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-    "position": "0",
-    "url": "http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=mFUiQXWx9rTPkHdA1_qVaw&e=1780496410"
+    "userAgent": "",
+    "position": "3",
+    "url": "http://virtualdbxv.com:8080/alwan1hd/index.m3u8"
   }
 ]

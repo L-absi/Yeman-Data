@@ -1,13 +1,24 @@
 [
   {
-    "headers": "",
+    "headers": "User-Agent|Mozilla/5.0",
     "license": "",
     "scheme": "",
     "otherHeaders": "",
-    "name": "TOD 5",
+    "name": "▶️ Fhd",
     "Referer": "",
     "userAgent": "",
-    "position": "0",
-    "url": "http://gooon.tv:8080/play/link/5bc45278-5cae-4ffa-bdb8-72ac3a5599db/eyJpdiI6Im1GbjAyZnFYMWNSeTVEbWN1dmtRSHc9PSIsInZhbHVlIjoiV1M5UlVGc3FkbWowVFUzZFllMklKTUk5ZkZOTTBCeW1SQzJWL1FmMFRtRjMxVWsveGpnN05QVlV5NUh0ZDR5MyIsIm1hYyI6IjQxYTI1YzkwN2YyNDA4MDA0ZTZjZTdlMTA2YTU4YjY5OTM2NWY2OTk1YjBjNmMyYjI5NWFhODY1N2IxNjVmYjQiLCJ0YWciOiIifQ==.m3u8"
+    "position": "1",
+    "url": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts"
+  },
+  {
+    "headers": "User-Agent|Mozilla/5.0",
+    "license": "",
+    "scheme": "",
+    "otherHeaders": "",
+    "name": "▶️ SD",
+    "Referer": "",
+    "userAgent": "",
+    "position": "2",
+    "url": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181662.ts"
   }
 ]
