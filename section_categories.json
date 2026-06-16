@@ -1,88 +1,97 @@
-[    
-   {
-      "id": 278,
-      "key": "yacine_tv",
-      "name": "YacineTV Categories",
-      "logo": "",
-      "categories": [
-        {
-          "id": 252,
-          "key": "252",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png",
-          "name": "beIN SPORTS Laith",
-          "channelsFile": "channels/252.json"
-        },
-        {
-          "id": 258,
-          "key": "258",
-          "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350674_ico.png",
-          "name": "Bein Sports Mix",
-          "channelsFile": "channels/258.json"
-        },
-        {
-          "id": 259,
-          "key": "259",
-          "logo": "https://lh3.googleusercontent.com/dMmC2XbHgj-2dgRKtCcC8SaXxkfWHW_d-UE9buhPjzDnvdcKARfHrR0cQuTCEpA10w=w300",
-          "name": "ARABIC CHANNELS",
-          "channelsFile": "channels/259.json"
-        },
-        {
-          "id": 11,
-          "key": "11",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",
-          "name": "MBC CHANNELS",
-          "channelsFile": "channels/11.json"
-        },
-        {
-          "id": 12,
-          "key": "12",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/France.tv_-_logo_2022.svg/960px-France.tv_-_logo_2022.svg.png",
-          "name": "FRANCE CHANNELS",
-          "channelsFile": "channels/12.json"
-        },
-        {
-          "id": 88,
-          "key": "88",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TRT_T%C3%BCrk%C3%BC_logo.svg/330px-TRT_T%C3%BCrk%C3%BC_logo.svg.png",
-          "name": "TURKISH CHANNELS",
-          "channelsFile": "channels/88.json"
-        },
-        {
-          "id": 13,
-          "key": "13",
-          "logo": "https://image.winudf.com/v2/image/Y29tLm1hY3NhcHAuQ2FydG9vblRWQ2hfc2NyZWVuXzBfMTUzNzcwNjkxMl8wMjM/screen-0.jpg?fakeurl=1&type=.webp",
-          "name": "KIDS CHANNELS",
-          "channelsFile": "channels/13.json"
-        },
-        {
-          "id": 87,
-          "key": "87",
-          "logo": "https://i3radio.com/userfiles-aplin/avatars/logo-9334892828.png",
-          "name": "WEYYAK",
-          "channelsFile": "channels/87.json"
-        },
-        {
-          "id": 94,
-          "key": "94",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Shahid.net.png",
-          "name": "SHAHID VIP",
-          "channelsFile": "channels/94.json"
-        },
-        {
-            "id": 100,
-            "key": "test",
-            "name": "Test",
-            "logo": "",
-            "channelsFile": "channels/100.json"
-        },
-        {
-            "id": 101,
-            "key": "test",
-            "name": "Test",
-            "logo": "",
-            "channelsFile": "channels/101.json"
-        }
-      ]
+[
+  {
+    "id": 278,
+    "key": "yacine_tv",
+    "name": "YacineTV Categories",
+    "logo": "",
+    "categories": [
+      {
+        "id": 252,
+        "key": "bein_sports__all_",
+        "name": "beIN SPORTS Laith",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png",
+        "type": "sub",
+        "subKey": "bein_sports__all_"
+      },
+      {
+        "id": 258,
+        "key": "bein_sports_mix_",
+        "name": "Bein Sports Mix",
+        "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350674_ico.png",
+        "type": "sub",
+        "subKey": "bein_sports_mix_"
+      },
+      {
+        "id": 259,
+        "key": "arabic_channels",
+        "name": "ARABIC CHANNELS",
+        "logo": "https://lh3.googleusercontent.com/dMmC2XbHgj-2dgRKtCcC8SaXxkfWHW_d-UE9buhPjzDnvdcKARfHrR0cQuTCEpA10w=w300",
+        "type": "sub",
+        "subKey": "arabic_channels"
+      },
+      {
+        "id": 11,
+        "key": "mbc_channels",
+        "name": "MBC CHANNELS",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",
+        "type": "sub",
+        "subKey": "mbc_channels"
+      },
+      {
+        "id": 12,
+        "key": "france_channels",
+        "name": "FRANCE CHANNELS",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/France.tv_-_logo_2022.svg/960px-France.tv_-_logo_2022.svg.png",
+        "type": "sub",
+        "subKey": "france_channels"
+      },
+      {
+        "id": 88,
+        "key": "turkish_channels",
+        "name": "TURKISH CHANNELS",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TRT_T%C3%BCrk%C3%BC_logo.svg/330px-TRT_T%C3%BCrk%C3%BC_logo.svg.png",
+        "type": "sub",
+        "subKey": "turkish_channels"
+      },
+      {
+        "id": 13,
+        "key": "kids_channels",
+        "name": "KIDS CHANNELS",
+        "logo": "https://image.winudf.com/v2/image/Y29tLm1hY3NhcHAuQ2FydG9vblRWQ2hfc2NyZWVuXzBfMTUzNzcwNjkxMl8wMjM/screen-0.jpg?fakeurl=1&type=.webp",
+        "type": "sub",
+        "subKey": "kids_channels"
+      },
+      {
+        "id": 87,
+        "key": "weyyak",
+        "name": "WEYYAK",
+        "logo": "https://i3radio.com/userfiles-aplin/avatars/logo-9334892828.png",
+        "type": "sub",
+        "subKey": "weyyak"
+      },
+      {
+        "id": 94,
+        "key": "shahid_vip",
+        "name": "SHAHID VIP",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Shahid.net.png",
+        "type": "sub",
+        "subKey": "shahid_vip"
+      },
+      {
+        "id": 100,
+        "key": "test",
+        "name": "Test",
+        "logo": "",
+        "channelsFile": "channels/100.json"
+      },
+      {
+        "id": 101,
+        "key": "test",
+        "name": "Test",
+        "logo": "",
+        "channelsFile": "channels/101.json"
+      }
+    ]
   },
   {
     "id": 253,
@@ -470,7 +479,7 @@
   },
   {
     "id": 101,
-    "key": "test",
+    "key": "test2",
     "name": "Test",
     "logo": "",
     "categories": []
