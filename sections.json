@@ -5,6 +5,8 @@
       "name": "YacineTV Categories",
       "logo": "",
       "child_count": 4
+     ,
+    "ishide": 0
   },
   {
     "id": 253,
@@ -12,6 +14,8 @@
     "name": "كاس العالم 2026",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1920px-2026_FIFA_World_Cup_emblem.svg.png",
     "child_count": 4
+     ,
+    "ishide": 0
   },
   {
     "id": 252,
@@ -19,6 +23,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png",
     "child_count": 0,
     "key": "bein_sports__all_"
+     ,
+    "ishide": 1
   },
   {
     "id": 258,
@@ -26,6 +32,8 @@
     "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350674_ico.png",
     "child_count": 4,
     "key": "bein_sports_mix_"
+     ,
+    "ishide": 1
   },
   {
     "id": 259,
@@ -33,6 +41,8 @@
     "logo": "https://lh3.googleusercontent.com/dMmC2XbHgj-2dgRKtCcC8SaXxkfWHW_d-UE9buhPjzDnvdcKARfHrR0cQuTCEpA10w=w300",
     "child_count": 0,
     "key": "arabic_channels"
+     ,
+    "ishide": 1
   },
   {
     "id": 11,
@@ -40,6 +50,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",
     "child_count": 0,
     "key": "mbc_channels"
+     ,
+    "ishide": 1
   },
   {
     "id": 12,
@@ -47,6 +59,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/France.tv_-_logo_2022.svg/960px-France.tv_-_logo_2022.svg.png",
     "child_count": 0,
     "key": "france_channels"
+     ,
+    "ishide": 1
   },
   {
     "id": 88,
@@ -54,6 +68,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TRT_T%C3%BCrk%C3%BC_logo.svg/330px-TRT_T%C3%BCrk%C3%BC_logo.svg.png",
     "child_count": 0,
     "key": "turkish_channels"
+     ,
+    "ishide": 1
   },
   {
     "id": 13,
@@ -61,6 +77,8 @@
     "logo": "https://image.winudf.com/v2/image/Y29tLm1hY3NhcHAuQ2FydG9vblRWQ2hfc2NyZWVuXzBfMTUzNzcwNjkxMl8wMjM/screen-0.jpg?fakeurl=1&type=.webp",
     "child_count": 0,
     "key": "kids_channels"
+     ,
+    "ishide": 1
   },
   {
     "id": 87,
@@ -68,6 +86,8 @@
     "logo": "https://i3radio.com/userfiles-aplin/avatars/logo-9334892828.png",
     "child_count": 0,
     "key": "weyyak"
+     ,
+    "ishide": 1
   },
   {
     "id": 94,
@@ -75,6 +95,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Shahid.net.png",
     "child_count": 0,
     "key": "shahid_vip"
+     ,
+    "ishide": 1
   },  
   {
     "id": 102,
@@ -82,6 +104,8 @@
     "name": "القنوات العربية",
     "logo": "https://lh3.googleusercontent.com/dMmC2XbHgj-2dgRKtCcC8SaXxkfWHW_d-UE9buhPjzDnvdcKARfHrR0cQuTCEpA10w=w300",
     "child_count": 21
+     ,
+    "ishide": 0
   },
   {
     "id": 103,
@@ -89,6 +113,8 @@
     "name": "العربية VIP",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",
     "child_count": 14
+     ,
+    "ishide": 0
   },
   
   {
@@ -97,6 +123,8 @@
     "name": "Aya Tv Radio",
     "logo": "https://www.matele.be/layouts/defaut/ALL/files/matele-logo-couleur.png",
     "child_count": 2
+     ,
+    "ishide": 0
   },
   {
     "id": 108,
@@ -104,6 +132,8 @@
     "name": "Aya Vip",
     "logo": "",
     "child_count": 2
+     ,
+    "ishide": 0
   },
   {
     "id": 109,
@@ -111,6 +141,8 @@
     "name": "Bein Group",
     "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350674_ico.png",
     "child_count": 6
+     ,
+    "ishide": 0
   },
   {
     "id": 113,
@@ -118,6 +150,8 @@
     "name": "Documentary ",
     "logo": "https://yt3.ggpht.com/ytc/AKedOLTYHUfR50Tcmmfba9wf0CxqO2JTTGMmgEICqUSJPg=s900-c-k-c0x00ffffff-no-rj",
     "child_count": 2
+     ,
+    "ishide": 0
   },
   {
     "id": 115,
@@ -125,6 +159,8 @@
     "name": "Event Stream",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmN-D7EGsES9beS00NNwe67WtIk4GTHo_jxVDR-qMpDQ&s=10",
     "child_count": 13
+     ,
+    "ishide": 0
   },
   {
     "id": 118,
@@ -132,6 +168,8 @@
     "name": "Iptv",
     "logo": "https://monsmartiptv.com/wp-content/uploads/2017/10/Monsmart-iptv-Logo.png",
     "child_count": 2
+     ,
+    "ishide": 0
   },
   {
     "id": 119,
@@ -139,6 +177,8 @@
     "name": "Iptv Free",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDUhMmMAcOxnMXoQsliyrEFb6P2fmzRssfoQ&usqp=CAU",
     "child_count": 1
+     ,
+    "ishide": 0
   },
   {
     "id": 120,
@@ -146,6 +186,8 @@
     "name": "Iptv Live ",
     "logo": "https://play-lh.googleusercontent.com/br6qeJHQXcFSAaC0P7ArZzpNL6TqOcxePhONSp_KXjkeh0EgC3jEZiRyDs1dhXSEld6y",
     "child_count": 3
+     ,
+    "ishide": 0
   },
   {
     "id": 121,
@@ -153,6 +195,8 @@
     "name": "القنوات الإسلامية",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjrAZ2H-_wyVCRkV6OdFQKEFojqIv9kidnePIItnbQQYqOkJuxTbjdpBPkPE5P2oMN9__uVPSu7oS3Y6Z5ScDrcRdMCRRTlek7L41a3EuvbQ&s=10",
     "child_count": 4
+     ,
+    "ishide": 0
   },
   {
     "id": 122,
@@ -160,6 +204,8 @@
     "name": "قنوات الأطفال",
     "logo": "https://image.winudf.com/v2/image/Y29tLm1hY3NhcHAuQ2FydG9vblRWQ2hfc2NyZWVuXzBfMTUzNzcwNjkxMl8wMjM/screen-0.jpg?fakeurl=1&type=.webp",
     "child_count": 4
+     ,
+    "ishide": 0
   },
   {
     "id": 123,
@@ -167,6 +213,8 @@
     "name": "المباريات الحية",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH87x7WmRGKqaHPKlbSytWnKbXqUXiQe5YGw&s",
     "child_count": 1
+     ,
+    "ishide": 0
   },
   {
     "id": 124,
@@ -174,6 +222,8 @@
     "name": "وقت المباريات",
     "logo": "https://yt3.googleusercontent.com/sUFNr8Vf0pGGsMU5GBAbgn1M5Af_UZ3QbPipFWh12IYwXDa0JT70lVhApDCPrI0in7_yHiceD0c=s900-c-k-c0x00ffffff-no-rj",
     "child_count": 35
+     ,
+    "ishide": 0
   },
   {
     "id": 125,
@@ -181,6 +231,8 @@
     "name": "الأخبار",
     "logo": "https://yt3.ggpht.com/ytc/AMLnZu8nF0TkVhcc9hfLyCXcujpkCn-VuvQynabt7jamug=s900-c-k-c0x00ffffff-no-rj",
     "child_count": 2
+     ,
+    "ishide": 0
   },
   {
     "id": 126,
@@ -188,6 +240,8 @@
     "name": "Pluto Tv",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRo6oFaBdysrj6tWGwDjcxK-pB7jh65nCVNw&usqp=CAU",
     "child_count": 6
+     ,
+    "ishide": 0
   },
   {
     "id": 128,
@@ -195,6 +249,8 @@
     "name": "Smart Tv",
     "logo": "https://previews.123rf.com/images/sarahdesign/sarahdesign1410/sarahdesign141000951/32210703-live-stream-button.jpg",
     "child_count": 3
+     ,
+    "ishide": 0
   },
   {
     "id": 130,
@@ -202,6 +258,8 @@
     "name": "قنوات الرياضة العربية",
     "logo": "https://pbs.twimg.com/profile_images/1051146024918626304/gmL4qAof_400x400.jpg",
     "child_count": 10
+     ,
+    "ishide": 0
   },
   {
     "id": 131,
@@ -209,6 +267,8 @@
     "name": "قنوات الرياضة العالمية",
     "logo": "",
     "child_count": 0
+     ,
+    "ishide": 0
   },
   {
     "id": 132,
@@ -216,6 +276,8 @@
     "name": "الرياضة مباشر",
     "logo": "",
     "child_count": 1
+     ,
+    "ishide": 0
   },
   {
     "id": 134,
@@ -223,6 +285,8 @@
     "name": "قنوات العالم",
     "logo": "https://cdn-icons-png.flaticon.com/512/3492/3492623.png",
     "child_count": 17
+     ,
+    "ishide": 0
   },
     {
     "id": 111,
@@ -230,6 +294,8 @@
     "name": "Club World Cup",
     "logo": "https://www.kobrandwineandspirits.com/wp-content/uploads/2025/05/club-world-cup-2025-logo-png_seeklogo-577684.png",
     "child_count": 1
+     ,
+    "ishide": 0
   },
   {
     "id": 133,
@@ -237,6 +303,8 @@
     "name": "Sports Test Vip",
     "logo": "",
     "child_count": 0
+     ,
+    "ishide": 0
   },
   {
     "id": 100,
@@ -244,6 +312,8 @@
     "logo": "",
     "child_count": 0,
     "key": "test"
+     ,
+    "ishide": 1
   },
   {
     "id": 101,
@@ -251,6 +321,8 @@
     "logo": "",
     "child_count": 0,
     "key": "test"
+     ,
+    "ishide": 1
   },
     {
     "id": 116,
@@ -258,6 +330,8 @@
     "name": "Gold Cup Concacaf",
     "logo": "",
     "child_count": 0
+     ,
+    "ishide": 0
   },
   {
     "id": 117,
@@ -265,6 +339,8 @@
     "name": "Highlights Football",
     "logo": "https://images.gc.portsmouthfcservices.co.uk/fit-in/2400x1350/ad55d2b0-6f13-11f0-971e-a571145bb4e4.webp",
     "child_count": 0
+     ,
+    "ishide": 0
   },
   
   {
@@ -273,6 +349,8 @@
     "name": "Sport",
     "logo": "",
     "child_count": 0
+     ,
+    "ishide": 0
   },
     {
     "id": 114,
@@ -280,6 +358,8 @@
     "name": "Euro 2024",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",
     "child_count": 0
+     ,
+    "ishide": 0
   },
   {
     "id": 104,
@@ -287,6 +367,8 @@
     "name": "Aya Pro Tv",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQEmv9hMR9x8XlXT7zwVglL80HdNHingNbM0YEFGPe7w&s=10",
     "child_count": 0
+     ,
+    "ishide": 0
   },
   {
     "id": 105,
@@ -294,6 +376,8 @@
     "name": "Aya Sport",
     "logo": "",
     "child_count": 0
+     ,
+    "ishide": 0
   },
     {
     "id": 110,
@@ -301,6 +385,8 @@
     "name": "Bein Sport",
     "logo": "",
     "child_count": 0
+     ,
+    "ishide": 0
   },
 
   {
@@ -309,6 +395,8 @@
     "name": "Aya Tv Pro",
     "logo": "https://images.dwncdn.net/images/t_app-icon-l/p/7c0709ba-3319-48b5-8f96-7755f5c10753/1347399113/aya-tv-player-pro-logo",
     "child_count": 0
+     ,
+    "ishide": 0
   },
   {
     "id": 112,
@@ -316,6 +404,8 @@
     "name": "Cx Tv",
     "logo": "",
     "child_count": 0
+     ,
+    "ishide": 0
   },
   {
     "id": 127,
@@ -323,5 +413,7 @@
     "name": "Smart Iptv",
     "logo": "",
     "child_count": 0
-  }
+  ,
+    "ishide": 0
+  },
 ]
