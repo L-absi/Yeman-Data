@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1473,
+        "name": "beIN MAX 3",
+        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/1473.json",
+        "source_file": "90.json"
+    },
+    {
+        "id": 1503,
+        "name": "beIN MAX 3",
+        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/1503.json",
+        "source_file": "91.json"
+    },
+    {
+        "id": 1523,
+        "name": "beIN MAX 3",
+        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/1523.json",
+        "source_file": "92.json"
+    },
+    {
+        "id": 1543,
+        "name": "beIN MAX 3",
+        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/1543.json",
+        "source_file": "93.json"
+    },
+    {
+        "id": 10023,
+        "name": "BEIN MAX 3",
+        "logo": "https://i.pinimg.com/736x/12/78/71/12787167ddc7078399f26de2aa54f326.jpg",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/10023.json",
+        "source_file": "bein_web.json"
+    },
+    {
+        "id": 10002,
+        "name": "beIN MAX 3 4K",
+        "logo": "",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/10002.json",
+        "source_file": "max_tv.json"
+    },
+    {
+        "id": 10005,
+        "name": "beIN MAX 3 HD",
+        "logo": "",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/10005.json",
+        "source_file": "max_tv.json"
+    },
+    {
+        "id": 10008,
+        "name": "beIN MAX 3 SD",
+        "logo": "",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/10008.json",
+        "source_file": "max_tv.json"
+    },
+    {
+        "id": 10107,
+        "name": "Bein max 3",
+        "logo": "",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/10107.json",
+        "source_file": "max_tv2.json"
+    },
+    {
+        "id": 20002,
+        "name": "beIN MAX 3 4K",
+        "logo": "",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/20002.json",
+        "source_file": "max_tv_4.json"
+    },
+    {
+        "id": 20005,
+        "name": "beIN MAX 3 HD",
+        "logo": "",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/20005.json",
+        "source_file": "max_tv_4.json"
+    },
+    {
+        "id": 20008,
+        "name": "beIN MAX 3 SD",
+        "logo": "",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/20008.json",
+        "source_file": "max_tv_4.json"
+    }
+]
