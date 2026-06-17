@@ -120,7 +120,7 @@
   {
     "id": 107,
     "key": "aya_tv_radio",
-    "name": "Aya Tv Radio",
+    "name": "Tv Radio",
     "logo": "https://www.matele.be/layouts/defaut/ALL/files/matele-logo-couleur.png",
     "child_count": 2
      ,
@@ -147,7 +147,7 @@
   {
     "id": 113,
     "key": "documentary_",
-    "name": "Documentary ",
+    "name": "الوثائقية ",
     "logo": "https://yt3.ggpht.com/ytc/AKedOLTYHUfR50Tcmmfba9wf0CxqO2JTTGMmgEICqUSJPg=s900-c-k-c0x00ffffff-no-rj",
     "child_count": 2
      ,
@@ -165,7 +165,7 @@
   {
     "id": 118,
     "key": "iptv",
-    "name": "Iptv",
+    "name": "IPTV",
     "logo": "https://monsmartiptv.com/wp-content/uploads/2017/10/Monsmart-iptv-Logo.png",
     "child_count": 2
      ,
@@ -268,7 +268,7 @@
     "logo": "",
     "child_count": 0
      ,
-    "ishide": 0
+    "ishide": 1
   },
   {
     "id": 132,
@@ -277,7 +277,7 @@
     "logo": "",
     "child_count": 1
      ,
-    "ishide": 0
+    "ishide": 1
   },
   {
     "id": 134,
@@ -304,7 +304,7 @@
     "logo": "",
     "child_count": 0
      ,
-    "ishide": 0
+    "ishide": 1
   },
   {
     "id": 100,
@@ -331,7 +331,7 @@
     "logo": "",
     "child_count": 0
      ,
-    "ishide": 0
+    "ishide": 1
   },
   {
     "id": 117,
@@ -340,7 +340,7 @@
     "logo": "https://images.gc.portsmouthfcservices.co.uk/fit-in/2400x1350/ad55d2b0-6f13-11f0-971e-a571145bb4e4.webp",
     "child_count": 0
      ,
-    "ishide": 0
+    "ishide": 1
   },
   
   {
@@ -350,7 +350,7 @@
     "logo": "",
     "child_count": 0
      ,
-    "ishide": 0
+    "ishide": 1
   },
     {
     "id": 114,
@@ -359,7 +359,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",
     "child_count": 0
      ,
-    "ishide": 0
+    "ishide": 1
   },
   {
     "id": 104,
@@ -368,7 +368,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQEmv9hMR9x8XlXT7zwVglL80HdNHingNbM0YEFGPe7w&s=10",
     "child_count": 0
      ,
-    "ishide": 0
+    "ishide": 1
   },
   {
     "id": 105,
@@ -377,7 +377,7 @@
     "logo": "",
     "child_count": 0
      ,
-    "ishide": 0
+    "ishide": 1
   },
     {
     "id": 110,
@@ -386,7 +386,7 @@
     "logo": "",
     "child_count": 0
      ,
-    "ishide": 0
+    "ishide": 1
   },
 
   {
@@ -396,7 +396,7 @@
     "logo": "https://images.dwncdn.net/images/t_app-icon-l/p/7c0709ba-3319-48b5-8f96-7755f5c10753/1347399113/aya-tv-player-pro-logo",
     "child_count": 0
      ,
-    "ishide": 0
+    "ishide": 1
   },
   {
     "id": 112,
@@ -405,7 +405,7 @@
     "logo": "",
     "child_count": 0
      ,
-    "ishide": 0
+    "ishide": 1
   },
   {
     "id": 127,
@@ -414,6 +414,6 @@
     "logo": "",
     "child_count": 0
   ,
-    "ishide": 0
+    "ishide": 1
   }
 ]
