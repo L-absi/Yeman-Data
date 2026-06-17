@@ -193,7 +193,7 @@
     "id": 121,
     "key": "islam_tv",
     "name": "القنوات الإسلامية",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjrAZ2H-_wyVCRkV6OdFQKEFojqIv9kidnePIItnbQQYqOkJuxTbjdpBPkPE5P2oMN9__uVPSu7oS3Y6Z5ScDrcRdMCRRTlek7L41a3EuvbQ&s=10",
+    "logo": "https://raw.githack.com/L-absi/Yeman-Data/main/icon/islamic.png",
     "child_count": 4
      ,
     "ishide": 0
@@ -229,7 +229,7 @@
     "id": 125,
     "key": "news",
     "name": "الأخبار",
-    "logo": "https://yt3.ggpht.com/ytc/AMLnZu8nF0TkVhcc9hfLyCXcujpkCn-VuvQynabt7jamug=s900-c-k-c0x00ffffff-no-rj",
+    "logo": "https://raw.githack.com/L-absi/Yeman-Data/main/icon/newss.png",
     "child_count": 2
      ,
     "ishide": 0
