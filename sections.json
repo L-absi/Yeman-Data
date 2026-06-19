@@ -137,8 +137,8 @@
   },
   {
     "id": 109,
-    "key": "مجموعة BEIN",
-    "name": "Bein Group",
+    "key": "bein_group",
+    "name": "مجموعة BEIN",
     "logo": "https://i.postimg.cc/MTnMCk1b/unnamed-27.jpg",
     "child_count": 6
      ,
