@@ -7,7 +7,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/2042.json"
+    "streamsFile": "streams/2042.json",
+    "isworking": 1
   },
   {
     "id": 2043,
@@ -17,7 +18,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/4/42/Hannibaltv.gif",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/2043.json"
+    "streamsFile": "streams/2043.json",
+    "isworking": 1
   },
   {
     "id": 2044,
@@ -27,7 +29,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/a/af/Logo-carthageplus.png",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/2044.json"
+    "streamsFile": "streams/2044.json",
+    "isworking": 0
   },
   {
     "id": 2045,
@@ -37,7 +40,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Almostaqila.jpg",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/2045.json"
+    "streamsFile": "streams/2045.json",
+    "isworking": 0
   },
   {
     "id": 2046,
@@ -47,7 +51,8 @@
     "logo": "https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/logo-el-hiwar-el-tounsi.png",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/2046.json"
+    "streamsFile": "streams/2046.json",
+    "isworking": 0
   },
   {
     "id": 2047,
@@ -57,7 +62,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdc3queSUMQwwhHmklcTJI9SX0UrgmsdKZ4KaqX_9b7A&s=10",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/2047.json"
+    "streamsFile": "streams/2047.json",
+    "isworking": 0
   },
   {
     "id": 2048,
@@ -67,7 +73,8 @@
     "logo": "https://i.ibb.co/8DxdBPf/Attessia9.png",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/2048.json"
+    "streamsFile": "streams/2048.json",
+    "isworking": 1
   },
   {
     "id": 2049,
@@ -77,7 +84,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/554px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/2049.json"
+    "streamsFile": "streams/2049.json",
+    "isworking": 1
   },
   {
     "id": 2050,
@@ -87,7 +95,8 @@
     "logo": "https://tunisia.mom-gmr.org/uploads/tx_lfrogmom/media/136_02.jpg",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/2050.json"
+    "streamsFile": "streams/2050.json",
+    "isworking": 0
   },
   {
     "id": 2051,
@@ -97,6 +106,7 @@
     "logo": "https://m.jawharafm.net/ar/img/logo_jfmtv_fini.png",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/2051.json"
+    "streamsFile": "streams/2051.json",
+    "isworking": 0
   }
 ]

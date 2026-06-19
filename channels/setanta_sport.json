@@ -7,7 +7,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOuNOvPkw0ifxNdEd3xy-T7y36NsfW_wggJIBwqFNcQ&s=10",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/4916.json"
+    "streamsFile": "streams/4916.json",
+    "isworking": 0
   },
   {
     "id": 4917,
@@ -17,6 +18,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOuNOvPkw0ifxNdEd3xy-T7y36NsfW_wggJIBwqFNcQ&s=10",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4917.json"
+    "streamsFile": "streams/4917.json",
+    "isworking": 0
   }
 ]

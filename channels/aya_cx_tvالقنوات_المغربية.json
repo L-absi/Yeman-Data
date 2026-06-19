@@ -7,7 +7,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Laayoune_logo_png_tv.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/2052.json"
+    "streamsFile": "streams/2052.json",
+    "isworking": 0
   },
   {
     "id": 2053,
@@ -17,7 +18,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/2M_Logo.svg/1200px-2M_Logo.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/2053.json"
+    "streamsFile": "streams/2053.json",
+    "isworking": 1
   },
   {
     "id": 2054,
@@ -27,7 +29,8 @@
     "logo": "https://i.ibb.co/n0Pwp2S/alaoulainter.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/2054.json"
+    "streamsFile": "streams/2054.json",
+    "isworking": 0
   },
   {
     "id": 2055,
@@ -37,7 +40,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo%2Barryadia%2Bmorocco.png/1200px-Logo%2Barryadia%2Bmorocco.png",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/2055.json"
+    "streamsFile": "streams/2055.json",
+    "isworking": 0
   },
   {
     "id": 2056,
@@ -47,7 +51,8 @@
     "logo": "https://www.korafreha2.com/YacineTV_New/ARABIC/Athaqafiya.png",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/2056.json"
+    "streamsFile": "streams/2056.json",
+    "isworking": 0
   },
   {
     "id": 2057,
@@ -57,7 +62,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/ar/a/ae/Logo_assadissa.png",
     "type": "channel",
     "position": 15,
-    "streamsFile": "streams/2057.json"
+    "streamsFile": "streams/2057.json",
+    "isworking": 0
   },
   {
     "id": 2058,
@@ -67,7 +73,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png",
     "type": "channel",
     "position": 15,
-    "streamsFile": "streams/2058.json"
+    "streamsFile": "streams/2058.json",
+    "isworking": 0
   },
   {
     "id": 2059,
@@ -77,7 +84,8 @@
     "logo": "http://gratuittv.free.fr/images/aflamtv.png",
     "type": "channel",
     "position": 17,
-    "streamsFile": "streams/2059.json"
+    "streamsFile": "streams/2059.json",
+    "isworking": 0
   },
   {
     "id": 2060,
@@ -87,7 +95,8 @@
     "logo": "https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/tamazight-tv-chaine.png",
     "type": "channel",
     "position": 18,
-    "streamsFile": "streams/2060.json"
+    "streamsFile": "streams/2060.json",
+    "isworking": 0
   },
   {
     "id": 2061,
@@ -97,7 +106,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCf7M34XS8PJKnjTdly22dwOcOXXaWPAzHZSZ7eXRow&s=10",
     "type": "channel",
     "position": 18,
-    "streamsFile": "streams/2061.json"
+    "streamsFile": "streams/2061.json",
+    "isworking": 1
   },
   {
     "id": 2062,
@@ -107,7 +117,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg",
     "type": "channel",
     "position": 20,
-    "streamsFile": "streams/2062.json"
+    "streamsFile": "streams/2062.json",
+    "isworking": 0
   },
   {
     "id": 2063,
@@ -117,7 +128,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqUFHfc3OhMxFmNMnjanumO0iXKgNOGwRq8ola2ovEGQ&s=10",
     "type": "channel",
     "position": 102,
-    "streamsFile": "streams/2063.json"
+    "streamsFile": "streams/2063.json",
+    "isworking": 0
   },
   {
     "id": 2064,
@@ -127,7 +139,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8dAxafd6uWyyCX_6NNxvutIOsaPfDPgleCsGxyd7q4w&s=10",
     "type": "channel",
     "position": 103,
-    "streamsFile": "streams/2064.json"
+    "streamsFile": "streams/2064.json",
+    "isworking": 1
   },
   {
     "id": 2065,
@@ -137,6 +150,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpCiJMrTSaVmoDgjl9znj0BRHaDfgwrwA-JPfzQ_diWQ&s",
     "type": "channel",
     "position": 2000,
-    "streamsFile": "streams/2065.json"
+    "streamsFile": "streams/2065.json",
+    "isworking": 1
   }
 ]

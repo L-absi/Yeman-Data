@@ -7,7 +7,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXkrl51IFKhOMoBO17L8DrU2O5HSyng6rHZ5FGCOOrJjSTa9mh70pvmNsuyy-t3lAtGf4&usqp=CAU",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/3945.json"
+    "streamsFile": "streams/3945.json",
+    "isworking": 0
   },
   {
     "id": 3946,
@@ -17,7 +18,8 @@
     "logo": "https://i.ibb.co/gFX6Fx2r/icon-44.png",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/3946.json"
+    "streamsFile": "streams/3946.json",
+    "isworking": 1
   },
   {
     "id": 3947,
@@ -27,7 +29,8 @@
     "logo": "https://i.ibb.co/tTCGJxSf/icon-35.png",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/3947.json"
+    "streamsFile": "streams/3947.json",
+    "isworking": 0
   },
   {
     "id": 3948,
@@ -37,7 +40,8 @@
     "logo": "https://i.ibb.co/rRnZhSL3/icon-116.png",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/3948.json"
+    "streamsFile": "streams/3948.json",
+    "isworking": 1
   },
   {
     "id": 3949,
@@ -47,7 +51,8 @@
     "logo": "https://i.ibb.co/sp8wF4YF/icon-26.jpg",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/3949.json"
+    "streamsFile": "streams/3949.json",
+    "isworking": 1
   },
   {
     "id": 3950,
@@ -57,7 +62,8 @@
     "logo": "https://i.ibb.co/LXPDQv6B/icon-102s.jpg",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/3950.json"
+    "streamsFile": "streams/3950.json",
+    "isworking": 1
   },
   {
     "id": 3951,
@@ -67,7 +73,8 @@
     "logo": "https://i.ibb.co/Jw8dtyZw/icon-117.jpg",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/3951.json"
+    "streamsFile": "streams/3951.json",
+    "isworking": 0
   },
   {
     "id": 3952,
@@ -77,7 +84,8 @@
     "logo": "https://i.ibb.co/qLK7Xywr/BBC-Earth.png",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/3952.json"
+    "streamsFile": "streams/3952.json",
+    "isworking": 1
   },
   {
     "id": 3953,
@@ -87,6 +95,7 @@
     "logo": "https://i.ibb.co/r2Y9qp6V/icon-54.png",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/3953.json"
+    "streamsFile": "streams/3953.json",
+    "isworking": 1
   }
 ]

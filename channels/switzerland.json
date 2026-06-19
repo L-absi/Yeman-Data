@@ -7,7 +7,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/5859.json"
+    "streamsFile": "streams/5859.json",
+    "isworking": 0
   },
   {
     "id": 5860,
@@ -17,7 +18,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/5860.json"
+    "streamsFile": "streams/5860.json",
+    "isworking": 0
   },
   {
     "id": 5861,
@@ -27,6 +29,7 @@
     "logo": "https://i.imgur.com/887SKjm.png",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/5861.json"
+    "streamsFile": "streams/5861.json",
+    "isworking": 0
   }
 ]

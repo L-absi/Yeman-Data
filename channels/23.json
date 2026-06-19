@@ -8,7 +8,8 @@
     "logo": "https://1.bp.blogspot.com/-ivpwe6Ockdg/YKKPuTc7UbI/AAAAAAAAEaU/aqYmfnaVra4txtI1RcvsbuF7CdgGgo9PQCLcBGAsYHQ/s380/Jordan%2BTV.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/769.json"
+    "streamsFile": "streams/769.json",
+    "isworking": 1
   },
   {
     "id": 770,
@@ -19,7 +20,8 @@
     "logo": "https://i.imgur.com/99UjDCJ.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/770.json"
+    "streamsFile": "streams/770.json",
+    "isworking": 0
   },
   {
     "id": 772,
@@ -30,7 +32,8 @@
     "logo": "https://i.ibb.co/vm3481D/amman.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/772.json"
+    "streamsFile": "streams/772.json",
+    "isworking": 1
   },
   {
     "id": 773,
@@ -41,7 +44,8 @@
     "logo": "https://www.jmi.edu.jo/sites/default/files/Mamlakah-Tv-Logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/773.json"
+    "streamsFile": "streams/773.json",
+    "isworking": 0
   },
   {
     "id": 774,
@@ -52,7 +56,8 @@
     "logo": "https://i.imgur.com/NwVha3g.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/774.json"
+    "streamsFile": "streams/774.json",
+    "isworking": 0
   },
   {
     "id": 775,
@@ -63,7 +68,8 @@
     "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f5/Toyor_Aljanah.png/revision/latest?cb=20190914133539",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/775.json"
+    "streamsFile": "streams/775.json",
+    "isworking": 1
   },
   {
     "id": 776,
@@ -74,7 +80,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%D9%83%D8%B1%D8%A7%D9%85%D9%8A%D8%B4.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/776.json"
+    "streamsFile": "streams/776.json",
+    "isworking": 0
   },
   {
     "id": 566,
@@ -85,7 +92,8 @@
     "logo": "https://i.imgur.com/vYIUBZ9.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/566.json"
+    "streamsFile": "streams/566.json",
+    "isworking": 0
   },
   {
     "id": 1647,
@@ -96,7 +104,8 @@
     "logo": "https://i.ibb.co/2dLdGk7/FFFFF.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1647.json"
+    "streamsFile": "streams/1647.json",
+    "isworking": 1
   },
   {
     "id": 1648,
@@ -107,6 +116,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTWHXoE8b0hFvFU24urawYKNVkohRfK_uTrBkwyHL_qA&s",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1648.json"
+    "streamsFile": "streams/1648.json",
+    "isworking": 0
   }
 ]

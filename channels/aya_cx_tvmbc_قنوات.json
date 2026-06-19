@@ -7,7 +7,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/2676.json"
+    "streamsFile": "streams/2676.json",
+    "isworking": 0
   },
   {
     "id": 2677,
@@ -17,7 +18,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/2677.json"
+    "streamsFile": "streams/2677.json",
+    "isworking": 1
   },
   {
     "id": 2678,
@@ -27,7 +29,8 @@
     "logo": "https://b.top4top.io/p_3302aq8841.jpg",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/2678.json"
+    "streamsFile": "streams/2678.json",
+    "isworking": 1
   },
   {
     "id": 2679,
@@ -37,7 +40,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/800px-MBC_4_TV_Channel_Logo.png",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/2679.json"
+    "streamsFile": "streams/2679.json",
+    "isworking": 1
   },
   {
     "id": 2680,
@@ -47,7 +51,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/5_MBC.webp",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/2680.json"
+    "streamsFile": "streams/2680.json",
+    "isworking": 1
   },
   {
     "id": 2681,
@@ -57,7 +62,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/1logo_mbc_action.png",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/2681.json"
+    "streamsFile": "streams/2681.json",
+    "isworking": 1
   },
   {
     "id": 2682,
@@ -67,7 +73,8 @@
     "logo": "https://4.bp.blogspot.com/-xdlWCS_9bjo/WxKH_A9QB4I/AAAAAAAATlM/7uO647kh7tACExdgVrp6VJg4CIYEhDO8gCLcBGAs/s1600/mbc_ae_drama_hd%2BFrequency.png",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/2682.json"
+    "streamsFile": "streams/2682.json",
+    "isworking": 1
   },
   {
     "id": 2683,
@@ -77,7 +84,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL58Io4DUyjKFuSGxT186DIGMqxpLmjUMC1GTsUMBdRg&s=10",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/2683.json"
+    "streamsFile": "streams/2683.json",
+    "isworking": 1
   },
   {
     "id": 2684,
@@ -87,7 +95,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/1200px-MBC_Masr_Logo.png",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/2684.json"
+    "streamsFile": "streams/2684.json",
+    "isworking": 1
   },
   {
     "id": 2685,
@@ -97,7 +106,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ltaxj23gZSZW6YFydS7ZdWqSTGxeUqypTjMWh95Yig&s=10",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/2685.json"
+    "streamsFile": "streams/2685.json",
+    "isworking": 1
   },
   {
     "id": 2686,
@@ -107,7 +117,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7Ho_RxwaEhctFWMIJB5-d0Th0Lk-gBHzWXB4WDbyRA&s=10",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/2686.json"
+    "streamsFile": "streams/2686.json",
+    "isworking": 1
   },
   {
     "id": 2687,
@@ -117,7 +128,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwZ9yEJiw2wvgyzpz3H8JZwQM6tBrXMS0euriBtY0GQ&s=10",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/2687.json"
+    "streamsFile": "streams/2687.json",
+    "isworking": 1
   },
   {
     "id": 2688,
@@ -127,7 +139,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAZK8er0OxCFFV8zqK3wsScE1Wc2GkUcvDY7_v3o7dQ&s=10",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/2688.json"
+    "streamsFile": "streams/2688.json",
+    "isworking": 1
   },
   {
     "id": 2689,
@@ -137,7 +150,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/2689.json"
+    "streamsFile": "streams/2689.json",
+    "isworking": 1
   },
   {
     "id": 2690,
@@ -147,7 +161,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/2690.json"
+    "streamsFile": "streams/2690.json",
+    "isworking": 1
   },
   {
     "id": 2691,
@@ -157,7 +172,8 @@
     "logo": "https://c.top4top.io/p_3302s47hx1.jpg",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/2691.json"
+    "streamsFile": "streams/2691.json",
+    "isworking": 0
   },
   {
     "id": 2692,
@@ -167,7 +183,8 @@
     "logo": "https://d.top4top.io/p_3302gyfhb1.jpg",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/2692.json"
+    "streamsFile": "streams/2692.json",
+    "isworking": 0
   },
   {
     "id": 2693,
@@ -177,6 +194,7 @@
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nRyfelnq-5_IoV_UG7pIi6AlGC5Uhw_oEjJvlreo8J=s900-c-k-c0x00ffffff-no-rj",
     "type": "channel",
     "position": 17,
-    "streamsFile": "streams/2693.json"
+    "streamsFile": "streams/2693.json",
+    "isworking": 0
   }
 ]

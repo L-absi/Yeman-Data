@@ -7,7 +7,8 @@
     "logo": "https://i5.satexpat.com/cha/al/tring-468x144.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4969.json"
+    "streamsFile": "streams/4969.json",
+    "isworking": 1
   },
   {
     "id": 4970,
@@ -17,7 +18,8 @@
     "logo": "https://i5.satexpat.com/cha/al/tring-468x144.png",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/4970.json"
+    "streamsFile": "streams/4970.json",
+    "isworking": 1
   },
   {
     "id": 4971,
@@ -27,7 +29,8 @@
     "logo": "https://i5.satexpat.com/cha/al/tring-468x144.png",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/4971.json"
+    "streamsFile": "streams/4971.json",
+    "isworking": 1
   },
   {
     "id": 4972,
@@ -37,7 +40,8 @@
     "logo": "https://i5.satexpat.com/cha/al/tring-468x144.png",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4972.json"
+    "streamsFile": "streams/4972.json",
+    "isworking": 1
   },
   {
     "id": 4973,
@@ -47,7 +51,8 @@
     "logo": "https://i5.satexpat.com/cha/al/tring-468x144.png",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/4973.json"
+    "streamsFile": "streams/4973.json",
+    "isworking": 1
   },
   {
     "id": 4974,
@@ -57,6 +62,7 @@
     "logo": "https://i5.satexpat.com/cha/al/tring-468x144.png",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/4974.json"
+    "streamsFile": "streams/4974.json",
+    "isworking": 1
   }
 ]

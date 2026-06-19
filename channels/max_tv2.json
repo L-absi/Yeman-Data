@@ -5,7 +5,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10105.json"
+    "streamsFile": "streams/10105.json",
+    "isworking": 1
   },
   {
     "id": 10106,
@@ -13,7 +14,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10106.json"
+    "streamsFile": "streams/10106.json",
+    "isworking": 0
   },
   {
     "id": 10107,
@@ -21,7 +23,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10107.json"
+    "streamsFile": "streams/10107.json",
+    "isworking": 0
   },
   {
     "id": 10108,
@@ -29,6 +32,7 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10108.json"
+    "streamsFile": "streams/10108.json",
+    "isworking": 0
   }
 ]

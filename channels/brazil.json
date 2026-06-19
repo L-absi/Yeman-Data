@@ -7,7 +7,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/5784.json"
+    "streamsFile": "streams/5784.json",
+    "isworking": 0
   },
   {
     "id": 5785,
@@ -17,7 +18,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/5785.json"
+    "streamsFile": "streams/5785.json",
+    "isworking": 0
   },
   {
     "id": 5786,
@@ -27,7 +29,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/5786.json"
+    "streamsFile": "streams/5786.json",
+    "isworking": 0
   },
   {
     "id": 5787,
@@ -37,7 +40,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/5787.json"
+    "streamsFile": "streams/5787.json",
+    "isworking": 0
   },
   {
     "id": 5788,
@@ -47,7 +51,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/5788.json"
+    "streamsFile": "streams/5788.json",
+    "isworking": 0
   },
   {
     "id": 5789,
@@ -57,7 +62,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/5789.json"
+    "streamsFile": "streams/5789.json",
+    "isworking": 0
   },
   {
     "id": 5790,
@@ -67,7 +73,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/5790.json"
+    "streamsFile": "streams/5790.json",
+    "isworking": 0
   },
   {
     "id": 5791,
@@ -77,7 +84,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/5791.json"
+    "streamsFile": "streams/5791.json",
+    "isworking": 0
   },
   {
     "id": 5792,
@@ -87,7 +95,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/5792.json"
+    "streamsFile": "streams/5792.json",
+    "isworking": 0
   },
   {
     "id": 5793,
@@ -97,7 +106,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/5793.json"
+    "streamsFile": "streams/5793.json",
+    "isworking": 0
   },
   {
     "id": 5794,
@@ -107,6 +117,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/5794.json"
+    "streamsFile": "streams/5794.json",
+    "isworking": 0
   }
 ]

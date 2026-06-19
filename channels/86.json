@@ -19,7 +19,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1397.json"
+    "streamsFile": "streams/1397.json",
+    "isworking": 1
   },
   {
     "id": 1398,

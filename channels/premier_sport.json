@@ -7,7 +7,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKy6e_VXVOYonzE2CL19gULCnpQPOeQ-bzgg&s",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4009.json"
+    "streamsFile": "streams/4009.json",
+    "isworking": 1
   },
   {
     "id": 4010,
@@ -17,7 +18,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKy6e_VXVOYonzE2CL19gULCnpQPOeQ-bzgg&s",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4010.json"
+    "streamsFile": "streams/4010.json",
+    "isworking": 1
   },
   {
     "id": 4011,
@@ -27,7 +29,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOuNOvPkw0ifxNdEd3xy-T7y36NsfW_wggJIBwqFNcQ&s=10",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/4011.json"
+    "streamsFile": "streams/4011.json",
+    "isworking": 0
   },
   {
     "id": 4012,
@@ -37,7 +40,8 @@
     "logo": "https://i.imgur.com/dAPtBTh.png",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/4012.json"
+    "streamsFile": "streams/4012.json",
+    "isworking": 1
   },
   {
     "id": 4013,
@@ -47,7 +51,8 @@
     "logo": "https://i.imgur.com/dAPtBTh.png",
     "type": "channel",
     "position": 55,
-    "streamsFile": "streams/4013.json"
+    "streamsFile": "streams/4013.json",
+    "isworking": 0
   },
   {
     "id": 4014,
@@ -57,7 +62,8 @@
     "logo": "https://i.imgur.com/dAPtBTh.png",
     "type": "channel",
     "position": 56,
-    "streamsFile": "streams/4014.json"
+    "streamsFile": "streams/4014.json",
+    "isworking": 0
   },
   {
     "id": 4015,
@@ -67,7 +73,8 @@
     "logo": "https://i.imgur.com/dAPtBTh.png",
     "type": "channel",
     "position": 57,
-    "streamsFile": "streams/4015.json"
+    "streamsFile": "streams/4015.json",
+    "isworking": 0
   },
   {
     "id": 4016,
@@ -77,7 +84,8 @@
     "logo": "https://i.imgur.com/dAPtBTh.png",
     "type": "channel",
     "position": 58,
-    "streamsFile": "streams/4016.json"
+    "streamsFile": "streams/4016.json",
+    "isworking": 0
   },
   {
     "id": 4017,
@@ -87,7 +95,8 @@
     "logo": "https://i.imgur.com/dAPtBTh.png",
     "type": "channel",
     "position": 59,
-    "streamsFile": "streams/4017.json"
+    "streamsFile": "streams/4017.json",
+    "isworking": 0
   },
   {
     "id": 4018,
@@ -97,7 +106,8 @@
     "logo": "https://i.imgur.com/dAPtBTh.png",
     "type": "channel",
     "position": 62,
-    "streamsFile": "streams/4018.json"
+    "streamsFile": "streams/4018.json",
+    "isworking": 0
   },
   {
     "id": 4019,
@@ -107,7 +117,8 @@
     "logo": "https://i.imgur.com/dAPtBTh.png",
     "type": "channel",
     "position": 1885,
-    "streamsFile": "streams/4019.json"
+    "streamsFile": "streams/4019.json",
+    "isworking": 0
   },
   {
     "id": 4020,
@@ -117,6 +128,7 @@
     "logo": "https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",
     "type": "channel",
     "position": 1888,
-    "streamsFile": "streams/4020.json"
+    "streamsFile": "streams/4020.json",
+    "isworking": 0
   }
 ]

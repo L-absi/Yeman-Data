@@ -8,7 +8,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/4.json"
+    "streamsFile": "streams/4.json",
+    "isworking": 1
   },
   {
     "id": 5,
@@ -19,7 +20,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/5.json"
+    "streamsFile": "streams/5.json",
+    "isworking": 1
   },
   {
     "id": 6,
@@ -30,7 +32,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/6.json"
+    "streamsFile": "streams/6.json",
+    "isworking": 1
   },
   {
     "id": 7,
@@ -41,7 +44,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/7.json"
+    "streamsFile": "streams/7.json",
+    "isworking": 1
   },
   {
     "id": 8,
@@ -52,7 +56,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/8.json"
+    "streamsFile": "streams/8.json",
+    "isworking": 1
   },
   {
     "id": 9,
@@ -63,7 +68,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/9.json"
+    "streamsFile": "streams/9.json",
+    "isworking": 1
   },
   {
     "id": 10,
@@ -74,7 +80,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/10.json"
+    "streamsFile": "streams/10.json",
+    "isworking": 1
   },
   {
     "id": 11,
@@ -85,7 +92,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/11.json"
+    "streamsFile": "streams/11.json",
+    "isworking": 1
   },
   {
     "id": 12,
@@ -96,7 +104,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/12.json"
+    "streamsFile": "streams/12.json",
+    "isworking": 0
   },
   {
     "id": 1,
@@ -107,7 +116,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1.json"
+    "streamsFile": "streams/1.json",
+    "isworking": 1
   },
   {
     "id": 2,
@@ -118,7 +128,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/2.json"
+    "streamsFile": "streams/2.json",
+    "isworking": 1
   },
   {
     "id": 3,
@@ -129,7 +140,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/3.json"
+    "streamsFile": "streams/3.json",
+    "isworking": 0
   },
   {
     "id": 13,
@@ -173,7 +185,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/16.json"
+    "streamsFile": "streams/16.json",
+    "isworking": 0
   },
   {
     "id": 17,
@@ -184,7 +197,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/17.json"
+    "streamsFile": "streams/17.json",
+    "isworking": 1
   },
   {
     "id": 18,
@@ -217,6 +231,7 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/20.json"
+    "streamsFile": "streams/20.json",
+    "isworking": 0
   }
 ]

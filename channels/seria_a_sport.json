@@ -7,7 +7,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcslylbPJzNBHWt5-URcXEz_D229jUtF1jvnrG7T54A&s=10",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/4021.json"
+    "streamsFile": "streams/4021.json",
+    "isworking": 1
   },
   {
     "id": 4022,
@@ -17,7 +18,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcslylbPJzNBHWt5-URcXEz_D229jUtF1jvnrG7T54A&s=10",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/4022.json"
+    "streamsFile": "streams/4022.json",
+    "isworking": 1
   },
   {
     "id": 4023,
@@ -27,7 +29,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcslylbPJzNBHWt5-URcXEz_D229jUtF1jvnrG7T54A&s=10",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4023.json"
+    "streamsFile": "streams/4023.json",
+    "isworking": 1
   },
   {
     "id": 4024,
@@ -37,7 +40,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcslylbPJzNBHWt5-URcXEz_D229jUtF1jvnrG7T54A&s=10",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4024.json"
+    "streamsFile": "streams/4024.json",
+    "isworking": 1
   },
   {
     "id": 4025,
@@ -47,7 +51,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcslylbPJzNBHWt5-URcXEz_D229jUtF1jvnrG7T54A&s=10",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4025.json"
+    "streamsFile": "streams/4025.json",
+    "isworking": 1
   },
   {
     "id": 4026,
@@ -57,7 +62,8 @@
     "logo": "",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/4026.json"
+    "streamsFile": "streams/4026.json",
+    "isworking": 0
   },
   {
     "id": 4027,
@@ -67,7 +73,8 @@
     "logo": "",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/4027.json"
+    "streamsFile": "streams/4027.json",
+    "isworking": 1
   },
   {
     "id": 4028,
@@ -77,7 +84,8 @@
     "logo": "",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/4028.json"
+    "streamsFile": "streams/4028.json",
+    "isworking": 1
   },
   {
     "id": 4029,
@@ -87,6 +95,7 @@
     "logo": "",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/4029.json"
+    "streamsFile": "streams/4029.json",
+    "isworking": 1
   }
 ]

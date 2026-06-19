@@ -7,7 +7,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Slovak_Football_Association_logo.svg/1200px-Slovak_Football_Association_logo.svg.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4918.json"
+    "streamsFile": "streams/4918.json",
+    "isworking": 1
   },
   {
     "id": 4919,
@@ -17,7 +18,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Slovak_Football_Association_logo.svg/1200px-Slovak_Football_Association_logo.svg.png",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/4919.json"
+    "streamsFile": "streams/4919.json",
+    "isworking": 1
   },
   {
     "id": 4920,
@@ -27,7 +29,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Slovak_Football_Association_logo.svg/1200px-Slovak_Football_Association_logo.svg.png",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/4920.json"
+    "streamsFile": "streams/4920.json",
+    "isworking": 1
   },
   {
     "id": 4921,
@@ -37,7 +40,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Slovak_Football_Association_logo.svg/1200px-Slovak_Football_Association_logo.svg.png",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4921.json"
+    "streamsFile": "streams/4921.json",
+    "isworking": 1
   },
   {
     "id": 4922,
@@ -47,6 +51,7 @@
     "logo": "",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4922.json"
+    "streamsFile": "streams/4922.json",
+    "isworking": 1
   }
 ]

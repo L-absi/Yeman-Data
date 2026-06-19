@@ -8,7 +8,8 @@
     "logo": "https://i.imgur.com/z3qsphV.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1736.json"
+    "streamsFile": "streams/1736.json",
+    "isworking": 1
   },
   {
     "id": 718,
@@ -19,7 +20,8 @@
     "logo": "https://i.imgur.com/cqzFlzN.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/718.json"
+    "streamsFile": "streams/718.json",
+    "isworking": 0
   },
   {
     "id": 719,
@@ -30,7 +32,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9RRgApvfBkjODKoXyxruNJBIh3KF4Kgv6-SduqBV1CLXsM2oRSwmPko87FgigFlwjT5U13VJ-mW1Ihju_89wZBGJSbUYXYgwMyh-S72Rcc3DFMFP7Un6_aPLt2-uxl5EBvGXsxtCmogFaIyeZn7_uoncyD0hMpUoYhFMX0SWTjPXOzW53IgkPzoN7LOQ/s1600/Al-Iraqiya-News-liveiraq.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/719.json"
+    "streamsFile": "streams/719.json",
+    "isworking": 0
   },
   {
     "id": 720,
@@ -41,7 +44,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCpI6Pd22-Q_HGtI98OMWi3f5LmFezyca5IpIqFJCN7vy-Unmpc1B6BDQd0v-SUgz2x85qtP9syWmZky6qWj84zs8XILutPLmfAYzCypcv8WYZDkv0sNghSSnFMGLnfUR-rsJoUHaXzZwMAJv0AlKQhPXZiIgQkV58gGxYZSJUHXFOJRQM85mRf3-JINw/s1600/Al-Iraqiya-liveiraq.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/720.json"
+    "streamsFile": "streams/720.json",
+    "isworking": 0
   },
   {
     "id": 721,
@@ -52,7 +56,8 @@
     "logo": "https://i.imgur.com/vY1yUW8.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/721.json"
+    "streamsFile": "streams/721.json",
+    "isworking": 1
   },
   {
     "id": 722,
@@ -63,7 +68,8 @@
     "logo": "https://www.alsharqiya.com/Content/web-assets/img/logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/722.json"
+    "streamsFile": "streams/722.json",
+    "isworking": 1
   },
   {
     "id": 723,
@@ -74,7 +80,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaZfqSDNspcQsBdmfwW5k46bXxWoOfIbEc-3VD0uh5OIvAm65NoZjc3AwVFUAoGguJJbYUbT8rrYDAvkJ2P82s62mQPmR0M3UgdFEMbnh__jhnbJmpJcyMtH718XKasFZ9pxwDDyPMttKOkGngyhKePwiXzvsLhZOpGS1IScDseuriO1tgqXukIz8OcOo/s1600/logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/723.json"
+    "streamsFile": "streams/723.json",
+    "isworking": 1
   },
   {
     "id": 724,
@@ -85,7 +92,8 @@
     "logo": "https://i.imgur.com/LNtbDXC.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/724.json"
+    "streamsFile": "streams/724.json",
+    "isworking": 1
   },
   {
     "id": 725,
@@ -96,7 +104,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-xRwidYexCM-G9YCFdz4pYHc1Qj7bCvO0X9OPE20sx1Xz4kijtQznJV6vlaCZf93Ph6S_pJIQ6KvinePXuCvOywAF_32Ew6sfhiwAaG-cShA4SjP2yaktLgb8rqjQapnRPTqlh84V-DWvjTdcY0TC-7k0G2WYDTcto9SSRGgoe2ppKyJ6yUQWIbd0g2A/s1600/Al-Rasheed-liveiraq-arabic.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/725.json"
+    "streamsFile": "streams/725.json",
+    "isworking": 0
   },
   {
     "id": 726,
@@ -107,7 +116,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigKN7TvVQJc5q1TuWaBDlfaA6Rt_L7PsE-PuioRpDW2JwSZ3ioKpPDPwhl7B_e23sVQ0wDHxi_hQR26hkUeVY5fNUedwlYzNTz7McE66N9Palhb50EG9VbDodNCm8O0Y3HUdvWuBdZePngagX81665DEGOxbeIKZiiOo_-TIghBqyN35g-Wq5NIRe0o9U/s1600/logo-altaghier-tv.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/726.json"
+    "streamsFile": "streams/726.json",
+    "isworking": 1
   },
   {
     "id": 728,
@@ -118,7 +128,8 @@
     "logo": "https://i.imgur.com/FgxSiMh.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/728.json"
+    "streamsFile": "streams/728.json",
+    "isworking": 0
   },
   {
     "id": 729,
@@ -129,7 +140,8 @@
     "logo": "https://i.imgur.com/PPRi2e3.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/729.json"
+    "streamsFile": "streams/729.json",
+    "isworking": 0
   },
   {
     "id": 730,
@@ -140,7 +152,8 @@
     "logo": "https://i.imgur.com/y4DkhwV.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/730.json"
+    "streamsFile": "streams/730.json",
+    "isworking": 0
   },
   {
     "id": 731,
@@ -151,7 +164,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/%D9%82%D9%86%D8%A7%D8%A9_%D8%AF%D8%AC%D9%84%D8%A9.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/731.json"
+    "streamsFile": "streams/731.json",
+    "isworking": 1
   },
   {
     "id": 732,
@@ -162,7 +176,8 @@
     "logo": "https://www.dijlah.tv/templates/default-2/live-page/images/t.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/732.json"
+    "streamsFile": "streams/732.json",
+    "isworking": 0
   },
   {
     "id": 1796,
@@ -173,7 +188,8 @@
     "logo": "https://static.wikia.nocookie.net/logopedia/images/5/57/Samara_TV.svg/revision/latest/scale-to-width-down/240?cb=20210614055535",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1796.json"
+    "streamsFile": "streams/1796.json",
+    "isworking": 0
   },
   {
     "id": 1046,
@@ -184,7 +200,8 @@
     "logo": "https://cdn.sat.tv/wp-content/uploads/2016/05/Rudaw.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1046.json"
+    "streamsFile": "streams/1046.json",
+    "isworking": 1
   },
   {
     "id": 1047,
@@ -195,7 +212,8 @@
     "logo": "https://i.imgur.com/j0Ozhbr.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1047.json"
+    "streamsFile": "streams/1047.json",
+    "isworking": 0
   },
   {
     "id": 1048,
@@ -206,7 +224,8 @@
     "logo": "https://i.imgur.com/FGcavo8.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1048.json"
+    "streamsFile": "streams/1048.json",
+    "isworking": 0
   },
   {
     "id": 1049,
@@ -217,7 +236,8 @@
     "logo": "https://i.imgur.com/4sLuAia.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1049.json"
+    "streamsFile": "streams/1049.json",
+    "isworking": 0
   },
   {
     "id": 1050,
@@ -228,7 +248,8 @@
     "logo": "https://i.imgur.com/7NeobIt.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1050.json"
+    "streamsFile": "streams/1050.json",
+    "isworking": 0
   },
   {
     "id": 1051,
@@ -239,7 +260,8 @@
     "logo": "https://i.imgur.com/ApAEZGH.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1051.json"
+    "streamsFile": "streams/1051.json",
+    "isworking": 0
   },
   {
     "id": 1054,
@@ -250,7 +272,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFkvkz0HFa30kFT_cs6hxtB_jRplnp7UqMl3gRBxbNu-KMaKL-uRZJdgIxdYn12tWo9FLOe0c3cYu-cIQNF7puoStn5zpuWleJwW7b4WO34TvMSZO8dcB5NKFVhq02Ek3rn-KmT7BOmkh1mHf1SDnqKXpT2oY2eOyrkptH17waLYBoPT8lkOU_YUJZxJo/s1600/download%20%281%29.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1054.json"
+    "streamsFile": "streams/1054.json",
+    "isworking": 0
   },
   {
     "id": 1582,
@@ -261,7 +284,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4vnDTDJaMW-vXkCeEEArAmdlSX75zAeHNew&usqp=CAU",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1582.json"
+    "streamsFile": "streams/1582.json",
+    "isworking": 1
   },
   {
     "id": 1583,
@@ -272,7 +296,8 @@
     "logo": "https://www.lyngsat-logo.com/logo/tv/ii/iraq-24.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1583.json"
+    "streamsFile": "streams/1583.json",
+    "isworking": 0
   },
   {
     "id": 1904,
@@ -283,7 +308,8 @@
     "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2019/03/14113014/Kurdsat-TV-logo.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1904.json"
+    "streamsFile": "streams/1904.json",
+    "isworking": 0
   },
   {
     "id": 1905,
@@ -294,7 +320,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_CqcIYXbGmFm7UR5u5ZoHJHFgfWfIb5j2E9fOXuprVVS7VbRIduLvQcl_vivyxv3wnTikewFfoozlgKemKpzggTkNKL16RrwhDWNtHQB-KomVa-rSb2JNU-9DdO9UdwODLZk-Oh9kzESBgs7q_M40p_ttnFZnD1GsX54OjfV-pc7WvsgFCGIuMFhoeMg/s1600/unnamed.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1905.json"
+    "streamsFile": "streams/1905.json",
+    "isworking": 0
   },
   {
     "id": 1906,
@@ -305,7 +332,8 @@
     "logo": "https://kurdmaxcms.com/asset/image/page/show-760-x-760.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1906.json"
+    "streamsFile": "streams/1906.json",
+    "isworking": 0
   },
   {
     "id": 1907,
@@ -316,7 +344,8 @@
     "logo": "https://kurdmaxcms.com/asset/image/page/show-760-x-760.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1907.json"
+    "streamsFile": "streams/1907.json",
+    "isworking": 0
   },
   {
     "id": 1908,
@@ -327,7 +356,8 @@
     "logo": "https://www.kurdsatnews.com/images/logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1908.json"
+    "streamsFile": "streams/1908.json",
+    "isworking": 0
   },
   {
     "id": 1909,
@@ -338,7 +368,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/K24logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1909.json"
+    "streamsFile": "streams/1909.json",
+    "isworking": 1
   },
   {
     "id": 1910,
@@ -349,7 +380,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz3eZFB7VefAKKHh8QJGLotdBb5YgigGpH_qeew9WUgIfdWDhZTg_RFp2j2Fe6xvwTc7WGa5zDLHnZLMH4vacffuuNZ1DLnaBlw4QAi1RfkhDj_1DKJ8iCI7trDMJ_ffDExP4q-CaPbMm2mVQaMoMEVQRB-l9fBmBZVw9uFbf6wNN5DgAnwTBSSFTE6Gk/s1600/agah.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1910.json"
+    "streamsFile": "streams/1910.json",
+    "isworking": 1
   },
   {
     "id": 1911,
@@ -360,7 +392,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/Speda_TV_Logo.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1911.json"
+    "streamsFile": "streams/1911.json",
+    "isworking": 0
   },
   {
     "id": 1912,
@@ -371,7 +404,8 @@
     "logo": "https://play-lh.googleusercontent.com/kAQClJ5UdTFBNKNm8fpQ6whrA6CGDxifDgwzUBKEDb3hvlhnpbhM3isLX3J5nMiaR1Y=w240-h480-rw",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1912.json"
+    "streamsFile": "streams/1912.json",
+    "isworking": 0
   },
   {
     "id": 1913,
@@ -382,7 +416,8 @@
     "logo": "https://persianagroup.tv/assets/images/tv/4%20Kurd.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1913.json"
+    "streamsFile": "streams/1913.json",
+    "isworking": 0
   },
   {
     "id": 1914,
@@ -393,7 +428,8 @@
     "logo": "https://afaq.iq/static/images/site/logo_afaq2.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1914.json"
+    "streamsFile": "streams/1914.json",
+    "isworking": 0
   },
   {
     "id": 733,
@@ -404,7 +440,8 @@
     "logo": "https://almaaref.ch/wp-content/uploads/2021/10/Almaaref-Logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/733.json"
+    "streamsFile": "streams/733.json",
+    "isworking": 0
   },
   {
     "id": 734,
@@ -415,7 +452,8 @@
     "logo": "https://i.imgur.com/VuEJNRt.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/734.json"
+    "streamsFile": "streams/734.json",
+    "isworking": 1
   },
   {
     "id": 735,
@@ -426,7 +464,8 @@
     "logo": "https://i.imgur.com/jc6mPfG.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/735.json"
+    "streamsFile": "streams/735.json",
+    "isworking": 1
   },
   {
     "id": 736,
@@ -437,7 +476,8 @@
     "logo": "https://i.imgur.com/pZWlkqJ.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/736.json"
+    "streamsFile": "streams/736.json",
+    "isworking": 1
   },
   {
     "id": 737,
@@ -448,7 +488,8 @@
     "logo": "https://i.imgur.com/gz2gtBD.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/737.json"
+    "streamsFile": "streams/737.json",
+    "isworking": 0
   },
   {
     "id": 738,
@@ -459,6 +500,7 @@
     "logo": "https://i.imgur.com/4Zg6k7M.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/738.json"
+    "streamsFile": "streams/738.json",
+    "isworking": 0
   }
 ]

@@ -8,7 +8,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/On_Time_Sports_Logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/590.json"
+    "streamsFile": "streams/590.json",
+    "isworking": 1
   },
   {
     "id": 591,
@@ -19,7 +20,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/On_Time_Sports_Logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/591.json"
+    "streamsFile": "streams/591.json",
+    "isworking": 0
   },
   {
     "id": 592,
@@ -30,7 +32,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/On_Time_Sports_Logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/592.json"
+    "streamsFile": "streams/592.json",
+    "isworking": 0
   },
   {
     "id": 1821,
@@ -41,7 +44,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/ON_logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1821.json"
+    "streamsFile": "streams/1821.json",
+    "isworking": 0
   },
   {
     "id": 593,
@@ -52,7 +56,8 @@
     "logo": "https://i.imgur.com/hxxfCT0.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/593.json"
+    "streamsFile": "streams/593.json",
+    "isworking": 1
   },
   {
     "id": 1579,
@@ -63,7 +68,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/ar/8/8e/AlahlyTVlogo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1579.json"
+    "streamsFile": "streams/1579.json",
+    "isworking": 0
   },
   {
     "id": 1580,
@@ -74,7 +80,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Zamalek_TV_Channel_logo.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1580.json"
+    "streamsFile": "streams/1580.json",
+    "isworking": 0
   },
   {
     "id": 594,
@@ -85,7 +92,8 @@
     "logo": "https://i.imgur.com/Q56Wujl.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/594.json"
+    "streamsFile": "streams/594.json",
+    "isworking": 1
   },
   {
     "id": 595,
@@ -96,7 +104,8 @@
     "logo": "https://i.imgur.com/IcdPeSv.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/595.json"
+    "streamsFile": "streams/595.json",
+    "isworking": 1
   },
   {
     "id": 596,
@@ -107,7 +116,8 @@
     "logo": "https://i.imgur.com/KTxEwwX.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/596.json"
+    "streamsFile": "streams/596.json",
+    "isworking": 1
   },
   {
     "id": 597,
@@ -118,7 +128,8 @@
     "logo": "https://i.imgur.com/9dKK6Ji.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/597.json"
+    "streamsFile": "streams/597.json",
+    "isworking": 0
   },
   {
     "id": 598,
@@ -129,7 +140,8 @@
     "logo": "https://i.imgur.com/IKQG30w.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/598.json"
+    "streamsFile": "streams/598.json",
+    "isworking": 1
   },
   {
     "id": 599,
@@ -140,7 +152,8 @@
     "logo": "https://i.imgur.com/VFbFd5H.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/599.json"
+    "streamsFile": "streams/599.json",
+    "isworking": 1
   },
   {
     "id": 600,
@@ -151,7 +164,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8hyDjQOtk0jzxun6NpdMt7e3VP_kp9icy2USIHEaUu1Ou5ZEHxoHAjEPjK3EKYIV7c1yLoxehObEUufok-0rou2IK6MsP2DIMd0zyPvxBxveaPJrM7l6S-3mjb0-4KiQttQxMV4Sr5AMXCyUmbLFsBa97RoN9O7-JVx0Q-S5c3GZ5NTKS3trDb76s/s320/al-nahar-drama.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/600.json"
+    "streamsFile": "streams/600.json",
+    "isworking": 0
   },
   {
     "id": 601,
@@ -162,7 +176,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGL_XFzbwXLNXXVK7zIYDNuk8Pw5UydR_y5GFb95C_6Z3H2ktdrQEEGf7emWbrWpWkA8dL33nSQvJYjVpXwg6oNzZNoSvGAMBG2xW6PHz_74fC8DNZVLxEIBfRsYYGh2Qcy_NGAtWYCPxSVFICho-h4TkVYBToM5X0cBlpe_sWZkrz3XRqpHkQRI9_/s1600/al-nahar.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/601.json"
+    "streamsFile": "streams/601.json",
+    "isworking": 0
   },
   {
     "id": 1577,
@@ -173,7 +188,8 @@
     "logo": "https://mysat-static-v2.ercdn.net/content/x/02/16/Thumbnail.png?v=637376025796260999",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1577.json"
+    "streamsFile": "streams/1577.json",
+    "isworking": 0
   },
   {
     "id": 1666,
@@ -184,7 +200,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Al_Hayah_TV_New_Logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1666.json"
+    "streamsFile": "streams/1666.json",
+    "isworking": 0
   },
   {
     "id": 1822,
@@ -195,7 +212,8 @@
     "logo": "https://i.imgur.com/uzacKQB.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1822.json"
+    "streamsFile": "streams/1822.json",
+    "isworking": 0
   },
   {
     "id": 617,
@@ -206,7 +224,8 @@
     "logo": "https://i.imgur.com/Kn2yJCx.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/617.json"
+    "streamsFile": "streams/617.json",
+    "isworking": 0
   },
   {
     "id": 618,
@@ -217,7 +236,8 @@
     "logo": "https://i.imgur.com/7rd4ZjN.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/618.json"
+    "streamsFile": "streams/618.json",
+    "isworking": 0
   },
   {
     "id": 619,
@@ -228,7 +248,8 @@
     "logo": "https://i.imgur.com/ALLPvSX.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/619.json"
+    "streamsFile": "streams/619.json",
+    "isworking": 0
   },
   {
     "id": 620,
@@ -239,7 +260,8 @@
     "logo": "https://i.imgur.com/3GU81aB.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/620.json"
+    "streamsFile": "streams/620.json",
+    "isworking": 0
   },
   {
     "id": 621,
@@ -250,7 +272,8 @@
     "logo": "https://i.imgur.com/qonkPzB.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/621.json"
+    "streamsFile": "streams/621.json",
+    "isworking": 0
   },
   {
     "id": 1667,
@@ -261,7 +284,8 @@
     "logo": "https://i.imgur.com/dew2l6m.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1667.json"
+    "streamsFile": "streams/1667.json",
+    "isworking": 0
   },
   {
     "id": 1668,
@@ -272,7 +296,8 @@
     "logo": "https://www.developmentaid.org/files/organizationLogos/nile-tv-internationale-263123.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1668.json"
+    "streamsFile": "streams/1668.json",
+    "isworking": 0
   },
   {
     "id": 1576,
@@ -283,7 +308,8 @@
     "logo": "https://static.wikia.nocookie.net/logopedia/images/0/0c/NileNews2.png/revision/latest?cb=20210722201731",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1576.json"
+    "streamsFile": "streams/1576.json",
+    "isworking": 0
   },
   {
     "id": 609,
@@ -294,7 +320,8 @@
     "logo": "https://i.imgur.com/5HXhZzj.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/609.json"
+    "streamsFile": "streams/609.json",
+    "isworking": 0
   },
   {
     "id": 610,
@@ -305,7 +332,8 @@
     "logo": "https://i.imgur.com/iCNa7oC.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/610.json"
+    "streamsFile": "streams/610.json",
+    "isworking": 0
   },
   {
     "id": 611,
@@ -316,7 +344,8 @@
     "logo": "https://i.imgur.com/366DxrB.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/611.json"
+    "streamsFile": "streams/611.json",
+    "isworking": 0
   },
   {
     "id": 612,
@@ -327,7 +356,8 @@
     "logo": "https://i.imgur.com/0D9FXse.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/612.json"
+    "streamsFile": "streams/612.json",
+    "isworking": 0
   },
   {
     "id": 613,
@@ -338,7 +368,8 @@
     "logo": "https://i.imgur.com/z0YjMGD.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/613.json"
+    "streamsFile": "streams/613.json",
+    "isworking": 1
   },
   {
     "id": 614,
@@ -349,7 +380,8 @@
     "logo": "https://i.imgur.com/VpmnC3E.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/614.json"
+    "streamsFile": "streams/614.json",
+    "isworking": 0
   },
   {
     "id": 615,
@@ -360,7 +392,8 @@
     "logo": "https://i.imgur.com/TTNl9A9.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/615.json"
+    "streamsFile": "streams/615.json",
+    "isworking": 0
   },
   {
     "id": 616,
@@ -371,7 +404,8 @@
     "logo": "https://i.imgur.com/y4ertwc.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/616.json"
+    "streamsFile": "streams/616.json",
+    "isworking": 0
   },
   {
     "id": 1820,
@@ -382,7 +416,8 @@
     "logo": "https://i.imgur.com/C5dCcfA.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1820.json"
+    "streamsFile": "streams/1820.json",
+    "isworking": 0
   },
   {
     "id": 602,
@@ -393,7 +428,8 @@
     "logo": "https://i.imgur.com/SfMq5dw.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/602.json"
+    "streamsFile": "streams/602.json",
+    "isworking": 0
   },
   {
     "id": 603,
@@ -404,7 +440,8 @@
     "logo": "https://i.imgur.com/YbPr7lt.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/603.json"
+    "streamsFile": "streams/603.json",
+    "isworking": 0
   },
   {
     "id": 604,
@@ -415,7 +452,8 @@
     "logo": "https://i.imgur.com/ISivQMT.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/604.json"
+    "streamsFile": "streams/604.json",
+    "isworking": 0
   },
   {
     "id": 1665,
@@ -426,7 +464,8 @@
     "logo": "https://www.panoramafood.com/wp-content/uploads/2019/04/49640310_1983386635091583_105913528447139840_n.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1665.json"
+    "streamsFile": "streams/1665.json",
+    "isworking": 0
   },
   {
     "id": 1819,
@@ -437,7 +476,8 @@
     "logo": "https://i.imgur.com/eZYPRAE.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1819.json"
+    "streamsFile": "streams/1819.json",
+    "isworking": 0
   },
   {
     "id": 1594,
@@ -448,7 +488,8 @@
     "logo": "https://media0021.elcinema.com/tvguide/1227_1.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1594.json"
+    "streamsFile": "streams/1594.json",
+    "isworking": 0
   },
   {
     "id": 958,
@@ -459,7 +500,8 @@
     "logo": "https://i.imgur.com/kxf4PXh.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/958.json"
+    "streamsFile": "streams/958.json",
+    "isworking": 0
   },
   {
     "id": 1794,
@@ -470,7 +512,8 @@
     "logo": "http://omgchannel.net/admin/images/TVLogo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1794.json"
+    "streamsFile": "streams/1794.json",
+    "isworking": 1
   },
   {
     "id": 1578,
@@ -481,7 +524,8 @@
     "logo": "https://media0021.elcinema.com/tvguide/1371_1.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1578.json"
+    "streamsFile": "streams/1578.json",
+    "isworking": 0
   },
   {
     "id": 1589,
@@ -492,7 +536,8 @@
     "logo": "https://www.lyngsat-logo.com/logo/tv/ee/egypt-quran-kareem-eg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1589.json"
+    "streamsFile": "streams/1589.json",
+    "isworking": 0
   },
   {
     "id": 1590,
@@ -503,7 +548,8 @@
     "logo": "https://scontent-lcy1-2.xx.fbcdn.net/v/t1.6435-9/70512297_453279038619726_576080561798381568_n.png?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=0Yt343Wp9vgAX8JZfMW&_nc_oc=AQllQ2xfh4IQRkkpGpBD0-6FLtlWb2--Vtzm71ha9iv2bzq76w6GNZ6N0M8M5wZe6aw&_nc_ht=scontent-lcy1-2.xx&oh=00_AfBY15L1TW2yvfpk61JfA9x2rjkJJnTiGVODm6c-6VXqnA&oe=64A6AA1E",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1590.json"
+    "streamsFile": "streams/1590.json",
+    "isworking": 0
   },
   {
     "id": 1591,
@@ -514,7 +560,8 @@
     "logo": "https://1.bp.blogspot.com/-eWRLPw5cC4Q/YTJPwJzIFMI/AAAAAAAAb9k/yQR4AaDm4ica6TDNW6hykNL3gI4F3nsCACLcBGAsYHQ/w1200-h630-p-k-no-nu/nogoom%2Bfm%2Btv.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1591.json"
+    "streamsFile": "streams/1591.json",
+    "isworking": 1
   },
   {
     "id": 1592,
@@ -525,7 +572,8 @@
     "logo": "https://play-lh.googleusercontent.com/NN3ERCQuu29_JuYIyQhoscB8aUuxEpUDnPjpbL5FyTEdwbwG5QWOIwY4vGH10T6HeQ",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1592.json"
+    "streamsFile": "streams/1592.json",
+    "isworking": 0
   },
   {
     "id": 1593,
@@ -536,7 +584,8 @@
     "logo": "https://yt3.googleusercontent.com/ytc/AGIKgqN5Zq2w2Rmj3Ufrl78Pptmg2HS5KLsmB8aSm1E8=s900-c-k-c0x00ffffff-no-rj",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1593.json"
+    "streamsFile": "streams/1593.json",
+    "isworking": 0
   },
   {
     "id": 1595,
@@ -547,7 +596,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/38/EL_MEHWAR_TV.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1595.json"
+    "streamsFile": "streams/1595.json",
+    "isworking": 0
   },
   {
     "id": 1596,
@@ -558,7 +608,8 @@
     "logo": "https://i.ibb.co/mFb5JL3/qaftv.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1596.json"
+    "streamsFile": "streams/1596.json",
+    "isworking": 0
   },
   {
     "id": 605,
@@ -569,7 +620,8 @@
     "logo": "https://i.imgur.com/KWNI5m0.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/605.json"
+    "streamsFile": "streams/605.json",
+    "isworking": 1
   },
   {
     "id": 606,
@@ -580,7 +632,8 @@
     "logo": "https://i.imgur.com/K5jG5Q4.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/606.json"
+    "streamsFile": "streams/606.json",
+    "isworking": 1
   },
   {
     "id": 607,
@@ -591,7 +644,8 @@
     "logo": "https://i.imgur.com/yUMh6mG.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/607.json"
+    "streamsFile": "streams/607.json",
+    "isworking": 0
   },
   {
     "id": 608,
@@ -602,7 +656,8 @@
     "logo": "https://i.imgur.com/shMTu0l.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/608.json"
+    "streamsFile": "streams/608.json",
+    "isworking": 0
   },
   {
     "id": 626,
@@ -613,7 +668,8 @@
     "logo": "https://i.imgur.com/buDpfmu.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/626.json"
+    "streamsFile": "streams/626.json",
+    "isworking": 0
   },
   {
     "id": 627,
@@ -624,7 +680,8 @@
     "logo": "https://i.imgur.com/P2CiDwZ.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/627.json"
+    "streamsFile": "streams/627.json",
+    "isworking": 0
   },
   {
     "id": 628,
@@ -635,7 +692,8 @@
     "logo": "https://i.imgur.com/Ind3FLs.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/628.json"
+    "streamsFile": "streams/628.json",
+    "isworking": 0
   },
   {
     "id": 629,
@@ -646,7 +704,8 @@
     "logo": "https://i.imgur.com/vOMuFIR.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/629.json"
+    "streamsFile": "streams/629.json",
+    "isworking": 1
   },
   {
     "id": 1669,
@@ -657,7 +716,8 @@
     "logo": "https://media0021.elcinema.com/tvguide/1119_1.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1669.json"
+    "streamsFile": "streams/1669.json",
+    "isworking": 0
   },
   {
     "id": 953,
@@ -668,7 +728,8 @@
     "logo": "https://i.imgur.com/tRCDhgY.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/953.json"
+    "streamsFile": "streams/953.json",
+    "isworking": 1
   },
   {
     "id": 957,
@@ -679,7 +740,8 @@
     "logo": "https://i.imgur.com/3b6kleE.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/957.json"
+    "streamsFile": "streams/957.json",
+    "isworking": 1
   },
   {
     "id": 959,
@@ -690,6 +752,7 @@
     "logo": "https://i.imgur.com/whsKK3t.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/959.json"
+    "streamsFile": "streams/959.json",
+    "isworking": 0
   }
 ]

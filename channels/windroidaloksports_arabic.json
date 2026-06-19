@@ -7,7 +7,8 @@
     "logo": "https://www.lyngsat.com/logo/tv/ss/snrt_3_arriadya.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/5766.json"
+    "streamsFile": "streams/5766.json",
+    "isworking": 1
   },
   {
     "id": 5767,
@@ -17,7 +18,8 @@
     "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/5767.json"
+    "streamsFile": "streams/5767.json",
+    "isworking": 1
   },
   {
     "id": 5768,
@@ -27,7 +29,8 @@
     "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/5768.json"
+    "streamsFile": "streams/5768.json",
+    "isworking": 1
   },
   {
     "id": 5769,
@@ -37,7 +40,8 @@
     "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/5769.json"
+    "streamsFile": "streams/5769.json",
+    "isworking": 0
   },
   {
     "id": 5770,
@@ -47,7 +51,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvoOhq4edbDzDKn_P6eXDgLBEyUp91Qs47RQ&usqp=CAU",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/5770.json"
+    "streamsFile": "streams/5770.json",
+    "isworking": 0
   },
   {
     "id": 5771,
@@ -57,7 +62,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvoOhq4edbDzDKn_P6eXDgLBEyUp91Qs47RQ&usqp=CAU",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/5771.json"
+    "streamsFile": "streams/5771.json",
+    "isworking": 0
   },
   {
     "id": 5772,
@@ -67,7 +73,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtUqpS25EINhiGsyU-LkWFoAhOI1YH1TIMPfW19-GgDA&s",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/5772.json"
+    "streamsFile": "streams/5772.json",
+    "isworking": 1
   },
   {
     "id": 5773,
@@ -77,7 +84,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtUqpS25EINhiGsyU-LkWFoAhOI1YH1TIMPfW19-GgDA&s",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/5773.json"
+    "streamsFile": "streams/5773.json",
+    "isworking": 1
   },
   {
     "id": 5774,
@@ -87,7 +95,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZCOiG9Ah7xfcTNQb28Uw5hiuR5sSS3HeqpBMbhIiEbw&s",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/5774.json"
+    "streamsFile": "streams/5774.json",
+    "isworking": 0
   },
   {
     "id": 5775,
@@ -97,7 +106,8 @@
     "logo": "http://bl3rbe.net/up/53BXj1kFafd9.png",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/5775.json"
+    "streamsFile": "streams/5775.json",
+    "isworking": 1
   },
   {
     "id": 5776,
@@ -107,7 +117,8 @@
     "logo": "http://bl3rbe.net/up/C8prYos.png",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/5776.json"
+    "streamsFile": "streams/5776.json",
+    "isworking": 0
   },
   {
     "id": 5777,
@@ -117,7 +128,8 @@
     "logo": "http://bl3rbe.net/up/C8prYos.png",
     "type": "channel",
     "position": 16,
-    "streamsFile": "streams/5777.json"
+    "streamsFile": "streams/5777.json",
+    "isworking": 1
   },
   {
     "id": 5778,
@@ -127,7 +139,8 @@
     "logo": "https://i.imgur.com/93dIsom.png",
     "type": "channel",
     "position": 17,
-    "streamsFile": "streams/5778.json"
+    "streamsFile": "streams/5778.json",
+    "isworking": 1
   },
   {
     "id": 5779,
@@ -137,7 +150,8 @@
     "logo": "https://i.imgur.com/gOQyEPS.png",
     "type": "channel",
     "position": 18,
-    "streamsFile": "streams/5779.json"
+    "streamsFile": "streams/5779.json",
+    "isworking": 1
   },
   {
     "id": 5780,
@@ -147,7 +161,8 @@
     "logo": "http://mobi.jawaltv.com/iphone/images/ar_jpg/royaspo.jpg",
     "type": "channel",
     "position": 20,
-    "streamsFile": "streams/5780.json"
+    "streamsFile": "streams/5780.json",
+    "isworking": 1
   },
   {
     "id": 5781,
@@ -157,7 +172,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg88LpTv2BoJlcENW3C-e6acufO20M__B-iWAR_NzrPg&s",
     "type": "channel",
     "position": 65,
-    "streamsFile": "streams/5781.json"
+    "streamsFile": "streams/5781.json",
+    "isworking": 1
   },
   {
     "id": 5782,
@@ -167,7 +183,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoMT1PtJ51R8b_fhGuUqMYn17Z9fpyTBShjpmm16-ymA&s",
     "type": "channel",
     "position": 125,
-    "streamsFile": "streams/5782.json"
+    "streamsFile": "streams/5782.json",
+    "isworking": 0
   },
   {
     "id": 5783,
@@ -177,6 +194,7 @@
     "logo": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGh44CJBKR3KKVe6weSI1IWNyVchampyv_KonV7gPv6bDGXFyayoIYzbFYbnfqMslE9vwRiZH-RB9nMdoKoRe7TQyiz771uvCnPoms7FV3",
     "type": "channel",
     "position": 135,
-    "streamsFile": "streams/5783.json"
+    "streamsFile": "streams/5783.json",
+    "isworking": 0
   }
 ]

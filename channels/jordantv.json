@@ -7,7 +7,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/2138.json"
+    "streamsFile": "streams/2138.json",
+    "isworking": 0
   },
   {
     "id": 2139,
@@ -17,7 +18,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/2139.json"
+    "streamsFile": "streams/2139.json",
+    "isworking": 0
   },
   {
     "id": 2140,
@@ -27,7 +29,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/2140.json"
+    "streamsFile": "streams/2140.json",
+    "isworking": 0
   },
   {
     "id": 2141,
@@ -37,7 +40,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/2141.json"
+    "streamsFile": "streams/2141.json",
+    "isworking": 0
   },
   {
     "id": 2142,
@@ -47,7 +51,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/2142.json"
+    "streamsFile": "streams/2142.json",
+    "isworking": 1
   },
   {
     "id": 2143,
@@ -57,7 +62,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/2143.json"
+    "streamsFile": "streams/2143.json",
+    "isworking": 0
   },
   {
     "id": 2144,
@@ -67,7 +73,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/2144.json"
+    "streamsFile": "streams/2144.json",
+    "isworking": 0
   },
   {
     "id": 2145,
@@ -77,7 +84,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/2145.json"
+    "streamsFile": "streams/2145.json",
+    "isworking": 0
   },
   {
     "id": 2146,
@@ -87,7 +95,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/2146.json"
+    "streamsFile": "streams/2146.json",
+    "isworking": 0
   },
   {
     "id": 2147,
@@ -97,7 +106,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/2147.json"
+    "streamsFile": "streams/2147.json",
+    "isworking": 0
   },
   {
     "id": 2148,
@@ -107,7 +117,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/2148.json"
+    "streamsFile": "streams/2148.json",
+    "isworking": 0
   },
   {
     "id": 2149,
@@ -117,7 +128,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/2149.json"
+    "streamsFile": "streams/2149.json",
+    "isworking": 0
   },
   {
     "id": 2150,
@@ -127,7 +139,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/2150.json"
+    "streamsFile": "streams/2150.json",
+    "isworking": 1
   },
   {
     "id": 2151,
@@ -137,7 +150,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/2151.json"
+    "streamsFile": "streams/2151.json",
+    "isworking": 0
   },
   {
     "id": 2152,
@@ -147,7 +161,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/2152.json"
+    "streamsFile": "streams/2152.json",
+    "isworking": 1
   },
   {
     "id": 2153,
@@ -157,7 +172,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/2153.json"
+    "streamsFile": "streams/2153.json",
+    "isworking": 0
   },
   {
     "id": 2154,
@@ -167,7 +183,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/2154.json"
+    "streamsFile": "streams/2154.json",
+    "isworking": 0
   },
   {
     "id": 2155,
@@ -177,7 +194,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/2155.json"
+    "streamsFile": "streams/2155.json",
+    "isworking": 0
   },
   {
     "id": 2156,
@@ -187,7 +205,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/2156.json"
+    "streamsFile": "streams/2156.json",
+    "isworking": 0
   },
   {
     "id": 2157,
@@ -197,7 +216,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/2157.json"
+    "streamsFile": "streams/2157.json",
+    "isworking": 0
   },
   {
     "id": 2158,
@@ -207,7 +227,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/2158.json"
+    "streamsFile": "streams/2158.json",
+    "isworking": 0
   },
   {
     "id": 2159,
@@ -217,7 +238,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/2159.json"
+    "streamsFile": "streams/2159.json",
+    "isworking": 0
   },
   {
     "id": 2160,
@@ -227,7 +249,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/2160.json"
+    "streamsFile": "streams/2160.json",
+    "isworking": 0
   },
   {
     "id": 2161,
@@ -237,7 +260,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/2161.json"
+    "streamsFile": "streams/2161.json",
+    "isworking": 0
   },
   {
     "id": 2162,
@@ -247,7 +271,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/2162.json"
+    "streamsFile": "streams/2162.json",
+    "isworking": 0
   },
   {
     "id": 2163,
@@ -257,7 +282,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/2163.json"
+    "streamsFile": "streams/2163.json",
+    "isworking": 0
   },
   {
     "id": 2164,
@@ -267,7 +293,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/2164.json"
+    "streamsFile": "streams/2164.json",
+    "isworking": 0
   },
   {
     "id": 2165,
@@ -277,7 +304,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/2165.json"
+    "streamsFile": "streams/2165.json",
+    "isworking": 0
   },
   {
     "id": 2166,
@@ -287,7 +315,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 15,
-    "streamsFile": "streams/2166.json"
+    "streamsFile": "streams/2166.json",
+    "isworking": 0
   },
   {
     "id": 2167,
@@ -297,7 +326,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 16,
-    "streamsFile": "streams/2167.json"
+    "streamsFile": "streams/2167.json",
+    "isworking": 0
   },
   {
     "id": 2168,
@@ -307,7 +337,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 17,
-    "streamsFile": "streams/2168.json"
+    "streamsFile": "streams/2168.json",
+    "isworking": 0
   },
   {
     "id": 2169,
@@ -317,7 +348,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 18,
-    "streamsFile": "streams/2169.json"
+    "streamsFile": "streams/2169.json",
+    "isworking": 0
   },
   {
     "id": 2170,
@@ -327,7 +359,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 19,
-    "streamsFile": "streams/2170.json"
+    "streamsFile": "streams/2170.json",
+    "isworking": 0
   },
   {
     "id": 2171,
@@ -337,7 +370,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 20,
-    "streamsFile": "streams/2171.json"
+    "streamsFile": "streams/2171.json",
+    "isworking": 0
   },
   {
     "id": 2172,
@@ -347,7 +381,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 21,
-    "streamsFile": "streams/2172.json"
+    "streamsFile": "streams/2172.json",
+    "isworking": 0
   },
   {
     "id": 2173,
@@ -357,7 +392,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 22,
-    "streamsFile": "streams/2173.json"
+    "streamsFile": "streams/2173.json",
+    "isworking": 0
   },
   {
     "id": 2174,
@@ -367,7 +403,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 23,
-    "streamsFile": "streams/2174.json"
+    "streamsFile": "streams/2174.json",
+    "isworking": 1
   },
   {
     "id": 2175,
@@ -377,6 +414,7 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 24,
-    "streamsFile": "streams/2175.json"
+    "streamsFile": "streams/2175.json",
+    "isworking": 1
   }
 ]

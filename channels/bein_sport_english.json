@@ -7,7 +7,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4D6h0S-wcI1ZnkIHOVEWNnG8uFPK1jnc21spsXBKtLQ&s=10",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/3907.json"
+    "streamsFile": "streams/3907.json",
+    "isworking": 1
   },
   {
     "id": 3908,
@@ -17,7 +18,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF_7I0pRKTzSFBJ-J86YuRufQXEqoyrFRraVTRLJ1snA&s=10",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/3908.json"
+    "streamsFile": "streams/3908.json",
+    "isworking": 1
   },
   {
     "id": 3909,
@@ -27,6 +29,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBFEGJGXRZarw_9qPudc23DCzkHHuZlcgClgDd5kIkRA&s=10",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/3909.json"
+    "streamsFile": "streams/3909.json",
+    "isworking": 1
   }
 ]

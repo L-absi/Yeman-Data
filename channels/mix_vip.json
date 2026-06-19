@@ -7,7 +7,8 @@
     "logo": "https://media0087.elcinema.com/tvguide/1373_1.png",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/2790.json"
+    "streamsFile": "streams/2790.json",
+    "isworking": 1
   },
   {
     "id": 2791,
@@ -17,7 +18,8 @@
     "logo": "https://media0087.elcinema.com/tvguide/1371_1.png",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/2791.json"
+    "streamsFile": "streams/2791.json",
+    "isworking": 1
   },
   {
     "id": 2792,
@@ -27,7 +29,8 @@
     "logo": "https://media0087.elcinema.com/tvguide/1371_1.png",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/2792.json"
+    "streamsFile": "streams/2792.json",
+    "isworking": 1
   },
   {
     "id": 2793,
@@ -37,7 +40,8 @@
     "logo": "https://i.imgur.com/fMjhK06.png",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/2793.json"
+    "streamsFile": "streams/2793.json",
+    "isworking": 1
   },
   {
     "id": 2794,
@@ -47,7 +51,8 @@
     "logo": "http://halalondon.com/images/Production2.png",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/2794.json"
+    "streamsFile": "streams/2794.json",
+    "isworking": 1
   },
   {
     "id": 2795,
@@ -57,6 +62,7 @@
     "logo": "https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/2795.json"
+    "streamsFile": "streams/2795.json",
+    "isworking": 1
   }
 ]

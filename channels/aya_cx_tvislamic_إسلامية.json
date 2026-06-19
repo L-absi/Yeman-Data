@@ -7,7 +7,8 @@
     "logo": "https://file.rafalnht.com/2d61716d24cc0b66a6c2dee3e9d5a91e.photo.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/4345.json"
+    "streamsFile": "streams/4345.json",
+    "isworking": 0
   },
   {
     "id": 4346,
@@ -17,7 +18,8 @@
     "logo": "https://bit.ly/3zN4EZn",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/4346.json"
+    "streamsFile": "streams/4346.json",
+    "isworking": 0
   },
   {
     "id": 4347,
@@ -27,7 +29,8 @@
     "logo": "https://bit.ly/41cxPkf",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4347.json"
+    "streamsFile": "streams/4347.json",
+    "isworking": 0
   },
   {
     "id": 4348,
@@ -37,7 +40,8 @@
     "logo": "https://bit.ly/43sKOk7",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/4348.json"
+    "streamsFile": "streams/4348.json",
+    "isworking": 1
   },
   {
     "id": 4349,
@@ -47,7 +51,8 @@
     "logo": "https://bit.ly/2Md9nOO",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/4349.json"
+    "streamsFile": "streams/4349.json",
+    "isworking": 1
   },
   {
     "id": 4350,
@@ -57,7 +62,8 @@
     "logo": "https://bit.ly/3mmmTSn",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4350.json"
+    "streamsFile": "streams/4350.json",
+    "isworking": 0
   },
   {
     "id": 4351,
@@ -67,7 +73,8 @@
     "logo": "https://bit.ly/3ZTAvSZ",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/4351.json"
+    "streamsFile": "streams/4351.json",
+    "isworking": 0
   },
   {
     "id": 4352,
@@ -77,7 +84,8 @@
     "logo": "https://bit.ly/3ZSma9t",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/4352.json"
+    "streamsFile": "streams/4352.json",
+    "isworking": 0
   },
   {
     "id": 4353,
@@ -87,7 +95,8 @@
     "logo": "https://bit.ly/41b8eZe",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/4353.json"
+    "streamsFile": "streams/4353.json",
+    "isworking": 0
   },
   {
     "id": 4354,
@@ -97,7 +106,8 @@
     "logo": "https://bit.ly/39ZVPhC",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/4354.json"
+    "streamsFile": "streams/4354.json",
+    "isworking": 0
   },
   {
     "id": 4355,
@@ -107,7 +117,8 @@
     "logo": "https://bit.ly/39ZVPhC",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/4355.json"
+    "streamsFile": "streams/4355.json",
+    "isworking": 0
   },
   {
     "id": 4356,
@@ -117,7 +128,8 @@
     "logo": "https://www.gulfupp.com/do.php?img=70653",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/4356.json"
+    "streamsFile": "streams/4356.json",
+    "isworking": 1
   },
   {
     "id": 4357,
@@ -127,6 +139,7 @@
     "logo": "https://www.gulfupp.com/do.php?img=70653",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/4357.json"
+    "streamsFile": "streams/4357.json",
+    "isworking": 1
   }
 ]

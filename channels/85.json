@@ -8,7 +8,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/On_Time_Sports_Logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1415.json"
+    "streamsFile": "streams/1415.json",
+    "isworking": 1
   },
   {
     "id": 1416,
@@ -19,7 +20,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/On_Time_Sports_Logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1416.json"
+    "streamsFile": "streams/1416.json",
+    "isworking": 0
   },
   {
     "id": 1417,
@@ -30,6 +32,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/On_Time_Sports_Logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1417.json"
+    "streamsFile": "streams/1417.json",
+    "isworking": 0
   }
 ]

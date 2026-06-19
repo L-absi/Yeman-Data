@@ -5,7 +5,8 @@
     "logo": "https://cdn.kursors.lv/2019/12/2019-12-03_1831.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10150.json"
+    "streamsFile": "streams/10150.json",
+    "isworking": 0
   },
   {
     "id": 10151,
@@ -13,7 +14,8 @@
     "logo": "https://cdn.kursors.lv/2019/12/2019-12-03_1831.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10151.json"
+    "streamsFile": "streams/10151.json",
+    "isworking": 0
   },
   {
     "id": 10152,
@@ -21,6 +23,7 @@
     "logo": "https://cdn.kursors.lv/2019/12/2019-12-03_1831.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10152.json"
+    "streamsFile": "streams/10152.json",
+    "isworking": 0
   }
 ]

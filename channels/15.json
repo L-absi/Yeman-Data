@@ -8,7 +8,8 @@
     "logo": "https://seeklogo.com/images/A/al-oula-logo-A16E996040-seeklogo.com.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/540.json"
+    "streamsFile": "streams/540.json",
+    "isworking": 0
   },
   {
     "id": 539,
@@ -19,7 +20,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Laayoune_logo_png_tv.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/539.json"
+    "streamsFile": "streams/539.json",
+    "isworking": 0
   },
   {
     "id": 541,
@@ -30,7 +32,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo%2Barryadia%2Bmorocco.png/1200px-Logo%2Barryadia%2Bmorocco.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/541.json"
+    "streamsFile": "streams/541.json",
+    "isworking": 0
   },
   {
     "id": 542,
@@ -41,7 +44,8 @@
     "logo": "https://www.korafreha2.com/YacineTV_New/ARABIC/Athaqafiya.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/542.json"
+    "streamsFile": "streams/542.json",
+    "isworking": 0
   },
   {
     "id": 543,
@@ -52,7 +56,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/543.json"
+    "streamsFile": "streams/543.json",
+    "isworking": 0
   },
   {
     "id": 544,
@@ -63,7 +68,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/ar/a/ae/Logo_assadissa.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/544.json"
+    "streamsFile": "streams/544.json",
+    "isworking": 0
   },
   {
     "id": 545,
@@ -74,7 +80,8 @@
     "logo": "https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/tamazight-tv-chaine.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/545.json"
+    "streamsFile": "streams/545.json",
+    "isworking": 0
   },
   {
     "id": 546,
@@ -85,7 +92,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/2M_Logo.svg/1200px-2M_Logo.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/546.json"
+    "streamsFile": "streams/546.json",
+    "isworking": 0
   },
   {
     "id": 547,
@@ -96,7 +104,8 @@
     "logo": "https://www.m24tv.ma/themes/custom/m24_tv/logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/547.json"
+    "streamsFile": "streams/547.json",
+    "isworking": 0
   },
   {
     "id": 549,
@@ -107,7 +116,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/549.json"
+    "streamsFile": "streams/549.json",
+    "isworking": 0
   },
   {
     "id": 1849,
@@ -118,7 +128,8 @@
     "logo": "https://i.ibb.co/pdd2VqB/chada.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1849.json"
+    "streamsFile": "streams/1849.json",
+    "isworking": 0
   },
   {
     "id": 1847,
@@ -129,7 +140,8 @@
     "logo": "https://mediabroadcast-t.com/mbt_images/articles/logo_nor.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1847.json"
+    "streamsFile": "streams/1847.json",
+    "isworking": 1
   },
   {
     "id": 548,
@@ -140,7 +152,8 @@
     "logo": "https://mediabroadcast-t.com/mbt_images/articles/logo_nor.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/548.json"
+    "streamsFile": "streams/548.json",
+    "isworking": 1
   },
   {
     "id": 1655,
@@ -151,6 +164,7 @@
     "logo": "https://mediabroadcast-t.com/mbt_images/articles/logo_nor.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1655.json"
+    "streamsFile": "streams/1655.json",
+    "isworking": 1
   }
 ]

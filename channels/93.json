@@ -8,7 +8,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1541.json"
+    "streamsFile": "streams/1541.json",
+    "isworking": 1
   },
   {
     "id": 1542,
@@ -19,7 +20,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1542.json"
+    "streamsFile": "streams/1542.json",
+    "isworking": 1
   },
   {
     "id": 1543,
@@ -30,7 +32,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1543.json"
+    "streamsFile": "streams/1543.json",
+    "isworking": 1
   },
   {
     "id": 1544,
@@ -41,22 +44,25 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1544.json"
+    "streamsFile": "streams/1544.json",
+    "isworking": 0
   },
   {
-      "id": 1545,
-      "name": "beIN MAX 5",
-      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png",
-      "is_hide": 0,
-      "priority": 0,
-    "streamsFile": "streams/1545.json"
-    },
-    {
-      "id": 1546,
-      "name": "beIN MAX 6",
-      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png",
-      "is_hide": 0,
-      "priority": 0,
-    "streamsFile": "streams/1546.json"
-    }
+    "id": 1545,
+    "name": "beIN MAX 5",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/1545.json",
+    "isworking": 0
+  },
+  {
+    "id": 1546,
+    "name": "beIN MAX 6",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/1546.json",
+    "isworking": 0
+  }
 ]

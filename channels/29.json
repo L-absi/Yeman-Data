@@ -8,7 +8,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/795.json"
+    "streamsFile": "streams/795.json",
+    "isworking": 0
   },
   {
     "id": 796,
@@ -19,7 +20,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/796.json"
+    "streamsFile": "streams/796.json",
+    "isworking": 0
   },
   {
     "id": 797,
@@ -30,7 +32,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/797.json"
+    "streamsFile": "streams/797.json",
+    "isworking": 0
   },
   {
     "id": 798,
@@ -41,7 +44,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/798.json"
+    "streamsFile": "streams/798.json",
+    "isworking": 0
   },
   {
     "id": 799,
@@ -52,7 +56,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/799.json"
+    "streamsFile": "streams/799.json",
+    "isworking": 0
   },
   {
     "id": 1642,
@@ -63,7 +68,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1642.json"
+    "streamsFile": "streams/1642.json",
+    "isworking": 0
   },
   {
     "id": 800,
@@ -74,7 +80,8 @@
     "logo": "https://www.lyngsat-logo.com/logo/tv/qq/qatar_tv.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/800.json"
+    "streamsFile": "streams/800.json",
+    "isworking": 0
   },
   {
     "id": 801,
@@ -85,7 +92,8 @@
     "logo": "https://www.lyngsat.com/logo/tv/qq/qatar-tv-2-qa.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/801.json"
+    "streamsFile": "streams/801.json",
+    "isworking": 1
   },
   {
     "id": 802,
@@ -96,7 +104,8 @@
     "logo": "https://i.imgur.com/ubM9a4G.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/802.json"
+    "streamsFile": "streams/802.json",
+    "isworking": 1
   },
   {
     "id": 803,
@@ -107,6 +116,7 @@
     "logo": "https://i.imgur.com/DtdttE0.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/803.json"
+    "streamsFile": "streams/803.json",
+    "isworking": 1
   }
 ]

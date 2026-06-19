@@ -7,7 +7,8 @@
     "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/2728.json"
+    "streamsFile": "streams/2728.json",
+    "isworking": 0
   },
   {
     "id": 2729,
@@ -17,7 +18,8 @@
     "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/2729.json"
+    "streamsFile": "streams/2729.json",
+    "isworking": 0
   },
   {
     "id": 2730,
@@ -27,7 +29,8 @@
     "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/2730.json"
+    "streamsFile": "streams/2730.json",
+    "isworking": 0
   },
   {
     "id": 2731,
@@ -37,7 +40,8 @@
     "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/2731.json"
+    "streamsFile": "streams/2731.json",
+    "isworking": 0
   },
   {
     "id": 2732,
@@ -47,7 +51,8 @@
     "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
     "type": "channel",
     "position": 50,
-    "streamsFile": "streams/2732.json"
+    "streamsFile": "streams/2732.json",
+    "isworking": 0
   },
   {
     "id": 2733,
@@ -57,7 +62,8 @@
     "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/2733.json"
+    "streamsFile": "streams/2733.json",
+    "isworking": 0
   },
   {
     "id": 2734,
@@ -67,7 +73,8 @@
     "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/2734.json"
+    "streamsFile": "streams/2734.json",
+    "isworking": 0
   },
   {
     "id": 2735,
@@ -77,7 +84,8 @@
     "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
     "type": "channel",
     "position": 16,
-    "streamsFile": "streams/2735.json"
+    "streamsFile": "streams/2735.json",
+    "isworking": 0
   },
   {
     "id": 2736,
@@ -87,7 +95,8 @@
     "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/2736.json"
+    "streamsFile": "streams/2736.json",
+    "isworking": 0
   },
   {
     "id": 2737,
@@ -97,7 +106,8 @@
     "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/2737.json"
+    "streamsFile": "streams/2737.json",
+    "isworking": 0
   },
   {
     "id": 2738,
@@ -107,7 +117,8 @@
     "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/2738.json"
+    "streamsFile": "streams/2738.json",
+    "isworking": 0
   },
   {
     "id": 2739,
@@ -117,7 +128,8 @@
     "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/2739.json"
+    "streamsFile": "streams/2739.json",
+    "isworking": 0
   },
   {
     "id": 2740,
@@ -127,7 +139,8 @@
     "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/2740.json"
+    "streamsFile": "streams/2740.json",
+    "isworking": 0
   },
   {
     "id": 2741,
@@ -137,7 +150,8 @@
     "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/2741.json"
+    "streamsFile": "streams/2741.json",
+    "isworking": 0
   },
   {
     "id": 2742,
@@ -147,7 +161,8 @@
     "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/2742.json"
+    "streamsFile": "streams/2742.json",
+    "isworking": 0
   },
   {
     "id": 2743,
@@ -157,7 +172,8 @@
     "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/2743.json"
+    "streamsFile": "streams/2743.json",
+    "isworking": 0
   },
   {
     "id": 2744,
@@ -167,7 +183,8 @@
     "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
     "type": "channel",
     "position": 17,
-    "streamsFile": "streams/2744.json"
+    "streamsFile": "streams/2744.json",
+    "isworking": 1
   },
   {
     "id": 2745,
@@ -177,6 +194,7 @@
     "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/8e7f33f5-abff-45e8-8144-be299e474154/3551049334/shahid-logo",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/2745.json"
+    "streamsFile": "streams/2745.json",
+    "isworking": 0
   }
 ]

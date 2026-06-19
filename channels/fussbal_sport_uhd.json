@@ -5,7 +5,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10121.json"
+    "streamsFile": "streams/10121.json",
+    "isworking": 0
   },
   {
     "id": 10122,
@@ -13,7 +14,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10122.json"
+    "streamsFile": "streams/10122.json",
+    "isworking": 0
   },
   {
     "id": 10123,
@@ -21,6 +23,7 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10123.json"
+    "streamsFile": "streams/10123.json",
+    "isworking": 0
   }
 ]

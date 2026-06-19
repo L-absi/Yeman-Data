@@ -7,7 +7,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/4763.json"
+    "streamsFile": "streams/4763.json",
+    "isworking": 0
   },
   {
     "id": 4764,
@@ -17,7 +18,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4764.json"
+    "streamsFile": "streams/4764.json",
+    "isworking": 1
   },
   {
     "id": 4765,
@@ -27,7 +29,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/4765.json"
+    "streamsFile": "streams/4765.json",
+    "isworking": 0
   },
   {
     "id": 4766,
@@ -37,7 +40,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/4766.json"
+    "streamsFile": "streams/4766.json",
+    "isworking": 0
   },
   {
     "id": 4767,
@@ -47,6 +51,7 @@
     "logo": "",
     "type": "channel",
     "position": 44,
-    "streamsFile": "streams/4767.json"
+    "streamsFile": "streams/4767.json",
+    "isworking": 0
   }
 ]

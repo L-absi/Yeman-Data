@@ -7,7 +7,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmN_KseTIte9rjpChujgd-Pe8jd8V0E9uObFi9d8NYCQ&s=10",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/4860.json"
+    "streamsFile": "streams/4860.json",
+    "isworking": 1
   },
   {
     "id": 4861,
@@ -17,7 +18,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmN_KseTIte9rjpChujgd-Pe8jd8V0E9uObFi9d8NYCQ&s=10",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4861.json"
+    "streamsFile": "streams/4861.json",
+    "isworking": 1
   },
   {
     "id": 4862,
@@ -27,7 +29,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmN_KseTIte9rjpChujgd-Pe8jd8V0E9uObFi9d8NYCQ&s=10",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/4862.json"
+    "streamsFile": "streams/4862.json",
+    "isworking": 1
   },
   {
     "id": 4863,
@@ -37,7 +40,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmN_KseTIte9rjpChujgd-Pe8jd8V0E9uObFi9d8NYCQ&s=10",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/4863.json"
+    "streamsFile": "streams/4863.json",
+    "isworking": 1
   },
   {
     "id": 4864,
@@ -47,7 +51,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmN_KseTIte9rjpChujgd-Pe8jd8V0E9uObFi9d8NYCQ&s=10",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/4864.json"
+    "streamsFile": "streams/4864.json",
+    "isworking": 1
   },
   {
     "id": 4865,
@@ -57,7 +62,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBgXgz3nw4iD7jY5hTwQy7uLJD-GO77w-mZagrjyyaa0H76U9QnGr5-ss&s=10",
     "type": "channel",
     "position": 21,
-    "streamsFile": "streams/4865.json"
+    "streamsFile": "streams/4865.json",
+    "isworking": 0
   },
   {
     "id": 4866,
@@ -67,7 +73,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBgXgz3nw4iD7jY5hTwQy7uLJD-GO77w-mZagrjyyaa0H76U9QnGr5-ss&s=10",
     "type": "channel",
     "position": 92,
-    "streamsFile": "streams/4866.json"
+    "streamsFile": "streams/4866.json",
+    "isworking": 1
   },
   {
     "id": 4867,
@@ -77,6 +84,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBgXgz3nw4iD7jY5hTwQy7uLJD-GO77w-mZagrjyyaa0H76U9QnGr5-ss&s=10",
     "type": "channel",
     "position": 712,
-    "streamsFile": "streams/4867.json"
+    "streamsFile": "streams/4867.json",
+    "isworking": 1
   }
 ]

@@ -7,7 +7,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNoLt8xUQbTvUVqLNT_UQjBn6EfjwctOwY6vzQNOASg&s=10",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/5759.json"
+    "streamsFile": "streams/5759.json",
+    "isworking": 0
   },
   {
     "id": 5760,
@@ -17,7 +18,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNoLt8xUQbTvUVqLNT_UQjBn6EfjwctOwY6vzQNOASg&s=10",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/5760.json"
+    "streamsFile": "streams/5760.json",
+    "isworking": 0
   },
   {
     "id": 5761,
@@ -27,7 +29,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNoLt8xUQbTvUVqLNT_UQjBn6EfjwctOwY6vzQNOASg&s=10",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/5761.json"
+    "streamsFile": "streams/5761.json",
+    "isworking": 0
   },
   {
     "id": 5762,
@@ -37,7 +40,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNoLt8xUQbTvUVqLNT_UQjBn6EfjwctOwY6vzQNOASg&s=10",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/5762.json"
+    "streamsFile": "streams/5762.json",
+    "isworking": 0
   },
   {
     "id": 5763,
@@ -47,7 +51,8 @@
     "logo": "http://picon.tivi-ott.net:25461/picon/ARGENTINA/%E2%94%83AFCON%E2%94%83%20AFRICA%20CUP%202025/SPORT%20ITALIA.png",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/5763.json"
+    "streamsFile": "streams/5763.json",
+    "isworking": 1
   },
   {
     "id": 5764,
@@ -57,7 +62,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawpH-gLI-7DnswQxMu_8qLWSW2fGo2LUE1Ojo4WwAFA&s=10",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/5764.json"
+    "streamsFile": "streams/5764.json",
+    "isworking": 1
   },
   {
     "id": 5765,
@@ -67,6 +73,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawpH-gLI-7DnswQxMu_8qLWSW2fGo2LUE1Ojo4WwAFA&s=10",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/5765.json"
+    "streamsFile": "streams/5765.json",
+    "isworking": 1
   }
 ]

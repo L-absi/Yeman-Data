@@ -7,7 +7,8 @@
     "logo": "https://i.imgur.com/CiA3plN.png",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/2746.json"
+    "streamsFile": "streams/2746.json",
+    "isworking": 0
   },
   {
     "id": 2747,
@@ -17,7 +18,8 @@
     "logo": "https://i.imgur.com/CiA3plN.png",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/2747.json"
+    "streamsFile": "streams/2747.json",
+    "isworking": 1
   },
   {
     "id": 2748,
@@ -27,7 +29,8 @@
     "logo": "https://i.imgur.com/KXuzL1u.png",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/2748.json"
+    "streamsFile": "streams/2748.json",
+    "isworking": 1
   },
   {
     "id": 2749,
@@ -37,7 +40,8 @@
     "logo": "https://i.imgur.com/PVt8OPN.png",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/2749.json"
+    "streamsFile": "streams/2749.json",
+    "isworking": 1
   },
   {
     "id": 2750,
@@ -47,7 +51,8 @@
     "logo": "https://i.imgur.com/BcXASJp.png",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/2750.json"
+    "streamsFile": "streams/2750.json",
+    "isworking": 1
   },
   {
     "id": 2751,
@@ -57,7 +62,8 @@
     "logo": "https://i.imgur.com/fRWaDyF.png",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/2751.json"
+    "streamsFile": "streams/2751.json",
+    "isworking": 1
   },
   {
     "id": 2752,
@@ -67,7 +73,8 @@
     "logo": "https://i.imgur.com/TTAGFHG.png",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/2752.json"
+    "streamsFile": "streams/2752.json",
+    "isworking": 1
   },
   {
     "id": 2753,
@@ -77,7 +84,8 @@
     "logo": "https://i.imgur.com/g5PWnqp.png",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/2753.json"
+    "streamsFile": "streams/2753.json",
+    "isworking": 1
   },
   {
     "id": 2754,
@@ -87,7 +95,8 @@
     "logo": "https://i.imgur.com/g5PWnqp.png",
     "type": "channel",
     "position": 15,
-    "streamsFile": "streams/2754.json"
+    "streamsFile": "streams/2754.json",
+    "isworking": 1
   },
   {
     "id": 2755,
@@ -97,7 +106,8 @@
     "logo": "https://i.imgur.com/D0LxiPE.png",
     "type": "channel",
     "position": 16,
-    "streamsFile": "streams/2755.json"
+    "streamsFile": "streams/2755.json",
+    "isworking": 1
   },
   {
     "id": 2756,
@@ -107,7 +117,8 @@
     "logo": "https://i.imgur.com/o2elx0u.png",
     "type": "channel",
     "position": 17,
-    "streamsFile": "streams/2756.json"
+    "streamsFile": "streams/2756.json",
+    "isworking": 1
   },
   {
     "id": 2757,
@@ -117,7 +128,8 @@
     "logo": "https://i.imgur.com/KHo7Gtn.png",
     "type": "channel",
     "position": 18,
-    "streamsFile": "streams/2757.json"
+    "streamsFile": "streams/2757.json",
+    "isworking": 1
   },
   {
     "id": 2758,
@@ -127,7 +139,8 @@
     "logo": "https://media0070.elcinema.com/tvguide/1399_1.png",
     "type": "channel",
     "position": 19,
-    "streamsFile": "streams/2758.json"
+    "streamsFile": "streams/2758.json",
+    "isworking": 1
   },
   {
     "id": 2759,
@@ -137,7 +150,8 @@
     "logo": "https://i.imgur.com/lxWdjXG.png",
     "type": "channel",
     "position": 20,
-    "streamsFile": "streams/2759.json"
+    "streamsFile": "streams/2759.json",
+    "isworking": 1
   },
   {
     "id": 2760,
@@ -147,7 +161,8 @@
     "logo": "https://logo.iptveditor.com/mbcaction.png",
     "type": "channel",
     "position": 21,
-    "streamsFile": "streams/2760.json"
+    "streamsFile": "streams/2760.json",
+    "isworking": 0
   },
   {
     "id": 2761,
@@ -157,7 +172,8 @@
     "logo": "https://logo.iptveditor.com/mbcaction.png",
     "type": "channel",
     "position": 22,
-    "streamsFile": "streams/2761.json"
+    "streamsFile": "streams/2761.json",
+    "isworking": 1
   },
   {
     "id": 2762,
@@ -167,7 +183,8 @@
     "logo": "https://pbs.twimg.com/profile_images/705029909643661313/sH8E6qhX_400x400.jpg",
     "type": "channel",
     "position": 23,
-    "streamsFile": "streams/2762.json"
+    "streamsFile": "streams/2762.json",
+    "isworking": 0
   },
   {
     "id": 2763,
@@ -177,7 +194,8 @@
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mLXFwsgLUH8xbGK7kgael74oOUHBD__uXsg6XjbvYkF-U=s900-c-k-c0x00ffffff-no-rj",
     "type": "channel",
     "position": 24,
-    "streamsFile": "streams/2763.json"
+    "streamsFile": "streams/2763.json",
+    "isworking": 1
   },
   {
     "id": 2764,
@@ -187,7 +205,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png",
     "type": "channel",
     "position": 25,
-    "streamsFile": "streams/2764.json"
+    "streamsFile": "streams/2764.json",
+    "isworking": 1
   },
   {
     "id": 2765,
@@ -197,7 +216,8 @@
     "logo": "https://cdn-radiotime-logos.tunein.com/p465453g.png",
     "type": "channel",
     "position": 26,
-    "streamsFile": "streams/2765.json"
+    "streamsFile": "streams/2765.json",
+    "isworking": 1
   },
   {
     "id": 2766,
@@ -207,7 +227,8 @@
     "logo": "https://i.ibb.co/tsWQ5pz/panorama.jpg",
     "type": "channel",
     "position": 27,
-    "streamsFile": "streams/2766.json"
+    "streamsFile": "streams/2766.json",
+    "isworking": 1
   },
   {
     "id": 2767,
@@ -217,7 +238,8 @@
     "logo": "https://i.imgur.com/CiA3plN.png",
     "type": "channel",
     "position": 28,
-    "streamsFile": "streams/2767.json"
+    "streamsFile": "streams/2767.json",
+    "isworking": 0
   },
   {
     "id": 2768,
@@ -227,7 +249,8 @@
     "logo": "https://i.imgur.com/BcXASJp.png",
     "type": "channel",
     "position": 29,
-    "streamsFile": "streams/2768.json"
+    "streamsFile": "streams/2768.json",
+    "isworking": 1
   },
   {
     "id": 2769,
@@ -237,7 +260,8 @@
     "logo": "https://i.imgur.com/TTAGFHG.png",
     "type": "channel",
     "position": 30,
-    "streamsFile": "streams/2769.json"
+    "streamsFile": "streams/2769.json",
+    "isworking": 1
   },
   {
     "id": 2770,
@@ -247,7 +271,8 @@
     "logo": "https://i.imgur.com/g5PWnqp.png",
     "type": "channel",
     "position": 31,
-    "streamsFile": "streams/2770.json"
+    "streamsFile": "streams/2770.json",
+    "isworking": 0
   },
   {
     "id": 2771,
@@ -257,7 +282,8 @@
     "logo": "https://i.imgur.com/lxWdjXG.png",
     "type": "channel",
     "position": 32,
-    "streamsFile": "streams/2771.json"
+    "streamsFile": "streams/2771.json",
+    "isworking": 1
   },
   {
     "id": 2772,
@@ -267,7 +293,8 @@
     "logo": "https://i.imgur.com/o2elx0u.png",
     "type": "channel",
     "position": 33,
-    "streamsFile": "streams/2772.json"
+    "streamsFile": "streams/2772.json",
+    "isworking": 0
   },
   {
     "id": 2773,
@@ -277,7 +304,8 @@
     "logo": "https://media0070.elcinema.com/tvguide/1399_1.png",
     "type": "channel",
     "position": 34,
-    "streamsFile": "streams/2773.json"
+    "streamsFile": "streams/2773.json",
+    "isworking": 0
   },
   {
     "id": 2774,
@@ -287,7 +315,8 @@
     "logo": "https://i.ibb.co/tsWQ5pz/panorama.jpg",
     "type": "channel",
     "position": 35,
-    "streamsFile": "streams/2774.json"
+    "streamsFile": "streams/2774.json",
+    "isworking": 1
   },
   {
     "id": 2775,
@@ -297,7 +326,8 @@
     "logo": "https://i.ibb.co/N19JFwZ/mbc.png",
     "type": "channel",
     "position": 36,
-    "streamsFile": "streams/2775.json"
+    "streamsFile": "streams/2775.json",
+    "isworking": 0
   },
   {
     "id": 2776,
@@ -307,7 +337,8 @@
     "logo": "https://i.ibb.co/BnhWg65/mbcmasr.png",
     "type": "channel",
     "position": 37,
-    "streamsFile": "streams/2776.json"
+    "streamsFile": "streams/2776.json",
+    "isworking": 0
   },
   {
     "id": 2777,
@@ -317,7 +348,8 @@
     "logo": "https://i.ibb.co/M7B22HL/mbcmasr2.jpg",
     "type": "channel",
     "position": 38,
-    "streamsFile": "streams/2777.json"
+    "streamsFile": "streams/2777.json",
+    "isworking": 1
   },
   {
     "id": 2778,
@@ -327,7 +359,8 @@
     "logo": "https://media0070.elcinema.com/tvguide/1399_1.png",
     "type": "channel",
     "position": 39,
-    "streamsFile": "streams/2778.json"
+    "streamsFile": "streams/2778.json",
+    "isworking": 0
   },
   {
     "id": 2779,
@@ -337,7 +370,8 @@
     "logo": "https://bit.ly/3zkk7A8",
     "type": "channel",
     "position": 40,
-    "streamsFile": "streams/2779.json"
+    "streamsFile": "streams/2779.json",
+    "isworking": 0
   },
   {
     "id": 2780,
@@ -347,7 +381,8 @@
     "logo": "hhttps://i.ibb.co/tsWQ5pz/panorama.jpg",
     "type": "channel",
     "position": 41,
-    "streamsFile": "streams/2780.json"
+    "streamsFile": "streams/2780.json",
+    "isworking": 1
   },
   {
     "id": 2781,
@@ -357,7 +392,8 @@
     "logo": "http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png",
     "type": "channel",
     "position": 42,
-    "streamsFile": "streams/2781.json"
+    "streamsFile": "streams/2781.json",
+    "isworking": 0
   },
   {
     "id": 2782,
@@ -367,7 +403,8 @@
     "logo": "https://i.ibb.co/BnhWg65/mbcmasr.png",
     "type": "channel",
     "position": 43,
-    "streamsFile": "streams/2782.json"
+    "streamsFile": "streams/2782.json",
+    "isworking": 0
   },
   {
     "id": 2783,
@@ -377,7 +414,8 @@
     "logo": "https://media0070.elcinema.com/tvguide/1399_1.png",
     "type": "channel",
     "position": 44,
-    "streamsFile": "streams/2783.json"
+    "streamsFile": "streams/2783.json",
+    "isworking": 0
   },
   {
     "id": 2784,
@@ -387,7 +425,8 @@
     "logo": "https://bit.ly/3zkk7A8",
     "type": "channel",
     "position": 45,
-    "streamsFile": "streams/2784.json"
+    "streamsFile": "streams/2784.json",
+    "isworking": 0
   },
   {
     "id": 2785,
@@ -397,7 +436,8 @@
     "logo": "http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png",
     "type": "channel",
     "position": 46,
-    "streamsFile": "streams/2785.json"
+    "streamsFile": "streams/2785.json",
+    "isworking": 0
   },
   {
     "id": 2786,
@@ -407,7 +447,8 @@
     "logo": "https://i.ibb.co/BnhWg65/mbcmasr.png",
     "type": "channel",
     "position": 47,
-    "streamsFile": "streams/2786.json"
+    "streamsFile": "streams/2786.json",
+    "isworking": 0
   },
   {
     "id": 2787,
@@ -417,7 +458,8 @@
     "logo": "https://media0070.elcinema.com/tvguide/1399_1.png",
     "type": "channel",
     "position": 48,
-    "streamsFile": "streams/2787.json"
+    "streamsFile": "streams/2787.json",
+    "isworking": 0
   },
   {
     "id": 2788,
@@ -427,7 +469,8 @@
     "logo": "https://bit.ly/3zkk7A8",
     "type": "channel",
     "position": 49,
-    "streamsFile": "streams/2788.json"
+    "streamsFile": "streams/2788.json",
+    "isworking": 0
   },
   {
     "id": 2789,
@@ -437,6 +480,7 @@
     "logo": "https://i.ibb.co/tsWQ5pz/panorama.jpg",
     "type": "channel",
     "position": 50,
-    "streamsFile": "streams/2789.json"
+    "streamsFile": "streams/2789.json",
+    "isworking": 1
   }
 ]

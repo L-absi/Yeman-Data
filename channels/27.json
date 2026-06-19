@@ -8,7 +8,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/KuwaitTV.svg/250px-KuwaitTV.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/750.json"
+    "streamsFile": "streams/750.json",
+    "isworking": 1
   },
   {
     "id": 751,
@@ -19,7 +20,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_KTV2.jpg/250px-%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_KTV2.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/751.json"
+    "streamsFile": "streams/751.json",
+    "isworking": 1
   },
   {
     "id": 752,
@@ -30,7 +32,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwy5R3rJDE2H0wSicHi7rvfkncpdg03w3lBnQ5nsLd5V6xwzoNXOAIkUXC7Ih9j8AeXum-PCPaOZHID2dQGcGEHTqFcQRJOeZ4vDyV8EZr8yjhPQ6BmJQ2bIcoKbfh33AzxPSi4m7oKZm4wXN8JDW58Gt27gw93dqAkI2rTD5S7OST5AYMzoJo0PfAlik/s320/Kuwait_Al-Khabar_TV_Logo_2024.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/752.json"
+    "streamsFile": "streams/752.json",
+    "isworking": 1
   },
   {
     "id": 1055,
@@ -41,7 +44,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdKyea70uM1CwXmSkLIz72bEPsDzq9QGMZ7mn2PtXm6oubktz6xFN7LZVFIw0cIvmOGQxe2sIO52xFHrhOnXkaV-QABSdPvLfaO84nkO_F7NA6ux9gWNGu9qco2YsR_P2RnUYmmKSyfyeaBunih9vk290xa6ODxT0OssEE05idRch1MWxD80WTDgfxj70/s320/channels4_profile.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1055.json"
+    "streamsFile": "streams/1055.json",
+    "isworking": 0
   },
   {
     "id": 753,
@@ -52,7 +56,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzQ0cruLKkNL4HXu0vhUB5F9kZ-0ddtOzYQP8dffDR3i0VEhSOx5mSx6bkpzUmGw9wt55UN1DtAcVN56-1PnmMfJtkDg51Ss8-xQ1_5DRGDTVD6P-_dKiiDCLSIWvKULmd8PdkQwOuA24FVN10rANGH5eC1F5EpEid8tMR8p3yLML2NC3QL1s0eqPBKAA/s320/images.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/753.json"
+    "streamsFile": "streams/753.json",
+    "isworking": 1
   },
   {
     "id": 754,
@@ -63,7 +68,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLo3OvNnvBSnkcZiXn7sh9t5uUowkplbJbpSZeeMfevc9eXU9rc7pPX9fMMBcAmOHbfFCqkzFGHj6xvedMEEbeUPdKBOP9VbttgW8wwImBRpKo77AB6VqQVQH5uDWiImkxpjJUPk2YdzWmXgpVnFSz2IXphlXDvLl7qf3IIG2Fv68UBNFZj0tlMx6e9YU/s320/images%20%281%29.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/754.json"
+    "streamsFile": "streams/754.json",
+    "isworking": 1
   },
   {
     "id": 755,
@@ -74,7 +80,8 @@
     "logo": "https://i.imgur.com/PDCQtSG.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/755.json"
+    "streamsFile": "streams/755.json",
+    "isworking": 1
   },
   {
     "id": 756,
@@ -85,7 +92,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg/2048px-%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/756.json"
+    "streamsFile": "streams/756.json",
+    "isworking": 1
   },
   {
     "id": 757,
@@ -96,7 +104,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUFUkuHeNE_AqrkfMq7upn6J7lmyDifFgY5gUm8D3sSEqdfHwJlpfT0sYLNUxjFH5sonlFnvJpNwilBgictjVZdqJI4skHAnzYU6xQj1vKjOjY0GawQ4EBAVFVgvGscHAQ07gFDFZ1ql7f1O3Ge-2iZoh-rck3iPhbr7RzBpAvaWIvgSIRvSoRjxQ0BB8/s320/images%20%282%29.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/757.json"
+    "streamsFile": "streams/757.json",
+    "isworking": 1
   },
   {
     "id": 760,
@@ -107,6 +116,7 @@
     "logo": "https://i.imgur.com/Y7fkQWZ.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/760.json"
+    "streamsFile": "streams/760.json",
+    "isworking": 1
   }
 ]

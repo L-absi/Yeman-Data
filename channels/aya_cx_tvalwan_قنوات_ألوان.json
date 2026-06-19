@@ -5,7 +5,8 @@
     "logo": "https://up6.cc/2025/05/174640309104961.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10099.json"
+    "streamsFile": "streams/10099.json",
+    "isworking": 1
   },
   {
     "id": 10100,
@@ -13,7 +14,8 @@
     "logo": "https://up6.cc/2025/05/174640311747621.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10100.json"
+    "streamsFile": "streams/10100.json",
+    "isworking": 1
   },
   {
     "id": 10101,
@@ -21,7 +23,8 @@
     "logo": "https://up6.cc/2025/05/174640314461031.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10101.json"
+    "streamsFile": "streams/10101.json",
+    "isworking": 1
   },
   {
     "id": 10102,
@@ -29,7 +32,8 @@
     "logo": "https://up6.cc/2025/05/174640316876931.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10102.json"
+    "streamsFile": "streams/10102.json",
+    "isworking": 1
   },
   {
     "id": 10103,
@@ -37,7 +41,8 @@
     "logo": "https://up6.cc/2025/05/174640309104961.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10103.json"
+    "streamsFile": "streams/10103.json",
+    "isworking": 1
   },
   {
     "id": 10104,
@@ -45,6 +50,7 @@
     "logo": "https://up6.cc/2025/05/174640309104961.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10104.json"
+    "streamsFile": "streams/10104.json",
+    "isworking": 1
   }
 ]

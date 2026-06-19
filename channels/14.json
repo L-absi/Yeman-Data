@@ -8,7 +8,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/TV1_Algeria_logo_%282020%29.svg/929px-TV1_Algeria_logo_%282020%29.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/501.json"
+    "streamsFile": "streams/501.json",
+    "isworking": 0
   },
   {
     "id": 502,
@@ -19,7 +20,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Canal_Alg%C3%A9rie_logo_%282020%29.svg/250px-Canal_Alg%C3%A9rie_logo_%282020%29.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/502.json"
+    "streamsFile": "streams/502.json",
+    "isworking": 0
   },
   {
     "id": 503,
@@ -30,7 +32,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/TV3_Algeria_logo_%282020%29.svg/250px-TV3_Algeria_logo_%282020%29.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/503.json"
+    "streamsFile": "streams/503.json",
+    "isworking": 0
   },
   {
     "id": 504,
@@ -41,7 +44,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/TV4_Algeria_logo_Berber_version_%282020%29.svg/1009px-TV4_Algeria_logo_Berber_version_%282020%29.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/504.json"
+    "streamsFile": "streams/504.json",
+    "isworking": 0
   },
   {
     "id": 505,
@@ -52,7 +56,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/9/97/Logo_de_TV5_Alg%C3%A9rie_%282020%29.svg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/505.json"
+    "streamsFile": "streams/505.json",
+    "isworking": 0
   },
   {
     "id": 506,
@@ -63,7 +68,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/TV6_Algeria_logo_%282020%29.svg/250px-TV6_Algeria_logo_%282020%29.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/506.json"
+    "streamsFile": "streams/506.json",
+    "isworking": 0
   },
   {
     "id": 507,
@@ -74,7 +80,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/TV7_Algeria_logo_%282020%29.svg/974px-TV7_Algeria_logo_%282020%29.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/507.json"
+    "streamsFile": "streams/507.json",
+    "isworking": 0
   },
   {
     "id": 508,
@@ -85,7 +92,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/f/f3/TV8.svg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/508.json"
+    "streamsFile": "streams/508.json",
+    "isworking": 0
   },
   {
     "id": 509,
@@ -96,7 +104,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/AL24_News_Logo.svg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/509.json"
+    "streamsFile": "streams/509.json",
+    "isworking": 0
   },
   {
     "id": 510,
@@ -107,7 +116,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/e/e1/Echorouk_News.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/510.json"
+    "streamsFile": "streams/510.json",
+    "isworking": 1
   },
   {
     "id": 511,
@@ -118,7 +128,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Echourouk_TV_logo.svg/2560px-Echourouk_TV_logo.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/511.json"
+    "streamsFile": "streams/511.json",
+    "isworking": 0
   },
   {
     "id": 512,
@@ -129,7 +140,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/1200px-Ennahar_TV.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/512.json"
+    "streamsFile": "streams/512.json",
+    "isworking": 0
   },
   {
     "id": 517,
@@ -140,7 +152,8 @@
     "logo": "https://flysat.com/images/uploads/Channel/zahra-tv-algeria.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/517.json"
+    "streamsFile": "streams/517.json",
+    "isworking": 0
   },
   {
     "id": 518,
@@ -151,7 +164,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/4/41/El_Bilad_TV.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/518.json"
+    "streamsFile": "streams/518.json",
+    "isworking": 0
   },
   {
     "id": 523,
@@ -162,7 +176,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/El_Heddaf_TV.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/523.json"
+    "streamsFile": "streams/523.json",
+    "isworking": 0
   },
   {
     "id": 524,
@@ -173,7 +188,8 @@
     "logo": "https://www.korafreha2.com/YacineTV_New/ARABIC/beur-tv.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/524.json"
+    "streamsFile": "streams/524.json",
+    "isworking": 1
   },
   {
     "id": 525,
@@ -184,7 +200,8 @@
     "logo": "https://tlfaz.com/wp-content/uploads/2022/03/bahia_tv-500x450.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/525.json"
+    "streamsFile": "streams/525.json",
+    "isworking": 1
   },
   {
     "id": 526,
@@ -195,7 +212,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Samira_TV_logo.svg/1200px-Samira_TV_logo.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/526.json"
+    "streamsFile": "streams/526.json",
+    "isworking": 0
   },
   {
     "id": 528,
@@ -206,7 +224,8 @@
     "logo": "https://www.lyngsat.com/logo/tv/ee/el_fadjer_tv_dz.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/528.json"
+    "streamsFile": "streams/528.json",
+    "isworking": 0
   },
   {
     "id": 529,
@@ -217,7 +236,8 @@
     "logo": "https://img1.wsimg.com/isteam/ip/12f6a9bb-9d7f-4220-90d1-87294ed7f819/LOGO%20-%20Arabic.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/529.json"
+    "streamsFile": "streams/529.json",
+    "isworking": 0
   },
   {
     "id": 530,
@@ -228,7 +248,8 @@
     "logo": "https://i.imgur.com/CRqMPMw.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/530.json"
+    "streamsFile": "streams/530.json",
+    "isworking": 0
   },
   {
     "id": 1810,
@@ -239,7 +260,8 @@
     "logo": "https://www.lyngsat.com/logo/tv/ee/elwatania-tv-dz.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1810.json"
+    "streamsFile": "streams/1810.json",
+    "isworking": 0
   },
   {
     "id": 531,
@@ -250,6 +272,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/d/db/Almagharibia_tv_channel.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/531.json"
+    "streamsFile": "streams/531.json",
+    "isworking": 1
   }
 ]

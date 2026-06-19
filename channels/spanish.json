@@ -7,7 +7,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/5307.json"
+    "streamsFile": "streams/5307.json",
+    "isworking": 0
   },
   {
     "id": 5308,
@@ -17,7 +18,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/5308.json"
+    "streamsFile": "streams/5308.json",
+    "isworking": 0
   },
   {
     "id": 5309,
@@ -27,7 +29,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/5309.json"
+    "streamsFile": "streams/5309.json",
+    "isworking": 0
   },
   {
     "id": 5310,
@@ -37,7 +40,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/5310.json"
+    "streamsFile": "streams/5310.json",
+    "isworking": 0
   },
   {
     "id": 5311,
@@ -47,7 +51,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/5311.json"
+    "streamsFile": "streams/5311.json",
+    "isworking": 0
   },
   {
     "id": 5312,
@@ -57,7 +62,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/5312.json"
+    "streamsFile": "streams/5312.json",
+    "isworking": 0
   },
   {
     "id": 5313,
@@ -67,7 +73,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/5313.json"
+    "streamsFile": "streams/5313.json",
+    "isworking": 0
   },
   {
     "id": 5314,
@@ -77,7 +84,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/5314.json"
+    "streamsFile": "streams/5314.json",
+    "isworking": 0
   },
   {
     "id": 5315,
@@ -87,7 +95,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/5315.json"
+    "streamsFile": "streams/5315.json",
+    "isworking": 0
   },
   {
     "id": 5316,
@@ -97,7 +106,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/5316.json"
+    "streamsFile": "streams/5316.json",
+    "isworking": 0
   },
   {
     "id": 5317,
@@ -107,7 +117,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/5317.json"
+    "streamsFile": "streams/5317.json",
+    "isworking": 0
   },
   {
     "id": 5318,
@@ -117,7 +128,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/5318.json"
+    "streamsFile": "streams/5318.json",
+    "isworking": 0
   },
   {
     "id": 5319,
@@ -127,7 +139,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/5319.json"
+    "streamsFile": "streams/5319.json",
+    "isworking": 0
   },
   {
     "id": 5320,
@@ -137,7 +150,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/5320.json"
+    "streamsFile": "streams/5320.json",
+    "isworking": 0
   },
   {
     "id": 5321,
@@ -147,7 +161,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 15,
-    "streamsFile": "streams/5321.json"
+    "streamsFile": "streams/5321.json",
+    "isworking": 0
   },
   {
     "id": 5322,
@@ -157,7 +172,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 16,
-    "streamsFile": "streams/5322.json"
+    "streamsFile": "streams/5322.json",
+    "isworking": 0
   },
   {
     "id": 5323,
@@ -167,7 +183,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 17,
-    "streamsFile": "streams/5323.json"
+    "streamsFile": "streams/5323.json",
+    "isworking": 0
   },
   {
     "id": 5324,
@@ -177,7 +194,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 18,
-    "streamsFile": "streams/5324.json"
+    "streamsFile": "streams/5324.json",
+    "isworking": 0
   },
   {
     "id": 5325,
@@ -187,7 +205,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 19,
-    "streamsFile": "streams/5325.json"
+    "streamsFile": "streams/5325.json",
+    "isworking": 0
   },
   {
     "id": 5326,
@@ -197,7 +216,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 20,
-    "streamsFile": "streams/5326.json"
+    "streamsFile": "streams/5326.json",
+    "isworking": 0
   },
   {
     "id": 5327,
@@ -207,7 +227,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 21,
-    "streamsFile": "streams/5327.json"
+    "streamsFile": "streams/5327.json",
+    "isworking": 0
   },
   {
     "id": 5328,
@@ -217,7 +238,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 22,
-    "streamsFile": "streams/5328.json"
+    "streamsFile": "streams/5328.json",
+    "isworking": 0
   },
   {
     "id": 5329,
@@ -227,7 +249,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 23,
-    "streamsFile": "streams/5329.json"
+    "streamsFile": "streams/5329.json",
+    "isworking": 0
   },
   {
     "id": 5330,
@@ -237,7 +260,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 24,
-    "streamsFile": "streams/5330.json"
+    "streamsFile": "streams/5330.json",
+    "isworking": 0
   },
   {
     "id": 5331,
@@ -247,7 +271,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 25,
-    "streamsFile": "streams/5331.json"
+    "streamsFile": "streams/5331.json",
+    "isworking": 0
   },
   {
     "id": 5332,
@@ -257,7 +282,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 26,
-    "streamsFile": "streams/5332.json"
+    "streamsFile": "streams/5332.json",
+    "isworking": 0
   },
   {
     "id": 5333,
@@ -267,6 +293,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 27,
-    "streamsFile": "streams/5333.json"
+    "streamsFile": "streams/5333.json",
+    "isworking": 0
   }
 ]

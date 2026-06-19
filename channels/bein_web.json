@@ -5,7 +5,8 @@
     "logo": "https://i.pinimg.com/736x/12/78/71/12787167ddc7078399f26de2aa54f326.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10021.json"
+    "streamsFile": "streams/10021.json",
+    "isworking": 0
   },
   {
     "id": 10022,
@@ -13,7 +14,8 @@
     "logo": "https://i.pinimg.com/736x/12/78/71/12787167ddc7078399f26de2aa54f326.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10022.json"
+    "streamsFile": "streams/10022.json",
+    "isworking": 0
   },
   {
     "id": 10023,
@@ -21,7 +23,8 @@
     "logo": "https://i.pinimg.com/736x/12/78/71/12787167ddc7078399f26de2aa54f326.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10023.json"
+    "streamsFile": "streams/10023.json",
+    "isworking": 0
   },
   {
     "id": 10024,
@@ -29,7 +32,8 @@
     "logo": "https://i.pinimg.com/736x/12/78/71/12787167ddc7078399f26de2aa54f326.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10024.json"
+    "streamsFile": "streams/10024.json",
+    "isworking": 0
   },
   {
     "id": 10025,
@@ -37,7 +41,8 @@
     "logo": "https://i.pinimg.com/736x/12/78/71/12787167ddc7078399f26de2aa54f326.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10025.json"
+    "streamsFile": "streams/10025.json",
+    "isworking": 0
   },
   {
     "id": 10026,
@@ -45,6 +50,7 @@
     "logo": "https://i.pinimg.com/736x/12/78/71/12787167ddc7078399f26de2aa54f326.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10026.json"
+    "streamsFile": "streams/10026.json",
+    "isworking": 0
   }
 ]

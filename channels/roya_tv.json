@@ -7,7 +7,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/3105.json"
+    "streamsFile": "streams/3105.json",
+    "isworking": 1
   },
   {
     "id": 3106,
@@ -17,7 +18,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/3106.json"
+    "streamsFile": "streams/3106.json",
+    "isworking": 1
   },
   {
     "id": 3107,
@@ -27,7 +29,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/3107.json"
+    "streamsFile": "streams/3107.json",
+    "isworking": 1
   },
   {
     "id": 3108,
@@ -37,7 +40,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/3108.json"
+    "streamsFile": "streams/3108.json",
+    "isworking": 1
   },
   {
     "id": 3109,
@@ -47,7 +51,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/3109.json"
+    "streamsFile": "streams/3109.json",
+    "isworking": 1
   },
   {
     "id": 3110,
@@ -57,7 +62,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/3110.json"
+    "streamsFile": "streams/3110.json",
+    "isworking": 1
   },
   {
     "id": 3111,
@@ -67,7 +73,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/3111.json"
+    "streamsFile": "streams/3111.json",
+    "isworking": 1
   },
   {
     "id": 3112,
@@ -77,7 +84,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/3112.json"
+    "streamsFile": "streams/3112.json",
+    "isworking": 1
   },
   {
     "id": 3113,
@@ -87,7 +95,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/3113.json"
+    "streamsFile": "streams/3113.json",
+    "isworking": 1
   },
   {
     "id": 3114,
@@ -97,7 +106,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/3114.json"
+    "streamsFile": "streams/3114.json",
+    "isworking": 1
   },
   {
     "id": 3115,
@@ -107,7 +117,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/3115.json"
+    "streamsFile": "streams/3115.json",
+    "isworking": 0
   },
   {
     "id": 3116,
@@ -117,7 +128,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/3116.json"
+    "streamsFile": "streams/3116.json",
+    "isworking": 0
   },
   {
     "id": 3117,
@@ -127,7 +139,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 15,
-    "streamsFile": "streams/3117.json"
+    "streamsFile": "streams/3117.json",
+    "isworking": 1
   },
   {
     "id": 3118,
@@ -137,7 +150,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 16,
-    "streamsFile": "streams/3118.json"
+    "streamsFile": "streams/3118.json",
+    "isworking": 1
   },
   {
     "id": 3119,
@@ -147,7 +161,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 17,
-    "streamsFile": "streams/3119.json"
+    "streamsFile": "streams/3119.json",
+    "isworking": 1
   },
   {
     "id": 3120,
@@ -157,7 +172,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 18,
-    "streamsFile": "streams/3120.json"
+    "streamsFile": "streams/3120.json",
+    "isworking": 1
   },
   {
     "id": 3121,
@@ -167,7 +183,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 19,
-    "streamsFile": "streams/3121.json"
+    "streamsFile": "streams/3121.json",
+    "isworking": 1
   },
   {
     "id": 3122,
@@ -177,7 +194,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 20,
-    "streamsFile": "streams/3122.json"
+    "streamsFile": "streams/3122.json",
+    "isworking": 1
   },
   {
     "id": 3123,
@@ -187,7 +205,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 21,
-    "streamsFile": "streams/3123.json"
+    "streamsFile": "streams/3123.json",
+    "isworking": 1
   },
   {
     "id": 3124,
@@ -197,7 +216,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 22,
-    "streamsFile": "streams/3124.json"
+    "streamsFile": "streams/3124.json",
+    "isworking": 1
   },
   {
     "id": 3125,
@@ -207,7 +227,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 23,
-    "streamsFile": "streams/3125.json"
+    "streamsFile": "streams/3125.json",
+    "isworking": 1
   },
   {
     "id": 3126,
@@ -217,7 +238,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 24,
-    "streamsFile": "streams/3126.json"
+    "streamsFile": "streams/3126.json",
+    "isworking": 1
   },
   {
     "id": 3127,
@@ -227,7 +249,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 25,
-    "streamsFile": "streams/3127.json"
+    "streamsFile": "streams/3127.json",
+    "isworking": 1
   },
   {
     "id": 3128,
@@ -237,7 +260,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 26,
-    "streamsFile": "streams/3128.json"
+    "streamsFile": "streams/3128.json",
+    "isworking": 1
   },
   {
     "id": 3129,
@@ -247,7 +271,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 27,
-    "streamsFile": "streams/3129.json"
+    "streamsFile": "streams/3129.json",
+    "isworking": 1
   },
   {
     "id": 3130,
@@ -257,7 +282,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 28,
-    "streamsFile": "streams/3130.json"
+    "streamsFile": "streams/3130.json",
+    "isworking": 1
   },
   {
     "id": 3131,
@@ -267,7 +293,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 29,
-    "streamsFile": "streams/3131.json"
+    "streamsFile": "streams/3131.json",
+    "isworking": 1
   },
   {
     "id": 3132,
@@ -277,7 +304,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 30,
-    "streamsFile": "streams/3132.json"
+    "streamsFile": "streams/3132.json",
+    "isworking": 1
   },
   {
     "id": 3133,
@@ -287,7 +315,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 31,
-    "streamsFile": "streams/3133.json"
+    "streamsFile": "streams/3133.json",
+    "isworking": 1
   },
   {
     "id": 3134,
@@ -297,7 +326,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 32,
-    "streamsFile": "streams/3134.json"
+    "streamsFile": "streams/3134.json",
+    "isworking": 1
   },
   {
     "id": 3135,
@@ -307,7 +337,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 33,
-    "streamsFile": "streams/3135.json"
+    "streamsFile": "streams/3135.json",
+    "isworking": 1
   },
   {
     "id": 3136,
@@ -317,7 +348,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 34,
-    "streamsFile": "streams/3136.json"
+    "streamsFile": "streams/3136.json",
+    "isworking": 1
   },
   {
     "id": 3137,
@@ -327,7 +359,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 35,
-    "streamsFile": "streams/3137.json"
+    "streamsFile": "streams/3137.json",
+    "isworking": 1
   },
   {
     "id": 3138,
@@ -337,7 +370,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 36,
-    "streamsFile": "streams/3138.json"
+    "streamsFile": "streams/3138.json",
+    "isworking": 1
   },
   {
     "id": 3139,
@@ -347,7 +381,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 37,
-    "streamsFile": "streams/3139.json"
+    "streamsFile": "streams/3139.json",
+    "isworking": 1
   },
   {
     "id": 3140,
@@ -357,7 +392,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 38,
-    "streamsFile": "streams/3140.json"
+    "streamsFile": "streams/3140.json",
+    "isworking": 1
   },
   {
     "id": 3141,
@@ -367,7 +403,8 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 39,
-    "streamsFile": "streams/3141.json"
+    "streamsFile": "streams/3141.json",
+    "isworking": 1
   },
   {
     "id": 3142,
@@ -377,6 +414,7 @@
     "logo": "https://bit.ly/3ydKOJy",
     "type": "channel",
     "position": 40,
-    "streamsFile": "streams/3142.json"
+    "streamsFile": "streams/3142.json",
+    "isworking": 0
   }
 ]

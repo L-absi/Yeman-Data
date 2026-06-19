@@ -5,7 +5,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20000.json"
+    "streamsFile": "streams/20000.json",
+    "isworking": 1
   },
   {
     "id": 20001,
@@ -13,7 +14,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20001.json"
+    "streamsFile": "streams/20001.json",
+    "isworking": 0
   },
   {
     "id": 20002,
@@ -21,7 +23,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20002.json"
+    "streamsFile": "streams/20002.json",
+    "isworking": 0
   },
   {
     "id": 20003,
@@ -29,7 +32,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20003.json"
+    "streamsFile": "streams/20003.json",
+    "isworking": 0
   },
   {
     "id": 20004,
@@ -37,7 +41,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20004.json"
+    "streamsFile": "streams/20004.json",
+    "isworking": 0
   },
   {
     "id": 20005,
@@ -45,7 +50,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20005.json"
+    "streamsFile": "streams/20005.json",
+    "isworking": 0
   },
   {
     "id": 20006,
@@ -53,7 +59,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20006.json"
+    "streamsFile": "streams/20006.json",
+    "isworking": 0
   },
   {
     "id": 20007,
@@ -61,7 +68,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20007.json"
+    "streamsFile": "streams/20007.json",
+    "isworking": 0
   },
   {
     "id": 20008,
@@ -69,7 +77,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20008.json"
+    "streamsFile": "streams/20008.json",
+    "isworking": 0
   },
   {
     "id": 20009,
@@ -77,7 +86,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20009.json"
+    "streamsFile": "streams/20009.json",
+    "isworking": 0
   },
   {
     "id": 20010,
@@ -85,7 +95,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20010.json"
+    "streamsFile": "streams/20010.json",
+    "isworking": 0
   },
   {
     "id": 20011,
@@ -93,7 +104,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20011.json"
+    "streamsFile": "streams/20011.json",
+    "isworking": 0
   },
   {
     "id": 20012,
@@ -101,7 +113,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20012.json"
+    "streamsFile": "streams/20012.json",
+    "isworking": 1
   },
   {
     "id": 20013,
@@ -109,7 +122,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20013.json"
+    "streamsFile": "streams/20013.json",
+    "isworking": 0
   },
   {
     "id": 20014,
@@ -117,7 +131,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20014.json"
+    "streamsFile": "streams/20014.json",
+    "isworking": 1
   },
   {
     "id": 20015,
@@ -125,7 +140,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20015.json"
+    "streamsFile": "streams/20015.json",
+    "isworking": 0
   },
   {
     "id": 20016,
@@ -133,7 +149,8 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20016.json"
+    "streamsFile": "streams/20016.json",
+    "isworking": 0
   },
   {
     "id": 20017,
@@ -141,6 +158,7 @@
     "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20017.json"
+    "streamsFile": "streams/20017.json",
+    "isworking": 0
   }
 ]

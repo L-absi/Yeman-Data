@@ -8,7 +8,8 @@
     "logo": "https://i.imgur.com/bRpN7hM.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1044.json"
+    "streamsFile": "streams/1044.json",
+    "isworking": 1
   },
   {
     "id": 1815,
@@ -19,7 +20,8 @@
     "logo": "https://i.imgur.com/klGg2uh.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1815.json"
+    "streamsFile": "streams/1815.json",
+    "isworking": 0
   },
   {
     "id": 1653,
@@ -30,7 +32,8 @@
     "logo": "https://i.imgur.com/bRpN7hM.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1653.json"
+    "streamsFile": "streams/1653.json",
+    "isworking": 0
   },
   {
     "id": 1654,
@@ -41,6 +44,7 @@
     "logo": "https://i.imgur.com/45QDX8W.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1654.json"
+    "streamsFile": "streams/1654.json",
+    "isworking": 0
   }
 ]

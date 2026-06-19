@@ -7,7 +7,8 @@
     "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/5724.json"
+    "streamsFile": "streams/5724.json",
+    "isworking": 1
   },
   {
     "id": 5725,
@@ -17,7 +18,8 @@
     "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/5725.json"
+    "streamsFile": "streams/5725.json",
+    "isworking": 1
   },
   {
     "id": 5726,
@@ -27,7 +29,8 @@
     "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/5726.json"
+    "streamsFile": "streams/5726.json",
+    "isworking": 1
   },
   {
     "id": 5727,
@@ -37,7 +40,8 @@
     "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/5727.json"
+    "streamsFile": "streams/5727.json",
+    "isworking": 1
   },
   {
     "id": 5728,
@@ -47,7 +51,8 @@
     "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/5728.json"
+    "streamsFile": "streams/5728.json",
+    "isworking": 0
   },
   {
     "id": 5729,
@@ -57,7 +62,8 @@
     "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/5729.json"
+    "streamsFile": "streams/5729.json",
+    "isworking": 1
   },
   {
     "id": 5730,
@@ -67,7 +73,8 @@
     "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/5730.json"
+    "streamsFile": "streams/5730.json",
+    "isworking": 0
   },
   {
     "id": 5731,
@@ -77,7 +84,8 @@
     "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/5731.json"
+    "streamsFile": "streams/5731.json",
+    "isworking": 0
   },
   {
     "id": 5732,
@@ -87,7 +95,8 @@
     "logo": "https://up6.cc/2025/04/174510358909161.png",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/5732.json"
+    "streamsFile": "streams/5732.json",
+    "isworking": 1
   },
   {
     "id": 5733,
@@ -97,6 +106,7 @@
     "logo": "https://up6.cc/2025/04/174510358909161.png",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/5733.json"
+    "streamsFile": "streams/5733.json",
+    "isworking": 1
   }
 ]

@@ -7,7 +7,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/3959.json"
+    "streamsFile": "streams/3959.json",
+    "isworking": 0
   },
   {
     "id": 3960,
@@ -17,7 +18,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/3960.json"
+    "streamsFile": "streams/3960.json",
+    "isworking": 0
   },
   {
     "id": 3961,
@@ -27,7 +29,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/3961.json"
+    "streamsFile": "streams/3961.json",
+    "isworking": 0
   },
   {
     "id": 3962,
@@ -37,7 +40,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/3962.json"
+    "streamsFile": "streams/3962.json",
+    "isworking": 0
   },
   {
     "id": 3963,
@@ -47,7 +51,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/3963.json"
+    "streamsFile": "streams/3963.json",
+    "isworking": 0
   },
   {
     "id": 3964,
@@ -57,7 +62,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/3964.json"
+    "streamsFile": "streams/3964.json",
+    "isworking": 0
   },
   {
     "id": 3965,
@@ -67,7 +73,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/3965.json"
+    "streamsFile": "streams/3965.json",
+    "isworking": 0
   },
   {
     "id": 3966,
@@ -77,7 +84,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/3966.json"
+    "streamsFile": "streams/3966.json",
+    "isworking": 0
   },
   {
     "id": 3967,
@@ -87,7 +95,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/3967.json"
+    "streamsFile": "streams/3967.json",
+    "isworking": 0
   },
   {
     "id": 3968,
@@ -97,7 +106,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/3968.json"
+    "streamsFile": "streams/3968.json",
+    "isworking": 0
   },
   {
     "id": 3969,
@@ -107,7 +117,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/3969.json"
+    "streamsFile": "streams/3969.json",
+    "isworking": 0
   },
   {
     "id": 3970,
@@ -117,7 +128,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/3970.json"
+    "streamsFile": "streams/3970.json",
+    "isworking": 0
   },
   {
     "id": 3971,
@@ -127,7 +139,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/3971.json"
+    "streamsFile": "streams/3971.json",
+    "isworking": 0
   },
   {
     "id": 3972,
@@ -137,7 +150,8 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/3972.json"
+    "streamsFile": "streams/3972.json",
+    "isworking": 0
   },
   {
     "id": 3973,
@@ -147,6 +161,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 15,
-    "streamsFile": "streams/3973.json"
+    "streamsFile": "streams/3973.json",
+    "isworking": 0
   }
 ]

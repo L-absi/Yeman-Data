@@ -8,7 +8,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/2000.json"
+    "streamsFile": "streams/2000.json",
+    "isworking": 1
   },
   {
     "id": 2001,
@@ -19,7 +20,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/2001.json"
+    "streamsFile": "streams/2001.json",
+    "isworking": 1
   },
   {
     "id": 2002,
@@ -30,7 +32,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/2002.json"
+    "streamsFile": "streams/2002.json",
+    "isworking": 1
   },
   {
     "id": 2003,
@@ -41,7 +44,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/2003.json"
+    "streamsFile": "streams/2003.json",
+    "isworking": 1
   },
   {
     "id": 2004,
@@ -52,7 +56,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/2004.json"
+    "streamsFile": "streams/2004.json",
+    "isworking": 0
   },
   {
     "id": 2008,
@@ -63,7 +68,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/2008.json"
+    "streamsFile": "streams/2008.json",
+    "isworking": 1
   },
   {
     "id": 2005,
@@ -74,7 +80,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaIdnVgVHV7aV3rc5KMjf0HYYam4FobeIqqtmOumD5ElqPK--NBFjgzfWAtfTcOLYD2mnSmLSuGzTOA-d3X1clyEOTHRLuwByN6ucvodWYanroIOxA__MN3VpL4m2O8L2po4NUOUYDiDmPb3Xd5kXg-AQUu8p2hS3415Cm6rkL989MiZ2Crh6LOkCi/s320/dubai_sports_1.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/2005.json"
+    "streamsFile": "streams/2005.json",
+    "isworking": 1
   },
   {
     "id": 2006,
@@ -85,7 +92,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvLL8wZohwxk2TvSli-qseodyXdenTVOsLqUTlQ3MghE7RjU3E4aEj-Psg1HP7JT1wLHm6rqTZ2ASQubnUo_B760HKWcZ14KBmvHAaM4sdOuuHbVnkVkimBo2lWYEzX9HykwruKKd4EyGMNxWnFGwaJC3d46Svv-SGXW-SSINzgkj6k0OZIi7Gmpg0/s320/dubai_sports_2.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/2006.json"
+    "streamsFile": "streams/2006.json",
+    "isworking": 1
   },
   {
     "id": 2009,
@@ -96,7 +104,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvLL8wZohwxk2TvSli-qseodyXdenTVOsLqUTlQ3MghE7RjU3E4aEj-Psg1HP7JT1wLHm6rqTZ2ASQubnUo_B760HKWcZ14KBmvHAaM4sdOuuHbVnkVkimBo2lWYEzX9HykwruKKd4EyGMNxWnFGwaJC3d46Svv-SGXW-SSINzgkj6k0OZIi7Gmpg0/s320/dubai_sports_2.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/2009.json"
+    "streamsFile": "streams/2009.json",
+    "isworking": 0
   },
   {
     "id": 2007,
@@ -107,7 +116,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijos0jkB2pJlp3nXlO-df-QINoG4IE-v5TvvfvVkeuhscX-kPzGxHliIOO3-CzJLVOD3ZCh3XyT9qkH_hg9s6UKuf3Ehnx2baRhHVNhblPt7R8XMBynKwPuCNWY6K3uVPmahYgg5kyTjX6sJch3Jhi1gFGsr2f3_3WhlkrU1WvPGh_7mdRGEZ7cQK2/s320/dubai_sports_3.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/2007.json"
+    "streamsFile": "streams/2007.json",
+    "isworking": 1
   },
   {
     "id": 1415,
@@ -118,7 +128,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/On_Time_Sports_Logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1415.json"
+    "streamsFile": "streams/1415.json",
+    "isworking": 1
   },
   {
     "id": 1416,
@@ -129,7 +140,8 @@
     "logo": "https://i.imgur.com/Zk2dCy7.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1416.json"
+    "streamsFile": "streams/1416.json",
+    "isworking": 0
   },
   {
     "id": 1417,
@@ -140,7 +152,8 @@
     "logo": "https://i.imgur.com/uCkq57D.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1417.json"
+    "streamsFile": "streams/1417.json",
+    "isworking": 0
   },
   {
     "id": 1397,
@@ -151,6 +164,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1397.json"
+    "streamsFile": "streams/1397.json",
+    "isworking": 1
   }
 ]

@@ -7,7 +7,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnCsuEMLjdzQOtvRzqiFwFbcdLxsi6ZDUZ661HtmvZg&s=10",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/5751.json"
+    "streamsFile": "streams/5751.json",
+    "isworking": 1
   },
   {
     "id": 5752,
@@ -17,7 +18,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnCsuEMLjdzQOtvRzqiFwFbcdLxsi6ZDUZ661HtmvZg&s=10",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/5752.json"
+    "streamsFile": "streams/5752.json",
+    "isworking": 1
   },
   {
     "id": 5753,
@@ -27,7 +29,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnCsuEMLjdzQOtvRzqiFwFbcdLxsi6ZDUZ661HtmvZg&s=10",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/5753.json"
+    "streamsFile": "streams/5753.json",
+    "isworking": 1
   },
   {
     "id": 5754,
@@ -37,7 +40,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLUEWUh15A8TtXFxQifGwcaCcVeRngN6qdxjBeVx5Iw&s=10",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/5754.json"
+    "streamsFile": "streams/5754.json",
+    "isworking": 0
   },
   {
     "id": 5755,
@@ -47,6 +51,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLUEWUh15A8TtXFxQifGwcaCcVeRngN6qdxjBeVx5Iw&s=10",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/5755.json"
+    "streamsFile": "streams/5755.json",
+    "isworking": 0
   }
 ]

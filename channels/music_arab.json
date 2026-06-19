@@ -7,7 +7,8 @@
     "logo": "https://i.imgur.com/8He6Lca.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4306.json"
+    "streamsFile": "streams/4306.json",
+    "isworking": 1
   },
   {
     "id": 4307,
@@ -17,7 +18,8 @@
     "logo": "https://shahidstatic2.akamaized.net/mediaObject/slider/Ihsan/Thumbs-4/MBC-Panorama/original/MBC-Panorama.png?height=253&width=450&croppingPoint=&version=1&type=png",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/4307.json"
+    "streamsFile": "streams/4307.json",
+    "isworking": 0
   },
   {
     "id": 4308,
@@ -27,7 +29,8 @@
     "logo": "https://i.imgur.com/6ttWNu0.jpg",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/4308.json"
+    "streamsFile": "streams/4308.json",
+    "isworking": 0
   },
   {
     "id": 4309,
@@ -37,7 +40,8 @@
     "logo": "https://i.imgur.com/N4AyK2U.png",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4309.json"
+    "streamsFile": "streams/4309.json",
+    "isworking": 0
   },
   {
     "id": 4310,
@@ -47,7 +51,8 @@
     "logo": "https://i.imgur.com/xsbjQXZ.png",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/4310.json"
+    "streamsFile": "streams/4310.json",
+    "isworking": 0
   },
   {
     "id": 4311,
@@ -57,7 +62,8 @@
     "logo": "https://shahidstatic3.akamaized.net//mediaObject/2022/Amr/ramadan/takhayl_HD_thumb_chanel/original/takhayl_HD_thumb_chanel.jpg",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/4311.json"
+    "streamsFile": "streams/4311.json",
+    "isworking": 0
   },
   {
     "id": 4312,
@@ -67,7 +73,8 @@
     "logo": "http://www.falastini.tv/wp-content/uploads/2018/10/logo.png",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/4312.json"
+    "streamsFile": "streams/4312.json",
+    "isworking": 0
   },
   {
     "id": 4313,
@@ -77,7 +84,8 @@
     "logo": "https://i.imgur.com/GmgibYW.jpg",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/4313.json"
+    "streamsFile": "streams/4313.json",
+    "isworking": 0
   },
   {
     "id": 4314,
@@ -87,7 +95,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/4314.json"
+    "streamsFile": "streams/4314.json",
+    "isworking": 0
   },
   {
     "id": 4315,
@@ -97,7 +106,8 @@
     "logo": "https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/4315.json"
+    "streamsFile": "streams/4315.json",
+    "isworking": 0
   },
   {
     "id": 4316,
@@ -107,7 +117,8 @@
     "logo": "http://melody-fm.com/img/Logo.png",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/4316.json"
+    "streamsFile": "streams/4316.json",
+    "isworking": 0
   },
   {
     "id": 4317,
@@ -117,7 +128,8 @@
     "logo": "https://www.lyngsat.com/logo/tv/aa/art_tarab.png",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/4317.json"
+    "streamsFile": "streams/4317.json",
+    "isworking": 0
   },
   {
     "id": 4318,
@@ -127,7 +139,8 @@
     "logo": "https://i.imgur.com/XtUBmwd.png",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/4318.json"
+    "streamsFile": "streams/4318.json",
+    "isworking": 0
   },
   {
     "id": 4319,
@@ -137,7 +150,8 @@
     "logo": "https://i.imgur.com/PeIYCXs.jpg",
     "type": "channel",
     "position": 15,
-    "streamsFile": "streams/4319.json"
+    "streamsFile": "streams/4319.json",
+    "isworking": 0
   },
   {
     "id": 4320,
@@ -147,7 +161,8 @@
     "logo": "https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png",
     "type": "channel",
     "position": 16,
-    "streamsFile": "streams/4320.json"
+    "streamsFile": "streams/4320.json",
+    "isworking": 0
   },
   {
     "id": 4321,
@@ -157,7 +172,8 @@
     "logo": "https://i.imgur.com/6ttWNu0.jpg",
     "type": "channel",
     "position": 18,
-    "streamsFile": "streams/4321.json"
+    "streamsFile": "streams/4321.json",
+    "isworking": 0
   },
   {
     "id": 4322,
@@ -167,7 +183,8 @@
     "logo": "https://content.osn.com/logo/channel/cropped/MRN.png",
     "type": "channel",
     "position": 19,
-    "streamsFile": "streams/4322.json"
+    "streamsFile": "streams/4322.json",
+    "isworking": 1
   },
   {
     "id": 4323,
@@ -177,7 +194,8 @@
     "logo": "https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png",
     "type": "channel",
     "position": 21,
-    "streamsFile": "streams/4323.json"
+    "streamsFile": "streams/4323.json",
+    "isworking": 0
   },
   {
     "id": 4324,
@@ -187,7 +205,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 22,
-    "streamsFile": "streams/4324.json"
+    "streamsFile": "streams/4324.json",
+    "isworking": 0
   },
   {
     "id": 4325,
@@ -197,7 +216,8 @@
     "logo": "http://service.mobile.rotanaradio.jo/sites/default/files/studio.png",
     "type": "channel",
     "position": 23,
-    "streamsFile": "streams/4325.json"
+    "streamsFile": "streams/4325.json",
+    "isworking": 0
   },
   {
     "id": 4326,
@@ -207,7 +227,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 24,
-    "streamsFile": "streams/4326.json"
+    "streamsFile": "streams/4326.json",
+    "isworking": 0
   },
   {
     "id": 4327,
@@ -217,7 +238,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 25,
-    "streamsFile": "streams/4327.json"
+    "streamsFile": "streams/4327.json",
+    "isworking": 0
   },
   {
     "id": 4328,
@@ -227,7 +249,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 26,
-    "streamsFile": "streams/4328.json"
+    "streamsFile": "streams/4328.json",
+    "isworking": 0
   },
   {
     "id": 4329,
@@ -237,7 +260,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 27,
-    "streamsFile": "streams/4329.json"
+    "streamsFile": "streams/4329.json",
+    "isworking": 0
   },
   {
     "id": 4330,
@@ -247,7 +271,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 28,
-    "streamsFile": "streams/4330.json"
+    "streamsFile": "streams/4330.json",
+    "isworking": 0
   },
   {
     "id": 4331,
@@ -257,7 +282,8 @@
     "logo": "https://i.imgur.com/EKGnd0S.png",
     "type": "channel",
     "position": 31,
-    "streamsFile": "streams/4331.json"
+    "streamsFile": "streams/4331.json",
+    "isworking": 0
   },
   {
     "id": 4332,
@@ -267,7 +293,8 @@
     "logo": "https://i.imgur.com/o8vx6FG.png",
     "type": "channel",
     "position": 34,
-    "streamsFile": "streams/4332.json"
+    "streamsFile": "streams/4332.json",
+    "isworking": 0
   },
   {
     "id": 4333,
@@ -277,7 +304,8 @@
     "logo": "https://i.imgur.com/o8vx6FG.png",
     "type": "channel",
     "position": 35,
-    "streamsFile": "streams/4333.json"
+    "streamsFile": "streams/4333.json",
+    "isworking": 0
   },
   {
     "id": 4334,
@@ -287,7 +315,8 @@
     "logo": "https://i.imgur.com/j5o8ZPm.png",
     "type": "channel",
     "position": 36,
-    "streamsFile": "streams/4334.json"
+    "streamsFile": "streams/4334.json",
+    "isworking": 0
   },
   {
     "id": 4335,
@@ -297,7 +326,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 37,
-    "streamsFile": "streams/4335.json"
+    "streamsFile": "streams/4335.json",
+    "isworking": 0
   },
   {
     "id": 4336,
@@ -307,7 +337,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 38,
-    "streamsFile": "streams/4336.json"
+    "streamsFile": "streams/4336.json",
+    "isworking": 0
   },
   {
     "id": 4337,
@@ -317,7 +348,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 39,
-    "streamsFile": "streams/4337.json"
+    "streamsFile": "streams/4337.json",
+    "isworking": 0
   },
   {
     "id": 4338,
@@ -327,7 +359,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 40,
-    "streamsFile": "streams/4338.json"
+    "streamsFile": "streams/4338.json",
+    "isworking": 0
   },
   {
     "id": 4339,
@@ -337,7 +370,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 41,
-    "streamsFile": "streams/4339.json"
+    "streamsFile": "streams/4339.json",
+    "isworking": 0
   },
   {
     "id": 4340,
@@ -347,7 +381,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 42,
-    "streamsFile": "streams/4340.json"
+    "streamsFile": "streams/4340.json",
+    "isworking": 0
   },
   {
     "id": 4341,
@@ -357,7 +392,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 43,
-    "streamsFile": "streams/4341.json"
+    "streamsFile": "streams/4341.json",
+    "isworking": 0
   },
   {
     "id": 4342,
@@ -367,7 +403,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 44,
-    "streamsFile": "streams/4342.json"
+    "streamsFile": "streams/4342.json",
+    "isworking": 0
   },
   {
     "id": 4343,
@@ -377,7 +414,8 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 45,
-    "streamsFile": "streams/4343.json"
+    "streamsFile": "streams/4343.json",
+    "isworking": 0
   },
   {
     "id": 4344,
@@ -387,6 +425,7 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "type": "channel",
     "position": 46,
-    "streamsFile": "streams/4344.json"
+    "streamsFile": "streams/4344.json",
+    "isworking": 0
   }
 ]

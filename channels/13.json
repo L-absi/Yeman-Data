@@ -8,7 +8,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/166.json"
+    "streamsFile": "streams/166.json",
+    "isworking": 1
   },
   {
     "id": 170,
@@ -19,7 +20,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/9/98/Gulli_Bil_Arabi_138_138.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/170.json"
+    "streamsFile": "streams/170.json",
+    "isworking": 0
   },
   {
     "id": 171,
@@ -30,7 +32,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/280px-Boomerang_2014_logo.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/171.json"
+    "streamsFile": "streams/171.json",
+    "isworking": 0
   },
   {
     "id": 173,
@@ -41,7 +44,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/173.json"
+    "streamsFile": "streams/173.json",
+    "isworking": 1
   },
   {
     "id": 987,
@@ -52,7 +56,8 @@
     "logo": "https://assets.bein.com/mena/sites/3/2020/06/Jeem-HD-1-01.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/987.json"
+    "streamsFile": "streams/987.json",
+    "isworking": 0
   },
   {
     "id": 988,
@@ -63,7 +68,8 @@
     "logo": "https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/Bara3em-1.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/988.json"
+    "streamsFile": "streams/988.json",
+    "isworking": 0
   },
   {
     "id": 989,
@@ -74,7 +80,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5w0X1fgeN8OXfTjhXfjfRpGukdaZxMmvCdIxKHSLewSXzvgnNyU6iAQtwNYtLUUqiHMh48dUkHosVZlIysSeN9eQFPP4PY8sFpKGDY1TUtj-Mqip1bnk7GXPTiu6sAJgzRfxsbLUf4Ysmb2vDdKUJfaJZKHCmnVH1T8B7TNicZlNx4Q5sYRu9lcu4/s1600/1232_1.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/989.json"
+    "streamsFile": "streams/989.json",
+    "isworking": 0
   },
   {
     "id": 990,
@@ -85,7 +92,8 @@
     "logo": "https://i.imgur.com/cvnDXs8.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/990.json"
+    "streamsFile": "streams/990.json",
+    "isworking": 1
   },
   {
     "id": 1002,
@@ -96,7 +104,8 @@
     "logo": "https://i.imgur.com/93iaml1.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1002.json"
+    "streamsFile": "streams/1002.json",
+    "isworking": 0
   },
   {
     "id": 1004,
@@ -107,7 +116,8 @@
     "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f5/Toyor_Aljanah.png/revision/latest?cb=20190914133539",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1004.json"
+    "streamsFile": "streams/1004.json",
+    "isworking": 1
   },
   {
     "id": 1005,
@@ -118,7 +128,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%D9%83%D8%B1%D8%A7%D9%85%D9%8A%D8%B4.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1005.json"
+    "streamsFile": "streams/1005.json",
+    "isworking": 0
   },
   {
     "id": 1006,
@@ -129,7 +140,8 @@
     "logo": "https://i.imgur.com/k5a8vHU.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1006.json"
+    "streamsFile": "streams/1006.json",
+    "isworking": 0
   },
   {
     "id": 1007,
@@ -140,7 +152,8 @@
     "logo": "https://lyricstranslate.com/files/styles/artist/public/Screenshot_20200606-163241.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1007.json"
+    "streamsFile": "streams/1007.json",
+    "isworking": 1
   },
   {
     "id": 1008,
@@ -151,7 +164,8 @@
     "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7a/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%85%D8%AC%D8%AF_%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84.jpg/revision/latest?cb=20190621093107",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1008.json"
+    "streamsFile": "streams/1008.json",
+    "isworking": 0
   },
   {
     "id": 1009,
@@ -162,7 +176,8 @@
     "logo": "https://static.wikia.nocookie.net/tvpedia/images/2/21/Basma_Channel.png/revision/latest/thumbnail/width/360/height/360?cb=20210618181946&path-prefix=ru",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1009.json"
+    "streamsFile": "streams/1009.json",
+    "isworking": 0
   },
   {
     "id": 1010,
@@ -173,7 +188,8 @@
     "logo": "https://almajdtv.com/wp-content/uploads/2021/08/Rawda_logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1010.json"
+    "streamsFile": "streams/1010.json",
+    "isworking": 0
   },
   {
     "id": 1011,
@@ -184,7 +200,8 @@
     "logo": "https://i.imgur.com/cnRR0fQ.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1011.json"
+    "streamsFile": "streams/1011.json",
+    "isworking": 0
   },
   {
     "id": 1012,
@@ -195,7 +212,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Canal_J_Logo_2019.svg/1200px-Canal_J_Logo_2019.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1012.json"
+    "streamsFile": "streams/1012.json",
+    "isworking": 0
   },
   {
     "id": 1013,
@@ -206,7 +224,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Gulli_2017_nouveau_logo.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1013.json"
+    "streamsFile": "streams/1013.json",
+    "isworking": 0
   },
   {
     "id": 1014,
@@ -217,7 +236,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1014.json"
+    "streamsFile": "streams/1014.json",
+    "isworking": 0
   },
   {
     "id": 1015,
@@ -228,7 +248,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/280px-Boomerang_2014_logo.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1015.json"
+    "streamsFile": "streams/1015.json",
+    "isworking": 0
   },
   {
     "id": 1016,
@@ -239,7 +260,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQmGQIsgzsWTdPvHjHB5E2VLM_DVoYqx83pt3aww-l&s",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1016.json"
+    "streamsFile": "streams/1016.json",
+    "isworking": 0
   },
   {
     "id": 1017,
@@ -250,7 +272,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1017.json"
+    "streamsFile": "streams/1017.json",
+    "isworking": 0
   },
   {
     "id": 1018,
@@ -261,7 +284,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Nickelodeon_logo_2009.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1018.json"
+    "streamsFile": "streams/1018.json",
+    "isworking": 0
   },
   {
     "id": 1019,
@@ -272,7 +296,8 @@
     "logo": "https://i.imgur.com/xpPToLh.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1019.json"
+    "streamsFile": "streams/1019.json",
+    "isworking": 0
   },
   {
     "id": 1020,
@@ -283,7 +308,8 @@
     "logo": "https://i.imgur.com/D3sP87Y.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1020.json"
+    "streamsFile": "streams/1020.json",
+    "isworking": 0
   },
   {
     "id": 1021,
@@ -294,6 +320,7 @@
     "logo": "https://mr.comingsoon.it/imgdb/guidatv/loghi-225px/28.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1021.json"
+    "streamsFile": "streams/1021.json",
+    "isworking": 0
   }
 ]

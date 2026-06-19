@@ -5,7 +5,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10112.json"
+    "streamsFile": "streams/10112.json",
+    "isworking": 0
   },
   {
     "id": 10113,
@@ -13,7 +14,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10113.json"
+    "streamsFile": "streams/10113.json",
+    "isworking": 0
   },
   {
     "id": 10114,
@@ -21,7 +23,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10114.json"
+    "streamsFile": "streams/10114.json",
+    "isworking": 1
   },
   {
     "id": 10115,
@@ -29,7 +32,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10115.json"
+    "streamsFile": "streams/10115.json",
+    "isworking": 1
   },
   {
     "id": 10116,
@@ -37,7 +41,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10116.json"
+    "streamsFile": "streams/10116.json",
+    "isworking": 1
   },
   {
     "id": 10117,
@@ -45,7 +50,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10117.json"
+    "streamsFile": "streams/10117.json",
+    "isworking": 1
   },
   {
     "id": 10118,
@@ -53,7 +59,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10118.json"
+    "streamsFile": "streams/10118.json",
+    "isworking": 1
   },
   {
     "id": 10119,
@@ -61,7 +68,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10119.json"
+    "streamsFile": "streams/10119.json",
+    "isworking": 1
   },
   {
     "id": 10120,
@@ -69,6 +77,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10120.json"
+    "streamsFile": "streams/10120.json",
+    "isworking": 1
   }
 ]

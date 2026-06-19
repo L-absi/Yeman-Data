@@ -5,7 +5,8 @@
     "logo": "https://fls.cjs.jyh/",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10124.json"
+    "streamsFile": "streams/10124.json",
+    "isworking": 1
   },
   {
     "id": 10125,
@@ -13,7 +14,8 @@
     "logo": "https://fls.cjs.jyh/",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10125.json"
+    "streamsFile": "streams/10125.json",
+    "isworking": 1
   },
   {
     "id": 10126,
@@ -21,7 +23,8 @@
     "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10126.json"
+    "streamsFile": "streams/10126.json",
+    "isworking": 0
   },
   {
     "id": 10127,
@@ -29,7 +32,8 @@
     "logo": "https://assets.bein.com/mena/sites/3/2015/06/NEW_beIN-SPORTS-MAX-01.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10127.json"
+    "streamsFile": "streams/10127.json",
+    "isworking": 0
   },
   {
     "id": 10128,
@@ -37,7 +41,8 @@
     "logo": "https://i.postimg.cc/ydxwrpWS/file_000000000b7c72439060556e8e891f76.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10128.json"
+    "streamsFile": "streams/10128.json",
+    "isworking": 0
   },
   {
     "id": 10129,
@@ -45,7 +50,8 @@
     "logo": "https://i.postimg.cc/ydxwrpWS/file_000000000b7c72439060556e8e891f76.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10129.json"
+    "streamsFile": "streams/10129.json",
+    "isworking": 0
   },
   {
     "id": 10130,
@@ -53,7 +59,8 @@
     "logo": "https://fls.cjs.jyh/",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10130.json"
+    "streamsFile": "streams/10130.json",
+    "isworking": 1
   },
   {
     "id": 10131,
@@ -61,7 +68,8 @@
     "logo": "https://fls.cjs.jyh/",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10131.json"
+    "streamsFile": "streams/10131.json",
+    "isworking": 0
   },
   {
     "id": 10132,
@@ -69,7 +77,8 @@
     "logo": "https://fls.cjs.jyh/",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10132.json"
+    "streamsFile": "streams/10132.json",
+    "isworking": 1
   },
   {
     "id": 10133,
@@ -77,6 +86,7 @@
     "logo": "https://fls.cjs.jyh/",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10133.json"
+    "streamsFile": "streams/10133.json",
+    "isworking": 0
   }
 ]

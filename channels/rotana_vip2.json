@@ -7,7 +7,8 @@
     "logo": "https://i.imgur.com/DLDfFpu.png",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/3092.json"
+    "streamsFile": "streams/3092.json",
+    "isworking": 0
   },
   {
     "id": 3093,
@@ -17,7 +18,8 @@
     "logo": "https://i.imgur.com/Ho8N310.png",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/3093.json"
+    "streamsFile": "streams/3093.json",
+    "isworking": 0
   },
   {
     "id": 3094,
@@ -27,7 +29,8 @@
     "logo": "https://i.imgur.com/dGlKoLW.png",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/3094.json"
+    "streamsFile": "streams/3094.json",
+    "isworking": 1
   },
   {
     "id": 3095,
@@ -37,7 +40,8 @@
     "logo": "https://i.imgur.com/pMMUvkt.png",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/3095.json"
+    "streamsFile": "streams/3095.json",
+    "isworking": 1
   },
   {
     "id": 3096,
@@ -47,7 +51,8 @@
     "logo": "https://i.imgur.com/6HMluzv.png",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/3096.json"
+    "streamsFile": "streams/3096.json",
+    "isworking": 1
   },
   {
     "id": 3097,
@@ -57,7 +62,8 @@
     "logo": "https://i.imgur.com/IlT8U6S.png",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/3097.json"
+    "streamsFile": "streams/3097.json",
+    "isworking": 1
   },
   {
     "id": 3098,
@@ -67,7 +73,8 @@
     "logo": "https://i.imgur.com/btnhPjZ.png",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/3098.json"
+    "streamsFile": "streams/3098.json",
+    "isworking": 1
   },
   {
     "id": 3099,
@@ -77,7 +84,8 @@
     "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402611.webp",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/3099.json"
+    "streamsFile": "streams/3099.json",
+    "isworking": 1
   },
   {
     "id": 3100,
@@ -87,7 +95,8 @@
     "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402600.webp",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/3100.json"
+    "streamsFile": "streams/3100.json",
+    "isworking": 1
   },
   {
     "id": 3101,
@@ -97,7 +106,8 @@
     "logo": "https://rotanaradios.com/wp-content/uploads/2024/10/Asset-4.png",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/3101.json"
+    "streamsFile": "streams/3101.json",
+    "isworking": 0
   },
   {
     "id": 3102,
@@ -107,7 +117,8 @@
     "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9d/PanoramaFM_2021.png",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/3102.json"
+    "streamsFile": "streams/3102.json",
+    "isworking": 0
   },
   {
     "id": 3103,
@@ -117,7 +128,8 @@
     "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2d/MBC_FM_logo_original.png",
     "type": "channel",
     "position": 15,
-    "streamsFile": "streams/3103.json"
+    "streamsFile": "streams/3103.json",
+    "isworking": 0
   },
   {
     "id": 3104,
@@ -127,6 +139,7 @@
     "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402547.webp",
     "type": "channel",
     "position": 16,
-    "streamsFile": "streams/3104.json"
+    "streamsFile": "streams/3104.json",
+    "isworking": 1
   }
 ]

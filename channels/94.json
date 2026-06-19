@@ -8,7 +8,8 @@
     "logo": "https://i.ibb.co/bK3nHHX/image.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1806.json"
+    "streamsFile": "streams/1806.json",
+    "isworking": 0
   },
   {
     "id": 1797,
@@ -19,7 +20,8 @@
     "logo": "https://i.ibb.co/bK3nHHX/image.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1797.json"
+    "streamsFile": "streams/1797.json",
+    "isworking": 0
   },
   {
     "id": 1805,
@@ -30,7 +32,8 @@
     "logo": "https://i.imgur.com/E0stXgP.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1805.json"
+    "streamsFile": "streams/1805.json",
+    "isworking": 0
   },
   {
     "id": 1809,
@@ -41,7 +44,8 @@
     "logo": "https://i.imgur.com/GtA3e2R.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1809.json"
+    "streamsFile": "streams/1809.json",
+    "isworking": 0
   },
   {
     "id": 1561,
@@ -52,7 +56,8 @@
     "logo": "https://i.ibb.co/bK3nHHX/image.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1561.json"
+    "streamsFile": "streams/1561.json",
+    "isworking": 0
   },
   {
     "id": 1564,
@@ -63,7 +68,8 @@
     "logo": "https://i.ibb.co/bK3nHHX/image.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1564.json"
+    "streamsFile": "streams/1564.json",
+    "isworking": 0
   },
   {
     "id": 1551,
@@ -74,7 +80,8 @@
     "logo": "https://i.ibb.co/bK3nHHX/image.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1551.json"
+    "streamsFile": "streams/1551.json",
+    "isworking": 0
   },
   {
     "id": 1554,
@@ -85,7 +92,8 @@
     "logo": "https://i.ibb.co/bK3nHHX/image.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1554.json"
+    "streamsFile": "streams/1554.json",
+    "isworking": 0
   },
   {
     "id": 1570,
@@ -96,7 +104,8 @@
     "logo": "https://i.ibb.co/bK3nHHX/image.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1570.json"
+    "streamsFile": "streams/1570.json",
+    "isworking": 0
   },
   {
     "id": 1557,
@@ -107,7 +116,8 @@
     "logo": "https://i.ibb.co/bK3nHHX/image.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1557.json"
+    "streamsFile": "streams/1557.json",
+    "isworking": 0
   },
   {
     "id": 1558,
@@ -118,7 +128,8 @@
     "logo": "https://i.ibb.co/bK3nHHX/image.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1558.json"
+    "streamsFile": "streams/1558.json",
+    "isworking": 0
   },
   {
     "id": 1565,
@@ -129,7 +140,8 @@
     "logo": "https://i.imgur.com/qovIt8v.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1565.json"
+    "streamsFile": "streams/1565.json",
+    "isworking": 1
   },
   {
     "id": 1553,
@@ -140,7 +152,8 @@
     "logo": "https://i.ibb.co/bK3nHHX/image.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1553.json"
+    "streamsFile": "streams/1553.json",
+    "isworking": 0
   },
   {
     "id": 1559,
@@ -151,7 +164,8 @@
     "logo": "https://i.ibb.co/bK3nHHX/image.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1559.json"
+    "streamsFile": "streams/1559.json",
+    "isworking": 0
   },
   {
     "id": 1569,
@@ -162,7 +176,8 @@
     "logo": "https://i.ibb.co/bK3nHHX/image.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1569.json"
+    "streamsFile": "streams/1569.json",
+    "isworking": 0
   },
   {
     "id": 1552,
@@ -173,7 +188,8 @@
     "logo": "https://i.ibb.co/bK3nHHX/image.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1552.json"
+    "streamsFile": "streams/1552.json",
+    "isworking": 0
   },
   {
     "id": 1556,
@@ -184,7 +200,8 @@
     "logo": "https://i.ibb.co/bK3nHHX/image.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1556.json"
+    "streamsFile": "streams/1556.json",
+    "isworking": 0
   },
   {
     "id": 1563,
@@ -195,7 +212,8 @@
     "logo": "https://i.ibb.co/bK3nHHX/image.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1563.json"
+    "streamsFile": "streams/1563.json",
+    "isworking": 0
   },
   {
     "id": 1562,
@@ -206,7 +224,8 @@
     "logo": "https://i.ibb.co/bK3nHHX/image.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1562.json"
+    "streamsFile": "streams/1562.json",
+    "isworking": 0
   },
   {
     "id": 1555,
@@ -217,7 +236,8 @@
     "logo": "https://i.ibb.co/bK3nHHX/image.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1555.json"
+    "streamsFile": "streams/1555.json",
+    "isworking": 0
   },
   {
     "id": 1560,
@@ -228,6 +248,7 @@
     "logo": "https://i.ibb.co/bK3nHHX/image.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1560.json"
+    "streamsFile": "streams/1560.json",
+    "isworking": 0
   }
 ]

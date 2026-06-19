@@ -7,7 +7,8 @@
     "logo": "https://i.ibb.co/zbWxZ95/fs1.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4810.json"
+    "streamsFile": "streams/4810.json",
+    "isworking": 1
   },
   {
     "id": 4811,
@@ -17,7 +18,8 @@
     "logo": "https://i.ibb.co/YjrQ0CQ/fs2.png",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/4811.json"
+    "streamsFile": "streams/4811.json",
+    "isworking": 1
   },
   {
     "id": 4812,
@@ -27,7 +29,8 @@
     "logo": "https://i.ibb.co/SBkkDxq/fs3.png",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/4812.json"
+    "streamsFile": "streams/4812.json",
+    "isworking": 1
   },
   {
     "id": 4813,
@@ -37,6 +40,7 @@
     "logo": "https://i.ibb.co/9V35PtY/Dise-o-sin-t-tulo-10.png",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/4813.json"
+    "streamsFile": "streams/4813.json",
+    "isworking": 1
   }
 ]
