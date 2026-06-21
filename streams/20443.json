@@ -1,0 +1,30 @@
+[
+  {
+    "url": "<iframe src=\"https://hd.muesra.sbs/albaplayer/oooe/\" width=\"100%\" height=\"500\" frameborder=\"0\" allowfullscreen allow=\"autoplay; fullscreen\" sandbox=\"allow-scripts allow-same-origin allow-fullscreen\"></iframe>",
+    "name": "سيرفر 1",
+    "headers": "Referer|https://bbara.kooooorabokamin.shop/|User-Agent|Mozilla/5.0",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+    "name": "france",
+    "headers": "Referer|https://bbara.kooooorabokamin.shop/|User-Agent|Mozilla/5.0",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "https://karimo23.sbs/hls/ch1.m3u8?v=stable",
+    "name": "سرفر HD",
+    "headers": "Referer|https://bbara.kooooorabokamin.shop/|User-Agent|Mozilla/5.0",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "<iframe src=\"https://6.kooralive360.com/albaplayer/bein-sports-hd-1/\" width=\"100%\" height=\"500\" frameborder=\"0\" allowfullscreen allow=\"autoplay; fullscreen\" sandbox=\"allow-scripts allow-same-origin allow-fullscreen\"></iframe>",
+    "name": "4k arab",
+    "headers": "Referer|https://bbara.kooooorabokamin.shop/|User-Agent|Mozilla/5.0",
+    "license": "",
+    "scheme": ""
+  }
+]

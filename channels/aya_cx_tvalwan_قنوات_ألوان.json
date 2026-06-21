@@ -1,56 +1,56 @@
 [
   {
-    "id": 10099,
+    "id": 20251,
     "name": "ALWAN TV 1",
-    "logo": "https://up6.cc/2025/05/174640309104961.png",
+    "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10099.json",
-    "isworking": 1
+    "streamsFile": "streams/20251.json",
+    "isworking": 0
   },
   {
-    "id": 10100,
+    "id": 20252,
     "name": "ALWAN TV 2",
-    "logo": "https://up6.cc/2025/05/174640311747621.png",
+    "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10100.json",
-    "isworking": 1
+    "streamsFile": "streams/20252.json",
+    "isworking": 0
   },
   {
-    "id": 10101,
+    "id": 20253,
     "name": "ALWAN TV 3",
-    "logo": "https://up6.cc/2025/05/174640314461031.png",
+    "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10101.json",
-    "isworking": 1
+    "streamsFile": "streams/20253.json",
+    "isworking": 0
   },
   {
-    "id": 10102,
+    "id": 20254,
     "name": "ALWAN TV 4",
-    "logo": "https://up6.cc/2025/05/174640316876931.png",
+    "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10102.json",
-    "isworking": 1
+    "streamsFile": "streams/20254.json",
+    "isworking": 0
   },
   {
-    "id": 10103,
+    "id": 20255,
     "name": "ALWAN TV 5",
-    "logo": "https://up6.cc/2025/05/174640309104961.png",
+    "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10103.json",
-    "isworking": 1
+    "streamsFile": "streams/20255.json",
+    "isworking": 0
   },
   {
-    "id": 10104,
+    "id": 20256,
     "name": "ALWAN TV 6",
-    "logo": "https://up6.cc/2025/05/174640309104961.png",
+    "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10104.json",
-    "isworking": 1
+    "streamsFile": "streams/20256.json",
+    "isworking": 0
   }
 ]

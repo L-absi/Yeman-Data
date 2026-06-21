@@ -1,92 +1,92 @@
 [
   {
-    "id": 10089,
+    "id": 20193,
     "name": "الوان 1",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
+    "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10089.json",
-    "isworking": 1
+    "streamsFile": "streams/20193.json",
+    "isworking": 0
   },
   {
-    "id": 10090,
+    "id": 20194,
     "name": "الوان 2",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
+    "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10090.json",
-    "isworking": 1
+    "streamsFile": "streams/20194.json",
+    "isworking": 0
   },
   {
-    "id": 10091,
+    "id": 20195,
     "name": "الوان 3",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
+    "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10091.json",
-    "isworking": 1
+    "streamsFile": "streams/20195.json",
+    "isworking": 0
   },
   {
-    "id": 10092,
+    "id": 20196,
     "name": "الوان 4",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
+    "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10092.json",
-    "isworking": 1
+    "streamsFile": "streams/20196.json",
+    "isworking": 0
   },
   {
-    "id": 10093,
+    "id": 20197,
     "name": "الوان 5",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
+    "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10093.json",
+    "streamsFile": "streams/20197.json",
     "isworking": 0
   },
   {
-    "id": 10094,
+    "id": 20198,
     "name": "الوان 6",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
+    "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10094.json",
+    "streamsFile": "streams/20198.json",
     "isworking": 0
   },
   {
-    "id": 10095,
+    "id": 20199,
     "name": "الوان 7",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU",
+    "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10095.json",
+    "streamsFile": "streams/20199.json",
     "isworking": 0
   },
   {
-    "id": 10096,
+    "id": 20200,
     "name": "الوان 8",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU",
+    "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10096.json",
+    "streamsFile": "streams/20200.json",
     "isworking": 0
   },
   {
-    "id": 10097,
+    "id": 20201,
     "name": "الوان 9",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU",
+    "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10097.json",
+    "streamsFile": "streams/20201.json",
     "isworking": 0
   },
   {
-    "id": 10098,
+    "id": 20202,
     "name": "الوان تركي",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU",
+    "logo": "https://i.postimg.cc/Y9xngHRJ/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10098.json",
+    "streamsFile": "streams/20202.json",
     "isworking": 0
   }
 ]

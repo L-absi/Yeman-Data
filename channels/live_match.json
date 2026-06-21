@@ -1,83 +1,92 @@
 [
   {
-    "id": 10112,
-    "name": "FIFA World Cup 2026 (Somoy Tv)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "id": 20260,
+    "name": ". (Win Sports)",
+    "logo": "https://myfirstimpression.ch/wp-content/uploads/2025/10/fifa-2026-2.webp",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10112.json",
+    "streamsFile": "streams/20260.json",
     "isworking": 0
   },
   {
-    "id": 10113,
-    "name": "FIFA World Cup 2026 (T-Sports)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "id": 20261,
+    "name": ". (Bein Sports)",
+    "logo": "https://myfirstimpression.ch/wp-content/uploads/2025/10/fifa-2026-2.webp",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10113.json",
+    "streamsFile": "streams/20261.json",
     "isworking": 0
   },
   {
-    "id": 10114,
-    "name": "FIFA World Cup 2026 (Win Sports)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "id": 20262,
+    "name": ". (DAZN)",
+    "logo": "https://myfirstimpression.ch/wp-content/uploads/2025/10/fifa-2026-2.webp",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10114.json",
-    "isworking": 1
+    "streamsFile": "streams/20262.json",
+    "isworking": 0
   },
   {
-    "id": 10115,
-    "name": "FIFA World Cup 2026 (Bein Sports)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "id": 20263,
+    "name": ". (TVP Sports)",
+    "logo": "https://myfirstimpression.ch/wp-content/uploads/2025/10/fifa-2026-2.webp",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10115.json",
-    "isworking": 1
+    "streamsFile": "streams/20263.json",
+    "isworking": 0
   },
   {
-    "id": 10116,
-    "name": "FIFA World Cup 2026 (DAZN)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "id": 20264,
+    "name": ". (D Sports)",
+    "logo": "https://myfirstimpression.ch/wp-content/uploads/2025/10/fifa-2026-2.webp",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10116.json",
-    "isworking": 1
+    "streamsFile": "streams/20264.json",
+    "isworking": 0
   },
   {
-    "id": 10117,
-    "name": "FIFA World Cup 2026 (TVP Sports)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "id": 20265,
+    "name": ". (Case TV)",
+    "logo": "https://myfirstimpression.ch/wp-content/uploads/2025/10/fifa-2026-2.webp",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10117.json",
-    "isworking": 1
+    "streamsFile": "streams/20265.json",
+    "isworking": 0
   },
   {
-    "id": 10118,
-    "name": "FIFA World Cup 2026 (D Sports)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "id": 20266,
+    "name": ". (Tudn Sports)",
+    "logo": "https://myfirstimpression.ch/wp-content/uploads/2025/10/fifa-2026-2.webp",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10118.json",
-    "isworking": 1
+    "streamsFile": "streams/20266.json",
+    "isworking": 0
   },
   {
-    "id": 10119,
-    "name": "FIFA World Cup 2026 (Case TV)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "id": 20267,
+    "name": "TV1",
+    "logo": "https://myfirstimpression.ch/wp-content/uploads/2025/10/fifa-2026-2.webp",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10119.json",
-    "isworking": 1
+    "streamsFile": "streams/20267.json",
+    "isworking": 0
   },
   {
-    "id": 10120,
-    "name": "FIFA World Cup 2026 (Tudn Sports)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "id": 20268,
+    "name": "TV2",
+    "logo": "https://myfirstimpression.ch/wp-content/uploads/2025/10/fifa-2026-2.webp",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10120.json",
-    "isworking": 1
+    "streamsFile": "streams/20268.json",
+    "isworking": 0
+  },
+  {
+    "id": 20269,
+    "name": "TV5",
+    "logo": "https://myfirstimpression.ch/wp-content/uploads/2025/10/fifa-2026-2.webp",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20269.json",
+    "isworking": 0
   }
 ]

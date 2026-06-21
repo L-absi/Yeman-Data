@@ -1,92 +1,38 @@
 [
   {
-    "id": 10124,
-    "name": "VAR9",
-    "logo": "https://fls.cjs.jyh/",
+    "id": 20273,
+    "name": "KURD",
+    "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10124.json",
-    "isworking": 1
-  },
-  {
-    "id": 10125,
-    "name": "SN",
-    "logo": "https://fls.cjs.jyh/",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/10125.json",
-    "isworking": 1
-  },
-  {
-    "id": 10126,
-    "name": "MAX2",
-    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/10126.json",
+    "streamsFile": "streams/20273.json",
     "isworking": 0
   },
   {
-    "id": 10127,
-    "name": "MAX1",
-    "logo": "https://assets.bein.com/mena/sites/3/2015/06/NEW_beIN-SPORTS-MAX-01.png",
+    "id": 20274,
+    "name": "Far UHD",
+    "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10127.json",
+    "streamsFile": "streams/20274.json",
     "isworking": 0
   },
   {
-    "id": 10128,
-    "name": "NRT",
-    "logo": "https://i.postimg.cc/ydxwrpWS/file_000000000b7c72439060556e8e891f76.png",
+    "id": 20275,
+    "name": "HDR",
+    "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10128.json",
+    "streamsFile": "streams/20275.json",
     "isworking": 0
   },
   {
-    "id": 10129,
-    "name": "NRT SPORT 4K",
-    "logo": "https://i.postimg.cc/ydxwrpWS/file_000000000b7c72439060556e8e891f76.png",
+    "id": 20276,
+    "name": "NRT TV",
+    "logo": "",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10129.json",
-    "isworking": 0
-  },
-  {
-    "id": 10130,
-    "name": "beinhdr2",
-    "logo": "https://fls.cjs.jyh/",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/10130.json",
-    "isworking": 1
-  },
-  {
-    "id": 10131,
-    "name": "LD",
-    "logo": "https://fls.cjs.jyh/",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/10131.json",
-    "isworking": 0
-  },
-  {
-    "id": 10132,
-    "name": "4K",
-    "logo": "https://fls.cjs.jyh/",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/10132.json",
-    "isworking": 1
-  },
-  {
-    "id": 10133,
-    "name": "4K 1",
-    "logo": "https://fls.cjs.jyh/",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/10133.json",
+    "streamsFile": "streams/20276.json",
     "isworking": 0
   }
 ]

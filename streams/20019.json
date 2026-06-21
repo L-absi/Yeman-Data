@@ -1,0 +1,30 @@
+[
+  {
+    "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291507.m3u8",
+    "name": "▶️ HD",
+    "headers": "User-Agent|Mozilla/5.0",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.m3u8",
+    "name": "▶️ FHD",
+    "headers": "User-Agent|Mozilla/5.0",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291495.m3u8",
+    "name": "▶️ 4K",
+    "headers": "User-Agent|Mozilla/5.0",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291513.m3u8",
+    "name": "▶️ SD",
+    "headers": "User-Agent|Mozilla/5.0",
+    "license": "",
+    "scheme": ""
+  }
+]

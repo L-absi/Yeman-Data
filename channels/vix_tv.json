@@ -1,29 +1,29 @@
 [
   {
-    "id": 10109,
+    "id": 20257,
     "name": "Vix 90",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6VEa_JrsoIcPZLZTXVgtaGOranOowWf8Mug_E3OQY3Q&s=10",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10109.json",
-    "isworking": 1
+    "streamsFile": "streams/20257.json",
+    "isworking": 0
   },
   {
-    "id": 10110,
+    "id": 20258,
     "name": "Vix 91",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6VEa_JrsoIcPZLZTXVgtaGOranOowWf8Mug_E3OQY3Q&s=10",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10110.json",
-    "isworking": 1
+    "streamsFile": "streams/20258.json",
+    "isworking": 0
   },
   {
-    "id": 10111,
+    "id": 20259,
     "name": "Vix 93",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6VEa_JrsoIcPZLZTXVgtaGOranOowWf8Mug_E3OQY3Q&s=10",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10111.json",
-    "isworking": 1
+    "streamsFile": "streams/20259.json",
+    "isworking": 0
   }
 ]

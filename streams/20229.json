@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/613/1/live.mpd",
+    "name": "M6",
+    "headers": "",
+    "license": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"qaqH4Tq-Htp00qyl4bonRw\",\"k\":\"z-lWhg-0w49wBIBzf6xg0Q\"},{\"kty\":\"oct\",\"kid\":\"Dfo5mkJdMJUCVfNX4kB-3w\",\"k\":\"-y-YjRFcNQZx9CyWsAuNFw\"},{\"kty\":\"oct\",\"kid\":\"3JlsvTnu28gFhh7bYdjNEw\",\"k\":\"wfH7tO9bY-MioiCbJoGwuw\"},{\"kty\":\"oct\",\"kid\":\"m0e5qGnNGQcPsFICRUfLQw\",\"k\":\"CWhcu87IT2KDo-zn9z2-bw\"},{\"kty\":\"oct\",\"kid\":\"Tf1zOP4TyvLCX2BXwolMBg\",\"k\":\"2WxI1mUnQ9drTVbK6XyWvQ\"}],\"type\":\"temporary\"}",
+    "scheme": "clearkey"
+  },
+  {
+    "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+    "name": "M6tv",
+    "headers": "",
+    "license": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+    "scheme": "clearkey"
+  }
+]

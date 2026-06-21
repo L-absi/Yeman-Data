@@ -1,0 +1,1244 @@
+[
+  {
+    "id": 20305,
+    "name": "TOD HDR 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20305.json",
+    "isworking": 0
+  },
+  {
+    "id": 20306,
+    "name": "BEIN SPORTS MAX 1 FHD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20306.json",
+    "isworking": 0
+  },
+  {
+    "id": 20307,
+    "name": "BEIN SPORTS MAX 1 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20307.json",
+    "isworking": 0
+  },
+  {
+    "id": 20308,
+    "name": "BEIN SPORTS MAX 2 FHD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20308.json",
+    "isworking": 0
+  },
+  {
+    "id": 20309,
+    "name": "BEIN SPORTS MAX 2 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20309.json",
+    "isworking": 0
+  },
+  {
+    "id": 20310,
+    "name": "❺ BEIN SPORTS MAX 1 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20310.json",
+    "isworking": 0
+  },
+  {
+    "id": 20311,
+    "name": "❺ BEIN SPORTS MAX 2 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20311.json",
+    "isworking": 0
+  },
+  {
+    "id": 20312,
+    "name": "❺ BEIN SPORTS MAX 3 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20312.json",
+    "isworking": 0
+  },
+  {
+    "id": 20313,
+    "name": "❺ BEIN SPORTS MAX 4 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20313.json",
+    "isworking": 0
+  },
+  {
+    "id": 20314,
+    "name": "❺ BEIN SPORTS MAX 5 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20314.json",
+    "isworking": 0
+  },
+  {
+    "id": 20315,
+    "name": "❺ BEIN SPORTS MAX 6 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20315.json",
+    "isworking": 0
+  },
+  {
+    "id": 20316,
+    "name": "❺ BEIN SPORTS MAX 1 FHD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20316.json",
+    "isworking": 0
+  },
+  {
+    "id": 20317,
+    "name": "❺ BEIN SPORTS MAX 2 FHD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20317.json",
+    "isworking": 0
+  },
+  {
+    "id": 20318,
+    "name": "❺ BEIN SPORTS MAX 3 FHD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20318.json",
+    "isworking": 0
+  },
+  {
+    "id": 20319,
+    "name": "❺ BEIN SPORTS MAX 4 FHD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20319.json",
+    "isworking": 0
+  },
+  {
+    "id": 20320,
+    "name": "❺ BEIN SPORTS MAX 5 FHD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20320.json",
+    "isworking": 0
+  },
+  {
+    "id": 20321,
+    "name": "❺ BEIN SPORTS MAX 6 FHD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20321.json",
+    "isworking": 0
+  },
+  {
+    "id": 20322,
+    "name": "❶ beIN Sports Max 1 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20322.json",
+    "isworking": 0
+  },
+  {
+    "id": 20323,
+    "name": "❶ beIN Sports Max 2 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20323.json",
+    "isworking": 0
+  },
+  {
+    "id": 20324,
+    "name": "❶ beIN Sports Max 3 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20324.json",
+    "isworking": 0
+  },
+  {
+    "id": 20325,
+    "name": "❶ beIN Sports Max 4 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20325.json",
+    "isworking": 0
+  },
+  {
+    "id": 20326,
+    "name": "❶ beIN Sports Max 5 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20326.json",
+    "isworking": 0
+  },
+  {
+    "id": 20327,
+    "name": "❶ beIN Sports Max 6 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20327.json",
+    "isworking": 0
+  },
+  {
+    "id": 20328,
+    "name": "❶ beIN Sports Max 1 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20328.json",
+    "isworking": 0
+  },
+  {
+    "id": 20329,
+    "name": "❶ beIN Sports Max 2 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20329.json",
+    "isworking": 0
+  },
+  {
+    "id": 20330,
+    "name": "❶ beIN Sports Max 3 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20330.json",
+    "isworking": 0
+  },
+  {
+    "id": 20331,
+    "name": "❶ beIN Sports Max 4 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20331.json",
+    "isworking": 0
+  },
+  {
+    "id": 20332,
+    "name": "❶ beIN Sports Max 5 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20332.json",
+    "isworking": 0
+  },
+  {
+    "id": 20333,
+    "name": "❶ beIN Sports Max 6 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20333.json",
+    "isworking": 0
+  },
+  {
+    "id": 20334,
+    "name": "❶ beIN Sports Max 1 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20334.json",
+    "isworking": 0
+  },
+  {
+    "id": 20335,
+    "name": "❶ beIN Sports Max 2 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20335.json",
+    "isworking": 0
+  },
+  {
+    "id": 20336,
+    "name": "❶ beIN Sports Max 3 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20336.json",
+    "isworking": 0
+  },
+  {
+    "id": 20337,
+    "name": "❶ beIN Sports Max 4 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20337.json",
+    "isworking": 0
+  },
+  {
+    "id": 20338,
+    "name": "❶ beIN Sports Max 5 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20338.json",
+    "isworking": 0
+  },
+  {
+    "id": 20339,
+    "name": "❶ beIN Sports Max 6 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20339.json",
+    "isworking": 0
+  },
+  {
+    "id": 20340,
+    "name": "& Alwan Sport 1 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20340.json",
+    "isworking": 0
+  },
+  {
+    "id": 20341,
+    "name": "& Alwan Sport 1 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20341.json",
+    "isworking": 0
+  },
+  {
+    "id": 20342,
+    "name": "& Alwan Sport 2 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20342.json",
+    "isworking": 0
+  },
+  {
+    "id": 20343,
+    "name": "& Alwan Sport 2 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20343.json",
+    "isworking": 0
+  },
+  {
+    "id": 20344,
+    "name": "& Alwan Sport 3 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20344.json",
+    "isworking": 0
+  },
+  {
+    "id": 20345,
+    "name": "& Alwan Sport 3 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20345.json",
+    "isworking": 0
+  },
+  {
+    "id": 20346,
+    "name": "& Alwan Sport 4 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20346.json",
+    "isworking": 0
+  },
+  {
+    "id": 20347,
+    "name": "& Alwan Sport 4 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20347.json",
+    "isworking": 0
+  },
+  {
+    "id": 20348,
+    "name": "& Alwan Sport 5 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20348.json",
+    "isworking": 0
+  },
+  {
+    "id": 20349,
+    "name": "& Alwan Sport 5 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20349.json",
+    "isworking": 0
+  },
+  {
+    "id": 20350,
+    "name": "& Alwan Sport 6 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20350.json",
+    "isworking": 0
+  },
+  {
+    "id": 20351,
+    "name": "& Alwan Sport 6 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20351.json",
+    "isworking": 0
+  },
+  {
+    "id": 20352,
+    "name": "& Alwan Sport 7 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20352.json",
+    "isworking": 0
+  },
+  {
+    "id": 20353,
+    "name": "& Alwan Sport 7 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20353.json",
+    "isworking": 0
+  },
+  {
+    "id": 20354,
+    "name": "& Alwan Sport8 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20354.json",
+    "isworking": 0
+  },
+  {
+    "id": 20355,
+    "name": "& Alwan Sport 8SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20355.json",
+    "isworking": 0
+  },
+  {
+    "id": 20356,
+    "name": "& Alwan Sport 9 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20356.json",
+    "isworking": 0
+  },
+  {
+    "id": 20357,
+    "name": "& Alwan Sport 9 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20357.json",
+    "isworking": 0
+  },
+  {
+    "id": 20358,
+    "name": "& Alwan Sport 10 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20358.json",
+    "isworking": 0
+  },
+  {
+    "id": 20359,
+    "name": "& Alwan Sport 10 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20359.json",
+    "isworking": 0
+  },
+  {
+    "id": 20360,
+    "name": "❷ Alwan Sport 1 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20360.json",
+    "isworking": 0
+  },
+  {
+    "id": 20361,
+    "name": "❷ Alwan Sport 1 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20361.json",
+    "isworking": 0
+  },
+  {
+    "id": 20362,
+    "name": "❷ Alwan Sport 1 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20362.json",
+    "isworking": 0
+  },
+  {
+    "id": 20363,
+    "name": "❷ Alwan Sport 2 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20363.json",
+    "isworking": 0
+  },
+  {
+    "id": 20364,
+    "name": "❷ Alwan Sport 2 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20364.json",
+    "isworking": 0
+  },
+  {
+    "id": 20365,
+    "name": "❷ Alwan Sport 2 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20365.json",
+    "isworking": 0
+  },
+  {
+    "id": 20366,
+    "name": "❷ Alwan Sport 3 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20366.json",
+    "isworking": 0
+  },
+  {
+    "id": 20367,
+    "name": "❷ Alwan Sport 3 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20367.json",
+    "isworking": 0
+  },
+  {
+    "id": 20368,
+    "name": "❷ Alwan Sport 3 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20368.json",
+    "isworking": 0
+  },
+  {
+    "id": 20369,
+    "name": "❷ Alwan Sport 4 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20369.json",
+    "isworking": 0
+  },
+  {
+    "id": 20370,
+    "name": "❷ Alwan Sport 4 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20370.json",
+    "isworking": 0
+  },
+  {
+    "id": 20371,
+    "name": "❷ Alwan Sport 4 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20371.json",
+    "isworking": 0
+  },
+  {
+    "id": 20372,
+    "name": "❷ Alwan Sport 5 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20372.json",
+    "isworking": 0
+  },
+  {
+    "id": 20373,
+    "name": "❷ Alwan Sport 5 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20373.json",
+    "isworking": 0
+  },
+  {
+    "id": 20374,
+    "name": "❷ Alwan Sport 5 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20374.json",
+    "isworking": 0
+  },
+  {
+    "id": 20375,
+    "name": "❷ Alwan Sport 6 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20375.json",
+    "isworking": 0
+  },
+  {
+    "id": 20376,
+    "name": "❷ Alwan Sport 6 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20376.json",
+    "isworking": 0
+  },
+  {
+    "id": 20377,
+    "name": "❷ Alwan Sport 6 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20377.json",
+    "isworking": 0
+  },
+  {
+    "id": 20378,
+    "name": "❷ Alwan Sport 7 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20378.json",
+    "isworking": 0
+  },
+  {
+    "id": 20379,
+    "name": "❷ Alwan Sport 8 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20379.json",
+    "isworking": 0
+  },
+  {
+    "id": 20380,
+    "name": "❷ Alwan Sport 9 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20380.json",
+    "isworking": 0
+  },
+  {
+    "id": 20381,
+    "name": "❷ Alwan Sport 10 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20381.json",
+    "isworking": 0
+  },
+  {
+    "id": 20382,
+    "name": "❷ Alwan F1 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20382.json",
+    "isworking": 0
+  },
+  {
+    "id": 20383,
+    "name": "❷ Alwan WWE 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20383.json",
+    "isworking": 0
+  },
+  {
+    "id": 20384,
+    "name": "❷ Alwan UFC 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20384.json",
+    "isworking": 0
+  },
+  {
+    "id": 20385,
+    "name": "❸ beIN Sports Max 1 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20385.json",
+    "isworking": 0
+  },
+  {
+    "id": 20386,
+    "name": "❸ beIN Sports Max 2 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20386.json",
+    "isworking": 0
+  },
+  {
+    "id": 20387,
+    "name": "❸ beIN Sports Max 3 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20387.json",
+    "isworking": 0
+  },
+  {
+    "id": 20388,
+    "name": "❸ beIN Sports Max 4 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20388.json",
+    "isworking": 0
+  },
+  {
+    "id": 20389,
+    "name": "❸ beIN Sports Max 5 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20389.json",
+    "isworking": 0
+  },
+  {
+    "id": 20390,
+    "name": "❸ beIN Sports Max 6 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20390.json",
+    "isworking": 0
+  },
+  {
+    "id": 20391,
+    "name": "❸ beIN Sports Max 1 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20391.json",
+    "isworking": 0
+  },
+  {
+    "id": 20392,
+    "name": "❸ beIN Sports Max 2 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20392.json",
+    "isworking": 0
+  },
+  {
+    "id": 20393,
+    "name": "❸ beIN Sports Max 3 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20393.json",
+    "isworking": 0
+  },
+  {
+    "id": 20394,
+    "name": "❸ beIN Sports Max 4 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20394.json",
+    "isworking": 0
+  },
+  {
+    "id": 20395,
+    "name": "❸ beIN Sports Max 5 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20395.json",
+    "isworking": 0
+  },
+  {
+    "id": 20396,
+    "name": "❸ beIN Sports Max 6 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20396.json",
+    "isworking": 0
+  },
+  {
+    "id": 20397,
+    "name": "❸ beIN Sports Max 1 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20397.json",
+    "isworking": 0
+  },
+  {
+    "id": 20398,
+    "name": "❸ beIN Sports Max 2 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20398.json",
+    "isworking": 0
+  },
+  {
+    "id": 20399,
+    "name": "❸ beIN Sports Max 3 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20399.json",
+    "isworking": 0
+  },
+  {
+    "id": 20400,
+    "name": "❸ beIN Sports Max 4 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20400.json",
+    "isworking": 0
+  },
+  {
+    "id": 20401,
+    "name": "❸ beIN Sports Max 5 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20401.json",
+    "isworking": 0
+  },
+  {
+    "id": 20402,
+    "name": "❸ beIN Sports Max 6 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20402.json",
+    "isworking": 0
+  },
+  {
+    "id": 20403,
+    "name": "❹ Alwan Sport 1 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20403.json",
+    "isworking": 0
+  },
+  {
+    "id": 20404,
+    "name": "❹ Alwan Sport 1 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20404.json",
+    "isworking": 0
+  },
+  {
+    "id": 20405,
+    "name": "❹ Alwan Sport 1 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20405.json",
+    "isworking": 0
+  },
+  {
+    "id": 20406,
+    "name": "❹ Alwan Sport 2 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20406.json",
+    "isworking": 0
+  },
+  {
+    "id": 20407,
+    "name": "❹ Alwan Sport 2 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20407.json",
+    "isworking": 0
+  },
+  {
+    "id": 20408,
+    "name": "❹ Alwan Sport 2 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20408.json",
+    "isworking": 0
+  },
+  {
+    "id": 20409,
+    "name": "❹ Alwan Sport 3 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20409.json",
+    "isworking": 0
+  },
+  {
+    "id": 20410,
+    "name": "❹ Alwan Sport 3 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20410.json",
+    "isworking": 0
+  },
+  {
+    "id": 20411,
+    "name": "❹ Alwan Sport 3 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20411.json",
+    "isworking": 0
+  },
+  {
+    "id": 20412,
+    "name": "❹ Alwan Sport 4 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20412.json",
+    "isworking": 0
+  },
+  {
+    "id": 20413,
+    "name": "❹ Alwan Sport 4 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20413.json",
+    "isworking": 0
+  },
+  {
+    "id": 20414,
+    "name": "❹ Alwan Sport 4 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20414.json",
+    "isworking": 0
+  },
+  {
+    "id": 20415,
+    "name": "❹ Alwan Sport 5 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20415.json",
+    "isworking": 0
+  },
+  {
+    "id": 20416,
+    "name": "❹ Alwan Sport 5 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20416.json",
+    "isworking": 0
+  },
+  {
+    "id": 20417,
+    "name": "❹ Alwan Sport 5 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20417.json",
+    "isworking": 0
+  },
+  {
+    "id": 20418,
+    "name": "❹ Alwan Sport 6 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20418.json",
+    "isworking": 0
+  },
+  {
+    "id": 20419,
+    "name": "❹ Alwan Sport 6 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20419.json",
+    "isworking": 0
+  },
+  {
+    "id": 20420,
+    "name": "❹ Alwan Sport 6 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20420.json",
+    "isworking": 0
+  },
+  {
+    "id": 20421,
+    "name": "❹ Alwan Sport 7 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20421.json",
+    "isworking": 0
+  },
+  {
+    "id": 20422,
+    "name": "❹ Alwan Sport 8 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20422.json",
+    "isworking": 0
+  },
+  {
+    "id": 20423,
+    "name": "❹ Alwan Sport 9 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20423.json",
+    "isworking": 0
+  },
+  {
+    "id": 20424,
+    "name": "❹ Alwan Sport 10 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20424.json",
+    "isworking": 0
+  },
+  {
+    "id": 20425,
+    "name": "❹ Alwan F1 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20425.json",
+    "isworking": 0
+  },
+  {
+    "id": 20426,
+    "name": "❹ Alwan WWE 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20426.json",
+    "isworking": 0
+  },
+  {
+    "id": 20427,
+    "name": "❶ Fajer TV 1",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20427.json",
+    "isworking": 0
+  },
+  {
+    "id": 20428,
+    "name": "❶ Fajer TV 2",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20428.json",
+    "isworking": 0
+  },
+  {
+    "id": 20429,
+    "name": "❶ Fajer TV 3",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20429.json",
+    "isworking": 0
+  },
+  {
+    "id": 20430,
+    "name": "❶ Fajer TV 4",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20430.json",
+    "isworking": 0
+  },
+  {
+    "id": 20431,
+    "name": "❶ Faher TV 5",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20431.json",
+    "isworking": 0
+  },
+  {
+    "id": 20432,
+    "name": "❸ Fajer TV 1",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20432.json",
+    "isworking": 0
+  },
+  {
+    "id": 20433,
+    "name": "❸ Fajer TV 2",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20433.json",
+    "isworking": 0
+  },
+  {
+    "id": 20434,
+    "name": "❸ Fajer TV 3",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20434.json",
+    "isworking": 0
+  },
+  {
+    "id": 20435,
+    "name": "❸ Fajer TV 4",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20435.json",
+    "isworking": 0
+  },
+  {
+    "id": 20436,
+    "name": "❸ Faher TV 5",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20436.json",
+    "isworking": 0
+  },
+  {
+    "id": 20437,
+    "name": "⚪ POST 1",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20437.json",
+    "isworking": 0
+  },
+  {
+    "id": 20438,
+    "name": "⚪ POST 2",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20438.json",
+    "isworking": 0
+  },
+  {
+    "id": 20439,
+    "name": "⚪ POST 3",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20439.json",
+    "isworking": 0
+  },
+  {
+    "id": 20440,
+    "name": "⚪ POST 4",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20440.json",
+    "isworking": 0
+  },
+  {
+    "id": 20441,
+    "name": "⚪ POST 5",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20441.json",
+    "isworking": 0
+  },
+  {
+    "id": 20442,
+    "name": "⚪ POST 6",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20442.json",
+    "isworking": 0
+  }
+]

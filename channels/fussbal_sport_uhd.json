@@ -1,29 +1,29 @@
 [
   {
-    "id": 10121,
+    "id": 20270,
     "name": "UHD1",
-    "logo": "",
+    "logo": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/3/1/4/7/9/5/6/prosiebensat1uhd-004ac64e2fdcedba.png?force_format=avif%2Cwebp%2Cjpeg&org_if_sml=1&q=30&width=1920",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10121.json",
+    "streamsFile": "streams/20270.json",
     "isworking": 0
   },
   {
-    "id": 10122,
+    "id": 20271,
     "name": "UHD2",
-    "logo": "",
+    "logo": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/3/1/4/7/9/5/6/prosiebensat1uhd-004ac64e2fdcedba.png?force_format=avif%2Cwebp%2Cjpeg&org_if_sml=1&q=30&width=1920",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10122.json",
+    "streamsFile": "streams/20271.json",
     "isworking": 0
   },
   {
-    "id": 10123,
+    "id": 20272,
     "name": "UHD3",
-    "logo": "",
+    "logo": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/3/1/4/7/9/5/6/prosiebensat1uhd-004ac64e2fdcedba.png?force_format=avif%2Cwebp%2Cjpeg&org_if_sml=1&q=30&width=1920",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10123.json",
+    "streamsFile": "streams/20272.json",
     "isworking": 0
   }
 ]

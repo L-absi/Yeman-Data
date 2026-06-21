@@ -1,38 +1,38 @@
 [
   {
-    "id": 10105,
+    "id": 20203,
     "name": "Bein max 1",
-    "logo": "",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10105.json",
-    "isworking": 1
+    "streamsFile": "streams/20203.json",
+    "isworking": 0
   },
   {
-    "id": 10106,
+    "id": 20204,
     "name": "Bein max 2",
-    "logo": "",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10106.json",
+    "streamsFile": "streams/20204.json",
     "isworking": 0
   },
   {
-    "id": 10107,
+    "id": 20205,
     "name": "Bein max 3",
-    "logo": "",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10107.json",
+    "streamsFile": "streams/20205.json",
     "isworking": 0
   },
   {
-    "id": 10108,
+    "id": 20206,
     "name": "Bein max 4",
-    "logo": "",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10108.json",
+    "streamsFile": "streams/20206.json",
     "isworking": 0
   }
 ]

@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://estreams.tv.nej.cz/dash/CH_ZDF_HD.ism/playlist.mpd",
+    "name": "ZDF1",
+    "headers": "",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "https://estreams.tv.nej.cz/dash/CH_ZDF_Portable.ism/playlist.mpd",
+    "name": "ZDF2",
+    "headers": "",
+    "license": "",
+    "scheme": ""
+  }
+]

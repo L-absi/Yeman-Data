@@ -1,0 +1,37 @@
+[
+  {
+    "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1063488.m3u8",
+    "name": "Aya2",
+    "headers": "user-agent|stagefright/1.2 (Linux;Android 9)|",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "https://stream.liveostora.com/sportinaapp1/index.m3u8",
+    "name": "MAXHD",
+    "headers": "",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "https://cp11.adabmedia.com/hls2/sport.m3u8",
+    "name": "HD",
+    "headers": "",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "http://palestine.vibertv.cyou/post2/index.m3u8",
+    "name": "Post2",
+    "headers": "user-agent|Mozilla/5.0|",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "http://palestine.vibertv.cyou/post1/index.m3u8",
+    "name": "Post1",
+    "headers": "user-agent|Mozilla/5.0|",
+    "license": "",
+    "scheme": ""
+  }
+]

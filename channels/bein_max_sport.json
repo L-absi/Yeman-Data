@@ -1,29 +1,92 @@
 [
   {
-    "id": 10018,
+    "id": 20219,
     "name": "Max1",
     "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10018.json",
-    "isworking": 1
+    "streamsFile": "streams/20219.json",
+    "isworking": 0
   },
   {
-    "id": 10019,
+    "id": 20220,
     "name": "Max2",
     "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10019.json",
-    "isworking": 1
+    "streamsFile": "streams/20220.json",
+    "isworking": 0
   },
   {
-    "id": 10020,
-    "name": "Blue Sport",
-    "logo": "",
+    "id": 20221,
+    "name": "Max 1",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/10020.json",
+    "streamsFile": "streams/20221.json",
+    "isworking": 0
+  },
+  {
+    "id": 20222,
+    "name": "MAX2",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20222.json",
+    "isworking": 0
+  },
+  {
+    "id": 20223,
+    "name": "MAX1",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20223.json",
+    "isworking": 0
+  },
+  {
+    "id": 20224,
+    "name": "Bein Sports Max 2",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20224.json",
+    "isworking": 0
+  },
+  {
+    "id": 20225,
+    "name": "Max 3",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20225.json",
+    "isworking": 0
+  },
+  {
+    "id": 20226,
+    "name": "Live 2",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20226.json",
+    "isworking": 0
+  },
+  {
+    "id": 20227,
+    "name": "Live 1",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20227.json",
+    "isworking": 0
+  },
+  {
+    "id": 20228,
+    "name": "Kurd TV",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20228.json",
     "isworking": 0
   }
 ]

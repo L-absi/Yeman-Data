@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+    "name": "TVP1",
+    "headers": "",
+    "license": "\"95620bdd974041409d4674ab629e22d4\":\"c6c226ca1689f528a6f91e86da618f64\",\"181c091002d04c5481c3faab18752843\":\"b081b6169351e0f4bfc40212dfeeed10\",\"1163925b6b37434198130f773bc62841\":\"e2bdd2b87e1ddb502eb7898daece857f\"",
+    "scheme": "clearkey"
+  },
+  {
+    "url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd",
+    "name": "TVP2",
+    "headers": "",
+    "license": "",
+    "scheme": ""
+  }
+]

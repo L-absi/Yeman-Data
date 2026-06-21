@@ -1,0 +1,37 @@
+[
+  {
+    "url": "https://23cup.s3.us-east-2.amazonaws.com/max4/master.m3u8",
+    "name": "TV1",
+    "headers": "",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "https://23cup.s3.us-east-2.amazonaws.com/max2/master.m3u8",
+    "name": "TV2",
+    "headers": "",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "https://as.roomtu.store/rook1.m3u8",
+    "name": "TV3",
+    "headers": "",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "https://s3.us-east-1.amazonaws.com/cdnb102/hls/0/stream.m3u8",
+    "name": "TV4",
+    "headers": "",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "https://stream.liveostora.com/sportinaapp2/index.m3u8",
+    "name": "TV5",
+    "headers": "",
+    "license": "",
+    "scheme": ""
+  }
+]

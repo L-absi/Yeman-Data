@@ -1,0 +1,353 @@
+[
+  {
+    "id": 20444,
+    "name": "AR BACKUP 2",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20444.json",
+    "isworking": 0
+  },
+  {
+    "id": 20445,
+    "name": "AR 1/4",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20445.json",
+    "isworking": 0
+  },
+  {
+    "id": 20446,
+    "name": "AR 1/4HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20446.json",
+    "isworking": 0
+  },
+  {
+    "id": 20447,
+    "name": "AR 1/3",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20447.json",
+    "isworking": 0
+  },
+  {
+    "id": 20448,
+    "name": "AR 1/3HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20448.json",
+    "isworking": 0
+  },
+  {
+    "id": 20449,
+    "name": "multi2",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20449.json",
+    "isworking": 0
+  },
+  {
+    "id": 20450,
+    "name": "HD2",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20450.json",
+    "isworking": 0
+  },
+  {
+    "id": 20451,
+    "name": "HD3",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20451.json",
+    "isworking": 0
+  },
+  {
+    "id": 20452,
+    "name": "multi4 BACKUP",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20452.json",
+    "isworking": 0
+  },
+  {
+    "id": 20453,
+    "name": "BUZ",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20453.json",
+    "isworking": 0
+  },
+  {
+    "id": 20454,
+    "name": "AR 2",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20454.json",
+    "isworking": 0
+  },
+  {
+    "id": 20455,
+    "name": ", HD1",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20455.json",
+    "isworking": 0
+  },
+  {
+    "id": 20456,
+    "name": "BUZ",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20456.json",
+    "isworking": 0
+  },
+  {
+    "id": 20457,
+    "name": "AR2 BACKUP 2",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20457.json",
+    "isworking": 0
+  },
+  {
+    "id": 20458,
+    "name": "AR 2",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20458.json",
+    "isworking": 0
+  },
+  {
+    "id": 20459,
+    "name": "AR 2HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20459.json",
+    "isworking": 0
+  },
+  {
+    "id": 20460,
+    "name": "AR 2/2",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20460.json",
+    "isworking": 0
+  },
+  {
+    "id": 20461,
+    "name": "AR 2/2HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20461.json",
+    "isworking": 0
+  },
+  {
+    "id": 20462,
+    "name": "AR 2/2",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20462.json",
+    "isworking": 0
+  },
+  {
+    "id": 20463,
+    "name": "AR 2/2HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20463.json",
+    "isworking": 0
+  },
+  {
+    "id": 20464,
+    "name": "AR 2/3HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20464.json",
+    "isworking": 0
+  },
+  {
+    "id": 20465,
+    "name": "multi2",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20465.json",
+    "isworking": 0
+  },
+  {
+    "id": 20466,
+    "name": "HD2",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20466.json",
+    "isworking": 0
+  },
+  {
+    "id": 20467,
+    "name": "SD3",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20467.json",
+    "isworking": 0
+  },
+  {
+    "id": 20468,
+    "name": "HD3",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20468.json",
+    "isworking": 0
+  },
+  {
+    "id": 20469,
+    "name": "multi4 BACKUP",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20469.json",
+    "isworking": 0
+  },
+  {
+    "id": 20470,
+    "name": "BUZ",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20470.json",
+    "isworking": 0
+  },
+  {
+    "id": 20471,
+    "name": "multi1",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20471.json",
+    "isworking": 0
+  },
+  {
+    "id": 20472,
+    "name": ", HD1",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20472.json",
+    "isworking": 0
+  },
+  {
+    "id": 20473,
+    "name": "BUZ",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20473.json",
+    "isworking": 0
+  },
+  {
+    "id": 20474,
+    "name": "BUZ",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20474.json",
+    "isworking": 0
+  },
+  {
+    "id": 20475,
+    "name": "BUZ",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20475.json",
+    "isworking": 0
+  },
+  {
+    "id": 20476,
+    "name": "FR 1",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20476.json",
+    "isworking": 0
+  },
+  {
+    "id": 20477,
+    "name": "FR 1HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20477.json",
+    "isworking": 0
+  },
+  {
+    "id": 20478,
+    "name": "NL 1",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20478.json",
+    "isworking": 0
+  },
+  {
+    "id": 20479,
+    "name": "NL 1SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20479.json",
+    "isworking": 0
+  },
+  {
+    "id": 20480,
+    "name": "NL 1HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20480.json",
+    "isworking": 0
+  },
+  {
+    "id": 20481,
+    "name": "PT",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20481.json",
+    "isworking": 0
+  },
+  {
+    "id": 20482,
+    "name": "PT HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20482.json",
+    "isworking": 0
+  }
+]

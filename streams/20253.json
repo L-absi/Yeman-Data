@@ -1,0 +1,23 @@
+[
+  {
+    "url": "http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237021.m3u8",
+    "name": "ALW3",
+    "headers": "user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237022.m3u8",
+    "name": "ALW2",
+    "headers": "user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237020.m3u8",
+    "name": "ALW2",
+    "headers": "user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|",
+    "license": "",
+    "scheme": ""
+  }
+]

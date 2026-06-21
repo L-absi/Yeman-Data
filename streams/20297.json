@@ -1,0 +1,23 @@
+[
+  {
+    "url": "http://bouygues-cdn.r1v.us:8080/d49dc02ec79b/k5cfhnm1/237021",
+    "name": "▶️ Fhd",
+    "headers": "User-Agent|Mozilla/5.0",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "https://stream.camcloud.stream/stream/456de69d002b/playlist.m3u8",
+    "name": "▶️ HD",
+    "headers": "User-Agent|Mozilla/5.0",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181666.ts",
+    "name": "▶️ HLS",
+    "headers": "User-Agent|Mozilla/5.0",
+    "license": "",
+    "scheme": ""
+  }
+]

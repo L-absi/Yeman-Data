@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/vkVDa4TjuPjQ0wt1y_P6ddMaRIPAMxmjwd2Xrq3krcL3y0Cn0HW5tkkVtI5G7LgHn7nmAn7OQ9Lwny0K_jUceA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+    "name": "▶️ HD",
+    "headers": "User-Agent|Mozilla/5.0",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/04vlaQfH4wR7acCHko05KZt_1JiLuC02RU8xRhDVvUNKrd0RiulElF_qJaAmBflbQYxb6TFgZAIOPFUNCUoScA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+    "name": "▶️ SD",
+    "headers": "User-Agent|Mozilla/5.0",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/vkVDa4TjuPjQ0wt1y_P6ddMaRIPAMxmjwd2Xrq3krcL3y0Cn0HW5tkkVtI5G7LgHn7nmAn7OQ9Lwny0K_jUceA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+    "name": "▶️ FHD",
+    "headers": "User-Agent|Mozilla/5.0",
+    "license": "",
+    "scheme": ""
+  },
+  {
+    "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291512.m3u8",
+    "name": "▶️ NM",
+    "headers": "User-Agent|Mozilla/5.0",
+    "license": "",
+    "scheme": ""
+  }
+]

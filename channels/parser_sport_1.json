@@ -1,0 +1,164 @@
+[
+  {
+    "id": 20277,
+    "name": "Max 1 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20277.json",
+    "isworking": 0
+  },
+  {
+    "id": 20278,
+    "name": "Max 2 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20278.json",
+    "isworking": 0
+  },
+  {
+    "id": 20279,
+    "name": "Max 3 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20279.json",
+    "isworking": 0
+  },
+  {
+    "id": 20280,
+    "name": "Max 1 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20280.json",
+    "isworking": 0
+  },
+  {
+    "id": 20281,
+    "name": "Max 2 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20281.json",
+    "isworking": 0
+  },
+  {
+    "id": 20282,
+    "name": "Max 3 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20282.json",
+    "isworking": 0
+  },
+  {
+    "id": 20283,
+    "name": "Max 1 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20283.json",
+    "isworking": 0
+  },
+  {
+    "id": 20284,
+    "name": "Max 2 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20284.json",
+    "isworking": 0
+  },
+  {
+    "id": 20285,
+    "name": "Max 3 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20285.json",
+    "isworking": 0
+  },
+  {
+    "id": 20286,
+    "name": "Max 4 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20286.json",
+    "isworking": 0
+  },
+  {
+    "id": 20287,
+    "name": "Max 4 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20287.json",
+    "isworking": 0
+  },
+  {
+    "id": 20288,
+    "name": "Max 4 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20288.json",
+    "isworking": 0
+  },
+  {
+    "id": 20289,
+    "name": "Max 1 4k G",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20289.json",
+    "isworking": 0
+  },
+  {
+    "id": 20290,
+    "name": "Max 2 4k G",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20290.json",
+    "isworking": 0
+  },
+  {
+    "id": 20291,
+    "name": "Max 3 4k G",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20291.json",
+    "isworking": 0
+  },
+  {
+    "id": 20292,
+    "name": "TOD 1 HDR",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20292.json",
+    "isworking": 0
+  },
+  {
+    "id": 20293,
+    "name": "TOD 2 HDR",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20293.json",
+    "isworking": 0
+  },
+  {
+    "id": 20294,
+    "name": "TOD 3 HDR",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20294.json",
+    "isworking": 0
+  }
+]

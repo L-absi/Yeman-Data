@@ -1,0 +1,92 @@
+[
+  {
+    "id": 20295,
+    "name": "الوان 1",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20295.json",
+    "isworking": 0
+  },
+  {
+    "id": 20296,
+    "name": "الوان 2",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20296.json",
+    "isworking": 0
+  },
+  {
+    "id": 20297,
+    "name": "الوان 3",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20297.json",
+    "isworking": 0
+  },
+  {
+    "id": 20298,
+    "name": "الوان 4",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20298.json",
+    "isworking": 0
+  },
+  {
+    "id": 20299,
+    "name": "الوان 5",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20299.json",
+    "isworking": 0
+  },
+  {
+    "id": 20300,
+    "name": "الوان 6",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20300.json",
+    "isworking": 0
+  },
+  {
+    "id": 20301,
+    "name": "الوان 7",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20301.json",
+    "isworking": 0
+  },
+  {
+    "id": 20302,
+    "name": "الوان 8",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20302.json",
+    "isworking": 0
+  },
+  {
+    "id": 20303,
+    "name": "الوان 9",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20303.json",
+    "isworking": 0
+  },
+  {
+    "id": 20304,
+    "name": "الوان تركي",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20304.json",
+    "isworking": 0
+  }
+]

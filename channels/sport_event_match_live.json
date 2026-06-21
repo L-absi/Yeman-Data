@@ -1,0 +1,83 @@
+[
+  {
+    "id": 20483,
+    "name": "Aya1",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20483.json",
+    "isworking": 0
+  },
+  {
+    "id": 20484,
+    "name": "Aya2",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20484.json",
+    "isworking": 0
+  },
+  {
+    "id": 20485,
+    "name": "Aya3",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20485.json",
+    "isworking": 0
+  },
+  {
+    "id": 20486,
+    "name": "Aya4",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20486.json",
+    "isworking": 0
+  },
+  {
+    "id": 20487,
+    "name": "Aya5",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20487.json",
+    "isworking": 0
+  },
+  {
+    "id": 20488,
+    "name": "Aya6",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20488.json",
+    "isworking": 0
+  },
+  {
+    "id": 20489,
+    "name": "Aya7",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20489.json",
+    "isworking": 0
+  },
+  {
+    "id": 20490,
+    "name": "Aya8",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20490.json",
+    "isworking": 0
+  },
+  {
+    "id": 20491,
+    "name": "Aya9",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20491.json",
+    "isworking": 0
+  }
+]

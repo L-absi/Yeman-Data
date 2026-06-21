@@ -1,0 +1,92 @@
+[
+  {
+    "id": 20209,
+    "name": "Live 1",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20209.json",
+    "isworking": 0
+  },
+  {
+    "id": 20210,
+    "name": "Live 2",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20210.json",
+    "isworking": 0
+  },
+  {
+    "id": 20211,
+    "name": "Live 3",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20211.json",
+    "isworking": 0
+  },
+  {
+    "id": 20212,
+    "name": "Live 4",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20212.json",
+    "isworking": 0
+  },
+  {
+    "id": 20213,
+    "name": "Live 5",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20213.json",
+    "isworking": 0
+  },
+  {
+    "id": 20214,
+    "name": "Live 6",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20214.json",
+    "isworking": 0
+  },
+  {
+    "id": 20215,
+    "name": "Live 7",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20215.json",
+    "isworking": 0
+  },
+  {
+    "id": 20216,
+    "name": "Live 8",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20216.json",
+    "isworking": 0
+  },
+  {
+    "id": 20217,
+    "name": "Live 9",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20217.json",
+    "isworking": 0
+  },
+  {
+    "id": 20218,
+    "name": "Live 10",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/20218.json",
+    "isworking": 0
+  }
+]
