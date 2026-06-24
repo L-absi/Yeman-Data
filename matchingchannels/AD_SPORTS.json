@@ -1,83 +1,83 @@
 [
-  {
-    "id": 5715,
-    "name": "AD Sports 1 HD",
-    "logo": "https://www.zarkachat.com/wp-content/uploads/2020/12/sport-abuzabi-channel.jpg",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/ad_sport/5715.json",
-    "source_file": "ad_sport.json"
-  },
-  {
-    "id": 5716,
-    "name": "AD Sports 2 HD",
-    "logo": "https://www.zarkachat.com/wp-content/uploads/2020/12/sport-abuzabi-channel.jpg",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/ad_sport/5716.json",
-    "source_file": "ad_sport.json"
-  },
-  {
-    "id": 2810,
-    "name": "أبوظبي",
-    "logo": "https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/nilesat_vip/2810.json",
-    "source_file": "nilesat_vip.json"
-  },
-  {
-    "id": 2812,
-    "name": "ناشيونال جيوغرافيك أبو ظبي",
-    "logo": "https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5ff6eb7f11.png",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/nilesat_vip/2812.json",
-    "source_file": "nilesat_vip.json"
-  },
-  {
-    "id": 2813,
-    "name": "أبو ظبي الرياضية 1",
-    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6a88b.png",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/nilesat_vip/2813.json",
-    "source_file": "nilesat_vip.json"
-  },
-  {
-    "id": 2814,
-    "name": "أبو ظبي الرياضية 2",
-    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6b210.png",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/nilesat_vip/2814.json",
-    "source_file": "nilesat_vip.json"
-  },
-  {
-    "id": 3056,
-    "name": "ناشيونال جيوغرافيك أبو ظبي",
-    "logo": "https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5ff6eb7f11.png",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/nilesat_vip/3056.json",
-    "source_file": "nilesat_vip.json"
-  },
-  {
-    "id": 4049,
-    "name": "AD Sport 1",
-    "logo": "https://admin.dramaramadan.net/uploads/channels/b1895c8bcad9fe764ec25f17c6636da8.webp",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/tv_sport-f1/4049.json",
-    "source_file": "tv_sport-f1.json"
-  },
-  {
-    "id": 4050,
-    "name": "AD Sport 2",
-    "logo": "https://admin.dramaramadan.net/uploads/channels/8d130de35fe372a24a3ace30c8ff57cf.webp",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/tv_sport-f1/4050.json",
-    "source_file": "tv_sport-f1.json"
-  }
+    {
+        "id": 5715,
+        "name": "AD Sports 1 HD",
+        "logo": "https://www.zarkachat.com/wp-content/uploads/2020/12/sport-abuzabi-channel.jpg",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/ad_sport/5715.json",
+        "source_file": "ad_sport.json"
+    },
+    {
+        "id": 5716,
+        "name": "AD Sports 2 HD",
+        "logo": "https://www.zarkachat.com/wp-content/uploads/2020/12/sport-abuzabi-channel.jpg",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/ad_sport/5716.json",
+        "source_file": "ad_sport.json"
+    },
+    {
+        "id": 2810,
+        "name": "أبوظبي",
+        "logo": "https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/nilesat_vip/2810.json",
+        "source_file": "nilesat_vip.json"
+    },
+    {
+        "id": 2812,
+        "name": "ناشيونال جيوغرافيك أبو ظبي",
+        "logo": "https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5ff6eb7f11.png",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/nilesat_vip/2812.json",
+        "source_file": "nilesat_vip.json"
+    },
+    {
+        "id": 2813,
+        "name": "أبو ظبي الرياضية 1",
+        "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6a88b.png",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/nilesat_vip/2813.json",
+        "source_file": "nilesat_vip.json"
+    },
+    {
+        "id": 2814,
+        "name": "أبو ظبي الرياضية 2",
+        "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6b210.png",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/nilesat_vip/2814.json",
+        "source_file": "nilesat_vip.json"
+    },
+    {
+        "id": 3056,
+        "name": "ناشيونال جيوغرافيك أبو ظبي",
+        "logo": "https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5ff6eb7f11.png",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/nilesat_vip/3056.json",
+        "source_file": "nilesat_vip.json"
+    },
+    {
+        "id": 4049,
+        "name": "AD Sport 1",
+        "logo": "https://admin.dramaramadan.net/uploads/channels/b1895c8bcad9fe764ec25f17c6636da8.webp",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/tv_sport-f1/4049.json",
+        "source_file": "tv_sport-f1.json"
+    },
+    {
+        "id": 4050,
+        "name": "AD Sport 2",
+        "logo": "https://admin.dramaramadan.net/uploads/channels/8d130de35fe372a24a3ace30c8ff57cf.webp",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/tv_sport-f1/4050.json",
+        "source_file": "tv_sport-f1.json"
+    }
 ]

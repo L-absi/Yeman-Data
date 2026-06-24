@@ -1,110 +1,227 @@
 [
-  {
-    "id": 1474,
-    "name": "beIN MAX 4",
-    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/90/1474.json",
-    "source_file": "90.json"
-  },
-  {
-    "id": 1504,
-    "name": "beIN MAX 4",
-    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/91/1504.json",
-    "source_file": "91.json"
-  },
-  {
-    "id": 1524,
-    "name": "beIN MAX 4",
-    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/92/1524.json",
-    "source_file": "92.json"
-  },
-  {
-    "id": 1544,
-    "name": "beIN MAX 4",
-    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/93/1544.json",
-    "source_file": "93.json"
-  },
-  {
-    "id": 10024,
-    "name": "BEIN MAX 4",
-    "logo": "https://i.pinimg.com/736x/12/78/71/12787167ddc7078399f26de2aa54f326.jpg",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/bein_web/10024.json",
-    "source_file": "bein_web.json"
-  },
-  {
-    "id": 10015,
-    "name": "beIN MAX 4 4K",
-    "logo": "",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/max_tv/10015.json",
-    "source_file": "max_tv.json"
-  },
-  {
-    "id": 10016,
-    "name": "beIN MAX 4 HD",
-    "logo": "",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/max_tv/10016.json",
-    "source_file": "max_tv.json"
-  },
-  {
-    "id": 10017,
-    "name": "beIN MAX 4 SD",
-    "logo": "",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/max_tv/10017.json",
-    "source_file": "max_tv.json"
-  },
-  {
-    "id": 10108,
-    "name": "Bein max 4",
-    "logo": "",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/max_tv2/10108.json",
-    "source_file": "max_tv2.json"
-  },
-  {
-    "id": 20015,
-    "name": "beIN MAX 4 4K",
-    "logo": "",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/max_tv_4/20015.json",
-    "source_file": "max_tv_4.json"
-  },
-  {
-    "id": 20016,
-    "name": "beIN MAX 4 HD",
-    "logo": "",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/max_tv_4/20016.json",
-    "source_file": "max_tv_4.json"
-  },
-  {
-    "id": 20017,
-    "name": "beIN MAX 4 SD",
-    "logo": "",
-    "is_hide": 0,
-    "priority": 0,
-    "streamsFile": "streams/max_tv_4/20017.json",
-    "source_file": "max_tv_4.json"
-  }
+    {
+        "id": 1474,
+        "name": "beIN MAX 4",
+        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/90/1474.json",
+        "source_file": "90.json"
+    },
+    {
+        "id": 1504,
+        "name": "beIN MAX 4",
+        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/91/1504.json",
+        "source_file": "91.json"
+    },
+    {
+        "id": 1524,
+        "name": "beIN MAX 4",
+        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/92/1524.json",
+        "source_file": "92.json"
+    },
+    {
+        "id": 1544,
+        "name": "beIN MAX 4",
+        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/93/1544.json",
+        "source_file": "93.json"
+    },
+    {
+        "id": 20032,
+        "name": "❺ BEIN SPORTS MAX 4 HD",
+        "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/bein_max_tv/20032.json",
+        "source_file": "bein_max_tv.json"
+    },
+    {
+        "id": 20038,
+        "name": "❺ BEIN SPORTS MAX 4 FHD",
+        "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/bein_max_tv/20038.json",
+        "source_file": "bein_max_tv.json"
+    },
+    {
+        "id": 20044,
+        "name": "❶ beIN Sports Max 4 4K",
+        "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/bein_max_tv/20044.json",
+        "source_file": "bein_max_tv.json"
+    },
+    {
+        "id": 20050,
+        "name": "❶ beIN Sports Max 4 HD",
+        "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/bein_max_tv/20050.json",
+        "source_file": "bein_max_tv.json"
+    },
+    {
+        "id": 20056,
+        "name": "❶ beIN Sports Max 4 SD",
+        "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/bein_max_tv/20056.json",
+        "source_file": "bein_max_tv.json"
+    },
+    {
+        "id": 20107,
+        "name": "❸ beIN Sports Max 4 4K",
+        "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/bein_max_tv/20107.json",
+        "source_file": "bein_max_tv.json"
+    },
+    {
+        "id": 20113,
+        "name": "❸ beIN Sports Max 4 HD",
+        "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/bein_max_tv/20113.json",
+        "source_file": "bein_max_tv.json"
+    },
+    {
+        "id": 20119,
+        "name": "❸ beIN Sports Max 4 SD",
+        "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/bein_max_tv/20119.json",
+        "source_file": "bein_max_tv.json"
+    },
+    {
+        "id": 20021,
+        "name": "BEIN MAX 4",
+        "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/bein_web/20021.json",
+        "source_file": "bein_web.json"
+    },
+    {
+        "id": 20009,
+        "name": "beIN MAX 4 4K",
+        "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/max_tv/20009.json",
+        "source_file": "max_tv.json"
+    },
+    {
+        "id": 20010,
+        "name": "beIN MAX 4 HD",
+        "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/max_tv/20010.json",
+        "source_file": "max_tv.json"
+    },
+    {
+        "id": 20011,
+        "name": "beIN MAX 4 SD",
+        "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/max_tv/20011.json",
+        "source_file": "max_tv.json"
+    },
+    {
+        "id": 20206,
+        "name": "Bein max 4",
+        "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/max_tv2/20206.json",
+        "source_file": "max_tv2.json"
+    },
+    {
+        "id": 20313,
+        "name": "❺ BEIN SPORTS MAX 4 HD",
+        "logo": "",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/parser_sport_3/20313.json",
+        "source_file": "parser_sport_3.json"
+    },
+    {
+        "id": 20319,
+        "name": "❺ BEIN SPORTS MAX 4 FHD",
+        "logo": "",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/parser_sport_3/20319.json",
+        "source_file": "parser_sport_3.json"
+    },
+    {
+        "id": 20325,
+        "name": "❶ beIN Sports Max 4 4K",
+        "logo": "",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/parser_sport_3/20325.json",
+        "source_file": "parser_sport_3.json"
+    },
+    {
+        "id": 20331,
+        "name": "❶ beIN Sports Max 4 HD",
+        "logo": "",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/parser_sport_3/20331.json",
+        "source_file": "parser_sport_3.json"
+    },
+    {
+        "id": 20337,
+        "name": "❶ beIN Sports Max 4 SD",
+        "logo": "",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/parser_sport_3/20337.json",
+        "source_file": "parser_sport_3.json"
+    },
+    {
+        "id": 20388,
+        "name": "❸ beIN Sports Max 4 4K",
+        "logo": "",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/parser_sport_3/20388.json",
+        "source_file": "parser_sport_3.json"
+    },
+    {
+        "id": 20394,
+        "name": "❸ beIN Sports Max 4 HD",
+        "logo": "",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/parser_sport_3/20394.json",
+        "source_file": "parser_sport_3.json"
+    },
+    {
+        "id": 20400,
+        "name": "❸ beIN Sports Max 4 SD",
+        "logo": "",
+        "is_hide": 0,
+        "priority": 0,
+        "streamsFile": "streams/parser_sport_3/20400.json",
+        "source_file": "parser_sport_3.json"
+    }
 ]
