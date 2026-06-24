@@ -7,7 +7,7 @@
     "logo": "https://logovectorseek.com/wp-content/uploads/2020/12/cosmote-gr-logo-vector.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4768.json",
+    "streamsFile": "streams/cosmo_sport/4768.json",
     "isworking": 1
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://logovectorseek.com/wp-content/uploads/2020/12/cosmote-gr-logo-vector.png",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/4769.json",
+    "streamsFile": "streams/cosmo_sport/4769.json",
     "isworking": 1
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://logovectorseek.com/wp-content/uploads/2020/12/cosmote-gr-logo-vector.png",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/4770.json",
+    "streamsFile": "streams/cosmo_sport/4770.json",
     "isworking": 1
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://logovectorseek.com/wp-content/uploads/2020/12/cosmote-gr-logo-vector.png",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4771.json",
+    "streamsFile": "streams/cosmo_sport/4771.json",
     "isworking": 1
   },
   {
@@ -51,7 +51,7 @@
     "logo": "https://logovectorseek.com/wp-content/uploads/2020/12/cosmote-gr-logo-vector.png",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/4772.json",
+    "streamsFile": "streams/cosmo_sport/4772.json",
     "isworking": 1
   },
   {
@@ -62,7 +62,7 @@
     "logo": "https://logovectorseek.com/wp-content/uploads/2020/12/cosmote-gr-logo-vector.png",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/4773.json",
+    "streamsFile": "streams/cosmo_sport/4773.json",
     "isworking": 1
   }
 ]

@@ -7,7 +7,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/2796.json",
+    "streamsFile": "streams/mnm_kurd/2796.json",
     "isworking": 1
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/2797.json",
+    "streamsFile": "streams/mnm_kurd/2797.json",
     "isworking": 1
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/2798.json",
+    "streamsFile": "streams/mnm_kurd/2798.json",
     "isworking": 1
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/2799.json",
+    "streamsFile": "streams/mnm_kurd/2799.json",
     "isworking": 1
   },
   {
@@ -51,7 +51,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/2800.json",
+    "streamsFile": "streams/mnm_kurd/2800.json",
     "isworking": 1
   },
   {
@@ -62,7 +62,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/2801.json",
+    "streamsFile": "streams/mnm_kurd/2801.json",
     "isworking": 1
   },
   {
@@ -73,7 +73,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/2802.json",
+    "streamsFile": "streams/mnm_kurd/2802.json",
     "isworking": 1
   },
   {
@@ -84,7 +84,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/2803.json",
+    "streamsFile": "streams/mnm_kurd/2803.json",
     "isworking": 1
   },
   {
@@ -95,7 +95,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/2804.json",
+    "streamsFile": "streams/mnm_kurd/2804.json",
     "isworking": 1
   }
 ]

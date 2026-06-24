@@ -8,7 +8,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1404.json"
+    "streamsFile": "streams/80/1404.json"
   },
   {
     "id": 1405,
@@ -19,7 +19,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1405.json"
+    "streamsFile": "streams/80/1405.json"
   },
   {
     "id": 1406,
@@ -30,7 +30,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1406.json"
+    "streamsFile": "streams/80/1406.json"
   },
   {
     "id": 1407,
@@ -41,7 +41,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1407.json"
+    "streamsFile": "streams/80/1407.json"
   },
   {
     "id": 1408,
@@ -52,6 +52,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1408.json"
+    "streamsFile": "streams/80/1408.json"
   }
 ]

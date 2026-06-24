@@ -7,7 +7,7 @@
     "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350667_ico.png",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/3891.json",
+    "streamsFile": "streams/beiin_sports/3891.json",
     "isworking": 1
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350668_ico.png",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/3892.json",
+    "streamsFile": "streams/beiin_sports/3892.json",
     "isworking": 1
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350669_ico.png",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/3893.json",
+    "streamsFile": "streams/beiin_sports/3893.json",
     "isworking": 1
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350670_ico.png",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/3894.json",
+    "streamsFile": "streams/beiin_sports/3894.json",
     "isworking": 1
   },
   {
@@ -51,7 +51,7 @@
     "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350671_ico.png",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/3895.json",
+    "streamsFile": "streams/beiin_sports/3895.json",
     "isworking": 1
   },
   {
@@ -62,7 +62,7 @@
     "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350672_ico.png",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/3896.json",
+    "streamsFile": "streams/beiin_sports/3896.json",
     "isworking": 1
   },
   {
@@ -73,7 +73,7 @@
     "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350673_ico.png",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/3897.json",
+    "streamsFile": "streams/beiin_sports/3897.json",
     "isworking": 1
   },
   {
@@ -84,7 +84,7 @@
     "logo": "https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",
     "type": "channel",
     "position": 15,
-    "streamsFile": "streams/3898.json",
+    "streamsFile": "streams/beiin_sports/3898.json",
     "isworking": 0
   },
   {
@@ -95,7 +95,7 @@
     "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350667_ico.png",
     "type": "channel",
     "position": 55,
-    "streamsFile": "streams/3899.json",
+    "streamsFile": "streams/beiin_sports/3899.json",
     "isworking": 1
   },
   {
@@ -106,7 +106,7 @@
     "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350668_ico.png",
     "type": "channel",
     "position": 56,
-    "streamsFile": "streams/3900.json",
+    "streamsFile": "streams/beiin_sports/3900.json",
     "isworking": 1
   },
   {
@@ -117,7 +117,7 @@
     "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350669_ico.png",
     "type": "channel",
     "position": 57,
-    "streamsFile": "streams/3901.json",
+    "streamsFile": "streams/beiin_sports/3901.json",
     "isworking": 1
   },
   {
@@ -128,7 +128,7 @@
     "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350670_ico.png",
     "type": "channel",
     "position": 58,
-    "streamsFile": "streams/3902.json",
+    "streamsFile": "streams/beiin_sports/3902.json",
     "isworking": 1
   },
   {
@@ -139,7 +139,7 @@
     "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350671_ico.png",
     "type": "channel",
     "position": 59,
-    "streamsFile": "streams/3903.json",
+    "streamsFile": "streams/beiin_sports/3903.json",
     "isworking": 1
   },
   {
@@ -150,7 +150,7 @@
     "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350672_ico.png",
     "type": "channel",
     "position": 60,
-    "streamsFile": "streams/3904.json",
+    "streamsFile": "streams/beiin_sports/3904.json",
     "isworking": 1
   },
   {
@@ -161,7 +161,7 @@
     "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350674_ico.png",
     "type": "channel",
     "position": 65,
-    "streamsFile": "streams/3905.json",
+    "streamsFile": "streams/beiin_sports/3905.json",
     "isworking": 0
   },
   {
@@ -172,7 +172,7 @@
     "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21350674_ico.png",
     "type": "channel",
     "position": 69,
-    "streamsFile": "streams/3906.json",
+    "streamsFile": "streams/beiin_sports/3906.json",
     "isworking": 0
   }
 ]

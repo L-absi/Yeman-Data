@@ -7,7 +7,7 @@
     "logo": "https://iili.io/JhkLZXa.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/3910.json",
+    "streamsFile": "streams/bein_sport_france/3910.json",
     "isworking": 0
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://iili.io/JhkQ9dN.png",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/3911.json",
+    "streamsFile": "streams/bein_sport_france/3911.json",
     "isworking": 0
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://iili.io/JhkLZXa.png",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/3912.json",
+    "streamsFile": "streams/bein_sport_france/3912.json",
     "isworking": 0
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://iili.io/JhkQ9dN.png",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/3913.json",
+    "streamsFile": "streams/bein_sport_france/3913.json",
     "isworking": 0
   },
   {
@@ -51,7 +51,7 @@
     "logo": "https://iili.io/JhkQCrl.png",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/3914.json",
+    "streamsFile": "streams/bein_sport_france/3914.json",
     "isworking": 1
   },
   {
@@ -62,7 +62,7 @@
     "logo": "https://iili.io/JhkQCrl.png",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/3915.json",
+    "streamsFile": "streams/bein_sport_france/3915.json",
     "isworking": 1
   },
   {
@@ -73,7 +73,7 @@
     "logo": "https://iili.io/JmoxkJt.png",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/3916.json",
+    "streamsFile": "streams/bein_sport_france/3916.json",
     "isworking": 1
   },
   {
@@ -84,7 +84,7 @@
     "logo": "https://iili.io/Jmoxv5X.png",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/3917.json",
+    "streamsFile": "streams/bein_sport_france/3917.json",
     "isworking": 1
   },
   {
@@ -95,7 +95,7 @@
     "logo": "https://iili.io/Jmox8en.png",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/3918.json",
+    "streamsFile": "streams/bein_sport_france/3918.json",
     "isworking": 1
   },
   {
@@ -106,7 +106,7 @@
     "logo": "https://iili.io/JmoxOgI.png",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/3919.json",
+    "streamsFile": "streams/bein_sport_france/3919.json",
     "isworking": 1
   },
   {
@@ -117,7 +117,7 @@
     "logo": "https://iili.io/JmoxN0N.png",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/3920.json",
+    "streamsFile": "streams/bein_sport_france/3920.json",
     "isworking": 1
   },
   {
@@ -128,7 +128,7 @@
     "logo": "https://iili.io/JmoxhsR.png",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/3921.json",
+    "streamsFile": "streams/bein_sport_france/3921.json",
     "isworking": 1
   },
   {
@@ -139,7 +139,7 @@
     "logo": "https://iili.io/Jmoxwfp.png",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/3922.json",
+    "streamsFile": "streams/bein_sport_france/3922.json",
     "isworking": 1
   }
 ]

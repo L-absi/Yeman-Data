@@ -2,7 +2,7 @@ import json
 import requests
 import csv
 from pathlib import Path
-from typing import Dict, List, Any, Set
+from typing import Dict, List, Any, Set, Optional
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 import time
@@ -12,10 +12,10 @@ BASE_DIR = Path(".")
 STREAMS_DIR = BASE_DIR / "streams"
 CHANNELS_DIR = BASE_DIR / "channels"
 
-# عدد الخيوط المتزامنة (يمكنك تعديله حسب قوة جهازك وسرعة الإنترنت)
 MAX_WORKERS = 20
 TIMEOUT = 5  # ثوانٍ
 
+# -------------------- دوال مساعدة --------------------
 def load_json(path: Path) -> Any:
     try:
         with open(path, 'r', encoding='utf-8') as f:
@@ -25,7 +25,7 @@ def load_json(path: Path) -> Any:
         return None
 
 def check_stream(session: requests.Session, url: str, headers: Dict[str, str] = None) -> Dict[str, Any]:
-    """فحص رابط البث (باستخدام جلسة لتقليل overhead)."""
+    """فحص رابط البث مع إعادة استخدام الجلسة."""
     result = {
         "url": url,
         "status": "unknown",
@@ -38,9 +38,8 @@ def check_stream(session: requests.Session, url: str, headers: Dict[str, str] = 
         return result
 
     try:
-        # نجلب فقط رأس الاستجابة أو نتحقق من الاتصال بدون تحميل المحتوى
         resp = session.get(url, headers=headers or {}, stream=True, timeout=TIMEOUT, allow_redirects=True)
-        # نقرأ أول 1 بايت فقط للتأكد من وجود بيانات (أو نكتفي بـ status_code)
+        # قراءة أول بايت فقط للتأكد من وجود محتوى فعلي
         chunk = resp.raw.read(1, decode_content=False)
         if resp.status_code == 200 and chunk:
             result["working"] = True
@@ -70,40 +69,52 @@ def build_headers(server: Dict) -> Dict[str, str]:
 
 def update_channels_working_status(report_rows: List[Dict]):
     """
-    بعد الفحص، نقوم بتحديث جميع ملفات channels/*.json:
-    نضيف حقل "isworking": 1 إذا كانت أي من روابط القناة تعمل، 0 إذا لا.
+    تحديث حقل 'isworking' في جميع ملفات القنوات.
+    الهيكل الجديد: ملفات البث أصبحت streams/<channel_key>/<id>.json
     """
-    # 1. بناء قاموس: streams_file -> is_working
-    stream_status = {}
+    # تجميع حالة العمل لكل قناة (مفتاح القناة + معرف القناة)
+    # سنستخدم زوج (channel_file_stem, channel_id) لتحديد ما إذا كانت القناة تعمل.
+    status_map = {}  # key: (channel_file_stem, channel_id) -> bool
     for row in report_rows:
-        sf = row["streams_file"]
-        if sf not in stream_status:
-            stream_status[sf] = False
-        if row["working"]:
-            stream_status[sf] = True
-
-    # 2. تحميل كل ملف قنوات، تحديث كل كائن قناة، حفظ
-    channels_dir = Path("channels")
-    for channels_file in channels_dir.glob("*.json"):
-        channels = load_json(channels_file)
-        if not channels:
+        # row تحتوي الآن على 'channel_file' و 'channel_id' (سنضيفها لاحقًا)
+        cf = row.get("channel_file")
+        cid = row.get("channel_id")
+        if cf is None or cid is None:
             continue
-        changed = False
+        key = (cf, cid)
+        if key not in status_map:
+            status_map[key] = False
+        if row["working"]:
+            status_map[key] = True
+
+    for channel_file in CHANNELS_DIR.glob("*.json"):
+        stem = channel_file.stem
+        channels = load_json(channel_file)
+        if not channels or not isinstance(channels, list):
+            continue
+
+        updated = False
         for ch in channels:
-            streams_file = ch.get("streamsFile")
-            if streams_file and streams_file in stream_status:
-                isw = 1 if stream_status[streams_file] else 0
-                # لا نعدل إذا كان موجوداً مسبقاً بنفس القيمة
-                if ch.get("isworking") != isw:
-                    ch["isworking"] = isw
-                    changed = True
-        if changed:
-            with open(channels_file, 'w', encoding='utf-8') as f:
+            ch_id = ch.get("id")
+            if not ch_id:
+                continue
+            new_working = 1 if status_map.get((stem, ch_id), False) else 0
+            if ch.get("isworking") != new_working:
+                ch["isworking"] = new_working
+                updated = True
+
+        if updated:
+            with open(channel_file, 'w', encoding='utf-8') as f:
                 json.dump(channels, f, indent=2, ensure_ascii=False)
-            print(f"✅ تم تحديث {channels_file.name}")
-            
+            print(f"✅ تم تحديث {channel_file.name}")
+
+# -------------------- تجميع المهام --------------------
 def collect_all_tasks(sections_dict: Dict[str, Dict]) -> List[Dict]:
-    """تجميع جميع مهام الفحص (قائمة بكل رابط مع بيانات القناة)."""
+    """
+    تجميع جميع مهام الفحص مع دعم الهيكل الجديد:
+    - ملفات القنوات: channels/<key>.json
+    - ملفات البث: streams/<key>/<id>.json
+    """
     tasks = []
 
     def recurse_collect(sec_key: str, path_name: str, depth: int = 0):
@@ -120,37 +131,41 @@ def collect_all_tasks(sections_dict: Dict[str, Dict]) -> List[Dict]:
                     recurse_collect(sub_key, new_path, depth + 1)
                 continue
 
-            channels_file_rel = cat.get("channelsFile")
+            channels_file_rel = cat.get("channelsFile")  # مثال: channels/max_tv.json
             if not channels_file_rel:
                 continue
             channels_file_path = BASE_DIR / channels_file_rel
             if not channels_file_path.exists() or channels_file_path.is_dir():
                 continue
 
+            # اسم الملف بدون لاحقة = مفتاح القناة (مجلد البث)
+            channel_key = channels_file_path.stem
             channels = load_json(channels_file_path)
             if not channels:
                 continue
 
             category_name = cat.get("name", cat.get("key", "غير معروف"))
             for channel in channels:
-                channel_name = channel.get("name", "بدون اسم")
-                streams_file = channel.get("streamsFile")
-                if not streams_file:
+                ch_id = channel.get("id")
+                ch_name = channel.get("name", "بدون اسم")
+                if not ch_id:
                     continue
-                streams_path = BASE_DIR / streams_file
-                if not streams_path.exists():
-                    # مهمة وهمية للإبلاغ عن ملف مفقود
+
+                # المسار الجديد لملف البث
+                stream_file = STREAMS_DIR / channel_key / f"{ch_id}.json"
+                if not stream_file.exists():
                     tasks.append({
                         "section": path_name,
                         "category": category_name,
-                        "channel": channel_name,
-                        "streams_file": streams_file,
+                        "channel": ch_name,
+                        "channel_file": channel_key,
+                        "channel_id": ch_id,
                         "url": None,
                         "headers": None
                     })
                     continue
 
-                servers = load_json(streams_path)
+                servers = load_json(stream_file)
                 if not servers:
                     continue
 
@@ -160,13 +175,14 @@ def collect_all_tasks(sections_dict: Dict[str, Dict]) -> List[Dict]:
                     tasks.append({
                         "section": path_name,
                         "category": category_name,
-                        "channel": channel_name,
-                        "streams_file": streams_file,
+                        "channel": ch_name,
+                        "channel_file": channel_key,
+                        "channel_id": ch_id,
                         "url": url,
                         "headers": headers
                     })
 
-    # الأقسام الرئيسية
+    # تجنب تكرار معالجة الأقسام الفرعية كأقسام رئيسية
     sub_keys: Set[str] = set()
     for sec in sections_dict.values():
         for cat in sec.get("categories", []):
@@ -183,32 +199,31 @@ def collect_all_tasks(sections_dict: Dict[str, Dict]) -> List[Dict]:
 
     return tasks
 
+# -------------------- الفحص متعدد الخيوط --------------------
 def process_with_threads(sections_dict: Dict[str, Dict], report_rows: List[Dict]):
     tasks = collect_all_tasks(sections_dict)
     total = len(tasks)
     print(f"📊 إجمالي الروابط المطلوب فحصها: {total}")
 
-    # إنشاء جلسة واحدة يعاد استخدامها
     session = requests.Session()
+    # إعداد محول لزيادة عدد الاتصالات المتزامنة
+    adapter = requests.adapters.HTTPAdapter(pool_maxsize=MAX_WORKERS, pool_block=True)
+    session.mount("http://", adapter)
+    session.mount("https://", adapter)
 
-    # استخدام ThreadPoolExecutor مع tqdm
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        # نرسل جميع المهام
         future_to_task = {}
         for task in tasks:
             if task["url"] is None:
-                # مهمة وهمية (ملف مفقود) نتعامل معها مباشرة
-                future = executor.submit(lambda: None)  # دالة فارغة
+                future = executor.submit(lambda: None)
             else:
                 future = executor.submit(check_stream, session, task["url"], task["headers"])
             future_to_task[future] = task
 
-        # شريط التقدم
         with tqdm(total=total, desc="فحص الروابط", unit="رابط") as pbar:
             for future in as_completed(future_to_task):
                 task = future_to_task[future]
                 if task["url"] is None:
-                    # رابط مفقود
                     result = {
                         "url": "",
                         "status": "file_missing",
@@ -222,7 +237,8 @@ def process_with_threads(sections_dict: Dict[str, Dict], report_rows: List[Dict]
                     "section": task["section"],
                     "category": task["category"],
                     "channel": task["channel"],
-                    "streams_file": task["streams_file"],
+                    "channel_file": task["channel_file"],
+                    "channel_id": task["channel_id"],
                     "url": result["url"],
                     "status": result["status"],
                     "working": result["working"],
@@ -230,6 +246,7 @@ def process_with_threads(sections_dict: Dict[str, Dict], report_rows: List[Dict]
                 })
                 pbar.update(1)
 
+# -------------------- الدالة الرئيسية --------------------
 def main():
     sections_list = load_json(BASE_DIR / "section_categories.json")
     if not sections_list:
@@ -246,12 +263,11 @@ def main():
     start_time = time.time()
     process_with_threads(sections_dict, report_rows)
     elapsed = time.time() - start_time
-    
+
     update_channels_working_status(report_rows)
 
-    # كتابة التقرير
     csv_file = "streams_report.csv"
-    fields = ["section", "category", "channel", "streams_file", "url", "status", "working", "error"]
+    fields = ["section", "category", "channel", "channel_file", "channel_id", "url", "status", "working", "error"]
     with open(csv_file, "w", encoding="utf-8-sig", newline='') as f:
         writer = csv.DictWriter(f, fieldnames=fields)
         writer.writeheader()

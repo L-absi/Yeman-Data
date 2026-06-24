@@ -7,7 +7,7 @@
     "logo": "https://iptvboss.xyz/logos/Poland/PolsatSportPremium1.pl.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4845.json",
+    "streamsFile": "streams/polsat_sport/4845.json",
     "isworking": 0
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://iptvboss.xyz/logos/Poland/PolsatSportPremium2.pl.png",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/4846.json",
+    "streamsFile": "streams/polsat_sport/4846.json",
     "isworking": 0
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://iptvboss.xyz/logos/Poland/PolsatSport1.pl.png",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/4847.json",
+    "streamsFile": "streams/polsat_sport/4847.json",
     "isworking": 0
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://iptvboss.xyz/logos/Poland/PolsatSport2.pl.png",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4848.json",
+    "streamsFile": "streams/polsat_sport/4848.json",
     "isworking": 0
   },
   {
@@ -51,7 +51,7 @@
     "logo": "https://iptvboss.xyz/logos/Poland/PolsatSport3.pl.png",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/4849.json",
+    "streamsFile": "streams/polsat_sport/4849.json",
     "isworking": 0
   },
   {
@@ -62,7 +62,7 @@
     "logo": "https://iptvboss.xyz/logos/Poland/TVPSport.pl.png",
     "type": "channel",
     "position": 15,
-    "streamsFile": "streams/4850.json",
+    "streamsFile": "streams/polsat_sport/4850.json",
     "isworking": 1
   }
 ]

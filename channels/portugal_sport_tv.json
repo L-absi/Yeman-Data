@@ -7,7 +7,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlYsybPg6XV9UCkLUnCJHV7xVcDUChXjEp1rCS0i0ow&s=10",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4851.json",
+    "streamsFile": "streams/portugal_sport_tv/4851.json",
     "isworking": 0
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlYsybPg6XV9UCkLUnCJHV7xVcDUChXjEp1rCS0i0ow&s=10",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/4852.json",
+    "streamsFile": "streams/portugal_sport_tv/4852.json",
     "isworking": 0
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlYsybPg6XV9UCkLUnCJHV7xVcDUChXjEp1rCS0i0ow&s=10",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/4853.json",
+    "streamsFile": "streams/portugal_sport_tv/4853.json",
     "isworking": 0
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlYsybPg6XV9UCkLUnCJHV7xVcDUChXjEp1rCS0i0ow&s=10",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4854.json",
+    "streamsFile": "streams/portugal_sport_tv/4854.json",
     "isworking": 0
   },
   {
@@ -51,7 +51,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlYsybPg6XV9UCkLUnCJHV7xVcDUChXjEp1rCS0i0ow&s=10",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/4855.json",
+    "streamsFile": "streams/portugal_sport_tv/4855.json",
     "isworking": 0
   },
   {
@@ -62,7 +62,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/4856.json",
+    "streamsFile": "streams/portugal_sport_tv/4856.json",
     "isworking": 1
   },
   {
@@ -73,7 +73,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/4857.json",
+    "streamsFile": "streams/portugal_sport_tv/4857.json",
     "isworking": 1
   },
   {
@@ -84,7 +84,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/4858.json",
+    "streamsFile": "streams/portugal_sport_tv/4858.json",
     "isworking": 1
   },
   {
@@ -95,7 +95,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/4859.json",
+    "streamsFile": "streams/portugal_sport_tv/4859.json",
     "isworking": 1
   }
 ]

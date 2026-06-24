@@ -7,7 +7,7 @@
     "logo": "https://images.bfmtv.com/C5rkv8VPD84yH7JKiGKYN3sHkOE=/0x0:0x0/400x0/site_manager_images/image_contenu3_top_categories_1688048101027_1732458001199.png",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/3991.json",
+    "streamsFile": "streams/liga_sports/3991.json",
     "isworking": 1
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOuNOvPkw0ifxNdEd3xy-T7y36NsfW_wggJIBwqFNcQ&s=10",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/3992.json",
+    "streamsFile": "streams/liga_sports/3992.json",
     "isworking": 0
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://images.bfmtv.com/C5rkv8VPD84yH7JKiGKYN3sHkOE=/0x0:0x0/400x0/site_manager_images/image_contenu3_top_categories_1688048101027_1732458001199.png",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/3993.json",
+    "streamsFile": "streams/liga_sports/3993.json",
     "isworking": 1
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://images.bfmtv.com/C5rkv8VPD84yH7JKiGKYN3sHkOE=/0x0:0x0/400x0/site_manager_images/image_contenu3_top_categories_1688048101027_1732458001199.png",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/3994.json",
+    "streamsFile": "streams/liga_sports/3994.json",
     "isworking": 1
   },
   {
@@ -51,7 +51,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/3995.json",
+    "streamsFile": "streams/liga_sports/3995.json",
     "isworking": 1
   },
   {
@@ -62,7 +62,7 @@
     "logo": "https://images.bfmtv.com/C5rkv8VPD84yH7JKiGKYN3sHkOE=/0x0:0x0/400x0/site_manager_images/image_contenu3_top_categories_1688048101027_1732458001199.png",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/3996.json",
+    "streamsFile": "streams/liga_sports/3996.json",
     "isworking": 0
   },
   {
@@ -73,7 +73,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1WqnudkeW3yyQknO2tBwMhYAID9P34K56GEKtFUPSrg&s=10",
     "type": "channel",
     "position": 88,
-    "streamsFile": "streams/3997.json",
+    "streamsFile": "streams/liga_sports/3997.json",
     "isworking": 0
   },
   {
@@ -84,7 +84,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1WqnudkeW3yyQknO2tBwMhYAID9P34K56GEKtFUPSrg&s=10",
     "type": "channel",
     "position": 89,
-    "streamsFile": "streams/3998.json",
+    "streamsFile": "streams/liga_sports/3998.json",
     "isworking": 0
   },
   {
@@ -95,7 +95,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1WqnudkeW3yyQknO2tBwMhYAID9P34K56GEKtFUPSrg&s=10",
     "type": "channel",
     "position": 90,
-    "streamsFile": "streams/3999.json",
+    "streamsFile": "streams/liga_sports/3999.json",
     "isworking": 0
   },
   {
@@ -106,7 +106,7 @@
     "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png",
     "type": "channel",
     "position": 112,
-    "streamsFile": "streams/4000.json",
+    "streamsFile": "streams/liga_sports/4000.json",
     "isworking": 1
   }
 ]

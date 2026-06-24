@@ -7,7 +7,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/3980.json",
+    "streamsFile": "streams/event_sport_tests/3980.json",
     "isworking": 0
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/3981.json",
+    "streamsFile": "streams/event_sport_tests/3981.json",
     "isworking": 1
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/3982.json",
+    "streamsFile": "streams/event_sport_tests/3982.json",
     "isworking": 0
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/3983.json",
+    "streamsFile": "streams/event_sport_tests/3983.json",
     "isworking": 0
   },
   {
@@ -51,7 +51,7 @@
     "logo": "",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/3984.json",
+    "streamsFile": "streams/event_sport_tests/3984.json",
     "isworking": 1
   },
   {
@@ -62,7 +62,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/3985.json",
+    "streamsFile": "streams/event_sport_tests/3985.json",
     "isworking": 0
   },
   {
@@ -73,7 +73,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/3986.json",
+    "streamsFile": "streams/event_sport_tests/3986.json",
     "isworking": 0
   },
   {
@@ -84,7 +84,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/3987.json",
+    "streamsFile": "streams/event_sport_tests/3987.json",
     "isworking": 0
   }
 ]

@@ -5,7 +5,7 @@
     "logo": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/3/1/4/7/9/5/6/prosiebensat1uhd-004ac64e2fdcedba.png?force_format=avif%2Cwebp%2Cjpeg&org_if_sml=1&q=30&width=1920",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20270.json",
+    "streamsFile": "streams/fussbal_sport_uhd/20270.json",
     "isworking": 0
   },
   {
@@ -14,7 +14,7 @@
     "logo": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/3/1/4/7/9/5/6/prosiebensat1uhd-004ac64e2fdcedba.png?force_format=avif%2Cwebp%2Cjpeg&org_if_sml=1&q=30&width=1920",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20271.json",
+    "streamsFile": "streams/fussbal_sport_uhd/20271.json",
     "isworking": 0
   },
   {
@@ -23,7 +23,7 @@
     "logo": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/3/1/4/7/9/5/6/prosiebensat1uhd-004ac64e2fdcedba.png?force_format=avif%2Cwebp%2Cjpeg&org_if_sml=1&q=30&width=1920",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/20272.json",
+    "streamsFile": "streams/fussbal_sport_uhd/20272.json",
     "isworking": 0
   }
 ]

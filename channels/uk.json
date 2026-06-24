@@ -7,7 +7,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/5863.json",
+    "streamsFile": "streams/uk/5863.json",
     "isworking": 0
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/5864.json",
+    "streamsFile": "streams/uk/5864.json",
     "isworking": 0
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/5865.json",
+    "streamsFile": "streams/uk/5865.json",
     "isworking": 0
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/5866.json",
+    "streamsFile": "streams/uk/5866.json",
     "isworking": 0
   },
   {
@@ -51,7 +51,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/5867.json",
+    "streamsFile": "streams/uk/5867.json",
     "isworking": 0
   },
   {
@@ -62,7 +62,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/5868.json",
+    "streamsFile": "streams/uk/5868.json",
     "isworking": 0
   },
   {
@@ -73,7 +73,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/5869.json",
+    "streamsFile": "streams/uk/5869.json",
     "isworking": 0
   },
   {
@@ -84,7 +84,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/5870.json",
+    "streamsFile": "streams/uk/5870.json",
     "isworking": 0
   },
   {
@@ -95,7 +95,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/5871.json",
+    "streamsFile": "streams/uk/5871.json",
     "isworking": 0
   },
   {
@@ -106,7 +106,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/5872.json",
+    "streamsFile": "streams/uk/5872.json",
     "isworking": 0
   },
   {
@@ -117,7 +117,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/5873.json",
+    "streamsFile": "streams/uk/5873.json",
     "isworking": 0
   },
   {
@@ -128,7 +128,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/5874.json",
+    "streamsFile": "streams/uk/5874.json",
     "isworking": 0
   },
   {
@@ -139,7 +139,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/5875.json",
+    "streamsFile": "streams/uk/5875.json",
     "isworking": 0
   },
   {
@@ -150,7 +150,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/5876.json",
+    "streamsFile": "streams/uk/5876.json",
     "isworking": 0
   }
 ]

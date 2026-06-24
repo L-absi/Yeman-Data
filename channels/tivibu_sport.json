@@ -7,7 +7,7 @@
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4958.json",
+    "streamsFile": "streams/tivibu_sport/4958.json",
     "isworking": 1
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/4959.json",
+    "streamsFile": "streams/tivibu_sport/4959.json",
     "isworking": 1
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/4960.json",
+    "streamsFile": "streams/tivibu_sport/4960.json",
     "isworking": 1
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4961.json",
+    "streamsFile": "streams/tivibu_sport/4961.json",
     "isworking": 1
   }
 ]

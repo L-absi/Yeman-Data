@@ -7,7 +7,7 @@
     "logo": "http://epg.cdntv.online/img/37.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4877.json",
+    "streamsFile": "streams/russian_sport/4877.json",
     "isworking": 1
   },
   {
@@ -18,7 +18,7 @@
     "logo": "http://epg.cdntv.online/img/38.png",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/4878.json",
+    "streamsFile": "streams/russian_sport/4878.json",
     "isworking": 1
   },
   {
@@ -29,7 +29,7 @@
     "logo": "http://epg.cdntv.online/img/39.png",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/4879.json",
+    "streamsFile": "streams/russian_sport/4879.json",
     "isworking": 1
   },
   {
@@ -40,7 +40,7 @@
     "logo": "http://epg.cdntv.online/img/40.png",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4880.json",
+    "streamsFile": "streams/russian_sport/4880.json",
     "isworking": 0
   },
   {
@@ -51,7 +51,7 @@
     "logo": "http://epg.cdntv.online/img/41.png",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/4881.json",
+    "streamsFile": "streams/russian_sport/4881.json",
     "isworking": 1
   },
   {
@@ -62,7 +62,7 @@
     "logo": "http://epg.cdntv.online/img/43.png",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/4882.json",
+    "streamsFile": "streams/russian_sport/4882.json",
     "isworking": 1
   },
   {
@@ -73,7 +73,7 @@
     "logo": "http://epg.cdntv.online/img/44.png",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/4883.json",
+    "streamsFile": "streams/russian_sport/4883.json",
     "isworking": 1
   },
   {
@@ -84,7 +84,7 @@
     "logo": "http://epg.cdntv.online/img/45.png",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/4884.json",
+    "streamsFile": "streams/russian_sport/4884.json",
     "isworking": 1
   },
   {
@@ -95,7 +95,7 @@
     "logo": "http://epg.cdntv.online/img/46.png",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/4885.json",
+    "streamsFile": "streams/russian_sport/4885.json",
     "isworking": 1
   },
   {
@@ -106,7 +106,7 @@
     "logo": "http://epg.cdntv.online/img/47.png",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/4886.json",
+    "streamsFile": "streams/russian_sport/4886.json",
     "isworking": 1
   },
   {
@@ -117,7 +117,7 @@
     "logo": "http://epg.cdntv.online/img/48.png",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/4887.json",
+    "streamsFile": "streams/russian_sport/4887.json",
     "isworking": 1
   },
   {
@@ -128,7 +128,7 @@
     "logo": "http://epg.cdntv.online/img/49.png",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/4888.json",
+    "streamsFile": "streams/russian_sport/4888.json",
     "isworking": 1
   },
   {
@@ -139,7 +139,7 @@
     "logo": "http://epg.cdntv.online/img/50.png",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/4889.json",
+    "streamsFile": "streams/russian_sport/4889.json",
     "isworking": 1
   },
   {
@@ -150,7 +150,7 @@
     "logo": "http://epg.cdntv.online/img/51.png",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/4890.json",
+    "streamsFile": "streams/russian_sport/4890.json",
     "isworking": 0
   },
   {
@@ -161,7 +161,7 @@
     "logo": "http://epg.cdntv.online/img/52.png",
     "type": "channel",
     "position": 15,
-    "streamsFile": "streams/4891.json",
+    "streamsFile": "streams/russian_sport/4891.json",
     "isworking": 1
   },
   {
@@ -172,7 +172,7 @@
     "logo": "http://epg.cdntv.online/img/53.png",
     "type": "channel",
     "position": 16,
-    "streamsFile": "streams/4892.json",
+    "streamsFile": "streams/russian_sport/4892.json",
     "isworking": 1
   },
   {
@@ -183,7 +183,7 @@
     "logo": "http://epg.cdntv.online/img/54.png",
     "type": "channel",
     "position": 17,
-    "streamsFile": "streams/4893.json",
+    "streamsFile": "streams/russian_sport/4893.json",
     "isworking": 1
   },
   {
@@ -194,7 +194,7 @@
     "logo": "http://epg.cdntv.online/img/55.png",
     "type": "channel",
     "position": 18,
-    "streamsFile": "streams/4894.json",
+    "streamsFile": "streams/russian_sport/4894.json",
     "isworking": 1
   },
   {
@@ -205,7 +205,7 @@
     "logo": "http://epg.cdntv.online/img/56.png",
     "type": "channel",
     "position": 19,
-    "streamsFile": "streams/4895.json",
+    "streamsFile": "streams/russian_sport/4895.json",
     "isworking": 1
   },
   {
@@ -216,7 +216,7 @@
     "logo": "http://epg.cdntv.online/img/57.png",
     "type": "channel",
     "position": 20,
-    "streamsFile": "streams/4896.json",
+    "streamsFile": "streams/russian_sport/4896.json",
     "isworking": 1
   },
   {
@@ -227,7 +227,7 @@
     "logo": "http://epg.cdntv.online/img/58.png",
     "type": "channel",
     "position": 21,
-    "streamsFile": "streams/4897.json",
+    "streamsFile": "streams/russian_sport/4897.json",
     "isworking": 1
   },
   {
@@ -238,7 +238,7 @@
     "logo": "http://epg.cdntv.online/img/59.png",
     "type": "channel",
     "position": 22,
-    "streamsFile": "streams/4898.json",
+    "streamsFile": "streams/russian_sport/4898.json",
     "isworking": 1
   },
   {
@@ -249,7 +249,7 @@
     "logo": "http://epg.cdntv.online/img/175.png",
     "type": "channel",
     "position": 23,
-    "streamsFile": "streams/4899.json",
+    "streamsFile": "streams/russian_sport/4899.json",
     "isworking": 1
   },
   {
@@ -260,7 +260,7 @@
     "logo": "http://epg.cdntv.online/img/381.png",
     "type": "channel",
     "position": 24,
-    "streamsFile": "streams/4900.json",
+    "streamsFile": "streams/russian_sport/4900.json",
     "isworking": 1
   },
   {
@@ -271,7 +271,7 @@
     "logo": "http://epg.cdntv.online/img/383.png",
     "type": "channel",
     "position": 25,
-    "streamsFile": "streams/4901.json",
+    "streamsFile": "streams/russian_sport/4901.json",
     "isworking": 1
   },
   {
@@ -282,7 +282,7 @@
     "logo": "http://epg.cdntv.online/img/460.png",
     "type": "channel",
     "position": 26,
-    "streamsFile": "streams/4902.json",
+    "streamsFile": "streams/russian_sport/4902.json",
     "isworking": 0
   },
   {
@@ -293,7 +293,7 @@
     "logo": "http://epg.cdntv.online/img/462.png",
     "type": "channel",
     "position": 27,
-    "streamsFile": "streams/4903.json",
+    "streamsFile": "streams/russian_sport/4903.json",
     "isworking": 1
   },
   {
@@ -304,7 +304,7 @@
     "logo": "http://epg.cdntv.online/img/464.png",
     "type": "channel",
     "position": 28,
-    "streamsFile": "streams/4904.json",
+    "streamsFile": "streams/russian_sport/4904.json",
     "isworking": 1
   },
   {
@@ -315,7 +315,7 @@
     "logo": "http://epg.cdntv.online/img/465.png",
     "type": "channel",
     "position": 29,
-    "streamsFile": "streams/4905.json",
+    "streamsFile": "streams/russian_sport/4905.json",
     "isworking": 1
   },
   {
@@ -326,7 +326,7 @@
     "logo": "http://epg.cdntv.online/img/981.png",
     "type": "channel",
     "position": 30,
-    "streamsFile": "streams/4906.json",
+    "streamsFile": "streams/russian_sport/4906.json",
     "isworking": 0
   },
   {
@@ -337,7 +337,7 @@
     "logo": "http://epg.cdntv.online/img/982.png",
     "type": "channel",
     "position": 31,
-    "streamsFile": "streams/4907.json",
+    "streamsFile": "streams/russian_sport/4907.json",
     "isworking": 1
   },
   {
@@ -348,7 +348,7 @@
     "logo": "http://epg.cdntv.online/img/983.png",
     "type": "channel",
     "position": 32,
-    "streamsFile": "streams/4908.json",
+    "streamsFile": "streams/russian_sport/4908.json",
     "isworking": 1
   },
   {
@@ -359,7 +359,7 @@
     "logo": "http://epg.cdntv.online/img/1021.png",
     "type": "channel",
     "position": 33,
-    "streamsFile": "streams/4909.json",
+    "streamsFile": "streams/russian_sport/4909.json",
     "isworking": 1
   },
   {
@@ -370,7 +370,7 @@
     "logo": "http://epg.cdntv.online/img/1022.png",
     "type": "channel",
     "position": 34,
-    "streamsFile": "streams/4910.json",
+    "streamsFile": "streams/russian_sport/4910.json",
     "isworking": 1
   },
   {
@@ -381,7 +381,7 @@
     "logo": "http://epg.cdntv.online/img/1496.png",
     "type": "channel",
     "position": 35,
-    "streamsFile": "streams/4911.json",
+    "streamsFile": "streams/russian_sport/4911.json",
     "isworking": 1
   },
   {
@@ -392,7 +392,7 @@
     "logo": "http://epg.cdntv.online/img/1497.png",
     "type": "channel",
     "position": 36,
-    "streamsFile": "streams/4912.json",
+    "streamsFile": "streams/russian_sport/4912.json",
     "isworking": 1
   },
   {
@@ -403,7 +403,7 @@
     "logo": "http://epg.cdntv.online/img/1498.png",
     "type": "channel",
     "position": 37,
-    "streamsFile": "streams/4913.json",
+    "streamsFile": "streams/russian_sport/4913.json",
     "isworking": 0
   },
   {
@@ -414,7 +414,7 @@
     "logo": "http://epg.cdntv.online/img/1034.png",
     "type": "channel",
     "position": 38,
-    "streamsFile": "streams/4914.json",
+    "streamsFile": "streams/russian_sport/4914.json",
     "isworking": 1
   },
   {
@@ -425,7 +425,7 @@
     "logo": "http://epg.cdntv.online/img/1680.png",
     "type": "channel",
     "position": 39,
-    "streamsFile": "streams/4915.json",
+    "streamsFile": "streams/russian_sport/4915.json",
     "isworking": 0
   }
 ]

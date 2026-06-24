@@ -7,7 +7,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkycV-W4qf0MIrzIrDLgWPDFwZbJpuT8Lfbg&s",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4758.json",
+    "streamsFile": "streams/canal+_afrique/4758.json",
     "isworking": 1
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkycV-W4qf0MIrzIrDLgWPDFwZbJpuT8Lfbg&s",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/4759.json",
+    "streamsFile": "streams/canal+_afrique/4759.json",
     "isworking": 1
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkycV-W4qf0MIrzIrDLgWPDFwZbJpuT8Lfbg&s",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/4760.json",
+    "streamsFile": "streams/canal+_afrique/4760.json",
     "isworking": 1
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkycV-W4qf0MIrzIrDLgWPDFwZbJpuT8Lfbg&s",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4761.json",
+    "streamsFile": "streams/canal+_afrique/4761.json",
     "isworking": 1
   },
   {
@@ -51,7 +51,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkycV-W4qf0MIrzIrDLgWPDFwZbJpuT8Lfbg&s",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/4762.json",
+    "streamsFile": "streams/canal+_afrique/4762.json",
     "isworking": 1
   }
 ]

@@ -8,7 +8,7 @@
     "logo": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/273453210_109829564957870_2349726580000905895_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=d4Rgwhfo8-8AX-tFH3a&_nc_ht=scontent-lhr8-2.xx&oh=00_AfCWqTElposJ1vOywzMy-XFG3niIqZAeMzK0-igdXE2hDg&oe=6484BB39",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1573.json",
+    "streamsFile": "streams/25/1573.json",
     "isworking": 0
   },
   {
@@ -20,7 +20,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/7/71/Syrian_TV_Logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/839.json",
+    "streamsFile": "streams/25/839.json",
     "isworking": 0
   },
   {
@@ -32,7 +32,7 @@
     "logo": "https://i.goalzz.com/?i=aaasar%2Fsyria_drama_log.gif",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/840.json",
+    "streamsFile": "streams/25/840.json",
     "isworking": 1
   },
   {
@@ -44,7 +44,7 @@
     "logo": "https://yt3.googleusercontent.com/ytc/AGIKgqP0M7hIaMv1cp1Wd1kcJDNPBbPjcCJZbZ4dxuSs=s900-c-k-c0x00ffffff-no-rj",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/841.json",
+    "streamsFile": "streams/25/841.json",
     "isworking": 0
   },
   {
@@ -56,7 +56,7 @@
     "logo": "https://tvtvtv.ru/logos/souryana_tv.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/843.json",
+    "streamsFile": "streams/25/843.json",
     "isworking": 0
   },
   {
@@ -68,7 +68,7 @@
     "logo": "https://tvtvtv.ru/icons/nour_el-sham.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/844.json",
+    "streamsFile": "streams/25/844.json",
     "isworking": 0
   },
   {
@@ -80,7 +80,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ugarittv.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1045.json",
+    "streamsFile": "streams/25/1045.json",
     "isworking": 0
   },
   {
@@ -92,7 +92,7 @@
     "logo": "https://www.korafreha2.com/YacineTV_New/ARABIC/samatv.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/845.json",
+    "streamsFile": "streams/25/845.json",
     "isworking": 0
   },
   {
@@ -104,7 +104,7 @@
     "logo": "https://i.imgur.com/kkQvtxT.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/846.json",
+    "streamsFile": "streams/25/846.json",
     "isworking": 1
   },
   {
@@ -116,7 +116,7 @@
     "logo": "https://i.imgur.com/5Iq2zJ1.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/847.json",
+    "streamsFile": "streams/25/847.json",
     "isworking": 0
   },
   {
@@ -128,7 +128,7 @@
     "logo": "https://i.imgur.com/hGyUycp.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/848.json",
+    "streamsFile": "streams/25/848.json",
     "isworking": 1
   },
   {
@@ -140,7 +140,7 @@
     "logo": "https://i.imgur.com/UIPsjuk.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/849.json",
+    "streamsFile": "streams/25/849.json",
     "isworking": 0
   },
   {
@@ -152,7 +152,7 @@
     "logo": "https://i.imgur.com/R6t1KYh.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/850.json",
+    "streamsFile": "streams/25/850.json",
     "isworking": 0
   },
   {
@@ -164,7 +164,7 @@
     "logo": "https://i.imgur.com/kaitriA.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/851.json",
+    "streamsFile": "streams/25/851.json",
     "isworking": 0
   }
 ]

@@ -8,7 +8,7 @@
     "logo": "https://i.imgur.com/bRpN7hM.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1044.json",
+    "streamsFile": "streams/55/1044.json",
     "isworking": 1
   },
   {
@@ -20,7 +20,7 @@
     "logo": "https://i.imgur.com/klGg2uh.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1815.json",
+    "streamsFile": "streams/55/1815.json",
     "isworking": 0
   },
   {
@@ -32,7 +32,7 @@
     "logo": "https://i.imgur.com/bRpN7hM.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1653.json",
+    "streamsFile": "streams/55/1653.json",
     "isworking": 0
   },
   {
@@ -44,7 +44,7 @@
     "logo": "https://i.imgur.com/45QDX8W.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1654.json",
+    "streamsFile": "streams/55/1654.json",
     "isworking": 0
   }
 ]

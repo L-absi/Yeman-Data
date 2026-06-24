@@ -7,7 +7,7 @@
     "logo": "",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/3974.json",
+    "streamsFile": "streams/event_sport_2/3974.json",
     "isworking": 0
   },
   {
@@ -18,7 +18,7 @@
     "logo": "",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/3975.json",
+    "streamsFile": "streams/event_sport_2/3975.json",
     "isworking": 0
   },
   {
@@ -29,7 +29,7 @@
     "logo": "",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/3976.json",
+    "streamsFile": "streams/event_sport_2/3976.json",
     "isworking": 0
   },
   {
@@ -40,7 +40,7 @@
     "logo": "",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/3977.json",
+    "streamsFile": "streams/event_sport_2/3977.json",
     "isworking": 0
   },
   {
@@ -51,7 +51,7 @@
     "logo": "",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/3978.json",
+    "streamsFile": "streams/event_sport_2/3978.json",
     "isworking": 0
   },
   {
@@ -62,7 +62,7 @@
     "logo": "",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/3979.json",
+    "streamsFile": "streams/event_sport_2/3979.json",
     "isworking": 0
   }
 ]

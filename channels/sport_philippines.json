@@ -7,7 +7,7 @@
     "logo": "https://i.imgur.com/RcxNoIC.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4923.json",
+    "streamsFile": "streams/sport_philippines/4923.json",
     "isworking": 1
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://i.imgur.com/Z7oMGiI.png",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/4924.json",
+    "streamsFile": "streams/sport_philippines/4924.json",
     "isworking": 1
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://i.imgur.com/imI97L2.png",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/4925.json",
+    "streamsFile": "streams/sport_philippines/4925.json",
     "isworking": 1
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://i.imgur.com/RnDeKOj.png",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4926.json",
+    "streamsFile": "streams/sport_philippines/4926.json",
     "isworking": 0
   },
   {
@@ -51,7 +51,7 @@
     "logo": "https://i.imgur.com/POFK8tM.png",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/4927.json",
+    "streamsFile": "streams/sport_philippines/4927.json",
     "isworking": 1
   },
   {
@@ -62,7 +62,7 @@
     "logo": "https://i.imgur.com/HWbSPI9.png",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/4928.json",
+    "streamsFile": "streams/sport_philippines/4928.json",
     "isworking": 0
   },
   {
@@ -73,7 +73,7 @@
     "logo": "https://i.imgur.com/GTfUEnU.png",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/4929.json",
+    "streamsFile": "streams/sport_philippines/4929.json",
     "isworking": 1
   },
   {
@@ -84,7 +84,7 @@
     "logo": "https://i.imgur.com/OWVR172.png",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/4930.json",
+    "streamsFile": "streams/sport_philippines/4930.json",
     "isworking": 0
   },
   {
@@ -95,7 +95,7 @@
     "logo": "https://i.imgur.com/QExPfsT.png",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/4931.json",
+    "streamsFile": "streams/sport_philippines/4931.json",
     "isworking": 1
   },
   {
@@ -106,7 +106,7 @@
     "logo": "https://i.imgur.com/7mY1Zxg.png",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/4932.json",
+    "streamsFile": "streams/sport_philippines/4932.json",
     "isworking": 1
   }
 ]

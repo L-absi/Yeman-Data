@@ -7,7 +7,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/5209.json",
+    "streamsFile": "streams/français/5209.json",
     "isworking": 0
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/5210.json",
+    "streamsFile": "streams/français/5210.json",
     "isworking": 0
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/5211.json",
+    "streamsFile": "streams/français/5211.json",
     "isworking": 0
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/5212.json",
+    "streamsFile": "streams/français/5212.json",
     "isworking": 0
   },
   {
@@ -51,7 +51,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/5213.json",
+    "streamsFile": "streams/français/5213.json",
     "isworking": 0
   },
   {
@@ -62,7 +62,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/5214.json",
+    "streamsFile": "streams/français/5214.json",
     "isworking": 0
   },
   {
@@ -73,7 +73,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/5215.json",
+    "streamsFile": "streams/français/5215.json",
     "isworking": 0
   },
   {
@@ -84,7 +84,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/5216.json",
+    "streamsFile": "streams/français/5216.json",
     "isworking": 0
   },
   {
@@ -95,7 +95,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/5217.json",
+    "streamsFile": "streams/français/5217.json",
     "isworking": 0
   },
   {
@@ -106,7 +106,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/5218.json",
+    "streamsFile": "streams/français/5218.json",
     "isworking": 0
   },
   {
@@ -117,7 +117,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/5219.json",
+    "streamsFile": "streams/français/5219.json",
     "isworking": 0
   },
   {
@@ -128,7 +128,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/5220.json",
+    "streamsFile": "streams/français/5220.json",
     "isworking": 0
   },
   {
@@ -139,7 +139,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/5221.json",
+    "streamsFile": "streams/français/5221.json",
     "isworking": 0
   },
   {
@@ -150,7 +150,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/5222.json",
+    "streamsFile": "streams/français/5222.json",
     "isworking": 0
   },
   {
@@ -161,7 +161,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 15,
-    "streamsFile": "streams/5223.json",
+    "streamsFile": "streams/français/5223.json",
     "isworking": 0
   },
   {
@@ -172,7 +172,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 16,
-    "streamsFile": "streams/5224.json",
+    "streamsFile": "streams/français/5224.json",
     "isworking": 0
   },
   {
@@ -183,7 +183,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 17,
-    "streamsFile": "streams/5225.json",
+    "streamsFile": "streams/français/5225.json",
     "isworking": 0
   },
   {
@@ -194,7 +194,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 18,
-    "streamsFile": "streams/5226.json",
+    "streamsFile": "streams/français/5226.json",
     "isworking": 0
   },
   {
@@ -205,7 +205,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 19,
-    "streamsFile": "streams/5227.json",
+    "streamsFile": "streams/français/5227.json",
     "isworking": 0
   },
   {
@@ -216,7 +216,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 20,
-    "streamsFile": "streams/5228.json",
+    "streamsFile": "streams/français/5228.json",
     "isworking": 0
   },
   {
@@ -227,7 +227,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 21,
-    "streamsFile": "streams/5229.json",
+    "streamsFile": "streams/français/5229.json",
     "isworking": 0
   },
   {
@@ -238,7 +238,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 22,
-    "streamsFile": "streams/5230.json",
+    "streamsFile": "streams/français/5230.json",
     "isworking": 0
   },
   {
@@ -249,7 +249,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 23,
-    "streamsFile": "streams/5231.json",
+    "streamsFile": "streams/français/5231.json",
     "isworking": 0
   },
   {
@@ -260,7 +260,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 24,
-    "streamsFile": "streams/5232.json",
+    "streamsFile": "streams/français/5232.json",
     "isworking": 0
   },
   {
@@ -271,7 +271,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 25,
-    "streamsFile": "streams/5233.json",
+    "streamsFile": "streams/français/5233.json",
     "isworking": 0
   },
   {
@@ -282,7 +282,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 26,
-    "streamsFile": "streams/5234.json",
+    "streamsFile": "streams/français/5234.json",
     "isworking": 0
   },
   {
@@ -293,7 +293,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 27,
-    "streamsFile": "streams/5235.json",
+    "streamsFile": "streams/français/5235.json",
     "isworking": 0
   },
   {
@@ -304,7 +304,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 28,
-    "streamsFile": "streams/5236.json",
+    "streamsFile": "streams/français/5236.json",
     "isworking": 0
   },
   {
@@ -315,7 +315,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 29,
-    "streamsFile": "streams/5237.json",
+    "streamsFile": "streams/français/5237.json",
     "isworking": 0
   },
   {
@@ -326,7 +326,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 30,
-    "streamsFile": "streams/5238.json",
+    "streamsFile": "streams/français/5238.json",
     "isworking": 0
   },
   {
@@ -337,7 +337,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 31,
-    "streamsFile": "streams/5239.json",
+    "streamsFile": "streams/français/5239.json",
     "isworking": 0
   },
   {
@@ -348,7 +348,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 32,
-    "streamsFile": "streams/5240.json",
+    "streamsFile": "streams/français/5240.json",
     "isworking": 0
   },
   {
@@ -359,7 +359,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 33,
-    "streamsFile": "streams/5241.json",
+    "streamsFile": "streams/français/5241.json",
     "isworking": 0
   },
   {
@@ -370,7 +370,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 34,
-    "streamsFile": "streams/5242.json",
+    "streamsFile": "streams/français/5242.json",
     "isworking": 0
   },
   {
@@ -381,7 +381,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 35,
-    "streamsFile": "streams/5243.json",
+    "streamsFile": "streams/français/5243.json",
     "isworking": 0
   },
   {
@@ -392,7 +392,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 36,
-    "streamsFile": "streams/5244.json",
+    "streamsFile": "streams/français/5244.json",
     "isworking": 0
   },
   {
@@ -403,7 +403,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 37,
-    "streamsFile": "streams/5245.json",
+    "streamsFile": "streams/français/5245.json",
     "isworking": 0
   },
   {
@@ -414,7 +414,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 38,
-    "streamsFile": "streams/5246.json",
+    "streamsFile": "streams/français/5246.json",
     "isworking": 0
   },
   {
@@ -425,7 +425,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 39,
-    "streamsFile": "streams/5247.json",
+    "streamsFile": "streams/français/5247.json",
     "isworking": 0
   },
   {
@@ -436,7 +436,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 40,
-    "streamsFile": "streams/5248.json",
+    "streamsFile": "streams/français/5248.json",
     "isworking": 0
   },
   {
@@ -447,7 +447,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 41,
-    "streamsFile": "streams/5249.json",
+    "streamsFile": "streams/français/5249.json",
     "isworking": 0
   },
   {
@@ -458,7 +458,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 42,
-    "streamsFile": "streams/5250.json",
+    "streamsFile": "streams/français/5250.json",
     "isworking": 0
   },
   {
@@ -469,7 +469,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 43,
-    "streamsFile": "streams/5251.json",
+    "streamsFile": "streams/français/5251.json",
     "isworking": 0
   },
   {
@@ -480,7 +480,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 44,
-    "streamsFile": "streams/5252.json",
+    "streamsFile": "streams/français/5252.json",
     "isworking": 0
   },
   {
@@ -491,7 +491,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 45,
-    "streamsFile": "streams/5253.json",
+    "streamsFile": "streams/français/5253.json",
     "isworking": 0
   },
   {
@@ -502,7 +502,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 46,
-    "streamsFile": "streams/5254.json",
+    "streamsFile": "streams/français/5254.json",
     "isworking": 0
   },
   {
@@ -513,7 +513,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 47,
-    "streamsFile": "streams/5255.json",
+    "streamsFile": "streams/français/5255.json",
     "isworking": 0
   },
   {
@@ -524,7 +524,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 48,
-    "streamsFile": "streams/5256.json",
+    "streamsFile": "streams/français/5256.json",
     "isworking": 0
   },
   {
@@ -535,7 +535,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 49,
-    "streamsFile": "streams/5257.json",
+    "streamsFile": "streams/français/5257.json",
     "isworking": 0
   },
   {
@@ -546,7 +546,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 50,
-    "streamsFile": "streams/5258.json",
+    "streamsFile": "streams/français/5258.json",
     "isworking": 0
   },
   {
@@ -557,7 +557,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 51,
-    "streamsFile": "streams/5259.json",
+    "streamsFile": "streams/français/5259.json",
     "isworking": 0
   },
   {
@@ -568,7 +568,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 52,
-    "streamsFile": "streams/5260.json",
+    "streamsFile": "streams/français/5260.json",
     "isworking": 0
   },
   {
@@ -579,7 +579,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 53,
-    "streamsFile": "streams/5261.json",
+    "streamsFile": "streams/français/5261.json",
     "isworking": 0
   },
   {
@@ -590,7 +590,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 54,
-    "streamsFile": "streams/5262.json",
+    "streamsFile": "streams/français/5262.json",
     "isworking": 0
   },
   {
@@ -601,7 +601,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 55,
-    "streamsFile": "streams/5263.json",
+    "streamsFile": "streams/français/5263.json",
     "isworking": 0
   },
   {
@@ -612,7 +612,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 56,
-    "streamsFile": "streams/5264.json",
+    "streamsFile": "streams/français/5264.json",
     "isworking": 0
   },
   {
@@ -623,7 +623,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 57,
-    "streamsFile": "streams/5265.json",
+    "streamsFile": "streams/français/5265.json",
     "isworking": 0
   },
   {
@@ -634,7 +634,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 58,
-    "streamsFile": "streams/5266.json",
+    "streamsFile": "streams/français/5266.json",
     "isworking": 0
   },
   {
@@ -645,7 +645,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 59,
-    "streamsFile": "streams/5267.json",
+    "streamsFile": "streams/français/5267.json",
     "isworking": 0
   },
   {
@@ -656,7 +656,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 60,
-    "streamsFile": "streams/5268.json",
+    "streamsFile": "streams/français/5268.json",
     "isworking": 0
   },
   {
@@ -667,7 +667,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 61,
-    "streamsFile": "streams/5269.json",
+    "streamsFile": "streams/français/5269.json",
     "isworking": 0
   },
   {
@@ -678,7 +678,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 62,
-    "streamsFile": "streams/5270.json",
+    "streamsFile": "streams/français/5270.json",
     "isworking": 0
   },
   {
@@ -689,7 +689,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 63,
-    "streamsFile": "streams/5271.json",
+    "streamsFile": "streams/français/5271.json",
     "isworking": 0
   },
   {
@@ -700,7 +700,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 64,
-    "streamsFile": "streams/5272.json",
+    "streamsFile": "streams/français/5272.json",
     "isworking": 0
   },
   {
@@ -711,7 +711,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 65,
-    "streamsFile": "streams/5273.json",
+    "streamsFile": "streams/français/5273.json",
     "isworking": 0
   },
   {
@@ -722,7 +722,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 66,
-    "streamsFile": "streams/5274.json",
+    "streamsFile": "streams/français/5274.json",
     "isworking": 0
   },
   {
@@ -733,7 +733,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 67,
-    "streamsFile": "streams/5275.json",
+    "streamsFile": "streams/français/5275.json",
     "isworking": 0
   },
   {
@@ -744,7 +744,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 68,
-    "streamsFile": "streams/5276.json",
+    "streamsFile": "streams/français/5276.json",
     "isworking": 0
   },
   {
@@ -755,7 +755,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 69,
-    "streamsFile": "streams/5277.json",
+    "streamsFile": "streams/français/5277.json",
     "isworking": 0
   },
   {
@@ -766,7 +766,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 70,
-    "streamsFile": "streams/5278.json",
+    "streamsFile": "streams/français/5278.json",
     "isworking": 0
   },
   {
@@ -777,7 +777,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 71,
-    "streamsFile": "streams/5279.json",
+    "streamsFile": "streams/français/5279.json",
     "isworking": 0
   },
   {
@@ -788,7 +788,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 72,
-    "streamsFile": "streams/5280.json",
+    "streamsFile": "streams/français/5280.json",
     "isworking": 0
   },
   {
@@ -799,7 +799,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 73,
-    "streamsFile": "streams/5281.json",
+    "streamsFile": "streams/français/5281.json",
     "isworking": 0
   },
   {
@@ -810,7 +810,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 74,
-    "streamsFile": "streams/5282.json",
+    "streamsFile": "streams/français/5282.json",
     "isworking": 0
   },
   {
@@ -821,7 +821,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 75,
-    "streamsFile": "streams/5283.json",
+    "streamsFile": "streams/français/5283.json",
     "isworking": 0
   },
   {
@@ -832,7 +832,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 76,
-    "streamsFile": "streams/5284.json",
+    "streamsFile": "streams/français/5284.json",
     "isworking": 0
   },
   {
@@ -843,7 +843,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 77,
-    "streamsFile": "streams/5285.json",
+    "streamsFile": "streams/français/5285.json",
     "isworking": 0
   },
   {
@@ -854,7 +854,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 78,
-    "streamsFile": "streams/5286.json",
+    "streamsFile": "streams/français/5286.json",
     "isworking": 0
   },
   {
@@ -865,7 +865,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 79,
-    "streamsFile": "streams/5287.json",
+    "streamsFile": "streams/français/5287.json",
     "isworking": 0
   },
   {
@@ -876,7 +876,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 80,
-    "streamsFile": "streams/5288.json",
+    "streamsFile": "streams/français/5288.json",
     "isworking": 0
   },
   {
@@ -887,7 +887,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 81,
-    "streamsFile": "streams/5289.json",
+    "streamsFile": "streams/français/5289.json",
     "isworking": 0
   },
   {
@@ -898,7 +898,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 82,
-    "streamsFile": "streams/5290.json",
+    "streamsFile": "streams/français/5290.json",
     "isworking": 0
   },
   {
@@ -909,7 +909,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 83,
-    "streamsFile": "streams/5291.json",
+    "streamsFile": "streams/français/5291.json",
     "isworking": 0
   },
   {
@@ -920,7 +920,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 84,
-    "streamsFile": "streams/5292.json",
+    "streamsFile": "streams/français/5292.json",
     "isworking": 0
   },
   {
@@ -931,7 +931,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 85,
-    "streamsFile": "streams/5293.json",
+    "streamsFile": "streams/français/5293.json",
     "isworking": 0
   },
   {
@@ -942,7 +942,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 86,
-    "streamsFile": "streams/5294.json",
+    "streamsFile": "streams/français/5294.json",
     "isworking": 0
   },
   {
@@ -953,7 +953,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 87,
-    "streamsFile": "streams/5295.json",
+    "streamsFile": "streams/français/5295.json",
     "isworking": 0
   },
   {
@@ -964,7 +964,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 88,
-    "streamsFile": "streams/5296.json",
+    "streamsFile": "streams/français/5296.json",
     "isworking": 0
   },
   {
@@ -975,7 +975,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 89,
-    "streamsFile": "streams/5297.json",
+    "streamsFile": "streams/français/5297.json",
     "isworking": 0
   },
   {
@@ -986,7 +986,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 90,
-    "streamsFile": "streams/5298.json",
+    "streamsFile": "streams/français/5298.json",
     "isworking": 0
   },
   {
@@ -997,7 +997,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 91,
-    "streamsFile": "streams/5299.json",
+    "streamsFile": "streams/français/5299.json",
     "isworking": 0
   },
   {
@@ -1008,7 +1008,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 92,
-    "streamsFile": "streams/5300.json",
+    "streamsFile": "streams/français/5300.json",
     "isworking": 0
   },
   {
@@ -1019,7 +1019,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 93,
-    "streamsFile": "streams/5301.json",
+    "streamsFile": "streams/français/5301.json",
     "isworking": 0
   },
   {
@@ -1030,7 +1030,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 94,
-    "streamsFile": "streams/5302.json",
+    "streamsFile": "streams/français/5302.json",
     "isworking": 0
   },
   {
@@ -1041,7 +1041,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 95,
-    "streamsFile": "streams/5303.json",
+    "streamsFile": "streams/français/5303.json",
     "isworking": 0
   },
   {
@@ -1052,7 +1052,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 96,
-    "streamsFile": "streams/5304.json",
+    "streamsFile": "streams/français/5304.json",
     "isworking": 0
   },
   {
@@ -1063,7 +1063,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 97,
-    "streamsFile": "streams/5305.json",
+    "streamsFile": "streams/français/5305.json",
     "isworking": 0
   },
   {
@@ -1074,7 +1074,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 98,
-    "streamsFile": "streams/5306.json",
+    "streamsFile": "streams/français/5306.json",
     "isworking": 0
   }
 ]

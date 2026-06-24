@@ -8,7 +8,7 @@
     "logo": "https://i.imgur.com/d22GiY7.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/859.json",
+    "streamsFile": "streams/30/859.json",
     "isworking": 0
   },
   {
@@ -20,7 +20,7 @@
     "logo": "https://i.imgur.com/05Bcva1.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/860.json",
+    "streamsFile": "streams/30/860.json",
     "isworking": 0
   },
   {
@@ -32,7 +32,7 @@
     "logo": "https://i.imgur.com/2QIwkLh.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/861.json",
+    "streamsFile": "streams/30/861.json",
     "isworking": 0
   },
   {
@@ -44,7 +44,7 @@
     "logo": "https://i.imgur.com/hls6VcY.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/862.json",
+    "streamsFile": "streams/30/862.json",
     "isworking": 1
   },
   {
@@ -56,7 +56,7 @@
     "logo": "https://i.imgur.com/h0Yq3WT.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/863.json",
+    "streamsFile": "streams/30/863.json",
     "isworking": 1
   },
   {
@@ -68,7 +68,7 @@
     "logo": "https://i.imgur.com/N1I6RB0.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/864.json",
+    "streamsFile": "streams/30/864.json",
     "isworking": 0
   },
   {
@@ -80,7 +80,7 @@
     "logo": "https://i.imgur.com/xXOfjnp.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/866.json",
+    "streamsFile": "streams/30/866.json",
     "isworking": 0
   },
   {
@@ -92,7 +92,7 @@
     "logo": "https://www.yementdy.tv/logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1646.json",
+    "streamsFile": "streams/30/1646.json",
     "isworking": 0
   },
   {
@@ -104,7 +104,7 @@
     "logo": "https://www.lyngsat.com/logo/tv/aa/almahrah-tv-ye.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/919.json",
+    "streamsFile": "streams/30/919.json",
     "isworking": 0
   },
   {
@@ -116,7 +116,7 @@
     "logo": "https://i.imgur.com/4v8WiCP.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/920.json",
+    "streamsFile": "streams/30/920.json",
     "isworking": 0
   },
   {
@@ -128,7 +128,7 @@
     "logo": "https://i.imgur.com/EuXZkil.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/921.json",
+    "streamsFile": "streams/30/921.json",
     "isworking": 1
   },
   {
@@ -140,7 +140,7 @@
     "logo": "https://i.imgur.com/pzW9WSL.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/922.json",
+    "streamsFile": "streams/30/922.json",
     "isworking": 0
   },
   {
@@ -152,7 +152,7 @@
     "logo": "https://i.imgur.com/0OuIqMj.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/923.json",
+    "streamsFile": "streams/30/923.json",
     "isworking": 0
   }
 ]

@@ -7,7 +7,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/2538.json",
+    "streamsFile": "streams/tunisietv/2538.json",
     "isworking": 0
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/2539.json",
+    "streamsFile": "streams/tunisietv/2539.json",
     "isworking": 0
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/2540.json",
+    "streamsFile": "streams/tunisietv/2540.json",
     "isworking": 0
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/2541.json",
+    "streamsFile": "streams/tunisietv/2541.json",
     "isworking": 0
   },
   {
@@ -51,7 +51,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/2542.json",
+    "streamsFile": "streams/tunisietv/2542.json",
     "isworking": 0
   },
   {
@@ -62,7 +62,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/2543.json",
+    "streamsFile": "streams/tunisietv/2543.json",
     "isworking": 0
   },
   {
@@ -73,7 +73,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/2544.json",
+    "streamsFile": "streams/tunisietv/2544.json",
     "isworking": 0
   },
   {
@@ -84,7 +84,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/2545.json",
+    "streamsFile": "streams/tunisietv/2545.json",
     "isworking": 0
   },
   {
@@ -95,7 +95,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/2546.json",
+    "streamsFile": "streams/tunisietv/2546.json",
     "isworking": 0
   },
   {
@@ -106,7 +106,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/2547.json",
+    "streamsFile": "streams/tunisietv/2547.json",
     "isworking": 0
   },
   {
@@ -117,7 +117,7 @@
     "logo": "",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/2548.json",
+    "streamsFile": "streams/tunisietv/2548.json",
     "isworking": 0
   },
   {
@@ -128,7 +128,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/2549.json",
+    "streamsFile": "streams/tunisietv/2549.json",
     "isworking": 0
   },
   {
@@ -139,7 +139,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 15,
-    "streamsFile": "streams/2550.json",
+    "streamsFile": "streams/tunisietv/2550.json",
     "isworking": 0
   }
 ]

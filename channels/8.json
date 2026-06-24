@@ -8,7 +8,7 @@
     "logo": "https://assets.bein.com/mena/sites/3/2015/06/0000_Boomerang_tv_logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/60.json",
+    "streamsFile": "streams/8/60.json",
     "isworking": 0
   },
   {
@@ -20,7 +20,7 @@
     "logo": "https://assets.bein.com/mena/sites/3/2020/06/Jeem-HD-1-01.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/61.json",
+    "streamsFile": "streams/8/61.json",
     "isworking": 0
   },
   {
@@ -32,7 +32,7 @@
     "logo": "https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/Bara3em-1.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/62.json",
+    "streamsFile": "streams/8/62.json",
     "isworking": 0
   },
   {
@@ -44,7 +44,7 @@
     "logo": "https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/FATAFEAT-1.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/63.json",
+    "streamsFile": "streams/8/63.json",
     "isworking": 0
   },
   {
@@ -56,7 +56,7 @@
     "logo": "https://assets.bein.com/mena/sites/3/2015/06/DRAMA_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/64.json",
+    "streamsFile": "streams/8/64.json",
     "isworking": 0
   },
   {
@@ -68,7 +68,7 @@
     "logo": "https://assets.bein.com/mena/sites/3/2015/06/GOURMET_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/65.json",
+    "streamsFile": "streams/8/65.json",
     "isworking": 0
   },
   {
@@ -80,7 +80,7 @@
     "logo": "https://assets.bein.com/mena/sites/3/2015/06/SERIES1_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/66.json",
+    "streamsFile": "streams/8/66.json",
     "isworking": 0
   },
   {
@@ -92,7 +92,7 @@
     "logo": "https://assets.bein.com/mena/sites/3/2015/06/SERIES2_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/67.json",
+    "streamsFile": "streams/8/67.json",
     "isworking": 0
   },
   {
@@ -104,7 +104,7 @@
     "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/68.json",
+    "streamsFile": "streams/8/68.json",
     "isworking": 0
   },
   {
@@ -116,7 +116,7 @@
     "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/69.json",
+    "streamsFile": "streams/8/69.json",
     "isworking": 0
   },
   {
@@ -128,7 +128,7 @@
     "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/70.json",
+    "streamsFile": "streams/8/70.json",
     "isworking": 0
   },
   {
@@ -140,7 +140,7 @@
     "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/71.json",
+    "streamsFile": "streams/8/71.json",
     "isworking": 0
   },
   {
@@ -152,7 +152,7 @@
     "logo": "https://assets.bein.com/mena/sites/3/2015/06/BoxOffice1_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1420.json",
+    "streamsFile": "streams/8/1420.json",
     "isworking": 0
   }
 ]

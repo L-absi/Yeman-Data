@@ -7,7 +7,7 @@
     "logo": "https://i.imgur.com/32ZwaW0.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/5756.json",
+    "streamsFile": "streams/ksa_sport/5756.json",
     "isworking": 1
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://i.imgur.com/32ZwaW0.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/5757.json",
+    "streamsFile": "streams/ksa_sport/5757.json",
     "isworking": 1
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://i.imgur.com/32ZwaW0.png",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/5758.json",
+    "streamsFile": "streams/ksa_sport/5758.json",
     "isworking": 1
   }
 ]

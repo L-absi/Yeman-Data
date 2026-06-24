@@ -8,7 +8,7 @@
     "logo": "https://www.francetvpub.fr/wp-content/uploads/2018/01/france_2_logo_rvb_2_couleur_noir-crop-1-300x239.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/220.json",
+    "streamsFile": "streams/12/220.json",
     "isworking": 0
   },
   {
@@ -20,7 +20,7 @@
     "logo": "https://www.francetvpub.fr/wp-content/uploads/2018/01/france_3_logo_rvb_3_couleur_noir-crop-1-300x239.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/221.json",
+    "streamsFile": "streams/12/221.json",
     "isworking": 0
   },
   {
@@ -32,7 +32,7 @@
     "logo": "https://www.francetvpub.fr/wp-content/uploads/2018/01/france_4_logo_rvb_4_couleur_noir-crop-1-300x239.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/222.json",
+    "streamsFile": "streams/12/222.json",
     "isworking": 0
   },
   {
@@ -44,7 +44,7 @@
     "logo": "https://www.francetvpub.fr/wp-content/uploads/2018/01/france_5_logo_rvb_5_couleur_noir-crop-1-300x239.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/223.json",
+    "streamsFile": "streams/12/223.json",
     "isworking": 0
   },
   {
@@ -56,7 +56,7 @@
     "logo": "https://i.imgur.com/wbZEvwV.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/225.json",
+    "streamsFile": "streams/12/225.json",
     "isworking": 1
   },
   {
@@ -68,7 +68,7 @@
     "logo": "https://www.eurotopics.net/cache/images/6/148686-medium_logo-teaser300.jpg?B8CBC",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/232.json",
+    "streamsFile": "streams/12/232.json",
     "isworking": 0
   },
   {
@@ -80,7 +80,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/2560px-Logo_RMC_Sport_1_2018.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/226.json",
+    "streamsFile": "streams/12/226.json",
     "isworking": 0
   },
   {
@@ -92,7 +92,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/2560px-Logo_RMC_Sport_2_2018.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/227.json",
+    "streamsFile": "streams/12/227.json",
     "isworking": 0
   },
   {
@@ -104,7 +104,7 @@
     "logo": "https://i.imgur.com/VChW9T0.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/231.json",
+    "streamsFile": "streams/12/231.json",
     "isworking": 0
   },
   {
@@ -116,7 +116,7 @@
     "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120518/Eurosport-1-symbol.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/233.json",
+    "streamsFile": "streams/12/233.json",
     "isworking": 0
   },
   {
@@ -128,7 +128,7 @@
     "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/234.json",
+    "streamsFile": "streams/12/234.json",
     "isworking": 0
   },
   {
@@ -140,7 +140,7 @@
     "logo": "https://1.bp.blogspot.com/-bW7xOg7vH6s/XLaxxdalFxI/AAAAAAAAMYk/A6h5rS9XG44A2vj8iaE99mK0JLHZt-zpACLcBGAs/w0/download%2B%25281%2529.jpeg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1873.json",
+    "streamsFile": "streams/12/1873.json",
     "isworking": 1
   },
   {
@@ -152,7 +152,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1200px-Logo_TV5_Monde_-_2021.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1874.json",
+    "streamsFile": "streams/12/1874.json",
     "isworking": 0
   },
   {
@@ -164,7 +164,7 @@
     "logo": "https://i.imgur.com/pjsFXSQ.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/241.json",
+    "streamsFile": "streams/12/241.json",
     "isworking": 1
   },
   {
@@ -176,7 +176,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWoq8uhLsQ7Ljlj1fnyLxPKl-yS2HT4NghMWGg12k1GUc7mZG2YotVQ4r0XMsgifpJfDQ&usqp=CAU",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/242.json",
+    "streamsFile": "streams/12/242.json",
     "isworking": 1
   },
   {
@@ -188,7 +188,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/243.json",
+    "streamsFile": "streams/12/243.json",
     "isworking": 1
   },
   {
@@ -200,7 +200,7 @@
     "logo": "https://i.ibb.co/drk4BWw/tv5inf.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/244.json",
+    "streamsFile": "streams/12/244.json",
     "isworking": 1
   },
   {
@@ -212,7 +212,7 @@
     "logo": "https://i.imgur.com/xjGbYQi.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1040.json",
+    "streamsFile": "streams/12/1040.json",
     "isworking": 1
   },
   {
@@ -224,7 +224,7 @@
     "logo": "https://i.imgur.com/4fWH8g7.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1041.json",
+    "streamsFile": "streams/12/1041.json",
     "isworking": 1
   },
   {
@@ -236,7 +236,7 @@
     "logo": "https://i.imgur.com/QhAvgum.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1042.json",
+    "streamsFile": "streams/12/1042.json",
     "isworking": 1
   },
   {
@@ -248,7 +248,7 @@
     "logo": "https://i.imgur.com/bHNBylU.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1043.json",
+    "streamsFile": "streams/12/1043.json",
     "isworking": 0
   },
   {
@@ -260,7 +260,7 @@
     "logo": "https://www.tivi5mondeplus.com/sites/tivi5mondeplus.com/files/logo-ti5monde.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1852.json",
+    "streamsFile": "streams/12/1852.json",
     "isworking": 1
   },
   {
@@ -272,7 +272,7 @@
     "logo": "https://i.ibb.co/WPbxmgn/tv5style.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1853.json",
+    "streamsFile": "streams/12/1853.json",
     "isworking": 1
   },
   {
@@ -284,7 +284,7 @@
     "logo": "https://i.imgur.com/1lpHGSP.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/235.json",
+    "streamsFile": "streams/12/235.json",
     "isworking": 0
   },
   {
@@ -296,7 +296,7 @@
     "logo": "https://i.imgur.com/01CWUCT.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/236.json",
+    "streamsFile": "streams/12/236.json",
     "isworking": 0
   },
   {
@@ -308,7 +308,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/La_Cha%C3%AEne_Info_%28logo%29.svg/800px-La_Cha%C3%AEne_Info_%28logo%29.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/237.json",
+    "streamsFile": "streams/12/237.json",
     "isworking": 0
   },
   {
@@ -320,7 +320,7 @@
     "logo": "https://i.imgur.com/7eH9uT9.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/238.json",
+    "streamsFile": "streams/12/238.json",
     "isworking": 0
   },
   {
@@ -332,7 +332,7 @@
     "logo": "https://i.imgur.com/cCKQzji.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/239.json",
+    "streamsFile": "streams/12/239.json",
     "isworking": 0
   },
   {
@@ -344,7 +344,7 @@
     "logo": "https://i.imgur.com/Pq5E77e.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/495.json",
+    "streamsFile": "streams/12/495.json",
     "isworking": 0
   },
   {
@@ -356,7 +356,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Logo_BFM_Toulon_Var.svg/1200px-Logo_BFM_Toulon_Var.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1866.json",
+    "streamsFile": "streams/12/1866.json",
     "isworking": 1
   },
   {
@@ -368,7 +368,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Logo_BFM_Normandie.svg/1200px-Logo_BFM_Normandie.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1868.json",
+    "streamsFile": "streams/12/1868.json",
     "isworking": 1
   },
   {
@@ -380,7 +380,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_BFM_Nice_C%C3%B4te_d_Azur.svg/640px-Logo_BFM_Nice_C%C3%B4te_d_Azur.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1869.json",
+    "streamsFile": "streams/12/1869.json",
     "isworking": 1
   },
   {
@@ -392,7 +392,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_BFM_Marseille_Provence.svg/1200px-Logo_BFM_Marseille_Provence.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1870.json",
+    "streamsFile": "streams/12/1870.json",
     "isworking": 1
   },
   {
@@ -404,7 +404,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/BFM-DICI_Haute-Provence.png/800px-BFM-DICI_Haute-Provence.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1871.json",
+    "streamsFile": "streams/12/1871.json",
     "isworking": 1
   },
   {
@@ -416,7 +416,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BFM-DICI_Alpes_du_Sud.png/2048px-BFM-DICI_Alpes_du_Sud.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1872.json",
+    "streamsFile": "streams/12/1872.json",
     "isworking": 1
   },
   {
@@ -428,7 +428,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_BFMTV_2019.svg/800px-Logo_BFMTV_2019.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1670.json",
+    "streamsFile": "streams/12/1670.json",
     "isworking": 1
   },
   {
@@ -440,7 +440,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Logo_BFM_Alsace.svg/langfr-800px-Logo_BFM_Alsace.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1671.json",
+    "streamsFile": "streams/12/1671.json",
     "isworking": 1
   },
   {
@@ -452,7 +452,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_BFM_Lyon.svg/langfr-150px-Logo_BFM_Lyon.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1672.json",
+    "streamsFile": "streams/12/1672.json",
     "isworking": 1
   },
   {
@@ -464,7 +464,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_BFM_Business_2020.svg/600px-Logo_BFM_Business_2020.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1673.json",
+    "streamsFile": "streams/12/1673.json",
     "isworking": 1
   },
   {
@@ -476,7 +476,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_BFM_Grand_Lille.svg/langfr-800px-Logo_BFM_Grand_Lille.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/245.json",
+    "streamsFile": "streams/12/245.json",
     "isworking": 1
   },
   {
@@ -488,7 +488,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Logo_BFM_Grand_Littoral.svg/1200px-Logo_BFM_Grand_Littoral.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/246.json",
+    "streamsFile": "streams/12/246.json",
     "isworking": 1
   },
   {
@@ -500,7 +500,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Logo_BFM_Paris_2022.svg/langfr-800px-Logo_BFM_Paris_2022.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/247.json",
+    "streamsFile": "streams/12/247.json",
     "isworking": 0
   },
   {
@@ -512,7 +512,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Tech_%26_Co.svg/768px-Tech_%26_Co.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1855.json",
+    "streamsFile": "streams/12/1855.json",
     "isworking": 1
   },
   {
@@ -524,7 +524,7 @@
     "logo": "https://i.imgur.com/P92AHnO.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/257.json",
+    "streamsFile": "streams/12/257.json",
     "isworking": 0
   },
   {
@@ -536,7 +536,7 @@
     "logo": "https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_294.PNG",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/248.json",
+    "streamsFile": "streams/12/248.json",
     "isworking": 0
   },
   {
@@ -548,7 +548,7 @@
     "logo": "https://i.imgur.com/VSS3lnq.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/249.json",
+    "streamsFile": "streams/12/249.json",
     "isworking": 1
   },
   {
@@ -560,7 +560,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/1200px-NRJ_Hits_2017.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/250.json",
+    "streamsFile": "streams/12/250.json",
     "isworking": 0
   },
   {
@@ -572,7 +572,7 @@
     "logo": "https://i.imgur.com/EilhGu3.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/251.json",
+    "streamsFile": "streams/12/251.json",
     "isworking": 0
   },
   {
@@ -584,7 +584,7 @@
     "logo": "https://i.imgur.com/gNnFfjR.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/252.json",
+    "streamsFile": "streams/12/252.json",
     "isworking": 0
   },
   {
@@ -596,7 +596,7 @@
     "logo": "https://i.imgur.com/kGcOLgq.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/253.json",
+    "streamsFile": "streams/12/253.json",
     "isworking": 0
   },
   {
@@ -608,7 +608,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Logo_13e_Rue_%282017%29.svg/1200px-Logo_13e_Rue_%282017%29.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/254.json",
+    "streamsFile": "streams/12/254.json",
     "isworking": 0
   },
   {
@@ -620,7 +620,7 @@
     "logo": "https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_396.PNG",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/256.json",
+    "streamsFile": "streams/12/256.json",
     "isworking": 0
   },
   {
@@ -632,7 +632,7 @@
     "logo": "https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_322.PNG",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/255.json",
+    "streamsFile": "streams/12/255.json",
     "isworking": 0
   },
   {
@@ -644,7 +644,7 @@
     "logo": "https://i.imgur.com/c7sEUYE.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/258.json",
+    "streamsFile": "streams/12/258.json",
     "isworking": 0
   },
   {
@@ -656,7 +656,7 @@
     "logo": "https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_177.PNG",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/259.json",
+    "streamsFile": "streams/12/259.json",
     "isworking": 0
   },
   {
@@ -668,7 +668,7 @@
     "logo": "https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_198.PNG",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/260.json",
+    "streamsFile": "streams/12/260.json",
     "isworking": 0
   },
   {
@@ -680,7 +680,7 @@
     "logo": "https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_257.PNG",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/261.json",
+    "streamsFile": "streams/12/261.json",
     "isworking": 0
   },
   {
@@ -692,7 +692,7 @@
     "logo": "https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/220X165/CHN43FB_259.PNG",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/262.json",
+    "streamsFile": "streams/12/262.json",
     "isworking": 0
   },
   {
@@ -704,7 +704,7 @@
     "logo": "https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/213X160/CHN43FB_481.PNG",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/263.json",
+    "streamsFile": "streams/12/263.json",
     "isworking": 0
   },
   {
@@ -716,7 +716,7 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEF64-3MIZZPB4_wluIL-3eqYCtQhymzYnSvGku4ksiMY7-yc-PEN4dsLN0yVWyoUSwubdMfBXcH5W9RGOryFgRQch8U1T3r9TJZrzTxgdJfnN7VpXe5omfioVW7cQqWhqvAk0BfsUB8R2FufkIByinX70mbrYCeLVI8XWB1ezY4jQO-d1ZPStAGev/s1600/canal_play_1.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/265.json",
+    "streamsFile": "streams/12/265.json",
     "isworking": 0
   },
   {
@@ -728,7 +728,7 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsVo4FmCTijXss_4MtG75kX7ut1RnTd7xU7w_jneIkivHnJrqIDRphvH0UEqwg4RyE-unl0Bucye3t5A8yp_bMQbXkfUwaRYCo8xSSxVz6wUQWL9W4cdZOD_xNcNrAcCsPp_BhMt_hF-gn2tReR87FGp_L6wWe3WE1YZfyHMFWqv7WY4p8pbQit_PB/s1600/canal_play_2.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/266.json",
+    "streamsFile": "streams/12/266.json",
     "isworking": 0
   },
   {
@@ -740,7 +740,7 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmOjdEyhOmgF4ggEihuLISwkM1kMFg6npotj_KGsDcclsjLclVAqT3cXXDF3udUJIS3rEi73VIHfNOO66Og3Jf6UPpeTsBUZKHvH1e0A_4jGpza0Ep0dPov-PUcwYcdxHpPHnmMZ1xD2S2U7HbtuVMpgFyKo56etoosjknSFDCyUigHAyGLZmWeNLH/s1600/canal_play_3.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/267.json",
+    "streamsFile": "streams/12/267.json",
     "isworking": 0
   },
   {
@@ -752,7 +752,7 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPBBU3sKd705_pW31e11bvB-wn8qAYUfzLM4gy8Y6vnQ-euyrRouRHi-wjwy8cas4IxrV0OILOUK-9EKqDicZsXNlVVqP7ieu8fhu4iSG0mPQzLIZE7yUqxWPaONe6KWPlsbtnjLnUnWI0ubelUYSVPLoNBPwEHTiO9RvoRywiUemi-73ER14RcwY5/s1600/canal_play_4.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/268.json",
+    "streamsFile": "streams/12/268.json",
     "isworking": 0
   },
   {
@@ -764,7 +764,7 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipMSCOTEeEoqfQE4P_csXPC67vhkjkHSGKu_kMgNksfX5seQXgs26Mb43Ala4wkoLFLxj_6aT_ojWWI3Epe_aj6o0A_Az8sQrBZrUupTqK8Bbspw22WwgEcyyUcLyoWrF-TbSrO_d1pizS1X4MmDsd9H97O6gYTkM7Wed4-e8VJm4GY_kTwEwXSn7g/s1600/canal_play_5.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/269.json",
+    "streamsFile": "streams/12/269.json",
     "isworking": 0
   },
   {
@@ -776,7 +776,7 @@
     "logo": "https://i.imgur.com/RpyXijh.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/286.json",
+    "streamsFile": "streams/12/286.json",
     "isworking": 0
   },
   {
@@ -788,7 +788,7 @@
     "logo": "https://i.imgur.com/P29gzN9.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/287.json",
+    "streamsFile": "streams/12/287.json",
     "isworking": 0
   },
   {
@@ -800,7 +800,7 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRmf3dMvlhE_88uK8hIX56MZB-Bcwd9y2ZrQRSD9ey5tdTKJ0CkE5QdLuEl42mVwnIJkKQ78WMEpnu8ZL5xrTBhmmSBZsWsRw60PlECaS97RFJmFwSp2pp9NeISOrwzExC8BYpsksRnzBSzcYSS5qO6coKvQB3rZ3G92svpaFgo9dquCr5168UCX5n/s320/nat_geo_wild.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/288.json",
+    "streamsFile": "streams/12/288.json",
     "isworking": 0
   },
   {
@@ -812,7 +812,7 @@
     "logo": "https://i.ibb.co/hcPj99k/fgro.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/411.json",
+    "streamsFile": "streams/12/411.json",
     "isworking": 1
   },
   {
@@ -824,7 +824,7 @@
     "logo": "https://yt3.ggpht.com/ytc/AAUvwngiNGUX760PCt5cs_chvGXbZ1FI8ILtk4bbWA0w=s900-c-k-c0x00ffffff-no-rj",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/439.json",
+    "streamsFile": "streams/12/439.json",
     "isworking": 1
   },
   {
@@ -836,7 +836,7 @@
     "logo": "https://i.ibb.co/hcPj99k/fgro.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/443.json",
+    "streamsFile": "streams/12/443.json",
     "isworking": 0
   },
   {
@@ -848,7 +848,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Canal_J_Logo_2019.svg/1200px-Canal_J_Logo_2019.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/444.json",
+    "streamsFile": "streams/12/444.json",
     "isworking": 0
   },
   {
@@ -860,7 +860,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Gulli_2017_nouveau_logo.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/450.json",
+    "streamsFile": "streams/12/450.json",
     "isworking": 0
   },
   {
@@ -872,7 +872,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/451.json",
+    "streamsFile": "streams/12/451.json",
     "isworking": 0
   },
   {
@@ -884,7 +884,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/280px-Boomerang_2014_logo.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/452.json",
+    "streamsFile": "streams/12/452.json",
     "isworking": 0
   },
   {
@@ -896,7 +896,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQmGQIsgzsWTdPvHjHB5E2VLM_DVoYqx83pt3aww-l&s",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/453.json",
+    "streamsFile": "streams/12/453.json",
     "isworking": 0
   },
   {
@@ -908,7 +908,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/454.json",
+    "streamsFile": "streams/12/454.json",
     "isworking": 0
   },
   {
@@ -920,7 +920,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Nickelodeon_logo_2009.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/455.json",
+    "streamsFile": "streams/12/455.json",
     "isworking": 0
   },
   {
@@ -932,7 +932,7 @@
     "logo": "https://i.imgur.com/xpPToLh.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/456.json",
+    "streamsFile": "streams/12/456.json",
     "isworking": 0
   },
   {
@@ -944,7 +944,7 @@
     "logo": "https://i.imgur.com/D3sP87Y.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/457.json",
+    "streamsFile": "streams/12/457.json",
     "isworking": 0
   },
   {
@@ -956,7 +956,7 @@
     "logo": "https://mr.comingsoon.it/imgdb/guidatv/loghi-225px/28.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/458.json",
+    "streamsFile": "streams/12/458.json",
     "isworking": 0
   },
   {
@@ -968,7 +968,7 @@
     "logo": "https://i1.wp.com/www.millereponses.com/wp-content/uploads/2018/11/chaine-nord-africaine-frequence-nilesat.jpg?ssl=1",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/461.json",
+    "streamsFile": "streams/12/461.json",
     "isworking": 1
   },
   {
@@ -980,7 +980,7 @@
     "logo": "https://televisiontma.pagesperso-orange.fr/Images/Logo-TMA-pour-annonceurs.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/466.json",
+    "streamsFile": "streams/12/466.json",
     "isworking": 0
   },
   {
@@ -992,7 +992,7 @@
     "logo": "https://static-media.streema.com/media/cache/27/8d/278de32dd4ce0fa74159dd692ddd9d03.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/467.json",
+    "streamsFile": "streams/12/467.json",
     "isworking": 0
   },
   {
@@ -1004,7 +1004,7 @@
     "logo": "http://www.fig.saint-die-des-vosges.fr/images/LOGOS2020/logo-77.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/473.json",
+    "streamsFile": "streams/12/473.json",
     "isworking": 1
   },
   {
@@ -1016,7 +1016,7 @@
     "logo": "https://cdn.woopic.com/v1/AUTH_9ffb653181284b0abe5e45d7014095b2/boutique-tv/viamatele_fdblc_1440@1x_601183634d12370bc603dd80.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/474.json",
+    "streamsFile": "streams/12/474.json",
     "isworking": 1
   },
   {
@@ -1028,7 +1028,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8SuR64bNHLwm9HmQs5jFj5TzX0qEQdTHkfRZdYGLEpIcaOXWHNpuuipdroeKZALc_-H8&usqp=CAU",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/475.json",
+    "streamsFile": "streams/12/475.json",
     "isworking": 0
   },
   {
@@ -1040,7 +1040,7 @@
     "logo": "https://i.imgur.com/05RMwlR.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/477.json",
+    "streamsFile": "streams/12/477.json",
     "isworking": 1
   },
   {
@@ -1052,7 +1052,7 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d2/57/41/d2574198-6a59-4888-646c-4350dd90b61a/source/512x512bb.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/478.json",
+    "streamsFile": "streams/12/478.json",
     "isworking": 1
   },
   {
@@ -1064,7 +1064,7 @@
     "logo": "https://compagnieaffable.files.wordpress.com/2018/06/logo-tv78.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/479.json",
+    "streamsFile": "streams/12/479.json",
     "isworking": 0
   },
   {
@@ -1076,7 +1076,7 @@
     "logo": "https://www.tvr.bzh/favicon-1024.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/480.json",
+    "streamsFile": "streams/12/480.json",
     "isworking": 0
   },
   {
@@ -1088,7 +1088,7 @@
     "logo": "https://www.tv-direct.fr/assets/logo/chaines/tebesud.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/481.json",
+    "streamsFile": "streams/12/481.json",
     "isworking": 0
   },
   {
@@ -1100,7 +1100,7 @@
     "logo": "https://www.tv-direct.fr/assets/logo/chaines/tebeo.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/482.json",
+    "streamsFile": "streams/12/482.json",
     "isworking": 0
   },
   {
@@ -1112,7 +1112,7 @@
     "logo": "https://i.ibb.co/h8hQnT2/1-min-2.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/483.json",
+    "streamsFile": "streams/12/483.json",
     "isworking": 0
   },
   {
@@ -1124,7 +1124,7 @@
     "logo": "https://i.imgur.com/AdABdib.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/484.json",
+    "streamsFile": "streams/12/484.json",
     "isworking": 0
   },
   {
@@ -1136,7 +1136,7 @@
     "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQF3jF-iJ69m0A/company-logo_200_200/0/1554976939414?e=2159024400&v=beta&t=wJEpFbpbu9yOdnQtLM8a-BTCTnSVL1IIrzFaB1p6p3A",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/485.json",
+    "streamsFile": "streams/12/485.json",
     "isworking": 1
   },
   {
@@ -1148,7 +1148,7 @@
     "logo": "https://vipotv.com/wp-content/uploads/2019/05/Francophonie-tv.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/490.json",
+    "streamsFile": "streams/12/490.json",
     "isworking": 0
   },
   {
@@ -1160,7 +1160,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Bip_TV_logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/492.json",
+    "streamsFile": "streams/12/492.json",
     "isworking": 0
   },
   {
@@ -1172,7 +1172,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LN24_-_Logo.png/1200px-LN24_-_Logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/493.json",
+    "streamsFile": "streams/12/493.json",
     "isworking": 0
   },
   {
@@ -1184,7 +1184,7 @@
     "logo": "https://i.imgur.com/U4vmcU5.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/494.json",
+    "streamsFile": "streams/12/494.json",
     "isworking": 0
   },
   {
@@ -1196,7 +1196,7 @@
     "logo": "https://i.imgur.com/2OeD43w.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1039.json",
+    "streamsFile": "streams/12/1039.json",
     "isworking": 0
   },
   {
@@ -1208,7 +1208,7 @@
     "logo": "https://rsc.idf1.fr/img/logo-l2.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1814.json",
+    "streamsFile": "streams/12/1814.json",
     "isworking": 1
   },
   {
@@ -1220,7 +1220,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/M6_International_logo.svg/1200px-M6_International_logo.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1850.json",
+    "streamsFile": "streams/12/1850.json",
     "isworking": 0
   },
   {
@@ -1232,7 +1232,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/1200px-Ch%C3%A9rie_25_logo_2015.svg.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1851.json",
+    "streamsFile": "streams/12/1851.json",
     "isworking": 1
   },
   {
@@ -1244,7 +1244,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1854.json",
+    "streamsFile": "streams/12/1854.json",
     "isworking": 0
   },
   {
@@ -1256,7 +1256,7 @@
     "logo": "https://i.ibb.co/grBSqt4/novela.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1856.json",
+    "streamsFile": "streams/12/1856.json",
     "isworking": 0
   },
   {
@@ -1268,7 +1268,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/0/00/Wild_Side_Films_Logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1857.json",
+    "streamsFile": "streams/12/1857.json",
     "isworking": 0
   },
   {
@@ -1280,7 +1280,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/4/4f/Logo_de_KTO_T%C3%A9l%C3%A9vision_catholique_2022.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1858.json",
+    "streamsFile": "streams/12/1858.json",
     "isworking": 0
   },
   {
@@ -1292,7 +1292,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Logomuseumtv.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1859.json",
+    "streamsFile": "streams/12/1859.json",
     "isworking": 0
   },
   {
@@ -1304,7 +1304,7 @@
     "logo": "https://i.ibb.co/ByN83p3/funradtv.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1860.json",
+    "streamsFile": "streams/12/1860.json",
     "isworking": 1
   },
   {
@@ -1316,7 +1316,7 @@
     "logo": "https://static.wikia.nocookie.net/logopedia/images/c/cd/GENERATIONS_TV_2018.png/revision/latest?cb=20191026203902",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1861.json",
+    "streamsFile": "streams/12/1861.json",
     "isworking": 1
   },
   {
@@ -1328,7 +1328,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Melody_logo_2013.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1862.json",
+    "streamsFile": "streams/12/1862.json",
     "isworking": 0
   },
   {
@@ -1340,7 +1340,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/9/9a/Traceurban2022.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1863.json",
+    "streamsFile": "streams/12/1863.json",
     "isworking": 1
   },
   {
@@ -1352,7 +1352,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/4/4d/Tracesportstars2022.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1864.json",
+    "streamsFile": "streams/12/1864.json",
     "isworking": 1
   },
   {
@@ -1364,7 +1364,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/8/83/Sport_en_France_Logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1865.json",
+    "streamsFile": "streams/12/1865.json",
     "isworking": 0
   }
 ]

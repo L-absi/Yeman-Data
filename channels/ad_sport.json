@@ -7,7 +7,7 @@
     "logo": "https://www.zarkachat.com/wp-content/uploads/2020/12/sport-abuzabi-channel.jpg",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/5715.json",
+    "streamsFile": "streams/ad_sport/5715.json",
     "isworking": 0
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://www.zarkachat.com/wp-content/uploads/2020/12/sport-abuzabi-channel.jpg",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/5716.json",
+    "streamsFile": "streams/ad_sport/5716.json",
     "isworking": 0
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmhvgvGAGuO-Pq4pyrpDStvUgN_NHJ87LohAEocH28w&s=10",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/5717.json",
+    "streamsFile": "streams/ad_sport/5717.json",
     "isworking": 0
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmhvgvGAGuO-Pq4pyrpDStvUgN_NHJ87LohAEocH28w&s=10",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/5718.json",
+    "streamsFile": "streams/ad_sport/5718.json",
     "isworking": 0
   }
 ]

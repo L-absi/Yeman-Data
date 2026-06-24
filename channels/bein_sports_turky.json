@@ -7,7 +7,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/3923.json",
+    "streamsFile": "streams/bein_sports_turky/3923.json",
     "isworking": 0
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/3924.json",
+    "streamsFile": "streams/bein_sports_turky/3924.json",
     "isworking": 0
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/3925.json",
+    "streamsFile": "streams/bein_sports_turky/3925.json",
     "isworking": 0
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/3926.json",
+    "streamsFile": "streams/bein_sports_turky/3926.json",
     "isworking": 0
   },
   {
@@ -51,7 +51,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/3927.json",
+    "streamsFile": "streams/bein_sports_turky/3927.json",
     "isworking": 0
   },
   {
@@ -62,7 +62,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/3928.json",
+    "streamsFile": "streams/bein_sports_turky/3928.json",
     "isworking": 0
   },
   {
@@ -73,7 +73,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/3929.json",
+    "streamsFile": "streams/bein_sports_turky/3929.json",
     "isworking": 0
   }
 ]

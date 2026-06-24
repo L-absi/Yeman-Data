@@ -7,7 +7,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkTnJ-Mxs9DWW458rBRPWdjMY8_Svg7W0HZg&s",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/4001.json",
+    "streamsFile": "streams/ligue1_sport/4001.json",
     "isworking": 1
   },
   {
@@ -18,7 +18,7 @@
     "logo": "",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/4002.json",
+    "streamsFile": "streams/ligue1_sport/4002.json",
     "isworking": 0
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkTnJ-Mxs9DWW458rBRPWdjMY8_Svg7W0HZg&s",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4003.json",
+    "streamsFile": "streams/ligue1_sport/4003.json",
     "isworking": 0
   },
   {
@@ -40,7 +40,7 @@
     "logo": "",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/4004.json",
+    "streamsFile": "streams/ligue1_sport/4004.json",
     "isworking": 0
   },
   {
@@ -51,7 +51,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkTnJ-Mxs9DWW458rBRPWdjMY8_Svg7W0HZg&s",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/4005.json",
+    "streamsFile": "streams/ligue1_sport/4005.json",
     "isworking": 0
   }
 ]

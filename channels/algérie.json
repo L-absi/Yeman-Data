@@ -7,7 +7,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/2014.json",
+    "streamsFile": "streams/algérie/2014.json",
     "isworking": 0
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/2015.json",
+    "streamsFile": "streams/algérie/2015.json",
     "isworking": 1
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/2016.json",
+    "streamsFile": "streams/algérie/2016.json",
     "isworking": 0
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/2017.json",
+    "streamsFile": "streams/algérie/2017.json",
     "isworking": 0
   },
   {
@@ -51,7 +51,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/2018.json",
+    "streamsFile": "streams/algérie/2018.json",
     "isworking": 0
   },
   {
@@ -62,7 +62,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/2019.json",
+    "streamsFile": "streams/algérie/2019.json",
     "isworking": 1
   },
   {
@@ -73,7 +73,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/2020.json",
+    "streamsFile": "streams/algérie/2020.json",
     "isworking": 0
   },
   {
@@ -84,7 +84,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/2021.json",
+    "streamsFile": "streams/algérie/2021.json",
     "isworking": 0
   },
   {
@@ -95,7 +95,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/2022.json",
+    "streamsFile": "streams/algérie/2022.json",
     "isworking": 0
   },
   {
@@ -106,7 +106,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/2023.json",
+    "streamsFile": "streams/algérie/2023.json",
     "isworking": 0
   },
   {
@@ -117,7 +117,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/2024.json",
+    "streamsFile": "streams/algérie/2024.json",
     "isworking": 0
   },
   {
@@ -128,7 +128,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/2025.json",
+    "streamsFile": "streams/algérie/2025.json",
     "isworking": 0
   },
   {
@@ -139,7 +139,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/2026.json",
+    "streamsFile": "streams/algérie/2026.json",
     "isworking": 0
   },
   {
@@ -150,7 +150,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/2027.json",
+    "streamsFile": "streams/algérie/2027.json",
     "isworking": 0
   },
   {
@@ -161,7 +161,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 15,
-    "streamsFile": "streams/2028.json",
+    "streamsFile": "streams/algérie/2028.json",
     "isworking": 0
   },
   {
@@ -172,7 +172,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 16,
-    "streamsFile": "streams/2029.json",
+    "streamsFile": "streams/algérie/2029.json",
     "isworking": 0
   },
   {
@@ -183,7 +183,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 17,
-    "streamsFile": "streams/2030.json",
+    "streamsFile": "streams/algérie/2030.json",
     "isworking": 0
   },
   {
@@ -194,7 +194,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 18,
-    "streamsFile": "streams/2031.json",
+    "streamsFile": "streams/algérie/2031.json",
     "isworking": 0
   },
   {
@@ -205,7 +205,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 19,
-    "streamsFile": "streams/2032.json",
+    "streamsFile": "streams/algérie/2032.json",
     "isworking": 0
   },
   {
@@ -216,7 +216,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 20,
-    "streamsFile": "streams/2033.json",
+    "streamsFile": "streams/algérie/2033.json",
     "isworking": 0
   },
   {
@@ -227,7 +227,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 21,
-    "streamsFile": "streams/2034.json",
+    "streamsFile": "streams/algérie/2034.json",
     "isworking": 0
   },
   {
@@ -238,7 +238,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 22,
-    "streamsFile": "streams/2035.json",
+    "streamsFile": "streams/algérie/2035.json",
     "isworking": 0
   },
   {
@@ -249,7 +249,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 23,
-    "streamsFile": "streams/2036.json",
+    "streamsFile": "streams/algérie/2036.json",
     "isworking": 0
   },
   {
@@ -260,7 +260,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 24,
-    "streamsFile": "streams/2037.json",
+    "streamsFile": "streams/algérie/2037.json",
     "isworking": 0
   },
   {
@@ -271,7 +271,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 25,
-    "streamsFile": "streams/2038.json",
+    "streamsFile": "streams/algérie/2038.json",
     "isworking": 0
   },
   {
@@ -282,7 +282,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 26,
-    "streamsFile": "streams/2039.json",
+    "streamsFile": "streams/algérie/2039.json",
     "isworking": 0
   },
   {
@@ -293,7 +293,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 27,
-    "streamsFile": "streams/2040.json",
+    "streamsFile": "streams/algérie/2040.json",
     "isworking": 0
   },
   {
@@ -304,7 +304,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 28,
-    "streamsFile": "streams/2041.json",
+    "streamsFile": "streams/algérie/2041.json",
     "isworking": 0
   }
 ]

@@ -7,7 +7,7 @@
     "logo": "",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/4078.json",
+    "streamsFile": "streams/wwe_box/4078.json",
     "isworking": 1
   },
   {
@@ -18,7 +18,7 @@
     "logo": "",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4079.json",
+    "streamsFile": "streams/wwe_box/4079.json",
     "isworking": 0
   },
   {
@@ -29,7 +29,7 @@
     "logo": "",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/4080.json",
+    "streamsFile": "streams/wwe_box/4080.json",
     "isworking": 0
   }
 ]

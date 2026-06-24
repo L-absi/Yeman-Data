@@ -8,7 +8,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1575.json"
+    "streamsFile": "streams/86/1575.json"
   },
   {
     "id": 1397,
@@ -19,7 +19,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1397.json",
+    "streamsFile": "streams/86/1397.json",
     "isworking": 1
   },
   {
@@ -31,7 +31,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1398.json"
+    "streamsFile": "streams/86/1398.json"
   },
   {
     "id": 1399,
@@ -42,7 +42,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1399.json"
+    "streamsFile": "streams/86/1399.json"
   },
   {
     "id": 1400,
@@ -53,7 +53,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1400.json"
+    "streamsFile": "streams/86/1400.json"
   },
   {
     "id": 1401,
@@ -64,7 +64,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1401.json"
+    "streamsFile": "streams/86/1401.json"
   },
   {
     "id": 1402,
@@ -75,7 +75,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1402.json"
+    "streamsFile": "streams/86/1402.json"
   },
   {
     "id": 1403,
@@ -86,7 +86,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1403.json"
+    "streamsFile": "streams/86/1403.json"
   },
   {
     "id": 1793,
@@ -97,6 +97,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1793.json"
+    "streamsFile": "streams/86/1793.json"
   }
 ]

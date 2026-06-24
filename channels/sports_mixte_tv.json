@@ -7,7 +7,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIwt32Lgt-1tADVqSjLH9I_1FqubShM9Cxc3ndOh9bQQ&s=10",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4939.json",
+    "streamsFile": "streams/sports_mixte_tv/4939.json",
     "isworking": 0
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://i.imgur.com/VMx7Xxl.png",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4940.json",
+    "streamsFile": "streams/sports_mixte_tv/4940.json",
     "isworking": 0
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwN9Vm7QbzI3lCck5ACB42W_1aItc5uAd7TbeA0XTYHA&s=10",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4941.json",
+    "streamsFile": "streams/sports_mixte_tv/4941.json",
     "isworking": 0
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/4942.json",
+    "streamsFile": "streams/sports_mixte_tv/4942.json",
     "isworking": 0
   },
   {
@@ -51,7 +51,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiKeEeKG5zBcQU1zU-xLvPhsp5v-dpadgh3bGSQgPT4g&s=10",
     "type": "channel",
     "position": 22,
-    "streamsFile": "streams/4943.json",
+    "streamsFile": "streams/sports_mixte_tv/4943.json",
     "isworking": 1
   }
 ]

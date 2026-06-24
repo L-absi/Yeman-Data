@@ -7,7 +7,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/4834.json",
+    "streamsFile": "streams/nova_sport/4834.json",
     "isworking": 0
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/4835.json",
+    "streamsFile": "streams/nova_sport/4835.json",
     "isworking": 0
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNm9NZOkus41mAMNclFTluy7L2OU19O3nPzaqdCgbtxw&s=10",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/4836.json",
+    "streamsFile": "streams/nova_sport/4836.json",
     "isworking": 1
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/4837.json",
+    "streamsFile": "streams/nova_sport/4837.json",
     "isworking": 0
   },
   {
@@ -51,7 +51,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNm9NZOkus41mAMNclFTluy7L2OU19O3nPzaqdCgbtxw&s=10",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/4838.json",
+    "streamsFile": "streams/nova_sport/4838.json",
     "isworking": 1
   }
 ]

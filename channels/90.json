@@ -8,7 +8,7 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1471.json",
+    "streamsFile": "streams/90/1471.json",
     "isworking": 1
   },
   {
@@ -20,7 +20,7 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1472.json",
+    "streamsFile": "streams/90/1472.json",
     "isworking": 1
   },
   {
@@ -32,7 +32,7 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1473.json",
+    "streamsFile": "streams/90/1473.json",
     "isworking": 1
   },
   {
@@ -44,7 +44,7 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1474.json",
+    "streamsFile": "streams/90/1474.json",
     "isworking": 0
   },
   {
@@ -53,7 +53,7 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/1475.json",
+    "streamsFile": "streams/90/1475.json",
     "isworking": 0
   },
   {
@@ -62,7 +62,7 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/1476.json",
+    "streamsFile": "streams/90/1476.json",
     "isworking": 0
   }
 ]

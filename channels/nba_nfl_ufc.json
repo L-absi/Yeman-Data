@@ -7,7 +7,7 @@
     "logo": "https://www.t-mobile.com/news/_admin/uploads/2021/01/nr-article-NBA-TV-To-Tvision-1-15-21-800x520.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/4830.json",
+    "streamsFile": "streams/nba_nfl_ufc/4830.json",
     "isworking": 1
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsa_06iXJMsQ94q5fLDZaIph1n4gbuzlSm6Q&s",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4831.json",
+    "streamsFile": "streams/nba_nfl_ufc/4831.json",
     "isworking": 1
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTObfJDfLM7PUIbouFQRZEMqsS3fArq85doDQ&s",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/4832.json",
+    "streamsFile": "streams/nba_nfl_ufc/4832.json",
     "isworking": 0
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXeDip0403HsCh2IAcjCZmfiaPaCDRzR54GQ&s",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/4833.json",
+    "streamsFile": "streams/nba_nfl_ufc/4833.json",
     "isworking": 1
   }
 ]

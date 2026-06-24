@@ -7,7 +7,7 @@
     "logo": "",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/4006.json",
+    "streamsFile": "streams/mls_sports/4006.json",
     "isworking": 0
   },
   {
@@ -18,7 +18,7 @@
     "logo": "",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/4007.json",
+    "streamsFile": "streams/mls_sports/4007.json",
     "isworking": 1
   },
   {
@@ -29,7 +29,7 @@
     "logo": "",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/4008.json",
+    "streamsFile": "streams/mls_sports/4008.json",
     "isworking": 0
   }
 ]

@@ -8,7 +8,7 @@
     "logo": "https://i.imgur.com/mHdYUsk.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/780.json",
+    "streamsFile": "streams/17/780.json",
     "isworking": 0
   },
   {
@@ -20,7 +20,7 @@
     "logo": "https://i.imgur.com/T2lPxmX.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/782.json",
+    "streamsFile": "streams/17/782.json",
     "isworking": 1
   },
   {
@@ -32,7 +32,7 @@
     "logo": "https://i.imgur.com/VGkai62.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/783.json",
+    "streamsFile": "streams/17/783.json",
     "isworking": 0
   },
   {
@@ -44,7 +44,7 @@
     "logo": "https://i.imgur.com/HE1jSjn.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/784.json",
+    "streamsFile": "streams/17/784.json",
     "isworking": 1
   },
   {
@@ -56,7 +56,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/80/Al_jamahirya_sat.jpg/120px-Al_jamahirya_sat.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/785.json",
+    "streamsFile": "streams/17/785.json",
     "isworking": 0
   },
   {
@@ -68,7 +68,7 @@
     "logo": "https://www.lyngsat.com/logo/tv/aa/abnaa-al-balad.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/786.json",
+    "streamsFile": "streams/17/786.json",
     "isworking": 0
   },
   {
@@ -80,7 +80,7 @@
     "logo": "https://i.imgur.com/fEFPvDn.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/787.json",
+    "streamsFile": "streams/17/787.json",
     "isworking": 1
   },
   {
@@ -92,7 +92,7 @@
     "logo": "https://almasartv.ly/wp-content/uploads/2022/01/logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1597.json",
+    "streamsFile": "streams/17/1597.json",
     "isworking": 1
   },
   {
@@ -104,7 +104,7 @@
     "logo": "https://yt3.googleusercontent.com/7GUP6qv3ZEBxNaIzpY2N1gmBxH5L58L7BsENQ6ezCdi1e9zwqja0z-QmJyrRajbvjmIYJ7sIezg=s900-c-k-c0x00ffffff-no-rj",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1598.json",
+    "streamsFile": "streams/17/1598.json",
     "isworking": 0
   },
   {
@@ -116,7 +116,7 @@
     "logo": "https://i.imgur.com/Tij6YCA.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1650.json",
+    "streamsFile": "streams/17/1650.json",
     "isworking": 0
   },
   {
@@ -128,7 +128,7 @@
     "logo": "https://i.imgur.com/Gx51zW9.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1651.json",
+    "streamsFile": "streams/17/1651.json",
     "isworking": 0
   },
   {
@@ -140,7 +140,7 @@
     "logo": "https://i.imgur.com/lmHK4Ym.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1652.json",
+    "streamsFile": "streams/17/1652.json",
     "isworking": 0
   },
   {
@@ -152,7 +152,7 @@
     "logo": "https://i.imgur.com/QXXDsIm.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/885.json",
+    "streamsFile": "streams/17/885.json",
     "isworking": 1
   },
   {
@@ -164,7 +164,7 @@
     "logo": "https://februarychannel.com/webroot/theam/images/logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1441.json",
+    "streamsFile": "streams/17/1441.json",
     "isworking": 1
   }
 ]

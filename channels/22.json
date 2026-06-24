@@ -8,7 +8,7 @@
     "logo": "https://www.falastini.tv/wp-content/uploads/2017/02/logo.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1584.json",
+    "streamsFile": "streams/22/1584.json",
     "isworking": 0
   },
   {
@@ -20,7 +20,7 @@
     "logo": "https://yt3.googleusercontent.com/l1ryKHTdZ9hqRqNukYo_rnxm9QMl7JuJieNbM3LdoStOSwcMzNyqzAGfdyDqzlcD2RHL5k4CLDU=s900-c-k-c0x00ffffff-no-rj",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1585.json",
+    "streamsFile": "streams/22/1585.json",
     "isworking": 0
   },
   {
@@ -32,7 +32,7 @@
     "logo": "https://sysadmin.etere.com/DocImageArchive/636501560795441744.webp",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1586.json",
+    "streamsFile": "streams/22/1586.json",
     "isworking": 1
   },
   {
@@ -44,7 +44,7 @@
     "logo": "https://i.ibb.co/gJcnzXw/rajeen.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/1587.json",
+    "streamsFile": "streams/22/1587.json",
     "isworking": 1
   },
   {
@@ -56,7 +56,7 @@
     "logo": "https://i.imgur.com/lPhwDRK.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/700.json",
+    "streamsFile": "streams/22/700.json",
     "isworking": 1
   },
   {
@@ -68,7 +68,7 @@
     "logo": "https://i.imgur.com/HrKLDk2.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/701.json",
+    "streamsFile": "streams/22/701.json",
     "isworking": 1
   },
   {
@@ -80,7 +80,7 @@
     "logo": "https://i.ibb.co/4g4VNx7/quds-tv.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/702.json",
+    "streamsFile": "streams/22/702.json",
     "isworking": 0
   },
   {
@@ -92,7 +92,7 @@
     "logo": "https://i.imgur.com/pwCRFpT.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/704.json",
+    "streamsFile": "streams/22/704.json",
     "isworking": 1
   },
   {
@@ -104,7 +104,7 @@
     "logo": "https://i.imgur.com/oyHl59c.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/705.json",
+    "streamsFile": "streams/22/705.json",
     "isworking": 0
   },
   {
@@ -116,7 +116,7 @@
     "logo": "https://i.imgur.com/5mGXzbS.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/706.json",
+    "streamsFile": "streams/22/706.json",
     "isworking": 0
   },
   {
@@ -128,7 +128,7 @@
     "logo": "https://i.imgur.com/fcE74ur.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/707.json",
+    "streamsFile": "streams/22/707.json",
     "isworking": 0
   },
   {
@@ -140,7 +140,7 @@
     "logo": "https://i.imgur.com/srVLmGC.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/708.json",
+    "streamsFile": "streams/22/708.json",
     "isworking": 1
   },
   {
@@ -152,7 +152,7 @@
     "logo": "https://i.imgur.com/GmDkBkF.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/709.json",
+    "streamsFile": "streams/22/709.json",
     "isworking": 1
   },
   {
@@ -164,7 +164,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2tMEnst_Y9192i8U9oZSwgosA-Am7TbDSsA&usqp=CAU",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/710.json",
+    "streamsFile": "streams/22/710.json",
     "isworking": 1
   },
   {
@@ -176,7 +176,7 @@
     "logo": "https://i.imgur.com/UsmMZWa.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/711.json",
+    "streamsFile": "streams/22/711.json",
     "isworking": 0
   },
   {
@@ -188,7 +188,7 @@
     "logo": "https://play-lh.googleusercontent.com/qopvjn6sIEU8AuEvQuiFQqgQmW9zSRn5gy20xxEIGme-DcQmfeMoGuO7UGp0vK655WRl",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/712.json",
+    "streamsFile": "streams/22/712.json",
     "isworking": 0
   },
   {
@@ -200,7 +200,7 @@
     "logo": "https://yt3.ggpht.com/ytc/AAUvwnjUdr0UU08BhcUHaKdDfCpjc_ANSBwTRex7T0ukuw=s900-c-k-c0x00ffffff-no-rj",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/713.json",
+    "streamsFile": "streams/22/713.json",
     "isworking": 1
   }
 ]

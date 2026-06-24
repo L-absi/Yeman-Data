@@ -7,7 +7,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/2654.json",
+    "streamsFile": "streams/aljazeera/2654.json",
     "isworking": 1
   },
   {
@@ -18,7 +18,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/2655.json",
+    "streamsFile": "streams/aljazeera/2655.json",
     "isworking": 1
   },
   {
@@ -29,7 +29,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/2656.json",
+    "streamsFile": "streams/aljazeera/2656.json",
     "isworking": 1
   },
   {
@@ -40,7 +40,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 1,
-    "streamsFile": "streams/2657.json",
+    "streamsFile": "streams/aljazeera/2657.json",
     "isworking": 1
   },
   {
@@ -51,7 +51,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/2658.json",
+    "streamsFile": "streams/aljazeera/2658.json",
     "isworking": 0
   },
   {
@@ -62,7 +62,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 2,
-    "streamsFile": "streams/2659.json",
+    "streamsFile": "streams/aljazeera/2659.json",
     "isworking": 1
   },
   {
@@ -73,7 +73,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/2660.json",
+    "streamsFile": "streams/aljazeera/2660.json",
     "isworking": 1
   },
   {
@@ -84,7 +84,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 3,
-    "streamsFile": "streams/2661.json",
+    "streamsFile": "streams/aljazeera/2661.json",
     "isworking": 1
   },
   {
@@ -95,7 +95,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 4,
-    "streamsFile": "streams/2662.json",
+    "streamsFile": "streams/aljazeera/2662.json",
     "isworking": 1
   },
   {
@@ -106,7 +106,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 5,
-    "streamsFile": "streams/2663.json",
+    "streamsFile": "streams/aljazeera/2663.json",
     "isworking": 0
   },
   {
@@ -117,7 +117,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 6,
-    "streamsFile": "streams/2664.json",
+    "streamsFile": "streams/aljazeera/2664.json",
     "isworking": 1
   },
   {
@@ -128,7 +128,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 7,
-    "streamsFile": "streams/2665.json",
+    "streamsFile": "streams/aljazeera/2665.json",
     "isworking": 1
   },
   {
@@ -139,7 +139,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 8,
-    "streamsFile": "streams/2666.json",
+    "streamsFile": "streams/aljazeera/2666.json",
     "isworking": 1
   },
   {
@@ -150,7 +150,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 9,
-    "streamsFile": "streams/2667.json",
+    "streamsFile": "streams/aljazeera/2667.json",
     "isworking": 0
   },
   {
@@ -161,7 +161,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 10,
-    "streamsFile": "streams/2668.json",
+    "streamsFile": "streams/aljazeera/2668.json",
     "isworking": 0
   },
   {
@@ -172,7 +172,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 11,
-    "streamsFile": "streams/2669.json",
+    "streamsFile": "streams/aljazeera/2669.json",
     "isworking": 1
   },
   {
@@ -183,7 +183,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 12,
-    "streamsFile": "streams/2670.json",
+    "streamsFile": "streams/aljazeera/2670.json",
     "isworking": 1
   },
   {
@@ -194,7 +194,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 13,
-    "streamsFile": "streams/2671.json",
+    "streamsFile": "streams/aljazeera/2671.json",
     "isworking": 0
   },
   {
@@ -205,7 +205,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 14,
-    "streamsFile": "streams/2672.json",
+    "streamsFile": "streams/aljazeera/2672.json",
     "isworking": 0
   },
   {
@@ -216,7 +216,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 15,
-    "streamsFile": "streams/2673.json",
+    "streamsFile": "streams/aljazeera/2673.json",
     "isworking": 1
   },
   {
@@ -227,7 +227,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 16,
-    "streamsFile": "streams/2674.json",
+    "streamsFile": "streams/aljazeera/2674.json",
     "isworking": 1
   },
   {
@@ -238,7 +238,7 @@
     "logo": "https://fls.cjs.jyh/",
     "type": "channel",
     "position": 17,
-    "streamsFile": "streams/2675.json",
+    "streamsFile": "streams/aljazeera/2675.json",
     "isworking": 1
   }
 ]
