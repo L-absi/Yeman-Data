@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/aya_cx_tvالقنوات_المغربية/2053.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2054,
@@ -107,7 +107,7 @@
     "type": "channel",
     "position": 18,
     "streamsFile": "streams/aya_cx_tvالقنوات_المغربية/2061.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2062,
@@ -140,7 +140,7 @@
     "type": "channel",
     "position": 103,
     "streamsFile": "streams/aya_cx_tvالقنوات_المغربية/2064.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2065,
@@ -151,6 +151,6 @@
     "type": "channel",
     "position": 2000,
     "streamsFile": "streams/aya_cx_tvالقنوات_المغربية/2065.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

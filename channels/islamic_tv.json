@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/islamic_tv/4358.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4359,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/islamic_tv/4359.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4360,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/islamic_tv/4360.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4361,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/islamic_tv/4361.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4362,
@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/islamic_tv/4363.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4364,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/islamic_tv/4364.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4365,
@@ -118,7 +118,7 @@
     "type": "channel",
     "position": 13,
     "streamsFile": "streams/islamic_tv/4368.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4369,
@@ -129,7 +129,7 @@
     "type": "channel",
     "position": 14,
     "streamsFile": "streams/islamic_tv/4369.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4370,
@@ -151,7 +151,7 @@
     "type": "channel",
     "position": 16,
     "streamsFile": "streams/islamic_tv/4371.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4372,
@@ -206,7 +206,7 @@
     "type": "channel",
     "position": 21,
     "streamsFile": "streams/islamic_tv/4376.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4377,
@@ -217,6 +217,6 @@
     "type": "channel",
     "position": 22,
     "streamsFile": "streams/islamic_tv/4377.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

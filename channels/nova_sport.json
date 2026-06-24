@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/nova_sport/4836.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4837,
@@ -52,6 +52,6 @@
     "type": "channel",
     "position": 10,
     "streamsFile": "streams/nova_sport/4838.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

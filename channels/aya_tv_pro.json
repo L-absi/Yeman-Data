@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/aya_tv_pro/3197.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3198,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/aya_tv_pro/3198.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3199,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/aya_tv_pro/3199.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3200,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/aya_tv_pro/3200.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3201,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/aya_tv_pro/3201.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3202,
@@ -85,7 +85,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/aya_tv_pro/3204.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3205,
@@ -305,7 +305,7 @@
     "type": "channel",
     "position": 28,
     "streamsFile": "streams/aya_tv_pro/3224.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3225,
@@ -1526,7 +1526,7 @@
     "type": "channel",
     "position": 139,
     "streamsFile": "streams/aya_tv_pro/3335.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3336,
@@ -1548,7 +1548,7 @@
     "type": "channel",
     "position": 141,
     "streamsFile": "streams/aya_tv_pro/3337.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3338,
@@ -1790,7 +1790,7 @@
     "type": "channel",
     "position": 163,
     "streamsFile": "streams/aya_tv_pro/3359.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3360,
@@ -1801,7 +1801,7 @@
     "type": "channel",
     "position": 164,
     "streamsFile": "streams/aya_tv_pro/3360.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3361,
@@ -1812,7 +1812,7 @@
     "type": "channel",
     "position": 165,
     "streamsFile": "streams/aya_tv_pro/3361.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3362,
@@ -1823,7 +1823,7 @@
     "type": "channel",
     "position": 166,
     "streamsFile": "streams/aya_tv_pro/3362.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3363,
@@ -1834,7 +1834,7 @@
     "type": "channel",
     "position": 167,
     "streamsFile": "streams/aya_tv_pro/3363.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3364,
@@ -1845,7 +1845,7 @@
     "type": "channel",
     "position": 168,
     "streamsFile": "streams/aya_tv_pro/3364.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3365,
@@ -1856,7 +1856,7 @@
     "type": "channel",
     "position": 169,
     "streamsFile": "streams/aya_tv_pro/3365.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3366,
@@ -1867,7 +1867,7 @@
     "type": "channel",
     "position": 170,
     "streamsFile": "streams/aya_tv_pro/3366.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3367,
@@ -2857,7 +2857,7 @@
     "type": "channel",
     "position": 261,
     "streamsFile": "streams/aya_tv_pro/3456.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3457,
@@ -3055,7 +3055,7 @@
     "type": "channel",
     "position": 279,
     "streamsFile": "streams/aya_tv_pro/3474.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3475,
@@ -3066,7 +3066,7 @@
     "type": "channel",
     "position": 280,
     "streamsFile": "streams/aya_tv_pro/3475.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3476,
@@ -3132,7 +3132,7 @@
     "type": "channel",
     "position": 286,
     "streamsFile": "streams/aya_tv_pro/3481.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3482,
@@ -3462,7 +3462,7 @@
     "type": "channel",
     "position": 316,
     "streamsFile": "streams/aya_tv_pro/3511.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3512,
@@ -3473,7 +3473,7 @@
     "type": "channel",
     "position": 317,
     "streamsFile": "streams/aya_tv_pro/3512.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3513,
@@ -3880,7 +3880,7 @@
     "type": "channel",
     "position": 354,
     "streamsFile": "streams/aya_tv_pro/3549.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3550,
@@ -3946,7 +3946,7 @@
     "type": "channel",
     "position": 360,
     "streamsFile": "streams/aya_tv_pro/3555.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3556,
@@ -4034,7 +4034,7 @@
     "type": "channel",
     "position": 368,
     "streamsFile": "streams/aya_tv_pro/3563.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3564,
@@ -4078,7 +4078,7 @@
     "type": "channel",
     "position": 372,
     "streamsFile": "streams/aya_tv_pro/3567.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3568,
@@ -4089,7 +4089,7 @@
     "type": "channel",
     "position": 373,
     "streamsFile": "streams/aya_tv_pro/3568.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3569,
@@ -5200,7 +5200,7 @@
     "type": "channel",
     "position": 474,
     "streamsFile": "streams/aya_tv_pro/3669.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3670,
@@ -5761,7 +5761,7 @@
     "type": "channel",
     "position": 525,
     "streamsFile": "streams/aya_tv_pro/3720.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3721,
@@ -6333,7 +6333,7 @@
     "type": "channel",
     "position": 577,
     "streamsFile": "streams/aya_tv_pro/3772.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3773,
@@ -6806,7 +6806,7 @@
     "type": "channel",
     "position": 620,
     "streamsFile": "streams/aya_tv_pro/3815.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3816,
@@ -7015,7 +7015,7 @@
     "type": "channel",
     "position": 639,
     "streamsFile": "streams/aya_tv_pro/3834.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3835,
@@ -7026,7 +7026,7 @@
     "type": "channel",
     "position": 640,
     "streamsFile": "streams/aya_tv_pro/3835.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3836,
@@ -7037,7 +7037,7 @@
     "type": "channel",
     "position": 641,
     "streamsFile": "streams/aya_tv_pro/3836.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3837,
@@ -7565,7 +7565,7 @@
     "type": "channel",
     "position": 689,
     "streamsFile": "streams/aya_tv_pro/3884.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3885,
@@ -7576,7 +7576,7 @@
     "type": "channel",
     "position": 690,
     "streamsFile": "streams/aya_tv_pro/3885.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3886,

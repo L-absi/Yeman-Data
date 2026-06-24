@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/digi_live/4782.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4783,

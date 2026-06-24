@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/tivibu_sport/4958.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4959,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/tivibu_sport/4959.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4960,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/tivibu_sport/4960.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4961,
@@ -41,6 +41,6 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/tivibu_sport/4961.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

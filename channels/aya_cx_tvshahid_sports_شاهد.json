@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/aya_cx_tvshahid_sports_شاهد/5746.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5747,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/aya_cx_tvshahid_sports_شاهد/5747.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5748,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/aya_cx_tvshahid_sports_شاهد/5748.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5749,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/aya_cx_tvshahid_sports_شاهد/5749.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5750,
@@ -52,6 +52,6 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/aya_cx_tvshahid_sports_شاهد/5750.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

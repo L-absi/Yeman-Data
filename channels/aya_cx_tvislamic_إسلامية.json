@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/aya_cx_tvislamic_إسلامية/4348.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4349,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/aya_cx_tvislamic_إسلامية/4349.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4350,
@@ -129,7 +129,7 @@
     "type": "channel",
     "position": 10,
     "streamsFile": "streams/aya_cx_tvislamic_إسلامية/4356.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4357,
@@ -140,6 +140,6 @@
     "type": "channel",
     "position": 11,
     "streamsFile": "streams/aya_cx_tvislamic_إسلامية/4357.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/uae_vip/3179.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3180,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/uae_vip/3180.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3181,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/uae_vip/3181.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3182,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/uae_vip/3182.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3183,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/uae_vip/3183.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3184,
@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/uae_vip/3184.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3185,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/uae_vip/3185.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3186,
@@ -85,7 +85,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/uae_vip/3186.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3187,
@@ -96,7 +96,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/uae_vip/3187.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3188,
@@ -107,7 +107,7 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/uae_vip/3188.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3189,
@@ -118,7 +118,7 @@
     "type": "channel",
     "position": 10,
     "streamsFile": "streams/uae_vip/3189.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3190,
@@ -129,6 +129,6 @@
     "type": "channel",
     "position": 11,
     "streamsFile": "streams/uae_vip/3190.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

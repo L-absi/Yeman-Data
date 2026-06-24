@@ -9,7 +9,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/26/1736.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 718,
@@ -57,7 +57,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/26/721.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 722,
@@ -69,7 +69,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/26/722.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 723,
@@ -81,7 +81,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/26/723.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 724,
@@ -93,7 +93,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/26/724.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 725,
@@ -117,7 +117,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/26/726.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 728,
@@ -165,7 +165,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/26/731.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 732,
@@ -201,7 +201,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/26/1046.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 1047,
@@ -285,7 +285,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/26/1582.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 1583,
@@ -369,7 +369,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/26/1909.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 1910,
@@ -381,7 +381,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/26/1910.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 1911,
@@ -453,7 +453,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/26/734.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 735,
@@ -465,7 +465,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/26/735.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 736,

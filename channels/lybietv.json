@@ -162,7 +162,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/lybietv/2225.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2226,

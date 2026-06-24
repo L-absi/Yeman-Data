@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/event_sport_tests/3981.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3982,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/event_sport_tests/3984.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3985,

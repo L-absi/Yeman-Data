@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/slovakia_tv/4918.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4919,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/slovakia_tv/4919.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4920,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/slovakia_tv/4920.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4921,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/slovakia_tv/4921.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4922,

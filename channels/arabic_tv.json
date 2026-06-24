@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/arabic_tv/4984.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4985,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/arabic_tv/4986.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4987,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/arabic_tv/4987.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4988,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/arabic_tv/4988.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4989,
@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/arabic_tv/4989.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4990,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/arabic_tv/4990.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4991,
@@ -96,7 +96,7 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/arabic_tv/4992.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4993,
@@ -118,7 +118,7 @@
     "type": "channel",
     "position": 11,
     "streamsFile": "streams/arabic_tv/4994.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4995,
@@ -129,7 +129,7 @@
     "type": "channel",
     "position": 12,
     "streamsFile": "streams/arabic_tv/4995.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4996,
@@ -162,7 +162,7 @@
     "type": "channel",
     "position": 15,
     "streamsFile": "streams/arabic_tv/4998.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4999,
@@ -173,7 +173,7 @@
     "type": "channel",
     "position": 16,
     "streamsFile": "streams/arabic_tv/4999.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5000,
@@ -184,7 +184,7 @@
     "type": "channel",
     "position": 17,
     "streamsFile": "streams/arabic_tv/5000.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5001,
@@ -195,7 +195,7 @@
     "type": "channel",
     "position": 18,
     "streamsFile": "streams/arabic_tv/5001.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5002,
@@ -206,7 +206,7 @@
     "type": "channel",
     "position": 19,
     "streamsFile": "streams/arabic_tv/5002.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5003,
@@ -228,7 +228,7 @@
     "type": "channel",
     "position": 21,
     "streamsFile": "streams/arabic_tv/5004.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5005,
@@ -239,7 +239,7 @@
     "type": "channel",
     "position": 22,
     "streamsFile": "streams/arabic_tv/5005.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5006,
@@ -250,7 +250,7 @@
     "type": "channel",
     "position": 23,
     "streamsFile": "streams/arabic_tv/5006.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5007,
@@ -272,7 +272,7 @@
     "type": "channel",
     "position": 25,
     "streamsFile": "streams/arabic_tv/5008.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5009,
@@ -283,7 +283,7 @@
     "type": "channel",
     "position": 26,
     "streamsFile": "streams/arabic_tv/5009.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5010,
@@ -305,7 +305,7 @@
     "type": "channel",
     "position": 28,
     "streamsFile": "streams/arabic_tv/5011.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5012,
@@ -349,7 +349,7 @@
     "type": "channel",
     "position": 32,
     "streamsFile": "streams/arabic_tv/5015.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5016,
@@ -360,7 +360,7 @@
     "type": "channel",
     "position": 33,
     "streamsFile": "streams/arabic_tv/5016.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5017,
@@ -371,7 +371,7 @@
     "type": "channel",
     "position": 34,
     "streamsFile": "streams/arabic_tv/5017.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5018,
@@ -404,7 +404,7 @@
     "type": "channel",
     "position": 37,
     "streamsFile": "streams/arabic_tv/5020.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5021,
@@ -415,7 +415,7 @@
     "type": "channel",
     "position": 38,
     "streamsFile": "streams/arabic_tv/5021.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5022,
@@ -437,7 +437,7 @@
     "type": "channel",
     "position": 40,
     "streamsFile": "streams/arabic_tv/5023.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5024,
@@ -492,7 +492,7 @@
     "type": "channel",
     "position": 45,
     "streamsFile": "streams/arabic_tv/5028.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5029,
@@ -503,7 +503,7 @@
     "type": "channel",
     "position": 46,
     "streamsFile": "streams/arabic_tv/5029.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5030,
@@ -525,7 +525,7 @@
     "type": "channel",
     "position": 48,
     "streamsFile": "streams/arabic_tv/5031.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5032,
@@ -547,7 +547,7 @@
     "type": "channel",
     "position": 50,
     "streamsFile": "streams/arabic_tv/5033.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5034,
@@ -558,7 +558,7 @@
     "type": "channel",
     "position": 51,
     "streamsFile": "streams/arabic_tv/5034.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5035,
@@ -569,7 +569,7 @@
     "type": "channel",
     "position": 52,
     "streamsFile": "streams/arabic_tv/5035.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5036,
@@ -580,7 +580,7 @@
     "type": "channel",
     "position": 53,
     "streamsFile": "streams/arabic_tv/5036.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5037,
@@ -591,7 +591,7 @@
     "type": "channel",
     "position": 54,
     "streamsFile": "streams/arabic_tv/5037.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5038,
@@ -602,7 +602,7 @@
     "type": "channel",
     "position": 55,
     "streamsFile": "streams/arabic_tv/5038.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5039,
@@ -613,7 +613,7 @@
     "type": "channel",
     "position": 56,
     "streamsFile": "streams/arabic_tv/5039.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5040,
@@ -624,7 +624,7 @@
     "type": "channel",
     "position": 57,
     "streamsFile": "streams/arabic_tv/5040.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5041,

@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4538.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4539,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4540.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4541,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4541.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4542,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4542.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4543,
@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4543.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4544,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4544.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4545,
@@ -107,7 +107,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4547.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4548,
@@ -118,7 +118,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4548.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4549,
@@ -140,7 +140,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4550.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4551,
@@ -151,7 +151,7 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4551.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4552,
@@ -162,7 +162,7 @@
     "type": "channel",
     "position": 24,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4552.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4553,
@@ -173,7 +173,7 @@
     "type": "channel",
     "position": 25,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4553.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4554,
@@ -184,7 +184,7 @@
     "type": "channel",
     "position": 25,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4554.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4555,
@@ -195,7 +195,7 @@
     "type": "channel",
     "position": 26,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4555.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4556,
@@ -206,7 +206,7 @@
     "type": "channel",
     "position": 27,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4556.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4557,
@@ -217,7 +217,7 @@
     "type": "channel",
     "position": 10000,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4557.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4558,
@@ -228,7 +228,7 @@
     "type": "channel",
     "position": 100001,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4558.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4559,
@@ -239,7 +239,7 @@
     "type": "channel",
     "position": 100004,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4559.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4560,
@@ -250,7 +250,7 @@
     "type": "channel",
     "position": 100005,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4560.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4561,
@@ -261,7 +261,7 @@
     "type": "channel",
     "position": 108006,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4561.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4562,
@@ -272,6 +272,6 @@
     "type": "channel",
     "position": 1099665,
     "streamsFile": "streams/aya_cx_tvkids_الأطفال/4562.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

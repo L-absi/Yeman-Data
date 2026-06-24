@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/morooco/2264.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2265,
@@ -151,7 +151,7 @@
     "type": "channel",
     "position": 12,
     "streamsFile": "streams/morooco/2272.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2273,
@@ -162,7 +162,7 @@
     "type": "channel",
     "position": 13,
     "streamsFile": "streams/morooco/2273.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2274,
@@ -261,7 +261,7 @@
     "type": "channel",
     "position": 22,
     "streamsFile": "streams/morooco/2282.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2283,
@@ -283,6 +283,6 @@
     "type": "channel",
     "position": 66,
     "streamsFile": "streams/morooco/2284.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

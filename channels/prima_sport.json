@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/prima_sport/4872.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4873,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/prima_sport/4873.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4874,

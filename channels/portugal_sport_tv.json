@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/portugal_sport_tv/4856.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4857,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/portugal_sport_tv/4857.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4858,
@@ -85,7 +85,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/portugal_sport_tv/4858.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4859,
@@ -96,6 +96,6 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/portugal_sport_tv/4859.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

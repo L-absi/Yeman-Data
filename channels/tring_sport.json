@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/tring_sport/4969.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4970,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/tring_sport/4970.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4971,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/tring_sport/4971.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4972,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/tring_sport/4972.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4973,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/tring_sport/4973.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4974,
@@ -63,6 +63,6 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/tring_sport/4974.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

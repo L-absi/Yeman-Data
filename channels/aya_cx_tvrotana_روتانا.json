@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/aya_cx_tvrotana_روتانا/2697.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2698,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/aya_cx_tvrotana_روتانا/2700.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2701,
@@ -107,7 +107,7 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/aya_cx_tvrotana_روتانا/2703.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2704,

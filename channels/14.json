@@ -117,7 +117,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/14/510.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 511,
@@ -189,7 +189,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/14/524.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 525,
@@ -201,7 +201,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/14/525.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 526,
@@ -273,6 +273,6 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/14/531.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

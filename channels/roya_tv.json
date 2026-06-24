@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/roya_tv/3105.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3106,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/roya_tv/3106.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3107,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/roya_tv/3107.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3108,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/roya_tv/3108.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3109,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/roya_tv/3109.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3110,
@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/roya_tv/3110.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3111,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/roya_tv/3111.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3112,
@@ -85,7 +85,7 @@
     "type": "channel",
     "position": 10,
     "streamsFile": "streams/roya_tv/3112.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3113,
@@ -96,7 +96,7 @@
     "type": "channel",
     "position": 11,
     "streamsFile": "streams/roya_tv/3113.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3114,
@@ -107,7 +107,7 @@
     "type": "channel",
     "position": 12,
     "streamsFile": "streams/roya_tv/3114.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3115,
@@ -140,7 +140,7 @@
     "type": "channel",
     "position": 15,
     "streamsFile": "streams/roya_tv/3117.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3118,
@@ -151,7 +151,7 @@
     "type": "channel",
     "position": 16,
     "streamsFile": "streams/roya_tv/3118.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3119,
@@ -162,7 +162,7 @@
     "type": "channel",
     "position": 17,
     "streamsFile": "streams/roya_tv/3119.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3120,
@@ -173,7 +173,7 @@
     "type": "channel",
     "position": 18,
     "streamsFile": "streams/roya_tv/3120.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3121,
@@ -184,7 +184,7 @@
     "type": "channel",
     "position": 19,
     "streamsFile": "streams/roya_tv/3121.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3122,
@@ -195,7 +195,7 @@
     "type": "channel",
     "position": 20,
     "streamsFile": "streams/roya_tv/3122.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3123,
@@ -206,7 +206,7 @@
     "type": "channel",
     "position": 21,
     "streamsFile": "streams/roya_tv/3123.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3124,
@@ -217,7 +217,7 @@
     "type": "channel",
     "position": 22,
     "streamsFile": "streams/roya_tv/3124.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3125,
@@ -228,7 +228,7 @@
     "type": "channel",
     "position": 23,
     "streamsFile": "streams/roya_tv/3125.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3126,
@@ -239,7 +239,7 @@
     "type": "channel",
     "position": 24,
     "streamsFile": "streams/roya_tv/3126.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3127,
@@ -250,7 +250,7 @@
     "type": "channel",
     "position": 25,
     "streamsFile": "streams/roya_tv/3127.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3128,
@@ -261,7 +261,7 @@
     "type": "channel",
     "position": 26,
     "streamsFile": "streams/roya_tv/3128.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3129,
@@ -272,7 +272,7 @@
     "type": "channel",
     "position": 27,
     "streamsFile": "streams/roya_tv/3129.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3130,
@@ -283,7 +283,7 @@
     "type": "channel",
     "position": 28,
     "streamsFile": "streams/roya_tv/3130.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3131,
@@ -294,7 +294,7 @@
     "type": "channel",
     "position": 29,
     "streamsFile": "streams/roya_tv/3131.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3132,
@@ -305,7 +305,7 @@
     "type": "channel",
     "position": 30,
     "streamsFile": "streams/roya_tv/3132.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3133,
@@ -316,7 +316,7 @@
     "type": "channel",
     "position": 31,
     "streamsFile": "streams/roya_tv/3133.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3134,
@@ -327,7 +327,7 @@
     "type": "channel",
     "position": 32,
     "streamsFile": "streams/roya_tv/3134.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3135,
@@ -338,7 +338,7 @@
     "type": "channel",
     "position": 33,
     "streamsFile": "streams/roya_tv/3135.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3136,
@@ -349,7 +349,7 @@
     "type": "channel",
     "position": 34,
     "streamsFile": "streams/roya_tv/3136.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3137,
@@ -360,7 +360,7 @@
     "type": "channel",
     "position": 35,
     "streamsFile": "streams/roya_tv/3137.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3138,
@@ -371,7 +371,7 @@
     "type": "channel",
     "position": 36,
     "streamsFile": "streams/roya_tv/3138.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3139,
@@ -382,7 +382,7 @@
     "type": "channel",
     "position": 37,
     "streamsFile": "streams/roya_tv/3139.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3140,
@@ -393,7 +393,7 @@
     "type": "channel",
     "position": 38,
     "streamsFile": "streams/roya_tv/3140.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3141,
@@ -404,7 +404,7 @@
     "type": "channel",
     "position": 39,
     "streamsFile": "streams/roya_tv/3141.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3142,

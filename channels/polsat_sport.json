@@ -63,6 +63,6 @@
     "type": "channel",
     "position": 15,
     "streamsFile": "streams/polsat_sport/4850.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

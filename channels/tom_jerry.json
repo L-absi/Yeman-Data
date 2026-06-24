@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/tom_jerry/4584.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4585,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/tom_jerry/4585.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4586,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/tom_jerry/4586.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4587,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/tom_jerry/4587.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4588,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/tom_jerry/4588.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4589,
@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/tom_jerry/4589.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4590,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/tom_jerry/4590.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4591,
@@ -85,7 +85,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/tom_jerry/4591.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4592,
@@ -96,7 +96,7 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/tom_jerry/4592.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4593,
@@ -107,7 +107,7 @@
     "type": "channel",
     "position": 10,
     "streamsFile": "streams/tom_jerry/4593.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4594,
@@ -118,7 +118,7 @@
     "type": "channel",
     "position": 11,
     "streamsFile": "streams/tom_jerry/4594.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4595,
@@ -129,7 +129,7 @@
     "type": "channel",
     "position": 12,
     "streamsFile": "streams/tom_jerry/4595.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4596,
@@ -140,7 +140,7 @@
     "type": "channel",
     "position": 13,
     "streamsFile": "streams/tom_jerry/4596.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4597,
@@ -151,7 +151,7 @@
     "type": "channel",
     "position": 14,
     "streamsFile": "streams/tom_jerry/4597.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4598,
@@ -162,7 +162,7 @@
     "type": "channel",
     "position": 15,
     "streamsFile": "streams/tom_jerry/4598.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4599,
@@ -173,7 +173,7 @@
     "type": "channel",
     "position": 16,
     "streamsFile": "streams/tom_jerry/4599.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4600,
@@ -184,7 +184,7 @@
     "type": "channel",
     "position": 17,
     "streamsFile": "streams/tom_jerry/4600.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4601,
@@ -195,7 +195,7 @@
     "type": "channel",
     "position": 18,
     "streamsFile": "streams/tom_jerry/4601.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4602,
@@ -206,7 +206,7 @@
     "type": "channel",
     "position": 19,
     "streamsFile": "streams/tom_jerry/4602.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4603,
@@ -217,7 +217,7 @@
     "type": "channel",
     "position": 20,
     "streamsFile": "streams/tom_jerry/4603.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4604,
@@ -228,7 +228,7 @@
     "type": "channel",
     "position": 21,
     "streamsFile": "streams/tom_jerry/4604.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4605,
@@ -239,7 +239,7 @@
     "type": "channel",
     "position": 22,
     "streamsFile": "streams/tom_jerry/4605.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4606,
@@ -250,7 +250,7 @@
     "type": "channel",
     "position": 23,
     "streamsFile": "streams/tom_jerry/4606.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4607,
@@ -261,7 +261,7 @@
     "type": "channel",
     "position": 24,
     "streamsFile": "streams/tom_jerry/4607.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4608,
@@ -272,7 +272,7 @@
     "type": "channel",
     "position": 25,
     "streamsFile": "streams/tom_jerry/4608.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4609,
@@ -283,7 +283,7 @@
     "type": "channel",
     "position": 26,
     "streamsFile": "streams/tom_jerry/4609.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4610,
@@ -294,7 +294,7 @@
     "type": "channel",
     "position": 27,
     "streamsFile": "streams/tom_jerry/4610.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4611,
@@ -305,7 +305,7 @@
     "type": "channel",
     "position": 28,
     "streamsFile": "streams/tom_jerry/4611.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4612,
@@ -316,7 +316,7 @@
     "type": "channel",
     "position": 29,
     "streamsFile": "streams/tom_jerry/4612.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4613,
@@ -327,7 +327,7 @@
     "type": "channel",
     "position": 30,
     "streamsFile": "streams/tom_jerry/4613.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4614,
@@ -338,7 +338,7 @@
     "type": "channel",
     "position": 31,
     "streamsFile": "streams/tom_jerry/4614.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4615,
@@ -349,7 +349,7 @@
     "type": "channel",
     "position": 32,
     "streamsFile": "streams/tom_jerry/4615.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4616,
@@ -360,7 +360,7 @@
     "type": "channel",
     "position": 33,
     "streamsFile": "streams/tom_jerry/4616.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4617,
@@ -371,7 +371,7 @@
     "type": "channel",
     "position": 34,
     "streamsFile": "streams/tom_jerry/4617.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4618,
@@ -382,7 +382,7 @@
     "type": "channel",
     "position": 35,
     "streamsFile": "streams/tom_jerry/4618.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4619,
@@ -393,7 +393,7 @@
     "type": "channel",
     "position": 36,
     "streamsFile": "streams/tom_jerry/4619.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4620,
@@ -404,7 +404,7 @@
     "type": "channel",
     "position": 37,
     "streamsFile": "streams/tom_jerry/4620.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4621,
@@ -415,7 +415,7 @@
     "type": "channel",
     "position": 38,
     "streamsFile": "streams/tom_jerry/4621.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4622,
@@ -426,7 +426,7 @@
     "type": "channel",
     "position": 39,
     "streamsFile": "streams/tom_jerry/4622.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4623,
@@ -437,7 +437,7 @@
     "type": "channel",
     "position": 40,
     "streamsFile": "streams/tom_jerry/4623.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4624,
@@ -448,7 +448,7 @@
     "type": "channel",
     "position": 41,
     "streamsFile": "streams/tom_jerry/4624.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4625,
@@ -459,7 +459,7 @@
     "type": "channel",
     "position": 42,
     "streamsFile": "streams/tom_jerry/4625.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4626,
@@ -470,7 +470,7 @@
     "type": "channel",
     "position": 43,
     "streamsFile": "streams/tom_jerry/4626.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4627,
@@ -481,7 +481,7 @@
     "type": "channel",
     "position": 44,
     "streamsFile": "streams/tom_jerry/4627.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4628,
@@ -492,7 +492,7 @@
     "type": "channel",
     "position": 45,
     "streamsFile": "streams/tom_jerry/4628.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4629,
@@ -503,7 +503,7 @@
     "type": "channel",
     "position": 46,
     "streamsFile": "streams/tom_jerry/4629.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4630,
@@ -514,7 +514,7 @@
     "type": "channel",
     "position": 47,
     "streamsFile": "streams/tom_jerry/4630.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4631,
@@ -525,7 +525,7 @@
     "type": "channel",
     "position": 48,
     "streamsFile": "streams/tom_jerry/4631.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4632,
@@ -536,7 +536,7 @@
     "type": "channel",
     "position": 49,
     "streamsFile": "streams/tom_jerry/4632.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4633,
@@ -547,7 +547,7 @@
     "type": "channel",
     "position": 50,
     "streamsFile": "streams/tom_jerry/4633.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4634,
@@ -558,7 +558,7 @@
     "type": "channel",
     "position": 51,
     "streamsFile": "streams/tom_jerry/4634.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4635,
@@ -569,7 +569,7 @@
     "type": "channel",
     "position": 52,
     "streamsFile": "streams/tom_jerry/4635.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4636,
@@ -580,7 +580,7 @@
     "type": "channel",
     "position": 53,
     "streamsFile": "streams/tom_jerry/4636.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4637,
@@ -591,7 +591,7 @@
     "type": "channel",
     "position": 54,
     "streamsFile": "streams/tom_jerry/4637.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4638,
@@ -602,7 +602,7 @@
     "type": "channel",
     "position": 55,
     "streamsFile": "streams/tom_jerry/4638.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4639,
@@ -613,7 +613,7 @@
     "type": "channel",
     "position": 56,
     "streamsFile": "streams/tom_jerry/4639.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4640,
@@ -624,7 +624,7 @@
     "type": "channel",
     "position": 57,
     "streamsFile": "streams/tom_jerry/4640.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4641,
@@ -635,7 +635,7 @@
     "type": "channel",
     "position": 58,
     "streamsFile": "streams/tom_jerry/4641.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4642,
@@ -646,7 +646,7 @@
     "type": "channel",
     "position": 59,
     "streamsFile": "streams/tom_jerry/4642.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4643,
@@ -657,7 +657,7 @@
     "type": "channel",
     "position": 60,
     "streamsFile": "streams/tom_jerry/4643.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4644,
@@ -668,7 +668,7 @@
     "type": "channel",
     "position": 61,
     "streamsFile": "streams/tom_jerry/4644.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4645,
@@ -679,7 +679,7 @@
     "type": "channel",
     "position": 62,
     "streamsFile": "streams/tom_jerry/4645.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4646,
@@ -690,7 +690,7 @@
     "type": "channel",
     "position": 63,
     "streamsFile": "streams/tom_jerry/4646.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4647,
@@ -701,7 +701,7 @@
     "type": "channel",
     "position": 64,
     "streamsFile": "streams/tom_jerry/4647.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4648,
@@ -712,7 +712,7 @@
     "type": "channel",
     "position": 65,
     "streamsFile": "streams/tom_jerry/4648.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4649,
@@ -723,7 +723,7 @@
     "type": "channel",
     "position": 66,
     "streamsFile": "streams/tom_jerry/4649.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4650,
@@ -734,7 +734,7 @@
     "type": "channel",
     "position": 67,
     "streamsFile": "streams/tom_jerry/4650.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4651,
@@ -745,7 +745,7 @@
     "type": "channel",
     "position": 68,
     "streamsFile": "streams/tom_jerry/4651.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4652,
@@ -756,7 +756,7 @@
     "type": "channel",
     "position": 69,
     "streamsFile": "streams/tom_jerry/4652.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4653,
@@ -767,7 +767,7 @@
     "type": "channel",
     "position": 70,
     "streamsFile": "streams/tom_jerry/4653.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4654,
@@ -778,7 +778,7 @@
     "type": "channel",
     "position": 71,
     "streamsFile": "streams/tom_jerry/4654.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4655,
@@ -789,7 +789,7 @@
     "type": "channel",
     "position": 72,
     "streamsFile": "streams/tom_jerry/4655.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4656,
@@ -800,7 +800,7 @@
     "type": "channel",
     "position": 73,
     "streamsFile": "streams/tom_jerry/4656.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4657,
@@ -811,7 +811,7 @@
     "type": "channel",
     "position": 74,
     "streamsFile": "streams/tom_jerry/4657.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4658,
@@ -822,7 +822,7 @@
     "type": "channel",
     "position": 75,
     "streamsFile": "streams/tom_jerry/4658.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4659,
@@ -833,7 +833,7 @@
     "type": "channel",
     "position": 76,
     "streamsFile": "streams/tom_jerry/4659.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4660,
@@ -844,7 +844,7 @@
     "type": "channel",
     "position": 77,
     "streamsFile": "streams/tom_jerry/4660.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4661,
@@ -855,7 +855,7 @@
     "type": "channel",
     "position": 78,
     "streamsFile": "streams/tom_jerry/4661.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4662,
@@ -866,7 +866,7 @@
     "type": "channel",
     "position": 79,
     "streamsFile": "streams/tom_jerry/4662.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4663,
@@ -877,7 +877,7 @@
     "type": "channel",
     "position": 80,
     "streamsFile": "streams/tom_jerry/4663.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4664,
@@ -888,7 +888,7 @@
     "type": "channel",
     "position": 81,
     "streamsFile": "streams/tom_jerry/4664.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4665,
@@ -899,7 +899,7 @@
     "type": "channel",
     "position": 82,
     "streamsFile": "streams/tom_jerry/4665.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4666,
@@ -910,7 +910,7 @@
     "type": "channel",
     "position": 83,
     "streamsFile": "streams/tom_jerry/4666.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4667,
@@ -921,7 +921,7 @@
     "type": "channel",
     "position": 84,
     "streamsFile": "streams/tom_jerry/4667.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4668,
@@ -932,7 +932,7 @@
     "type": "channel",
     "position": 85,
     "streamsFile": "streams/tom_jerry/4668.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4669,
@@ -943,7 +943,7 @@
     "type": "channel",
     "position": 86,
     "streamsFile": "streams/tom_jerry/4669.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4670,
@@ -954,7 +954,7 @@
     "type": "channel",
     "position": 87,
     "streamsFile": "streams/tom_jerry/4670.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4671,
@@ -965,7 +965,7 @@
     "type": "channel",
     "position": 88,
     "streamsFile": "streams/tom_jerry/4671.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4672,
@@ -976,7 +976,7 @@
     "type": "channel",
     "position": 89,
     "streamsFile": "streams/tom_jerry/4672.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4673,
@@ -987,7 +987,7 @@
     "type": "channel",
     "position": 90,
     "streamsFile": "streams/tom_jerry/4673.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4674,
@@ -998,7 +998,7 @@
     "type": "channel",
     "position": 91,
     "streamsFile": "streams/tom_jerry/4674.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4675,
@@ -1009,7 +1009,7 @@
     "type": "channel",
     "position": 92,
     "streamsFile": "streams/tom_jerry/4675.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4676,
@@ -1020,7 +1020,7 @@
     "type": "channel",
     "position": 93,
     "streamsFile": "streams/tom_jerry/4676.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4677,
@@ -1031,7 +1031,7 @@
     "type": "channel",
     "position": 94,
     "streamsFile": "streams/tom_jerry/4677.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4678,
@@ -1042,7 +1042,7 @@
     "type": "channel",
     "position": 95,
     "streamsFile": "streams/tom_jerry/4678.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4679,
@@ -1053,7 +1053,7 @@
     "type": "channel",
     "position": 96,
     "streamsFile": "streams/tom_jerry/4679.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4680,
@@ -1064,7 +1064,7 @@
     "type": "channel",
     "position": 97,
     "streamsFile": "streams/tom_jerry/4680.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4681,
@@ -1075,7 +1075,7 @@
     "type": "channel",
     "position": 98,
     "streamsFile": "streams/tom_jerry/4681.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4682,
@@ -1086,7 +1086,7 @@
     "type": "channel",
     "position": 99,
     "streamsFile": "streams/tom_jerry/4682.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4683,
@@ -1097,7 +1097,7 @@
     "type": "channel",
     "position": 100,
     "streamsFile": "streams/tom_jerry/4683.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4684,
@@ -1108,7 +1108,7 @@
     "type": "channel",
     "position": 101,
     "streamsFile": "streams/tom_jerry/4684.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4685,
@@ -1119,7 +1119,7 @@
     "type": "channel",
     "position": 102,
     "streamsFile": "streams/tom_jerry/4685.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4686,
@@ -1130,7 +1130,7 @@
     "type": "channel",
     "position": 103,
     "streamsFile": "streams/tom_jerry/4686.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4687,
@@ -1141,7 +1141,7 @@
     "type": "channel",
     "position": 104,
     "streamsFile": "streams/tom_jerry/4687.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4688,
@@ -1152,7 +1152,7 @@
     "type": "channel",
     "position": 105,
     "streamsFile": "streams/tom_jerry/4688.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4689,
@@ -1163,7 +1163,7 @@
     "type": "channel",
     "position": 106,
     "streamsFile": "streams/tom_jerry/4689.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4690,
@@ -1174,7 +1174,7 @@
     "type": "channel",
     "position": 107,
     "streamsFile": "streams/tom_jerry/4690.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4691,
@@ -1185,7 +1185,7 @@
     "type": "channel",
     "position": 108,
     "streamsFile": "streams/tom_jerry/4691.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4692,
@@ -1196,7 +1196,7 @@
     "type": "channel",
     "position": 109,
     "streamsFile": "streams/tom_jerry/4692.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4693,
@@ -1207,7 +1207,7 @@
     "type": "channel",
     "position": 110,
     "streamsFile": "streams/tom_jerry/4693.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4694,
@@ -1218,7 +1218,7 @@
     "type": "channel",
     "position": 111,
     "streamsFile": "streams/tom_jerry/4694.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4695,
@@ -1229,7 +1229,7 @@
     "type": "channel",
     "position": 112,
     "streamsFile": "streams/tom_jerry/4695.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4696,
@@ -1240,7 +1240,7 @@
     "type": "channel",
     "position": 113,
     "streamsFile": "streams/tom_jerry/4696.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4697,
@@ -1251,7 +1251,7 @@
     "type": "channel",
     "position": 114,
     "streamsFile": "streams/tom_jerry/4697.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4698,
@@ -1262,7 +1262,7 @@
     "type": "channel",
     "position": 115,
     "streamsFile": "streams/tom_jerry/4698.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4699,
@@ -1273,7 +1273,7 @@
     "type": "channel",
     "position": 116,
     "streamsFile": "streams/tom_jerry/4699.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4700,
@@ -1284,7 +1284,7 @@
     "type": "channel",
     "position": 117,
     "streamsFile": "streams/tom_jerry/4700.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4701,
@@ -1295,7 +1295,7 @@
     "type": "channel",
     "position": 118,
     "streamsFile": "streams/tom_jerry/4701.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4702,
@@ -1306,7 +1306,7 @@
     "type": "channel",
     "position": 119,
     "streamsFile": "streams/tom_jerry/4702.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4703,
@@ -1317,7 +1317,7 @@
     "type": "channel",
     "position": 120,
     "streamsFile": "streams/tom_jerry/4703.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4704,
@@ -1328,7 +1328,7 @@
     "type": "channel",
     "position": 121,
     "streamsFile": "streams/tom_jerry/4704.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4705,
@@ -1339,7 +1339,7 @@
     "type": "channel",
     "position": 122,
     "streamsFile": "streams/tom_jerry/4705.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4706,
@@ -1350,7 +1350,7 @@
     "type": "channel",
     "position": 123,
     "streamsFile": "streams/tom_jerry/4706.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4707,
@@ -1361,7 +1361,7 @@
     "type": "channel",
     "position": 124,
     "streamsFile": "streams/tom_jerry/4707.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4708,
@@ -1372,7 +1372,7 @@
     "type": "channel",
     "position": 125,
     "streamsFile": "streams/tom_jerry/4708.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4709,
@@ -1383,7 +1383,7 @@
     "type": "channel",
     "position": 126,
     "streamsFile": "streams/tom_jerry/4709.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4710,
@@ -1394,7 +1394,7 @@
     "type": "channel",
     "position": 127,
     "streamsFile": "streams/tom_jerry/4710.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4711,
@@ -1405,7 +1405,7 @@
     "type": "channel",
     "position": 128,
     "streamsFile": "streams/tom_jerry/4711.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4712,
@@ -1416,7 +1416,7 @@
     "type": "channel",
     "position": 129,
     "streamsFile": "streams/tom_jerry/4712.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4713,
@@ -1427,7 +1427,7 @@
     "type": "channel",
     "position": 130,
     "streamsFile": "streams/tom_jerry/4713.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4714,
@@ -1438,7 +1438,7 @@
     "type": "channel",
     "position": 131,
     "streamsFile": "streams/tom_jerry/4714.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4715,
@@ -1449,7 +1449,7 @@
     "type": "channel",
     "position": 132,
     "streamsFile": "streams/tom_jerry/4715.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4716,
@@ -1460,7 +1460,7 @@
     "type": "channel",
     "position": 133,
     "streamsFile": "streams/tom_jerry/4716.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4717,
@@ -1471,7 +1471,7 @@
     "type": "channel",
     "position": 134,
     "streamsFile": "streams/tom_jerry/4717.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4718,
@@ -1482,7 +1482,7 @@
     "type": "channel",
     "position": 135,
     "streamsFile": "streams/tom_jerry/4718.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4719,
@@ -1493,7 +1493,7 @@
     "type": "channel",
     "position": 136,
     "streamsFile": "streams/tom_jerry/4719.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4720,
@@ -1504,7 +1504,7 @@
     "type": "channel",
     "position": 137,
     "streamsFile": "streams/tom_jerry/4720.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4721,
@@ -1515,7 +1515,7 @@
     "type": "channel",
     "position": 138,
     "streamsFile": "streams/tom_jerry/4721.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4722,
@@ -1526,7 +1526,7 @@
     "type": "channel",
     "position": 139,
     "streamsFile": "streams/tom_jerry/4722.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4723,
@@ -1537,7 +1537,7 @@
     "type": "channel",
     "position": 140,
     "streamsFile": "streams/tom_jerry/4723.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4724,
@@ -1548,7 +1548,7 @@
     "type": "channel",
     "position": 141,
     "streamsFile": "streams/tom_jerry/4724.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4725,
@@ -1559,7 +1559,7 @@
     "type": "channel",
     "position": 142,
     "streamsFile": "streams/tom_jerry/4725.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4726,
@@ -1570,7 +1570,7 @@
     "type": "channel",
     "position": 143,
     "streamsFile": "streams/tom_jerry/4726.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4727,
@@ -1581,7 +1581,7 @@
     "type": "channel",
     "position": 144,
     "streamsFile": "streams/tom_jerry/4727.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4728,
@@ -1592,7 +1592,7 @@
     "type": "channel",
     "position": 145,
     "streamsFile": "streams/tom_jerry/4728.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4729,
@@ -1603,7 +1603,7 @@
     "type": "channel",
     "position": 146,
     "streamsFile": "streams/tom_jerry/4729.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4730,
@@ -1614,7 +1614,7 @@
     "type": "channel",
     "position": 147,
     "streamsFile": "streams/tom_jerry/4730.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4731,
@@ -1625,7 +1625,7 @@
     "type": "channel",
     "position": 148,
     "streamsFile": "streams/tom_jerry/4731.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4732,
@@ -1636,7 +1636,7 @@
     "type": "channel",
     "position": 149,
     "streamsFile": "streams/tom_jerry/4732.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4733,
@@ -1647,7 +1647,7 @@
     "type": "channel",
     "position": 150,
     "streamsFile": "streams/tom_jerry/4733.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4734,
@@ -1658,7 +1658,7 @@
     "type": "channel",
     "position": 151,
     "streamsFile": "streams/tom_jerry/4734.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4735,
@@ -1669,7 +1669,7 @@
     "type": "channel",
     "position": 152,
     "streamsFile": "streams/tom_jerry/4735.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4736,
@@ -1680,7 +1680,7 @@
     "type": "channel",
     "position": 153,
     "streamsFile": "streams/tom_jerry/4736.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4737,
@@ -1691,7 +1691,7 @@
     "type": "channel",
     "position": 154,
     "streamsFile": "streams/tom_jerry/4737.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4738,
@@ -1702,7 +1702,7 @@
     "type": "channel",
     "position": 155,
     "streamsFile": "streams/tom_jerry/4738.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4739,
@@ -1713,7 +1713,7 @@
     "type": "channel",
     "position": 156,
     "streamsFile": "streams/tom_jerry/4739.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4740,
@@ -1724,7 +1724,7 @@
     "type": "channel",
     "position": 157,
     "streamsFile": "streams/tom_jerry/4740.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4741,
@@ -1735,7 +1735,7 @@
     "type": "channel",
     "position": 158,
     "streamsFile": "streams/tom_jerry/4741.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4742,
@@ -1746,7 +1746,7 @@
     "type": "channel",
     "position": 159,
     "streamsFile": "streams/tom_jerry/4742.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4743,
@@ -1757,7 +1757,7 @@
     "type": "channel",
     "position": 160,
     "streamsFile": "streams/tom_jerry/4743.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4744,
@@ -1768,7 +1768,7 @@
     "type": "channel",
     "position": 161,
     "streamsFile": "streams/tom_jerry/4744.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4745,
@@ -1779,7 +1779,7 @@
     "type": "channel",
     "position": 162,
     "streamsFile": "streams/tom_jerry/4745.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4746,
@@ -1790,6 +1790,6 @@
     "type": "channel",
     "position": 163,
     "streamsFile": "streams/tom_jerry/4746.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

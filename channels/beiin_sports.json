@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 10,
     "streamsFile": "streams/beiin_sports/3893.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3894,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 12,
     "streamsFile": "streams/beiin_sports/3895.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3896,
@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 13,
     "streamsFile": "streams/beiin_sports/3896.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3897,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 14,
     "streamsFile": "streams/beiin_sports/3897.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3898,
@@ -107,7 +107,7 @@
     "type": "channel",
     "position": 56,
     "streamsFile": "streams/beiin_sports/3900.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3901,
@@ -118,7 +118,7 @@
     "type": "channel",
     "position": 57,
     "streamsFile": "streams/beiin_sports/3901.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3902,
@@ -129,7 +129,7 @@
     "type": "channel",
     "position": 58,
     "streamsFile": "streams/beiin_sports/3902.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3903,
@@ -140,7 +140,7 @@
     "type": "channel",
     "position": 59,
     "streamsFile": "streams/beiin_sports/3903.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3904,
@@ -151,7 +151,7 @@
     "type": "channel",
     "position": 60,
     "streamsFile": "streams/beiin_sports/3904.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3905,

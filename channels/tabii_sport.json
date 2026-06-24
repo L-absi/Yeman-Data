@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/tabii_sport/4950.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4951,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/tabii_sport/4951.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4952,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/tabii_sport/4952.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4953,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/tabii_sport/4953.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4954,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/tabii_sport/4954.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4955,
@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/tabii_sport/4955.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4956,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/tabii_sport/4956.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4957,
@@ -85,6 +85,6 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/tabii_sport/4957.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

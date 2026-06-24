@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/fancode_sport/3988.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3989,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/fancode_sport/3989.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3990,
@@ -30,6 +30,6 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/fancode_sport/3990.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

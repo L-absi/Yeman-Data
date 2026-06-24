@@ -9,7 +9,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/92/1521.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 1522,
@@ -21,7 +21,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/92/1522.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 1523,
@@ -33,7 +33,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/92/1523.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 1524,

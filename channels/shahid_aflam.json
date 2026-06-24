@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/shahid_aflam/3147.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3148,
@@ -107,7 +107,7 @@
     "type": "channel",
     "position": 11,
     "streamsFile": "streams/shahid_aflam/3152.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3153,
@@ -261,7 +261,7 @@
     "type": "channel",
     "position": 25,
     "streamsFile": "streams/shahid_aflam/3166.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3167,
@@ -272,7 +272,7 @@
     "type": "channel",
     "position": 26,
     "streamsFile": "streams/shahid_aflam/3167.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3168,
@@ -283,7 +283,7 @@
     "type": "channel",
     "position": 27,
     "streamsFile": "streams/shahid_aflam/3168.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3169,
@@ -327,7 +327,7 @@
     "type": "channel",
     "position": 31,
     "streamsFile": "streams/shahid_aflam/3172.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3173,
@@ -338,7 +338,7 @@
     "type": "channel",
     "position": 32,
     "streamsFile": "streams/shahid_aflam/3173.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3174,
@@ -349,7 +349,7 @@
     "type": "channel",
     "position": 33,
     "streamsFile": "streams/shahid_aflam/3174.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3175,
@@ -360,6 +360,6 @@
     "type": "channel",
     "position": 34,
     "streamsFile": "streams/shahid_aflam/3175.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

@@ -114,7 +114,7 @@
     "is_hide": 0,
     "priority": 0,
     "streamsFile": "streams/max_tv/20012.json",
-    "isworking": 0
+    "isworking": 1
   },
   {
     "id": 20013,
@@ -132,7 +132,7 @@
     "is_hide": 0,
     "priority": 0,
     "streamsFile": "streams/max_tv/20014.json",
-    "isworking": 0
+    "isworking": 1
   },
   {
     "id": 20015,

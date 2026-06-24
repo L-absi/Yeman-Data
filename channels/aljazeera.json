@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/aljazeera/2654.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2655,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/aljazeera/2655.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2656,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/aljazeera/2656.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2657,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/aljazeera/2657.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2658,
@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/aljazeera/2659.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2660,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/aljazeera/2660.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2661,
@@ -85,7 +85,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/aljazeera/2661.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2662,
@@ -96,7 +96,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/aljazeera/2662.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2663,
@@ -118,7 +118,7 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/aljazeera/2664.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2665,
@@ -129,7 +129,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/aljazeera/2665.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2666,
@@ -173,7 +173,7 @@
     "type": "channel",
     "position": 11,
     "streamsFile": "streams/aljazeera/2669.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2670,
@@ -184,7 +184,7 @@
     "type": "channel",
     "position": 12,
     "streamsFile": "streams/aljazeera/2670.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2671,
@@ -217,7 +217,7 @@
     "type": "channel",
     "position": 15,
     "streamsFile": "streams/aljazeera/2673.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2674,
@@ -228,7 +228,7 @@
     "type": "channel",
     "position": 16,
     "streamsFile": "streams/aljazeera/2674.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2675,
@@ -239,6 +239,6 @@
     "type": "channel",
     "position": 17,
     "streamsFile": "streams/aljazeera/2675.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

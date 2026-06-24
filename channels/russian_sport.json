@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/russian_sport/4877.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4878,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/russian_sport/4878.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4879,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/russian_sport/4879.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4880,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/russian_sport/4881.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4882,
@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/russian_sport/4882.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4883,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/russian_sport/4883.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4884,
@@ -85,7 +85,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/russian_sport/4884.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4885,
@@ -96,7 +96,7 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/russian_sport/4885.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4886,
@@ -107,7 +107,7 @@
     "type": "channel",
     "position": 10,
     "streamsFile": "streams/russian_sport/4886.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4887,
@@ -118,7 +118,7 @@
     "type": "channel",
     "position": 11,
     "streamsFile": "streams/russian_sport/4887.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4888,
@@ -129,7 +129,7 @@
     "type": "channel",
     "position": 12,
     "streamsFile": "streams/russian_sport/4888.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4889,
@@ -140,7 +140,7 @@
     "type": "channel",
     "position": 13,
     "streamsFile": "streams/russian_sport/4889.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4890,
@@ -162,7 +162,7 @@
     "type": "channel",
     "position": 15,
     "streamsFile": "streams/russian_sport/4891.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4892,
@@ -173,7 +173,7 @@
     "type": "channel",
     "position": 16,
     "streamsFile": "streams/russian_sport/4892.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4893,
@@ -184,7 +184,7 @@
     "type": "channel",
     "position": 17,
     "streamsFile": "streams/russian_sport/4893.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4894,
@@ -195,7 +195,7 @@
     "type": "channel",
     "position": 18,
     "streamsFile": "streams/russian_sport/4894.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4895,
@@ -206,7 +206,7 @@
     "type": "channel",
     "position": 19,
     "streamsFile": "streams/russian_sport/4895.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4896,
@@ -217,7 +217,7 @@
     "type": "channel",
     "position": 20,
     "streamsFile": "streams/russian_sport/4896.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4897,
@@ -228,7 +228,7 @@
     "type": "channel",
     "position": 21,
     "streamsFile": "streams/russian_sport/4897.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4898,
@@ -239,7 +239,7 @@
     "type": "channel",
     "position": 22,
     "streamsFile": "streams/russian_sport/4898.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4899,
@@ -250,7 +250,7 @@
     "type": "channel",
     "position": 23,
     "streamsFile": "streams/russian_sport/4899.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4900,
@@ -261,7 +261,7 @@
     "type": "channel",
     "position": 24,
     "streamsFile": "streams/russian_sport/4900.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4901,
@@ -272,7 +272,7 @@
     "type": "channel",
     "position": 25,
     "streamsFile": "streams/russian_sport/4901.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4902,
@@ -294,7 +294,7 @@
     "type": "channel",
     "position": 27,
     "streamsFile": "streams/russian_sport/4903.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4904,
@@ -305,7 +305,7 @@
     "type": "channel",
     "position": 28,
     "streamsFile": "streams/russian_sport/4904.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4905,
@@ -316,7 +316,7 @@
     "type": "channel",
     "position": 29,
     "streamsFile": "streams/russian_sport/4905.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4906,
@@ -338,7 +338,7 @@
     "type": "channel",
     "position": 31,
     "streamsFile": "streams/russian_sport/4907.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4908,
@@ -349,7 +349,7 @@
     "type": "channel",
     "position": 32,
     "streamsFile": "streams/russian_sport/4908.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4909,
@@ -360,7 +360,7 @@
     "type": "channel",
     "position": 33,
     "streamsFile": "streams/russian_sport/4909.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4910,
@@ -371,7 +371,7 @@
     "type": "channel",
     "position": 34,
     "streamsFile": "streams/russian_sport/4910.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4911,
@@ -382,7 +382,7 @@
     "type": "channel",
     "position": 35,
     "streamsFile": "streams/russian_sport/4911.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4912,
@@ -393,7 +393,7 @@
     "type": "channel",
     "position": 36,
     "streamsFile": "streams/russian_sport/4912.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4913,
@@ -415,7 +415,7 @@
     "type": "channel",
     "position": 38,
     "streamsFile": "streams/russian_sport/4914.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4915,

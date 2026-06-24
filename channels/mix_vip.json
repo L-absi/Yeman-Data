@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/mix_vip/2790.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2791,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/mix_vip/2791.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2792,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/mix_vip/2792.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2793,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/mix_vip/2794.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2795,
@@ -63,6 +63,6 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/mix_vip/2795.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

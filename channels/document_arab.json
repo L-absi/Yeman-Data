@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/document_arab/3946.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3947,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/document_arab/3948.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3949,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 10,
     "streamsFile": "streams/document_arab/3949.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3950,
@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 11,
     "streamsFile": "streams/document_arab/3950.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3951,
@@ -85,7 +85,7 @@
     "type": "channel",
     "position": 13,
     "streamsFile": "streams/document_arab/3952.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3953,
@@ -96,6 +96,6 @@
     "type": "channel",
     "position": 14,
     "streamsFile": "streams/document_arab/3953.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

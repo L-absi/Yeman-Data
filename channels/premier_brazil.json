@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/premier_brazil/4860.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4861,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/premier_brazil/4861.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4862,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/premier_brazil/4862.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4863,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/premier_brazil/4863.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4864,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/premier_brazil/4864.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4865,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 92,
     "streamsFile": "streams/premier_brazil/4866.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4867,
@@ -85,6 +85,6 @@
     "type": "channel",
     "position": 712,
     "streamsFile": "streams/premier_brazil/4867.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

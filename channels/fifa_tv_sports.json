@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/fifa_tv_sports/4803.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4804,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/fifa_tv_sports/4804.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4805,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/fifa_tv_sports/4805.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4806,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/fifa_tv_sports/4806.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4807,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/fifa_tv_sports/4807.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4808,
@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/fifa_tv_sports/4808.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4809,
@@ -74,6 +74,6 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/fifa_tv_sports/4809.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/égypte/2630.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2631,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/égypte/2631.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2632,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/égypte/2632.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2633,
@@ -107,7 +107,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/égypte/2639.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2640,
@@ -118,7 +118,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/égypte/2640.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2641,
@@ -162,7 +162,7 @@
     "type": "channel",
     "position": 12,
     "streamsFile": "streams/égypte/2644.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2645,
@@ -173,7 +173,7 @@
     "type": "channel",
     "position": 13,
     "streamsFile": "streams/égypte/2645.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2646,
@@ -184,7 +184,7 @@
     "type": "channel",
     "position": 14,
     "streamsFile": "streams/égypte/2646.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2647,
@@ -195,7 +195,7 @@
     "type": "channel",
     "position": 15,
     "streamsFile": "streams/égypte/2647.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2648,
@@ -217,7 +217,7 @@
     "type": "channel",
     "position": 17,
     "streamsFile": "streams/égypte/2649.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2650,

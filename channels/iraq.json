@@ -173,7 +173,7 @@
     "type": "channel",
     "position": 16,
     "streamsFile": "streams/iraq/2081.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2082,
@@ -184,7 +184,7 @@
     "type": "channel",
     "position": 17,
     "streamsFile": "streams/iraq/2082.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2083,
@@ -217,7 +217,7 @@
     "type": "channel",
     "position": 20,
     "streamsFile": "streams/iraq/2085.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2086,
@@ -228,7 +228,7 @@
     "type": "channel",
     "position": 21,
     "streamsFile": "streams/iraq/2086.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2087,
@@ -261,7 +261,7 @@
     "type": "channel",
     "position": 24,
     "streamsFile": "streams/iraq/2089.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2090,
@@ -349,7 +349,7 @@
     "type": "channel",
     "position": 32,
     "streamsFile": "streams/iraq/2097.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2098,
@@ -470,7 +470,7 @@
     "type": "channel",
     "position": 43,
     "streamsFile": "streams/iraq/2108.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2109,
@@ -481,7 +481,7 @@
     "type": "channel",
     "position": 44,
     "streamsFile": "streams/iraq/2109.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2110,
@@ -492,7 +492,7 @@
     "type": "channel",
     "position": 45,
     "streamsFile": "streams/iraq/2110.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2111,
@@ -503,7 +503,7 @@
     "type": "channel",
     "position": 46,
     "streamsFile": "streams/iraq/2111.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2112,
@@ -536,7 +536,7 @@
     "type": "channel",
     "position": 49,
     "streamsFile": "streams/iraq/2114.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2115,
@@ -580,7 +580,7 @@
     "type": "channel",
     "position": 53,
     "streamsFile": "streams/iraq/2118.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2119,
@@ -712,7 +712,7 @@
     "type": "channel",
     "position": 65,
     "streamsFile": "streams/iraq/2130.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2131,
@@ -789,6 +789,6 @@
     "type": "channel",
     "position": 72,
     "streamsFile": "streams/iraq/2137.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

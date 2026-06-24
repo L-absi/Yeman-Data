@@ -9,7 +9,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/18/590.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 591,
@@ -57,7 +57,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/18/593.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 1579,
@@ -93,7 +93,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/18/594.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 595,
@@ -105,7 +105,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/18/595.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 596,
@@ -369,7 +369,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/18/613.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 614,
@@ -513,7 +513,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/18/1794.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 1578,
@@ -561,7 +561,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/18/1591.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 1592,
@@ -621,7 +621,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/18/605.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 606,
@@ -633,7 +633,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/18/606.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 607,
@@ -705,7 +705,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/18/629.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 1669,
@@ -741,7 +741,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/18/957.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 959,

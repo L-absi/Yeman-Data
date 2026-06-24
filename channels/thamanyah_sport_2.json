@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/thamanyah_sport_2/5763.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5764,
@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/thamanyah_sport_2/5764.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5765,
@@ -74,6 +74,6 @@
     "type": "channel",
     "position": 10,
     "streamsFile": "streams/thamanyah_sport_2/5765.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

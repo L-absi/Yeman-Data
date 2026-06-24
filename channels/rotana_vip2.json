@@ -85,7 +85,7 @@
     "type": "channel",
     "position": 11,
     "streamsFile": "streams/rotana_vip2/3099.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3100,
@@ -96,7 +96,7 @@
     "type": "channel",
     "position": 12,
     "streamsFile": "streams/rotana_vip2/3100.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3101,
@@ -140,6 +140,6 @@
     "type": "channel",
     "position": 16,
     "streamsFile": "streams/rotana_vip2/3104.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

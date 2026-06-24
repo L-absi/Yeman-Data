@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/ligue1_sport/4001.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4002,

@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/algérie/2015.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2016,
@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/algérie/2019.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2020,

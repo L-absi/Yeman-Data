@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/aya_cx_tvstarzplay_ستارز_بلاي/5751.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5752,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/aya_cx_tvstarzplay_ستارز_بلاي/5752.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5753,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/aya_cx_tvstarzplay_ستارز_بلاي/5753.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5754,

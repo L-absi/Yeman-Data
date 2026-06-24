@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/alwan_sports/5734.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5735,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/alwan_sports/5735.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5736,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/alwan_sports/5736.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5737,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/alwan_sports/5737.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5738,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/alwan_sports/5738.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5739,
@@ -63,6 +63,6 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/alwan_sports/5739.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

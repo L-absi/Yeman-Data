@@ -20,7 +20,8 @@
     "logo": "https://www.korafreha2.com/YacineTV_New/ARABIC/b4u-aflam.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/20/659.json"
+    "streamsFile": "streams/20/659.json",
+    "isworking": 0
   },
   {
     "id": 660,
@@ -272,7 +273,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/20/691.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 692,
@@ -284,7 +285,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/20/692.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 693,
@@ -296,7 +297,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/20/693.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 694,
@@ -308,7 +309,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/20/694.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 695,
@@ -320,7 +321,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/20/695.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 697,

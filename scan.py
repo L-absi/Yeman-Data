@@ -1,19 +1,19 @@
 import json
-import requests
 import csv
+import time
+import asyncio
+import aiohttp
 from pathlib import Path
 from typing import Dict, List, Any, Set, Optional
-from concurrent.futures import ThreadPoolExecutor, as_completed
-from tqdm import tqdm
-import time
+from tqdm.asyncio import tqdm as async_tqdm
 
 # -------------------- الإعدادات --------------------
 BASE_DIR = Path(".")
 STREAMS_DIR = BASE_DIR / "streams"
 CHANNELS_DIR = BASE_DIR / "channels"
 
-MAX_WORKERS = 20
-TIMEOUT = 5  # ثوانٍ
+CONCURRENT_LIMIT = 200        # عدد الطلبات المتزامنة
+TIMEOUT = aiohttp.ClientTimeout(total=3, connect=2, sock_read=2)  # وقت قصير جداً
 
 # -------------------- دوال مساعدة --------------------
 def load_json(path: Path) -> Any:
@@ -24,8 +24,15 @@ def load_json(path: Path) -> Any:
         print(f"❌ خطأ في قراءة {path}: {e}")
         return None
 
-def check_stream(session: requests.Session, url: str, headers: Dict[str, str] = None) -> Dict[str, Any]:
-    """فحص رابط البث مع إعادة استخدام الجلسة."""
+def build_headers(server: Dict) -> Dict[str, str]:
+    headers = {}
+    if server.get("Referer"):
+        headers["Referer"] = server["Referer"]
+    if server.get("userAgent"):
+        headers["User-Agent"] = server["userAgent"]
+    return headers
+
+async def check_stream_async(session: aiohttp.ClientSession, url: str, headers: Dict = None) -> Dict[str, Any]:
     result = {
         "url": url,
         "status": "unknown",
@@ -38,19 +45,18 @@ def check_stream(session: requests.Session, url: str, headers: Dict[str, str] = 
         return result
 
     try:
-        resp = session.get(url, headers=headers or {}, stream=True, timeout=TIMEOUT, allow_redirects=True)
-        # قراءة أول بايت فقط للتأكد من وجود محتوى فعلي
-        chunk = resp.raw.read(1, decode_content=False)
-        if resp.status_code == 200 and chunk:
-            result["working"] = True
-            result["status"] = resp.status_code
-        else:
-            result["status"] = resp.status_code
-            result["error"] = f"Status {resp.status_code} or empty response"
-    except requests.exceptions.Timeout:
+        async with session.get(url, headers=headers, timeout=TIMEOUT) as resp:
+            chunk = await resp.content.read(1)
+            if resp.status == 200 and chunk:
+                result["working"] = True
+                result["status"] = 200
+            else:
+                result["status"] = resp.status
+                result["error"] = f"Status {resp.status} or empty"
+    except asyncio.TimeoutError:
         result["status"] = "timeout"
         result["error"] = "Connection timed out"
-    except requests.exceptions.ConnectionError:
+    except aiohttp.ClientConnectorError:
         result["status"] = "connection_error"
         result["error"] = "Failed to connect"
     except Exception as e:
@@ -59,24 +65,9 @@ def check_stream(session: requests.Session, url: str, headers: Dict[str, str] = 
 
     return result
 
-def build_headers(server: Dict) -> Dict[str, str]:
-    headers = {}
-    if server.get("Referer"):
-        headers["Referer"] = server["Referer"]
-    if server.get("userAgent"):
-        headers["User-Agent"] = server["userAgent"]
-    return headers
-
 def update_channels_working_status(report_rows: List[Dict]):
-    """
-    تحديث حقل 'isworking' في جميع ملفات القنوات.
-    الهيكل الجديد: ملفات البث أصبحت streams/<channel_key>/<id>.json
-    """
-    # تجميع حالة العمل لكل قناة (مفتاح القناة + معرف القناة)
-    # سنستخدم زوج (channel_file_stem, channel_id) لتحديد ما إذا كانت القناة تعمل.
-    status_map = {}  # key: (channel_file_stem, channel_id) -> bool
+    status_map = {}
     for row in report_rows:
-        # row تحتوي الآن على 'channel_file' و 'channel_id' (سنضيفها لاحقًا)
         cf = row.get("channel_file")
         cid = row.get("channel_id")
         if cf is None or cid is None:
@@ -92,7 +83,6 @@ def update_channels_working_status(report_rows: List[Dict]):
         channels = load_json(channel_file)
         if not channels or not isinstance(channels, list):
             continue
-
         updated = False
         for ch in channels:
             ch_id = ch.get("id")
@@ -102,19 +92,12 @@ def update_channels_working_status(report_rows: List[Dict]):
             if ch.get("isworking") != new_working:
                 ch["isworking"] = new_working
                 updated = True
-
         if updated:
             with open(channel_file, 'w', encoding='utf-8') as f:
                 json.dump(channels, f, indent=2, ensure_ascii=False)
             print(f"✅ تم تحديث {channel_file.name}")
 
-# -------------------- تجميع المهام --------------------
 def collect_all_tasks(sections_dict: Dict[str, Dict]) -> List[Dict]:
-    """
-    تجميع جميع مهام الفحص مع دعم الهيكل الجديد:
-    - ملفات القنوات: channels/<key>.json
-    - ملفات البث: streams/<key>/<id>.json
-    """
     tasks = []
 
     def recurse_collect(sec_key: str, path_name: str, depth: int = 0):
@@ -131,14 +114,13 @@ def collect_all_tasks(sections_dict: Dict[str, Dict]) -> List[Dict]:
                     recurse_collect(sub_key, new_path, depth + 1)
                 continue
 
-            channels_file_rel = cat.get("channelsFile")  # مثال: channels/max_tv.json
+            channels_file_rel = cat.get("channelsFile")
             if not channels_file_rel:
                 continue
             channels_file_path = BASE_DIR / channels_file_rel
             if not channels_file_path.exists() or channels_file_path.is_dir():
                 continue
 
-            # اسم الملف بدون لاحقة = مفتاح القناة (مجلد البث)
             channel_key = channels_file_path.stem
             channels = load_json(channels_file_path)
             if not channels:
@@ -151,7 +133,6 @@ def collect_all_tasks(sections_dict: Dict[str, Dict]) -> List[Dict]:
                 if not ch_id:
                     continue
 
-                # المسار الجديد لملف البث
                 stream_file = STREAMS_DIR / channel_key / f"{ch_id}.json"
                 if not stream_file.exists():
                     tasks.append({
@@ -182,7 +163,6 @@ def collect_all_tasks(sections_dict: Dict[str, Dict]) -> List[Dict]:
                         "headers": headers
                     })
 
-    # تجنب تكرار معالجة الأقسام الفرعية كأقسام رئيسية
     sub_keys: Set[str] = set()
     for sec in sections_dict.values():
         for cat in sec.get("categories", []):
@@ -199,55 +179,44 @@ def collect_all_tasks(sections_dict: Dict[str, Dict]) -> List[Dict]:
 
     return tasks
 
-# -------------------- الفحص متعدد الخيوط --------------------
-def process_with_threads(sections_dict: Dict[str, Dict], report_rows: List[Dict]):
+async def process_async(sections_dict: Dict[str, Dict], report_rows: List[Dict]):
     tasks = collect_all_tasks(sections_dict)
     total = len(tasks)
-    print(f"📊 إجمالي الروابط المطلوب فحصها: {total}")
+    print(f"📊 إجمالي الروابط: {total}")
 
-    session = requests.Session()
-    # إعداد محول لزيادة عدد الاتصالات المتزامنة
-    adapter = requests.adapters.HTTPAdapter(pool_maxsize=MAX_WORKERS, pool_block=True)
-    session.mount("http://", adapter)
-    session.mount("https://", adapter)
+    connector = aiohttp.TCPConnector(limit=CONCURRENT_LIMIT)
+    async with aiohttp.ClientSession(connector=connector) as session:
+        semaphore = asyncio.Semaphore(CONCURRENT_LIMIT)
 
-    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        future_to_task = {}
-        for task in tasks:
-            if task["url"] is None:
-                future = executor.submit(lambda: None)
-            else:
-                future = executor.submit(check_stream, session, task["url"], task["headers"])
-            future_to_task[future] = task
-
-        with tqdm(total=total, desc="فحص الروابط", unit="رابط") as pbar:
-            for future in as_completed(future_to_task):
-                task = future_to_task[future]
+        async def sem_task(task):
+            async with semaphore:
                 if task["url"] is None:
-                    result = {
+                    return task, {
                         "url": "",
                         "status": "file_missing",
                         "working": False,
                         "error": "Stream file not found"
                     }
-                else:
-                    result = future.result()
+                result = await check_stream_async(session, task["url"], task["headers"])
+                return task, result
 
-                report_rows.append({
-                    "section": task["section"],
-                    "category": task["category"],
-                    "channel": task["channel"],
-                    "channel_file": task["channel_file"],
-                    "channel_id": task["channel_id"],
-                    "url": result["url"],
-                    "status": result["status"],
-                    "working": result["working"],
-                    "error": result["error"]
-                })
-                pbar.update(1)
+        # إنشاء جميع المهام مع شريط تقدم
+        coros = [sem_task(task) for task in tasks]
+        for coro in async_tqdm.as_completed(coros, desc="فحص الروابط", total=total, unit="رابط"):
+            task, result = await coro
+            report_rows.append({
+                "section": task["section"],
+                "category": task["category"],
+                "channel": task["channel"],
+                "channel_file": task["channel_file"],
+                "channel_id": task["channel_id"],
+                "url": result["url"],
+                "status": result["status"],
+                "working": result["working"],
+                "error": result["error"]
+            })
 
-# -------------------- الدالة الرئيسية --------------------
-def main():
+async def main_async():
     sections_list = load_json(BASE_DIR / "section_categories.json")
     if not sections_list:
         print("❌ لم يتم العثور على section_categories.json")
@@ -261,7 +230,7 @@ def main():
 
     report_rows: List[Dict] = []
     start_time = time.time()
-    process_with_threads(sections_dict, report_rows)
+    await process_async(sections_dict, report_rows)
     elapsed = time.time() - start_time
 
     update_channels_working_status(report_rows)
@@ -278,4 +247,4 @@ def main():
     print(f"   الوقت المستغرق: {elapsed:.2f} ثانية")
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main_async())

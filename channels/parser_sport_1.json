@@ -114,7 +114,7 @@
     "is_hide": 0,
     "priority": 0,
     "streamsFile": "streams/parser_sport_1/20289.json",
-    "isworking": 0
+    "isworking": 1
   },
   {
     "id": 20290,
@@ -132,7 +132,7 @@
     "is_hide": 0,
     "priority": 0,
     "streamsFile": "streams/parser_sport_1/20291.json",
-    "isworking": 0
+    "isworking": 1
   },
   {
     "id": 20292,

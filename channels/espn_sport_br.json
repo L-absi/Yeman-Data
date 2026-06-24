@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/espn_sport_br/4791.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4792,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 11,
     "streamsFile": "streams/espn_sport_br/4792.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4793,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 30,
     "streamsFile": "streams/espn_sport_br/4793.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4794,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 124,
     "streamsFile": "streams/espn_sport_br/4797.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4798,
@@ -85,7 +85,7 @@
     "type": "channel",
     "position": 552,
     "streamsFile": "streams/espn_sport_br/4798.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4799,
@@ -96,7 +96,7 @@
     "type": "channel",
     "position": 555,
     "streamsFile": "streams/espn_sport_br/4799.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4800,
@@ -107,7 +107,7 @@
     "type": "channel",
     "position": 556,
     "streamsFile": "streams/espn_sport_br/4800.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4801,
@@ -118,7 +118,7 @@
     "type": "channel",
     "position": 1045,
     "streamsFile": "streams/espn_sport_br/4801.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4802,

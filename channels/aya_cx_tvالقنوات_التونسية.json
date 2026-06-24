@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/aya_cx_tvالقنوات_التونسية/2042.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2043,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/aya_cx_tvالقنوات_التونسية/2048.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2049,
@@ -85,7 +85,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/aya_cx_tvالقنوات_التونسية/2049.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2050,

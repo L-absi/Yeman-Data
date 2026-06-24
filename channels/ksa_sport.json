@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/ksa_sport/5756.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5757,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/ksa_sport/5757.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5758,
@@ -30,6 +30,6 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/ksa_sport/5758.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

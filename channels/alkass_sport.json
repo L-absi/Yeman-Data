@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/alkass_sport/5724.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5725,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/alkass_sport/5725.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5726,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/alkass_sport/5726.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5727,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/alkass_sport/5727.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5728,
@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/alkass_sport/5729.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5730,
@@ -96,7 +96,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/alkass_sport/5732.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5733,
@@ -107,6 +107,6 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/alkass_sport/5733.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

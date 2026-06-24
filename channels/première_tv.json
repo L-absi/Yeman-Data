@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/première_tv/4869.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4870,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/première_tv/4870.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4871,

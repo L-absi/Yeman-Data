@@ -60,7 +60,7 @@
     "is_hide": 0,
     "priority": 0,
     "streamsFile": "streams/sport_event_match_live/20489.json",
-    "isworking": 0
+    "isworking": 1
   },
   {
     "id": 20490,
@@ -69,7 +69,7 @@
     "is_hide": 0,
     "priority": 0,
     "streamsFile": "streams/sport_event_match_live/20490.json",
-    "isworking": 0
+    "isworking": 1
   },
   {
     "id": 20491,

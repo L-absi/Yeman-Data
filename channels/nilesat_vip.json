@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/nilesat_vip/2807.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2808,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/nilesat_vip/2809.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2810,
@@ -272,7 +272,7 @@
     "type": "channel",
     "position": 28,
     "streamsFile": "streams/nilesat_vip/2829.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2830,
@@ -283,7 +283,7 @@
     "type": "channel",
     "position": 29,
     "streamsFile": "streams/nilesat_vip/2830.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2831,
@@ -294,7 +294,7 @@
     "type": "channel",
     "position": 30,
     "streamsFile": "streams/nilesat_vip/2831.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2832,
@@ -316,7 +316,7 @@
     "type": "channel",
     "position": 32,
     "streamsFile": "streams/nilesat_vip/2833.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2834,
@@ -327,7 +327,7 @@
     "type": "channel",
     "position": 33,
     "streamsFile": "streams/nilesat_vip/2834.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2835,
@@ -338,7 +338,7 @@
     "type": "channel",
     "position": 34,
     "streamsFile": "streams/nilesat_vip/2835.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2836,
@@ -349,7 +349,7 @@
     "type": "channel",
     "position": 35,
     "streamsFile": "streams/nilesat_vip/2836.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2837,
@@ -382,7 +382,7 @@
     "type": "channel",
     "position": 38,
     "streamsFile": "streams/nilesat_vip/2839.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2840,
@@ -426,7 +426,7 @@
     "type": "channel",
     "position": 42,
     "streamsFile": "streams/nilesat_vip/2843.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2844,
@@ -437,7 +437,7 @@
     "type": "channel",
     "position": 43,
     "streamsFile": "streams/nilesat_vip/2844.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2845,
@@ -448,7 +448,7 @@
     "type": "channel",
     "position": 44,
     "streamsFile": "streams/nilesat_vip/2845.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2846,
@@ -459,7 +459,7 @@
     "type": "channel",
     "position": 45,
     "streamsFile": "streams/nilesat_vip/2846.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2847,
@@ -470,7 +470,7 @@
     "type": "channel",
     "position": 46,
     "streamsFile": "streams/nilesat_vip/2847.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2848,
@@ -481,7 +481,7 @@
     "type": "channel",
     "position": 47,
     "streamsFile": "streams/nilesat_vip/2848.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2849,
@@ -503,7 +503,7 @@
     "type": "channel",
     "position": 68,
     "streamsFile": "streams/nilesat_vip/2850.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2851,
@@ -536,7 +536,7 @@
     "type": "channel",
     "position": 80,
     "streamsFile": "streams/nilesat_vip/2853.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2854,
@@ -547,7 +547,7 @@
     "type": "channel",
     "position": 81,
     "streamsFile": "streams/nilesat_vip/2854.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2855,
@@ -558,7 +558,7 @@
     "type": "channel",
     "position": 82,
     "streamsFile": "streams/nilesat_vip/2855.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2856,
@@ -569,7 +569,7 @@
     "type": "channel",
     "position": 83,
     "streamsFile": "streams/nilesat_vip/2856.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2857,
@@ -580,7 +580,7 @@
     "type": "channel",
     "position": 84,
     "streamsFile": "streams/nilesat_vip/2857.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2858,
@@ -591,7 +591,7 @@
     "type": "channel",
     "position": 85,
     "streamsFile": "streams/nilesat_vip/2858.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2859,
@@ -602,7 +602,7 @@
     "type": "channel",
     "position": 86,
     "streamsFile": "streams/nilesat_vip/2859.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2860,
@@ -613,7 +613,7 @@
     "type": "channel",
     "position": 87,
     "streamsFile": "streams/nilesat_vip/2860.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2861,
@@ -624,7 +624,7 @@
     "type": "channel",
     "position": 88,
     "streamsFile": "streams/nilesat_vip/2861.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2862,
@@ -635,7 +635,7 @@
     "type": "channel",
     "position": 89,
     "streamsFile": "streams/nilesat_vip/2862.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2863,
@@ -646,7 +646,7 @@
     "type": "channel",
     "position": 90,
     "streamsFile": "streams/nilesat_vip/2863.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2864,
@@ -657,7 +657,7 @@
     "type": "channel",
     "position": 91,
     "streamsFile": "streams/nilesat_vip/2864.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2865,
@@ -668,7 +668,7 @@
     "type": "channel",
     "position": 92,
     "streamsFile": "streams/nilesat_vip/2865.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2866,
@@ -679,7 +679,7 @@
     "type": "channel",
     "position": 94,
     "streamsFile": "streams/nilesat_vip/2866.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2867,
@@ -690,7 +690,7 @@
     "type": "channel",
     "position": 95,
     "streamsFile": "streams/nilesat_vip/2867.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2868,
@@ -701,7 +701,7 @@
     "type": "channel",
     "position": 96,
     "streamsFile": "streams/nilesat_vip/2868.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2869,
@@ -723,7 +723,7 @@
     "type": "channel",
     "position": 100,
     "streamsFile": "streams/nilesat_vip/2870.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2871,
@@ -734,7 +734,7 @@
     "type": "channel",
     "position": 101,
     "streamsFile": "streams/nilesat_vip/2871.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2872,
@@ -745,7 +745,7 @@
     "type": "channel",
     "position": 103,
     "streamsFile": "streams/nilesat_vip/2872.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2873,
@@ -778,7 +778,7 @@
     "type": "channel",
     "position": 106,
     "streamsFile": "streams/nilesat_vip/2875.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2876,
@@ -789,7 +789,7 @@
     "type": "channel",
     "position": 107,
     "streamsFile": "streams/nilesat_vip/2876.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2877,
@@ -800,7 +800,7 @@
     "type": "channel",
     "position": 108,
     "streamsFile": "streams/nilesat_vip/2877.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2878,
@@ -811,7 +811,7 @@
     "type": "channel",
     "position": 109,
     "streamsFile": "streams/nilesat_vip/2878.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2879,
@@ -965,7 +965,7 @@
     "type": "channel",
     "position": 128,
     "streamsFile": "streams/nilesat_vip/2892.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2893,
@@ -976,7 +976,7 @@
     "type": "channel",
     "position": 129,
     "streamsFile": "streams/nilesat_vip/2893.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2894,
@@ -1064,7 +1064,7 @@
     "type": "channel",
     "position": 147,
     "streamsFile": "streams/nilesat_vip/2901.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2902,
@@ -1075,7 +1075,7 @@
     "type": "channel",
     "position": 148,
     "streamsFile": "streams/nilesat_vip/2902.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2903,
@@ -1086,7 +1086,7 @@
     "type": "channel",
     "position": 149,
     "streamsFile": "streams/nilesat_vip/2903.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2904,
@@ -1097,7 +1097,7 @@
     "type": "channel",
     "position": 151,
     "streamsFile": "streams/nilesat_vip/2904.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2905,
@@ -1141,7 +1141,7 @@
     "type": "channel",
     "position": 155,
     "streamsFile": "streams/nilesat_vip/2908.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2909,
@@ -1152,7 +1152,7 @@
     "type": "channel",
     "position": 156,
     "streamsFile": "streams/nilesat_vip/2909.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2910,
@@ -1185,7 +1185,7 @@
     "type": "channel",
     "position": 160,
     "streamsFile": "streams/nilesat_vip/2912.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2913,
@@ -1196,7 +1196,7 @@
     "type": "channel",
     "position": 161,
     "streamsFile": "streams/nilesat_vip/2913.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2914,
@@ -1207,7 +1207,7 @@
     "type": "channel",
     "position": 162,
     "streamsFile": "streams/nilesat_vip/2914.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2915,
@@ -1218,7 +1218,7 @@
     "type": "channel",
     "position": 163,
     "streamsFile": "streams/nilesat_vip/2915.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2916,
@@ -1251,7 +1251,7 @@
     "type": "channel",
     "position": 166,
     "streamsFile": "streams/nilesat_vip/2918.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2919,
@@ -1262,7 +1262,7 @@
     "type": "channel",
     "position": 167,
     "streamsFile": "streams/nilesat_vip/2919.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2920,
@@ -1273,7 +1273,7 @@
     "type": "channel",
     "position": 168,
     "streamsFile": "streams/nilesat_vip/2920.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2921,
@@ -1284,7 +1284,7 @@
     "type": "channel",
     "position": 169,
     "streamsFile": "streams/nilesat_vip/2921.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2922,
@@ -1295,7 +1295,7 @@
     "type": "channel",
     "position": 170,
     "streamsFile": "streams/nilesat_vip/2922.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2923,
@@ -1306,7 +1306,7 @@
     "type": "channel",
     "position": 171,
     "streamsFile": "streams/nilesat_vip/2923.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2924,
@@ -1317,7 +1317,7 @@
     "type": "channel",
     "position": 172,
     "streamsFile": "streams/nilesat_vip/2924.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2925,
@@ -1328,7 +1328,7 @@
     "type": "channel",
     "position": 173,
     "streamsFile": "streams/nilesat_vip/2925.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2926,
@@ -1570,7 +1570,7 @@
     "type": "channel",
     "position": 203,
     "streamsFile": "streams/nilesat_vip/2947.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2948,
@@ -1592,7 +1592,7 @@
     "type": "channel",
     "position": 205,
     "streamsFile": "streams/nilesat_vip/2949.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2950,
@@ -1636,7 +1636,7 @@
     "type": "channel",
     "position": 209,
     "streamsFile": "streams/nilesat_vip/2953.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2954,
@@ -1647,7 +1647,7 @@
     "type": "channel",
     "position": 210,
     "streamsFile": "streams/nilesat_vip/2954.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2955,
@@ -1669,7 +1669,7 @@
     "type": "channel",
     "position": 212,
     "streamsFile": "streams/nilesat_vip/2956.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2957,
@@ -1680,7 +1680,7 @@
     "type": "channel",
     "position": 213,
     "streamsFile": "streams/nilesat_vip/2957.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2958,
@@ -1757,7 +1757,7 @@
     "type": "channel",
     "position": 220,
     "streamsFile": "streams/nilesat_vip/2964.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2965,
@@ -1790,7 +1790,7 @@
     "type": "channel",
     "position": 223,
     "streamsFile": "streams/nilesat_vip/2967.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2968,
@@ -1856,7 +1856,7 @@
     "type": "channel",
     "position": 229,
     "streamsFile": "streams/nilesat_vip/2973.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2974,
@@ -1867,7 +1867,7 @@
     "type": "channel",
     "position": 230,
     "streamsFile": "streams/nilesat_vip/2974.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2975,
@@ -1900,7 +1900,7 @@
     "type": "channel",
     "position": 233,
     "streamsFile": "streams/nilesat_vip/2977.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2978,
@@ -1911,7 +1911,7 @@
     "type": "channel",
     "position": 234,
     "streamsFile": "streams/nilesat_vip/2978.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2979,
@@ -1922,7 +1922,7 @@
     "type": "channel",
     "position": 235,
     "streamsFile": "streams/nilesat_vip/2979.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2980,
@@ -1933,7 +1933,7 @@
     "type": "channel",
     "position": 236,
     "streamsFile": "streams/nilesat_vip/2980.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2981,
@@ -1944,7 +1944,7 @@
     "type": "channel",
     "position": 237,
     "streamsFile": "streams/nilesat_vip/2981.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2982,
@@ -2010,7 +2010,7 @@
     "type": "channel",
     "position": 243,
     "streamsFile": "streams/nilesat_vip/2987.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2988,
@@ -2043,7 +2043,7 @@
     "type": "channel",
     "position": 246,
     "streamsFile": "streams/nilesat_vip/2990.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2991,
@@ -2054,7 +2054,7 @@
     "type": "channel",
     "position": 247,
     "streamsFile": "streams/nilesat_vip/2991.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2992,
@@ -2065,7 +2065,7 @@
     "type": "channel",
     "position": 248,
     "streamsFile": "streams/nilesat_vip/2992.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2993,
@@ -2076,7 +2076,7 @@
     "type": "channel",
     "position": 249,
     "streamsFile": "streams/nilesat_vip/2993.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2994,
@@ -2098,7 +2098,7 @@
     "type": "channel",
     "position": 252,
     "streamsFile": "streams/nilesat_vip/2995.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2996,
@@ -2131,7 +2131,7 @@
     "type": "channel",
     "position": 255,
     "streamsFile": "streams/nilesat_vip/2998.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2999,
@@ -2219,7 +2219,7 @@
     "type": "channel",
     "position": 263,
     "streamsFile": "streams/nilesat_vip/3006.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3007,
@@ -2230,7 +2230,7 @@
     "type": "channel",
     "position": 264,
     "streamsFile": "streams/nilesat_vip/3007.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3008,
@@ -2241,7 +2241,7 @@
     "type": "channel",
     "position": 265,
     "streamsFile": "streams/nilesat_vip/3008.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3009,
@@ -2307,7 +2307,7 @@
     "type": "channel",
     "position": 272,
     "streamsFile": "streams/nilesat_vip/3014.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3015,
@@ -2318,7 +2318,7 @@
     "type": "channel",
     "position": 273,
     "streamsFile": "streams/nilesat_vip/3015.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3016,
@@ -2329,7 +2329,7 @@
     "type": "channel",
     "position": 274,
     "streamsFile": "streams/nilesat_vip/3016.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3017,
@@ -2340,7 +2340,7 @@
     "type": "channel",
     "position": 275,
     "streamsFile": "streams/nilesat_vip/3017.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3018,
@@ -2351,7 +2351,7 @@
     "type": "channel",
     "position": 276,
     "streamsFile": "streams/nilesat_vip/3018.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3019,
@@ -2362,7 +2362,7 @@
     "type": "channel",
     "position": 277,
     "streamsFile": "streams/nilesat_vip/3019.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3020,
@@ -2373,7 +2373,7 @@
     "type": "channel",
     "position": 278,
     "streamsFile": "streams/nilesat_vip/3020.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3021,
@@ -2428,7 +2428,7 @@
     "type": "channel",
     "position": 283,
     "streamsFile": "streams/nilesat_vip/3025.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3026,
@@ -2527,7 +2527,7 @@
     "type": "channel",
     "position": 293,
     "streamsFile": "streams/nilesat_vip/3034.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3035,
@@ -2560,7 +2560,7 @@
     "type": "channel",
     "position": 300,
     "streamsFile": "streams/nilesat_vip/3037.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3038,
@@ -2571,7 +2571,7 @@
     "type": "channel",
     "position": 307,
     "streamsFile": "streams/nilesat_vip/3038.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3039,
@@ -2593,7 +2593,7 @@
     "type": "channel",
     "position": 315,
     "streamsFile": "streams/nilesat_vip/3040.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3041,
@@ -2604,7 +2604,7 @@
     "type": "channel",
     "position": 317,
     "streamsFile": "streams/nilesat_vip/3041.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3042,
@@ -2637,7 +2637,7 @@
     "type": "channel",
     "position": 321,
     "streamsFile": "streams/nilesat_vip/3044.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3045,
@@ -2648,7 +2648,7 @@
     "type": "channel",
     "position": 326,
     "streamsFile": "streams/nilesat_vip/3045.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3046,
@@ -2670,7 +2670,7 @@
     "type": "channel",
     "position": 335,
     "streamsFile": "streams/nilesat_vip/3047.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3048,
@@ -2692,7 +2692,7 @@
     "type": "channel",
     "position": 337,
     "streamsFile": "streams/nilesat_vip/3049.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3050,
@@ -2714,7 +2714,7 @@
     "type": "channel",
     "position": 339,
     "streamsFile": "streams/nilesat_vip/3051.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3052,
@@ -2725,7 +2725,7 @@
     "type": "channel",
     "position": 340,
     "streamsFile": "streams/nilesat_vip/3052.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3053,
@@ -2780,7 +2780,7 @@
     "type": "channel",
     "position": 347,
     "streamsFile": "streams/nilesat_vip/3057.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3058,
@@ -2791,7 +2791,7 @@
     "type": "channel",
     "position": 349,
     "streamsFile": "streams/nilesat_vip/3058.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3059,
@@ -2802,7 +2802,7 @@
     "type": "channel",
     "position": 350,
     "streamsFile": "streams/nilesat_vip/3059.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3060,
@@ -2824,7 +2824,7 @@
     "type": "channel",
     "position": 352,
     "streamsFile": "streams/nilesat_vip/3061.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3062,
@@ -2835,7 +2835,7 @@
     "type": "channel",
     "position": 353,
     "streamsFile": "streams/nilesat_vip/3062.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3063,
@@ -2890,7 +2890,7 @@
     "type": "channel",
     "position": 358,
     "streamsFile": "streams/nilesat_vip/3067.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3068,
@@ -2901,7 +2901,7 @@
     "type": "channel",
     "position": 359,
     "streamsFile": "streams/nilesat_vip/3068.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3069,
@@ -2934,7 +2934,7 @@
     "type": "channel",
     "position": 362,
     "streamsFile": "streams/nilesat_vip/3071.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3072,
@@ -2945,7 +2945,7 @@
     "type": "channel",
     "position": 363,
     "streamsFile": "streams/nilesat_vip/3072.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3073,
@@ -2956,7 +2956,7 @@
     "type": "channel",
     "position": 364,
     "streamsFile": "streams/nilesat_vip/3073.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3074,
@@ -2967,7 +2967,7 @@
     "type": "channel",
     "position": 365,
     "streamsFile": "streams/nilesat_vip/3074.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3075,
@@ -3000,7 +3000,7 @@
     "type": "channel",
     "position": 368,
     "streamsFile": "streams/nilesat_vip/3077.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3078,
@@ -3011,7 +3011,7 @@
     "type": "channel",
     "position": 369,
     "streamsFile": "streams/nilesat_vip/3078.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3079,
@@ -3022,7 +3022,7 @@
     "type": "channel",
     "position": 370,
     "streamsFile": "streams/nilesat_vip/3079.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3080,
@@ -3033,7 +3033,7 @@
     "type": "channel",
     "position": 371,
     "streamsFile": "streams/nilesat_vip/3080.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3081,
@@ -3044,7 +3044,7 @@
     "type": "channel",
     "position": 372,
     "streamsFile": "streams/nilesat_vip/3081.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3082,
@@ -3077,7 +3077,7 @@
     "type": "channel",
     "position": 376,
     "streamsFile": "streams/nilesat_vip/3084.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3085,
@@ -3110,7 +3110,7 @@
     "type": "channel",
     "position": 379,
     "streamsFile": "streams/nilesat_vip/3087.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3088,
@@ -3121,7 +3121,7 @@
     "type": "channel",
     "position": 380,
     "streamsFile": "streams/nilesat_vip/3088.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3089,
@@ -3154,6 +3154,6 @@
     "type": "channel",
     "position": 383,
     "streamsFile": "streams/nilesat_vip/3091.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/music_arab/4306.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4307,
@@ -184,7 +184,7 @@
     "type": "channel",
     "position": 19,
     "streamsFile": "streams/music_arab/4322.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4323,

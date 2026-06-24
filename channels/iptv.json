@@ -195,7 +195,7 @@
     "type": "channel",
     "position": 19,
     "streamsFile": "streams/iptv/4098.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4099,
@@ -217,7 +217,7 @@
     "type": "channel",
     "position": 21,
     "streamsFile": "streams/iptv/4100.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4101,
@@ -294,7 +294,7 @@
     "type": "channel",
     "position": 28,
     "streamsFile": "streams/iptv/4107.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4108,
@@ -316,7 +316,7 @@
     "type": "channel",
     "position": 30,
     "streamsFile": "streams/iptv/4109.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4110,
@@ -569,7 +569,7 @@
     "type": "channel",
     "position": 53,
     "streamsFile": "streams/iptv/4132.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4133,
@@ -580,7 +580,7 @@
     "type": "channel",
     "position": 54,
     "streamsFile": "streams/iptv/4133.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4134,
@@ -987,7 +987,7 @@
     "type": "channel",
     "position": 91,
     "streamsFile": "streams/iptv/4170.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4171,
@@ -1196,7 +1196,7 @@
     "type": "channel",
     "position": 110,
     "streamsFile": "streams/iptv/4189.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4190,
@@ -1240,7 +1240,7 @@
     "type": "channel",
     "position": 114,
     "streamsFile": "streams/iptv/4193.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4194,
@@ -1251,7 +1251,7 @@
     "type": "channel",
     "position": 115,
     "streamsFile": "streams/iptv/4194.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4195,
@@ -1262,7 +1262,7 @@
     "type": "channel",
     "position": 116,
     "streamsFile": "streams/iptv/4195.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4196,
@@ -1273,7 +1273,7 @@
     "type": "channel",
     "position": 117,
     "streamsFile": "streams/iptv/4196.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4197,
@@ -1339,7 +1339,7 @@
     "type": "channel",
     "position": 123,
     "streamsFile": "streams/iptv/4202.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4203,
@@ -1383,7 +1383,7 @@
     "type": "channel",
     "position": 127,
     "streamsFile": "streams/iptv/4206.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4207,
@@ -1427,7 +1427,7 @@
     "type": "channel",
     "position": 131,
     "streamsFile": "streams/iptv/4210.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4211,
@@ -1515,7 +1515,7 @@
     "type": "channel",
     "position": 139,
     "streamsFile": "streams/iptv/4218.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4219,
@@ -1570,7 +1570,7 @@
     "type": "channel",
     "position": 144,
     "streamsFile": "streams/iptv/4223.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4224,
@@ -1680,7 +1680,7 @@
     "type": "channel",
     "position": 154,
     "streamsFile": "streams/iptv/4233.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4234,
@@ -1746,7 +1746,7 @@
     "type": "channel",
     "position": 160,
     "streamsFile": "streams/iptv/4239.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4240,
@@ -1812,7 +1812,7 @@
     "type": "channel",
     "position": 166,
     "streamsFile": "streams/iptv/4245.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4246,
@@ -1867,7 +1867,7 @@
     "type": "channel",
     "position": 171,
     "streamsFile": "streams/iptv/4250.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4251,
@@ -2065,7 +2065,7 @@
     "type": "channel",
     "position": 189,
     "streamsFile": "streams/iptv/4268.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4269,
@@ -2076,7 +2076,7 @@
     "type": "channel",
     "position": 190,
     "streamsFile": "streams/iptv/4269.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4270,
@@ -2120,7 +2120,7 @@
     "type": "channel",
     "position": 194,
     "streamsFile": "streams/iptv/4273.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4274,

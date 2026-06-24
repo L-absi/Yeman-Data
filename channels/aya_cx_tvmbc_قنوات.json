@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/aya_cx_tvmbc_قنوات/2680.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2681,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/aya_cx_tvmbc_قنوات/2682.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2683,
@@ -96,7 +96,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/aya_cx_tvmbc_قنوات/2684.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2685,
@@ -107,7 +107,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/aya_cx_tvmbc_قنوات/2685.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2686,
@@ -118,7 +118,7 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/aya_cx_tvmbc_قنوات/2686.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2687,
@@ -129,7 +129,7 @@
     "type": "channel",
     "position": 10,
     "streamsFile": "streams/aya_cx_tvmbc_قنوات/2687.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2688,
@@ -151,7 +151,7 @@
     "type": "channel",
     "position": 12,
     "streamsFile": "streams/aya_cx_tvmbc_قنوات/2689.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2690,
@@ -162,7 +162,7 @@
     "type": "channel",
     "position": 13,
     "streamsFile": "streams/aya_cx_tvmbc_قنوات/2690.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2691,

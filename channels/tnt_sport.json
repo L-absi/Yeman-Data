@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/tnt_sport/4967.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4968,
@@ -74,6 +74,6 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/tnt_sport/4968.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

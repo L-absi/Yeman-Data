@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/canal+_afrique/4758.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4759,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/canal+_afrique/4759.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4760,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/canal+_afrique/4760.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4761,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/canal+_afrique/4761.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4762,
@@ -52,6 +52,6 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/canal+_afrique/4762.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

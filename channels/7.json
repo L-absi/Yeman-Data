@@ -9,7 +9,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/7/44.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 45,
@@ -21,7 +21,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/7/45.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 46,
@@ -33,7 +33,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/7/46.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 47,
@@ -45,7 +45,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/7/47.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 48,
@@ -57,7 +57,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/7/48.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 49,
@@ -69,7 +69,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/7/49.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 50,
@@ -81,7 +81,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/7/50.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 51,
@@ -93,7 +93,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/7/51.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 52,
@@ -117,7 +117,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/7/41.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 42,
@@ -152,7 +152,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/7/53.json"
+    "streamsFile": "streams/7/53.json",
+    "isworking": 0
   },
   {
     "id": 54,
@@ -163,7 +164,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/7/54.json"
+    "streamsFile": "streams/7/54.json",
+    "isworking": 0
   },
   {
     "id": 55,
@@ -175,7 +177,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/7/55.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 56,
@@ -199,7 +201,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/7/57.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 58,
@@ -210,7 +212,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/7/58.json"
+    "streamsFile": "streams/7/58.json",
+    "isworking": 0
   },
   {
     "id": 59,
@@ -221,7 +224,8 @@
     "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/7/59.json"
+    "streamsFile": "streams/7/59.json",
+    "isworking": 0
   },
   {
     "id": 80,

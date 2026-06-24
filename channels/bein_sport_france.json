@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/bein_sport_france/3914.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3915,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/bein_sport_france/3916.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3917,
@@ -85,7 +85,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/bein_sport_france/3917.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3918,
@@ -96,7 +96,7 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/bein_sport_france/3918.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3919,
@@ -107,7 +107,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/bein_sport_france/3919.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3920,
@@ -118,7 +118,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/bein_sport_france/3920.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3921,
@@ -129,7 +129,7 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/bein_sport_france/3921.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3922,
@@ -140,6 +140,6 @@
     "type": "channel",
     "position": 10,
     "streamsFile": "streams/bein_sport_france/3922.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/bein_sport_english/3907.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3908,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/bein_sport_english/3908.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3909,
@@ -30,6 +30,6 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/bein_sport_english/3909.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

@@ -8,7 +8,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaIdnVgVHV7aV3rc5KMjf0HYYam4FobeIqqtmOumD5ElqPK--NBFjgzfWAtfTcOLYD2mnSmLSuGzTOA-d3X1clyEOTHRLuwByN6ucvodWYanroIOxA__MN3VpL4m2O8L2po4NUOUYDiDmPb3Xd5kXg-AQUu8p2hS3415Cm6rkL989MiZ2Crh6LOkCi/s320/dubai_sports_1.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/83/1409.json"
+    "streamsFile": "streams/83/1409.json",
+    "isworking": 0
   },
   {
     "id": 1410,
@@ -19,7 +20,8 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvLL8wZohwxk2TvSli-qseodyXdenTVOsLqUTlQ3MghE7RjU3E4aEj-Psg1HP7JT1wLHm6rqTZ2ASQubnUo_B760HKWcZ14KBmvHAaM4sdOuuHbVnkVkimBo2lWYEzX9HykwruKKd4EyGMNxWnFGwaJC3d46Svv-SGXW-SSINzgkj6k0OZIi7Gmpg0/s320/dubai_sports_2.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/83/1410.json"
+    "streamsFile": "streams/83/1410.json",
+    "isworking": 0
   },
   {
     "id": 1411,
@@ -30,6 +32,7 @@
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijos0jkB2pJlp3nXlO-df-QINoG4IE-v5TvvfvVkeuhscX-kPzGxHliIOO3-CzJLVOD3ZCh3XyT9qkH_hg9s6UKuf3Ehnx2baRhHVNhblPt7R8XMBynKwPuCNWY6K3uVPmahYgg5kyTjX6sJch3Jhi1gFGsr2f3_3WhlkrU1WvPGh_7mdRGEZ7cQK2/s320/dubai_sports_3.png",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/83/1411.json"
+    "streamsFile": "streams/83/1411.json",
+    "isworking": 0
   }
 ]

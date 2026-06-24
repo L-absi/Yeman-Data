@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/liga_sports/3993.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3994,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/liga_sports/3994.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3995,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/liga_sports/3995.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 3996,
@@ -107,6 +107,6 @@
     "type": "channel",
     "position": 112,
     "streamsFile": "streams/liga_sports/4000.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

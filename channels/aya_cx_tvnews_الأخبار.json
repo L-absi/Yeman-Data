@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 23,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5045.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5046,
@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 26,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5047.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5048,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 10,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5048.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5049,
@@ -85,7 +85,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5049.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5050,
@@ -96,7 +96,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5050.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5051,
@@ -107,7 +107,7 @@
     "type": "channel",
     "position": 25,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5051.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5052,
@@ -129,7 +129,7 @@
     "type": "channel",
     "position": 16,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5053.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5054,
@@ -140,7 +140,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5054.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5055,
@@ -173,7 +173,7 @@
     "type": "channel",
     "position": 18,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5057.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5058,
@@ -184,7 +184,7 @@
     "type": "channel",
     "position": 22,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5058.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5059,
@@ -195,7 +195,7 @@
     "type": "channel",
     "position": 21,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5059.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5060,
@@ -206,7 +206,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5060.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5061,
@@ -217,7 +217,7 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5061.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5062,
@@ -228,7 +228,7 @@
     "type": "channel",
     "position": 31,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5062.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5063,
@@ -239,7 +239,7 @@
     "type": "channel",
     "position": 33,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5063.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5064,
@@ -250,7 +250,7 @@
     "type": "channel",
     "position": 14,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5064.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5065,
@@ -261,7 +261,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5065.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5066,
@@ -272,7 +272,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5066.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5067,
@@ -294,7 +294,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5068.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5069,
@@ -305,7 +305,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5069.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5070,
@@ -327,7 +327,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5071.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5072,
@@ -349,7 +349,7 @@
     "type": "channel",
     "position": 19,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5073.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 5074,
@@ -360,6 +360,6 @@
     "type": "channel",
     "position": 34,
     "streamsFile": "streams/aya_cx_tvnews_الأخبار/5074.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

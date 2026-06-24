@@ -140,7 +140,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/kuwaittv/2188.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2189,
@@ -162,7 +162,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/kuwaittv/2190.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2191,
@@ -184,7 +184,7 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/kuwaittv/2192.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2193,
@@ -382,6 +382,6 @@
     "type": "channel",
     "position": 20,
     "streamsFile": "streams/kuwaittv/2210.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

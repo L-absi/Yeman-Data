@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/dazn_sport/4774.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4775,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/dazn_sport/4775.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4776,
@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 15,
     "streamsFile": "streams/dazn_sport/4779.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4780,
@@ -74,6 +74,6 @@
     "type": "channel",
     "position": 68,
     "streamsFile": "streams/dazn_sport/4780.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

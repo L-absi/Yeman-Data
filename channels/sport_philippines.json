@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/sport_philippines/4923.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4924,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/sport_philippines/4924.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4925,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/sport_philippines/4925.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4926,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/sport_philippines/4927.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4928,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/sport_philippines/4929.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4930,
@@ -96,7 +96,7 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/sport_philippines/4931.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4932,
@@ -107,6 +107,6 @@
     "type": "channel",
     "position": 10,
     "streamsFile": "streams/sport_philippines/4932.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

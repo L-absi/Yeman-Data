@@ -9,7 +9,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/101/2010.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2011,
@@ -21,7 +21,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/101/2011.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2012,
@@ -32,7 +32,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "type": "channel",
     "position": 0,
-    "streamsFile": "streams/101/2012.json"
+    "streamsFile": "streams/101/2012.json",
+    "isworking": 0
   },
   {
     "id": 2013,

@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/radio_quran/4408.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4409,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/radio_quran/4409.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4410,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/radio_quran/4410.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4411,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 4,
     "streamsFile": "streams/radio_quran/4411.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4412,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 5,
     "streamsFile": "streams/radio_quran/4412.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4413,
@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 6,
     "streamsFile": "streams/radio_quran/4413.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4414,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/radio_quran/4414.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4415,
@@ -85,7 +85,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/radio_quran/4415.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4416,
@@ -96,7 +96,7 @@
     "type": "channel",
     "position": 9,
     "streamsFile": "streams/radio_quran/4416.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4417,
@@ -107,7 +107,7 @@
     "type": "channel",
     "position": 10,
     "streamsFile": "streams/radio_quran/4417.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4418,
@@ -118,7 +118,7 @@
     "type": "channel",
     "position": 11,
     "streamsFile": "streams/radio_quran/4418.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4419,
@@ -129,7 +129,7 @@
     "type": "channel",
     "position": 12,
     "streamsFile": "streams/radio_quran/4419.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4420,
@@ -140,7 +140,7 @@
     "type": "channel",
     "position": 13,
     "streamsFile": "streams/radio_quran/4420.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4421,
@@ -151,7 +151,7 @@
     "type": "channel",
     "position": 14,
     "streamsFile": "streams/radio_quran/4421.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4422,
@@ -162,7 +162,7 @@
     "type": "channel",
     "position": 15,
     "streamsFile": "streams/radio_quran/4422.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4423,
@@ -173,7 +173,7 @@
     "type": "channel",
     "position": 16,
     "streamsFile": "streams/radio_quran/4423.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4424,
@@ -184,7 +184,7 @@
     "type": "channel",
     "position": 17,
     "streamsFile": "streams/radio_quran/4424.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4425,
@@ -195,7 +195,7 @@
     "type": "channel",
     "position": 18,
     "streamsFile": "streams/radio_quran/4425.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4426,
@@ -206,7 +206,7 @@
     "type": "channel",
     "position": 19,
     "streamsFile": "streams/radio_quran/4426.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4427,
@@ -217,7 +217,7 @@
     "type": "channel",
     "position": 20,
     "streamsFile": "streams/radio_quran/4427.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4428,
@@ -228,7 +228,7 @@
     "type": "channel",
     "position": 21,
     "streamsFile": "streams/radio_quran/4428.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4429,
@@ -239,7 +239,7 @@
     "type": "channel",
     "position": 22,
     "streamsFile": "streams/radio_quran/4429.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4430,
@@ -250,7 +250,7 @@
     "type": "channel",
     "position": 23,
     "streamsFile": "streams/radio_quran/4430.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4431,
@@ -261,7 +261,7 @@
     "type": "channel",
     "position": 24,
     "streamsFile": "streams/radio_quran/4431.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4432,
@@ -272,7 +272,7 @@
     "type": "channel",
     "position": 25,
     "streamsFile": "streams/radio_quran/4432.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4433,
@@ -283,7 +283,7 @@
     "type": "channel",
     "position": 26,
     "streamsFile": "streams/radio_quran/4433.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4434,
@@ -294,7 +294,7 @@
     "type": "channel",
     "position": 27,
     "streamsFile": "streams/radio_quran/4434.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4435,
@@ -305,7 +305,7 @@
     "type": "channel",
     "position": 28,
     "streamsFile": "streams/radio_quran/4435.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4436,
@@ -316,7 +316,7 @@
     "type": "channel",
     "position": 29,
     "streamsFile": "streams/radio_quran/4436.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4437,
@@ -327,7 +327,7 @@
     "type": "channel",
     "position": 30,
     "streamsFile": "streams/radio_quran/4437.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4438,
@@ -338,7 +338,7 @@
     "type": "channel",
     "position": 31,
     "streamsFile": "streams/radio_quran/4438.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4439,
@@ -349,7 +349,7 @@
     "type": "channel",
     "position": 32,
     "streamsFile": "streams/radio_quran/4439.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4440,
@@ -360,7 +360,7 @@
     "type": "channel",
     "position": 33,
     "streamsFile": "streams/radio_quran/4440.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4441,
@@ -371,7 +371,7 @@
     "type": "channel",
     "position": 34,
     "streamsFile": "streams/radio_quran/4441.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4442,
@@ -382,7 +382,7 @@
     "type": "channel",
     "position": 35,
     "streamsFile": "streams/radio_quran/4442.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4443,
@@ -393,7 +393,7 @@
     "type": "channel",
     "position": 36,
     "streamsFile": "streams/radio_quran/4443.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4444,
@@ -404,7 +404,7 @@
     "type": "channel",
     "position": 37,
     "streamsFile": "streams/radio_quran/4444.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4445,
@@ -415,7 +415,7 @@
     "type": "channel",
     "position": 38,
     "streamsFile": "streams/radio_quran/4445.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4446,
@@ -426,7 +426,7 @@
     "type": "channel",
     "position": 39,
     "streamsFile": "streams/radio_quran/4446.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4447,
@@ -437,7 +437,7 @@
     "type": "channel",
     "position": 40,
     "streamsFile": "streams/radio_quran/4447.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4448,
@@ -448,7 +448,7 @@
     "type": "channel",
     "position": 41,
     "streamsFile": "streams/radio_quran/4448.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4449,
@@ -459,7 +459,7 @@
     "type": "channel",
     "position": 42,
     "streamsFile": "streams/radio_quran/4449.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4450,
@@ -470,7 +470,7 @@
     "type": "channel",
     "position": 43,
     "streamsFile": "streams/radio_quran/4450.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4451,
@@ -481,7 +481,7 @@
     "type": "channel",
     "position": 44,
     "streamsFile": "streams/radio_quran/4451.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4452,
@@ -492,7 +492,7 @@
     "type": "channel",
     "position": 45,
     "streamsFile": "streams/radio_quran/4452.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4453,
@@ -503,7 +503,7 @@
     "type": "channel",
     "position": 46,
     "streamsFile": "streams/radio_quran/4453.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4454,
@@ -514,7 +514,7 @@
     "type": "channel",
     "position": 47,
     "streamsFile": "streams/radio_quran/4454.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4455,
@@ -525,7 +525,7 @@
     "type": "channel",
     "position": 48,
     "streamsFile": "streams/radio_quran/4455.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4456,
@@ -536,7 +536,7 @@
     "type": "channel",
     "position": 49,
     "streamsFile": "streams/radio_quran/4456.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4457,
@@ -547,7 +547,7 @@
     "type": "channel",
     "position": 50,
     "streamsFile": "streams/radio_quran/4457.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4458,
@@ -558,7 +558,7 @@
     "type": "channel",
     "position": 51,
     "streamsFile": "streams/radio_quran/4458.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4459,
@@ -569,7 +569,7 @@
     "type": "channel",
     "position": 52,
     "streamsFile": "streams/radio_quran/4459.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4460,
@@ -580,7 +580,7 @@
     "type": "channel",
     "position": 53,
     "streamsFile": "streams/radio_quran/4460.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4461,
@@ -591,7 +591,7 @@
     "type": "channel",
     "position": 54,
     "streamsFile": "streams/radio_quran/4461.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4462,
@@ -602,7 +602,7 @@
     "type": "channel",
     "position": 55,
     "streamsFile": "streams/radio_quran/4462.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4463,
@@ -613,7 +613,7 @@
     "type": "channel",
     "position": 56,
     "streamsFile": "streams/radio_quran/4463.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4464,
@@ -624,7 +624,7 @@
     "type": "channel",
     "position": 57,
     "streamsFile": "streams/radio_quran/4464.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4465,
@@ -635,7 +635,7 @@
     "type": "channel",
     "position": 58,
     "streamsFile": "streams/radio_quran/4465.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4466,
@@ -646,7 +646,7 @@
     "type": "channel",
     "position": 59,
     "streamsFile": "streams/radio_quran/4466.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4467,
@@ -657,7 +657,7 @@
     "type": "channel",
     "position": 60,
     "streamsFile": "streams/radio_quran/4467.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4468,
@@ -668,7 +668,7 @@
     "type": "channel",
     "position": 61,
     "streamsFile": "streams/radio_quran/4468.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4469,
@@ -679,7 +679,7 @@
     "type": "channel",
     "position": 62,
     "streamsFile": "streams/radio_quran/4469.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4470,
@@ -690,7 +690,7 @@
     "type": "channel",
     "position": 63,
     "streamsFile": "streams/radio_quran/4470.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4471,
@@ -701,7 +701,7 @@
     "type": "channel",
     "position": 64,
     "streamsFile": "streams/radio_quran/4471.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4472,
@@ -712,7 +712,7 @@
     "type": "channel",
     "position": 65,
     "streamsFile": "streams/radio_quran/4472.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4473,
@@ -723,7 +723,7 @@
     "type": "channel",
     "position": 66,
     "streamsFile": "streams/radio_quran/4473.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4474,
@@ -734,7 +734,7 @@
     "type": "channel",
     "position": 67,
     "streamsFile": "streams/radio_quran/4474.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4475,
@@ -745,7 +745,7 @@
     "type": "channel",
     "position": 68,
     "streamsFile": "streams/radio_quran/4475.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4476,
@@ -756,7 +756,7 @@
     "type": "channel",
     "position": 69,
     "streamsFile": "streams/radio_quran/4476.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4477,
@@ -767,7 +767,7 @@
     "type": "channel",
     "position": 70,
     "streamsFile": "streams/radio_quran/4477.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4478,
@@ -778,7 +778,7 @@
     "type": "channel",
     "position": 71,
     "streamsFile": "streams/radio_quran/4478.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4479,
@@ -789,7 +789,7 @@
     "type": "channel",
     "position": 72,
     "streamsFile": "streams/radio_quran/4479.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4480,
@@ -800,7 +800,7 @@
     "type": "channel",
     "position": 73,
     "streamsFile": "streams/radio_quran/4480.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4481,
@@ -811,7 +811,7 @@
     "type": "channel",
     "position": 74,
     "streamsFile": "streams/radio_quran/4481.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4482,
@@ -822,7 +822,7 @@
     "type": "channel",
     "position": 75,
     "streamsFile": "streams/radio_quran/4482.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4483,
@@ -833,7 +833,7 @@
     "type": "channel",
     "position": 76,
     "streamsFile": "streams/radio_quran/4483.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4484,
@@ -844,7 +844,7 @@
     "type": "channel",
     "position": 77,
     "streamsFile": "streams/radio_quran/4484.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4485,
@@ -855,7 +855,7 @@
     "type": "channel",
     "position": 78,
     "streamsFile": "streams/radio_quran/4485.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4486,
@@ -866,7 +866,7 @@
     "type": "channel",
     "position": 79,
     "streamsFile": "streams/radio_quran/4486.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4487,
@@ -877,7 +877,7 @@
     "type": "channel",
     "position": 80,
     "streamsFile": "streams/radio_quran/4487.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4488,
@@ -888,7 +888,7 @@
     "type": "channel",
     "position": 81,
     "streamsFile": "streams/radio_quran/4488.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4489,
@@ -899,7 +899,7 @@
     "type": "channel",
     "position": 82,
     "streamsFile": "streams/radio_quran/4489.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4490,
@@ -910,7 +910,7 @@
     "type": "channel",
     "position": 83,
     "streamsFile": "streams/radio_quran/4490.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4491,
@@ -921,7 +921,7 @@
     "type": "channel",
     "position": 84,
     "streamsFile": "streams/radio_quran/4491.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4492,
@@ -932,7 +932,7 @@
     "type": "channel",
     "position": 85,
     "streamsFile": "streams/radio_quran/4492.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4493,
@@ -943,7 +943,7 @@
     "type": "channel",
     "position": 86,
     "streamsFile": "streams/radio_quran/4493.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4494,
@@ -954,7 +954,7 @@
     "type": "channel",
     "position": 87,
     "streamsFile": "streams/radio_quran/4494.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4495,
@@ -965,7 +965,7 @@
     "type": "channel",
     "position": 88,
     "streamsFile": "streams/radio_quran/4495.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4496,
@@ -976,7 +976,7 @@
     "type": "channel",
     "position": 89,
     "streamsFile": "streams/radio_quran/4496.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4497,
@@ -987,7 +987,7 @@
     "type": "channel",
     "position": 90,
     "streamsFile": "streams/radio_quran/4497.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4498,
@@ -1009,7 +1009,7 @@
     "type": "channel",
     "position": 92,
     "streamsFile": "streams/radio_quran/4499.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4500,
@@ -1020,7 +1020,7 @@
     "type": "channel",
     "position": 93,
     "streamsFile": "streams/radio_quran/4500.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4501,
@@ -1031,7 +1031,7 @@
     "type": "channel",
     "position": 94,
     "streamsFile": "streams/radio_quran/4501.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4502,
@@ -1042,7 +1042,7 @@
     "type": "channel",
     "position": 95,
     "streamsFile": "streams/radio_quran/4502.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4503,
@@ -1053,7 +1053,7 @@
     "type": "channel",
     "position": 96,
     "streamsFile": "streams/radio_quran/4503.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4504,
@@ -1064,7 +1064,7 @@
     "type": "channel",
     "position": 97,
     "streamsFile": "streams/radio_quran/4504.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4505,
@@ -1075,7 +1075,7 @@
     "type": "channel",
     "position": 98,
     "streamsFile": "streams/radio_quran/4505.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4506,
@@ -1086,7 +1086,7 @@
     "type": "channel",
     "position": 99,
     "streamsFile": "streams/radio_quran/4506.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4507,
@@ -1097,7 +1097,7 @@
     "type": "channel",
     "position": 100,
     "streamsFile": "streams/radio_quran/4507.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4508,
@@ -1108,7 +1108,7 @@
     "type": "channel",
     "position": 101,
     "streamsFile": "streams/radio_quran/4508.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4509,
@@ -1119,7 +1119,7 @@
     "type": "channel",
     "position": 102,
     "streamsFile": "streams/radio_quran/4509.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4510,
@@ -1130,7 +1130,7 @@
     "type": "channel",
     "position": 103,
     "streamsFile": "streams/radio_quran/4510.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4511,
@@ -1141,7 +1141,7 @@
     "type": "channel",
     "position": 104,
     "streamsFile": "streams/radio_quran/4511.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4512,
@@ -1152,7 +1152,7 @@
     "type": "channel",
     "position": 105,
     "streamsFile": "streams/radio_quran/4512.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4513,
@@ -1163,7 +1163,7 @@
     "type": "channel",
     "position": 106,
     "streamsFile": "streams/radio_quran/4513.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4514,
@@ -1174,7 +1174,7 @@
     "type": "channel",
     "position": 107,
     "streamsFile": "streams/radio_quran/4514.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4515,
@@ -1185,7 +1185,7 @@
     "type": "channel",
     "position": 108,
     "streamsFile": "streams/radio_quran/4515.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4516,
@@ -1196,7 +1196,7 @@
     "type": "channel",
     "position": 109,
     "streamsFile": "streams/radio_quran/4516.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4517,
@@ -1207,7 +1207,7 @@
     "type": "channel",
     "position": 110,
     "streamsFile": "streams/radio_quran/4517.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4518,
@@ -1218,7 +1218,7 @@
     "type": "channel",
     "position": 111,
     "streamsFile": "streams/radio_quran/4518.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4519,
@@ -1229,7 +1229,7 @@
     "type": "channel",
     "position": 112,
     "streamsFile": "streams/radio_quran/4519.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4520,
@@ -1240,7 +1240,7 @@
     "type": "channel",
     "position": 113,
     "streamsFile": "streams/radio_quran/4520.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4521,
@@ -1251,7 +1251,7 @@
     "type": "channel",
     "position": 114,
     "streamsFile": "streams/radio_quran/4521.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4522,
@@ -1262,7 +1262,7 @@
     "type": "channel",
     "position": 115,
     "streamsFile": "streams/radio_quran/4522.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4523,
@@ -1273,7 +1273,7 @@
     "type": "channel",
     "position": 116,
     "streamsFile": "streams/radio_quran/4523.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4524,
@@ -1284,7 +1284,7 @@
     "type": "channel",
     "position": 117,
     "streamsFile": "streams/radio_quran/4524.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4525,
@@ -1295,7 +1295,7 @@
     "type": "channel",
     "position": 118,
     "streamsFile": "streams/radio_quran/4525.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4526,
@@ -1306,7 +1306,7 @@
     "type": "channel",
     "position": 119,
     "streamsFile": "streams/radio_quran/4526.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4527,
@@ -1317,7 +1317,7 @@
     "type": "channel",
     "position": 120,
     "streamsFile": "streams/radio_quran/4527.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4528,
@@ -1328,7 +1328,7 @@
     "type": "channel",
     "position": 121,
     "streamsFile": "streams/radio_quran/4528.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4529,
@@ -1339,7 +1339,7 @@
     "type": "channel",
     "position": 122,
     "streamsFile": "streams/radio_quran/4529.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4530,
@@ -1350,7 +1350,7 @@
     "type": "channel",
     "position": 123,
     "streamsFile": "streams/radio_quran/4530.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4531,
@@ -1361,7 +1361,7 @@
     "type": "channel",
     "position": 124,
     "streamsFile": "streams/radio_quran/4531.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4532,
@@ -1372,7 +1372,7 @@
     "type": "channel",
     "position": 125,
     "streamsFile": "streams/radio_quran/4532.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4533,
@@ -1394,7 +1394,7 @@
     "type": "channel",
     "position": 127,
     "streamsFile": "streams/radio_quran/4534.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4535,
@@ -1405,7 +1405,7 @@
     "type": "channel",
     "position": 128,
     "streamsFile": "streams/radio_quran/4535.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4536,
@@ -1416,7 +1416,7 @@
     "type": "channel",
     "position": 129,
     "streamsFile": "streams/radio_quran/4536.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4537,
@@ -1427,6 +1427,6 @@
     "type": "channel",
     "position": 130,
     "streamsFile": "streams/radio_quran/4537.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

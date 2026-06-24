@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/kids/4566.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4567,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/kids/4567.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4568,
@@ -74,7 +74,7 @@
     "type": "channel",
     "position": 10,
     "streamsFile": "streams/kids/4569.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4570,
@@ -85,7 +85,7 @@
     "type": "channel",
     "position": 11,
     "streamsFile": "streams/kids/4570.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4571,
@@ -107,7 +107,7 @@
     "type": "channel",
     "position": 13,
     "streamsFile": "streams/kids/4572.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4573,
@@ -151,7 +151,7 @@
     "type": "channel",
     "position": 17,
     "streamsFile": "streams/kids/4576.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4577,
@@ -162,7 +162,7 @@
     "type": "channel",
     "position": 18,
     "streamsFile": "streams/kids/4577.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4578,
@@ -173,7 +173,7 @@
     "type": "channel",
     "position": 19,
     "streamsFile": "streams/kids/4578.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4579,
@@ -184,7 +184,7 @@
     "type": "channel",
     "position": 20,
     "streamsFile": "streams/kids/4579.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4580,
@@ -195,7 +195,7 @@
     "type": "channel",
     "position": 21,
     "streamsFile": "streams/kids/4580.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4581,
@@ -206,7 +206,7 @@
     "type": "channel",
     "position": 22,
     "streamsFile": "streams/kids/4581.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4582,
@@ -217,7 +217,7 @@
     "type": "channel",
     "position": 23,
     "streamsFile": "streams/kids/4582.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4583,
@@ -228,6 +228,6 @@
     "type": "channel",
     "position": 24,
     "streamsFile": "streams/kids/4583.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/fox_sports/4810.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4811,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/fox_sports/4811.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4812,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/fox_sports/4812.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4813,
@@ -41,6 +41,6 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/fox_sports/4813.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

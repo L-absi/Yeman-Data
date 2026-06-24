@@ -1302,7 +1302,7 @@
     "is_hide": 0,
     "priority": 0,
     "streamsFile": "streams/bein_max_tv/20168.json",
-    "isworking": 0
+    "isworking": 1
   },
   {
     "id": 20169,
@@ -1311,7 +1311,7 @@
     "is_hide": 0,
     "priority": 0,
     "streamsFile": "streams/bein_max_tv/20169.json",
-    "isworking": 0
+    "isworking": 1
   },
   {
     "id": 20170,
@@ -1329,7 +1329,7 @@
     "is_hide": 0,
     "priority": 0,
     "streamsFile": "streams/bein_max_tv/20171.json",
-    "isworking": 0
+    "isworking": 1
   },
   {
     "id": 20172,
@@ -1347,7 +1347,7 @@
     "is_hide": 0,
     "priority": 0,
     "streamsFile": "streams/bein_max_tv/20173.json",
-    "isworking": 0
+    "isworking": 1
   },
   {
     "id": 20174,
@@ -1392,7 +1392,7 @@
     "is_hide": 0,
     "priority": 0,
     "streamsFile": "streams/bein_max_tv/20178.json",
-    "isworking": 0
+    "isworking": 1
   },
   {
     "id": 20179,
@@ -1401,7 +1401,7 @@
     "is_hide": 0,
     "priority": 0,
     "streamsFile": "streams/bein_max_tv/20179.json",
-    "isworking": 0
+    "isworking": 1
   },
   {
     "id": 20180,

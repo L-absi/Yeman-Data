@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/jordantv/2142.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2143,
@@ -140,7 +140,7 @@
     "type": "channel",
     "position": 7,
     "streamsFile": "streams/jordantv/2150.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2151,
@@ -162,7 +162,7 @@
     "type": "channel",
     "position": 8,
     "streamsFile": "streams/jordantv/2152.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2153,
@@ -404,7 +404,7 @@
     "type": "channel",
     "position": 23,
     "streamsFile": "streams/jordantv/2174.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2175,
@@ -415,6 +415,6 @@
     "type": "channel",
     "position": 24,
     "streamsFile": "streams/jordantv/2175.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

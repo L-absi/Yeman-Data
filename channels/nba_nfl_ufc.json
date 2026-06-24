@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 0,
     "streamsFile": "streams/nba_nfl_ufc/4830.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4831,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/nba_nfl_ufc/4831.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4832,
@@ -41,6 +41,6 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/nba_nfl_ufc/4833.json",
-    "isworking": 1
+    "isworking": 0
   }
 ]

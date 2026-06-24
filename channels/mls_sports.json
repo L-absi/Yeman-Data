@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/mls_sports/4007.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4008,

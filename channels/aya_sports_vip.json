@@ -8,7 +8,7 @@
     "type": "channel",
     "position": 1,
     "streamsFile": "streams/aya_sports_vip/4747.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4748,
@@ -19,7 +19,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/aya_sports_vip/4748.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4749,
@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 12,
     "streamsFile": "streams/aya_sports_vip/4749.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4750,
@@ -41,7 +41,7 @@
     "type": "channel",
     "position": 13,
     "streamsFile": "streams/aya_sports_vip/4750.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4751,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 14,
     "streamsFile": "streams/aya_sports_vip/4751.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4752,
@@ -63,7 +63,7 @@
     "type": "channel",
     "position": 16,
     "streamsFile": "streams/aya_sports_vip/4752.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4753,
@@ -85,7 +85,7 @@
     "type": "channel",
     "position": 20,
     "streamsFile": "streams/aya_sports_vip/4754.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4755,
@@ -107,7 +107,7 @@
     "type": "channel",
     "position": 46,
     "streamsFile": "streams/aya_sports_vip/4756.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 4757,

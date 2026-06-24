@@ -30,7 +30,7 @@
     "type": "channel",
     "position": 2,
     "streamsFile": "streams/palestinetv/2474.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2475,
@@ -52,7 +52,7 @@
     "type": "channel",
     "position": 3,
     "streamsFile": "streams/palestinetv/2476.json",
-    "isworking": 1
+    "isworking": 0
   },
   {
     "id": 2477,
