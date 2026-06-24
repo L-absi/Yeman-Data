@@ -5,7 +5,7 @@
     "logo": "https://www.zarkachat.com/wp-content/uploads/2020/12/sport-abuzabi-channel.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/ad_sport.json/5715.json",
+    "streamsFile": "streams/ad_sport/5715.json",
     "source_file": "ad_sport.json"
   },
   {
@@ -14,7 +14,7 @@
     "logo": "https://www.zarkachat.com/wp-content/uploads/2020/12/sport-abuzabi-channel.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/ad_sport.json/5716.json",
+    "streamsFile": "streams/ad_sport/5716.json",
     "source_file": "ad_sport.json"
   },
   {
@@ -23,7 +23,7 @@
     "logo": "https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/nilesat_vip.json/2810.json",
+    "streamsFile": "streams/nilesat_vip/2810.json",
     "source_file": "nilesat_vip.json"
   },
   {
@@ -32,7 +32,7 @@
     "logo": "https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5ff6eb7f11.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/nilesat_vip.json/2812.json",
+    "streamsFile": "streams/nilesat_vip/2812.json",
     "source_file": "nilesat_vip.json"
   },
   {
@@ -41,7 +41,7 @@
     "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6a88b.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/nilesat_vip.json/2813.json",
+    "streamsFile": "streams/nilesat_vip/2813.json",
     "source_file": "nilesat_vip.json"
   },
   {
@@ -50,7 +50,7 @@
     "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6b210.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/nilesat_vip.json/2814.json",
+    "streamsFile": "streams/nilesat_vip/2814.json",
     "source_file": "nilesat_vip.json"
   },
   {
@@ -59,7 +59,7 @@
     "logo": "https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5ff6eb7f11.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/nilesat_vip.json/3056.json",
+    "streamsFile": "streams/nilesat_vip/3056.json",
     "source_file": "nilesat_vip.json"
   },
   {
@@ -68,7 +68,7 @@
     "logo": "https://admin.dramaramadan.net/uploads/channels/b1895c8bcad9fe764ec25f17c6636da8.webp",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/tv_sport-f1.json/4049.json",
+    "streamsFile": "streams/tv_sport-f1/4049.json",
     "source_file": "tv_sport-f1.json"
   },
   {
@@ -77,7 +77,7 @@
     "logo": "https://admin.dramaramadan.net/uploads/channels/8d130de35fe372a24a3ace30c8ff57cf.webp",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/tv_sport-f1.json/4050.json",
+    "streamsFile": "streams/tv_sport-f1/4050.json",
     "source_file": "tv_sport-f1.json"
   }
 ]

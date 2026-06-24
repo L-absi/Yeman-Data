@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 تعديل مسارات streamsFile في ملفات matchingchannels/ إلى الهيكل الجديد:
-streams/<source_file>/<id>.json
+streams/<source_file_stem>/<id>.json
 """
 import json
 from pathlib import Path
@@ -36,12 +36,12 @@ def update_matching_files():
             src_file = item.get("source_file")
             item_id = item.get("id")
             if src_file and item_id is not None:
-                new_path = f"streams/{src_file}/{item_id}.json"
+                # إزالة اللاحقة .json من اسم الملف
+                stem = Path(src_file).stem   # مثلاً "90" بدلاً من "90.json"
+                new_path = f"streams/{stem}/{item_id}.json"
                 if item.get("streamsFile") != new_path:
                     item["streamsFile"] = new_path
                     changed = True
-                # حذف source_file بعد الاستخدام (اختياري)
-                # item.pop("source_file", None)
 
         if changed:
             try:

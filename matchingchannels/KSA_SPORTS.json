@@ -5,7 +5,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/ar/5/5f/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/19.json/555.json",
+    "streamsFile": "streams/19/555.json",
     "source_file": "19.json"
   },
   {
@@ -14,7 +14,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/ar/5/5f/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/19.json/556.json",
+    "streamsFile": "streams/19/556.json",
     "source_file": "19.json"
   },
   {
@@ -23,7 +23,7 @@
     "logo": "https://i.imgur.com/Fa2DkKc.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/19.json/1574.json",
+    "streamsFile": "streams/19/1574.json",
     "source_file": "19.json"
   },
   {
@@ -32,7 +32,7 @@
     "logo": "https://i.imgur.com/suuVKqv.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/19.json/1812.json",
+    "streamsFile": "streams/19/1812.json",
     "source_file": "19.json"
   },
   {
@@ -41,7 +41,7 @@
     "logo": "https://i.imgur.com/32ZwaW0.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/ksa_sport.json/5756.json",
+    "streamsFile": "streams/ksa_sport/5756.json",
     "source_file": "ksa_sport.json"
   },
   {
@@ -50,7 +50,7 @@
     "logo": "https://i.imgur.com/32ZwaW0.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/ksa_sport.json/5757.json",
+    "streamsFile": "streams/ksa_sport/5757.json",
     "source_file": "ksa_sport.json"
   },
   {
@@ -59,7 +59,7 @@
     "logo": "https://i.imgur.com/32ZwaW0.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/ksa_sport.json/5758.json",
+    "streamsFile": "streams/ksa_sport/5758.json",
     "source_file": "ksa_sport.json"
   }
 ]

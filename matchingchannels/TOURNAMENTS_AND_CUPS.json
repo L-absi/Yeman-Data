@@ -5,7 +5,7 @@
     "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120518/Eurosport-1-symbol.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/12.json/233.json",
+    "streamsFile": "streams/12/233.json",
     "source_file": "12.json"
   },
   {
@@ -14,7 +14,7 @@
     "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/12.json/234.json",
+    "streamsFile": "streams/12/234.json",
     "source_file": "12.json"
   },
   {
@@ -23,7 +23,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1200px-Logo_TV5_Monde_-_2021.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/12.json/1874.json",
+    "streamsFile": "streams/12/1874.json",
     "source_file": "12.json"
   },
   {
@@ -32,7 +32,7 @@
     "logo": "https://i.imgur.com/pjsFXSQ.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/12.json/241.json",
+    "streamsFile": "streams/12/241.json",
     "source_file": "12.json"
   },
   {
@@ -41,7 +41,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyCkTZERY-xt19RvOy4fnrVuH-wjjLPzFCGglCPLsp6g&s=10",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/aya_sports_vip.json/4754.json",
+    "streamsFile": "streams/aya_sports_vip/4754.json",
     "source_file": "aya_sports_vip.json"
   },
   {
@@ -50,7 +50,7 @@
     "logo": "http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/aya_tv_pro.json/3340.json",
+    "streamsFile": "streams/aya_tv_pro/3340.json",
     "source_file": "aya_tv_pro.json"
   },
   {
@@ -59,7 +59,7 @@
     "logo": "http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/aya_tv_pro.json/3370.json",
+    "streamsFile": "streams/aya_tv_pro/3370.json",
     "source_file": "aya_tv_pro.json"
   },
   {
@@ -68,7 +68,7 @@
     "logo": "http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/aya_tv_pro.json/3371.json",
+    "streamsFile": "streams/aya_tv_pro/3371.json",
     "source_file": "aya_tv_pro.json"
   },
   {
@@ -77,7 +77,7 @@
     "logo": "http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/aya_tv_pro.json/3372.json",
+    "streamsFile": "streams/aya_tv_pro/3372.json",
     "source_file": "aya_tv_pro.json"
   },
   {
@@ -86,7 +86,7 @@
     "logo": "http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/aya_tv_pro.json/3373.json",
+    "streamsFile": "streams/aya_tv_pro/3373.json",
     "source_file": "aya_tv_pro.json"
   },
   {
@@ -95,7 +95,7 @@
     "logo": "http://s3.i3ns.net:2052/portal/picon/2023-07/0e674889b5fc48b293e9c0a3491c3b73.svg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/aya_tv_pro.json/3387.json",
+    "streamsFile": "streams/aya_tv_pro/3387.json",
     "source_file": "aya_tv_pro.json"
   },
   {
@@ -104,7 +104,7 @@
     "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/f596a057554b06e8b7e0e7bad9240e7b.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/aya_tv_pro.json/3399.json",
+    "streamsFile": "streams/aya_tv_pro/3399.json",
     "source_file": "aya_tv_pro.json"
   },
   {
@@ -113,7 +113,7 @@
     "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/091378f6123951037d5075a7585c94d9.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/aya_tv_pro.json/3400.json",
+    "streamsFile": "streams/aya_tv_pro/3400.json",
     "source_file": "aya_tv_pro.json"
   },
   {
@@ -122,7 +122,7 @@
     "logo": "https://fls.cjs.jyh/",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/deutchland.json/5113.json",
+    "streamsFile": "streams/deutchland/5113.json",
     "source_file": "deutchland.json"
   },
   {
@@ -131,7 +131,7 @@
     "logo": "https://fls.cjs.jyh/",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/français.json/5228.json",
+    "streamsFile": "streams/français/5228.json",
     "source_file": "français.json"
   },
   {
@@ -140,7 +140,7 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/iptv_vip.json/5694.json",
+    "streamsFile": "streams/iptv_vip/5694.json",
     "source_file": "iptv_vip.json"
   },
   {
@@ -149,7 +149,7 @@
     "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/italytv.json/5805.json",
+    "streamsFile": "streams/italytv/5805.json",
     "source_file": "italytv.json"
   },
   {
@@ -158,7 +158,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/nilesat_vip.json/3090.json",
+    "streamsFile": "streams/nilesat_vip/3090.json",
     "source_file": "nilesat_vip.json"
   },
   {
@@ -167,7 +167,7 @@
     "logo": "http://epg.cdntv.online/img/37.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/russian_sport.json/4877.json",
+    "streamsFile": "streams/russian_sport/4877.json",
     "source_file": "russian_sport.json"
   },
   {
@@ -176,7 +176,7 @@
     "logo": "http://epg.cdntv.online/img/38.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/russian_sport.json/4878.json",
+    "streamsFile": "streams/russian_sport/4878.json",
     "source_file": "russian_sport.json"
   },
   {
@@ -185,7 +185,7 @@
     "logo": "http://epg.cdntv.online/img/39.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/russian_sport.json/4879.json",
+    "streamsFile": "streams/russian_sport/4879.json",
     "source_file": "russian_sport.json"
   },
   {
@@ -194,7 +194,7 @@
     "logo": "http://epg.cdntv.online/img/40.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/russian_sport.json/4880.json",
+    "streamsFile": "streams/russian_sport/4880.json",
     "source_file": "russian_sport.json"
   },
   {
@@ -203,7 +203,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/live_match.json/10112.json",
+    "streamsFile": "streams/live_match/10112.json",
     "source_file": "live_match.json"
   },
   {
@@ -212,7 +212,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/live_match.json/10113.json",
+    "streamsFile": "streams/live_match/10113.json",
     "source_file": "live_match.json"
   },
   {
@@ -221,7 +221,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/live_match.json/10114.json",
+    "streamsFile": "streams/live_match/10114.json",
     "source_file": "live_match.json"
   },
   {
@@ -230,7 +230,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/live_match.json/10115.json",
+    "streamsFile": "streams/live_match/10115.json",
     "source_file": "live_match.json"
   },
   {
@@ -239,7 +239,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/live_match.json/10116.json",
+    "streamsFile": "streams/live_match/10116.json",
     "source_file": "live_match.json"
   },
   {
@@ -248,7 +248,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/live_match.json/10117.json",
+    "streamsFile": "streams/live_match/10117.json",
     "source_file": "live_match.json"
   },
   {
@@ -257,7 +257,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/live_match.json/10118.json",
+    "streamsFile": "streams/live_match/10118.json",
     "source_file": "live_match.json"
   },
   {
@@ -266,7 +266,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/live_match.json/10119.json",
+    "streamsFile": "streams/live_match/10119.json",
     "source_file": "live_match.json"
   },
   {
@@ -275,7 +275,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/live_match.json/10120.json",
+    "streamsFile": "streams/live_match/10120.json",
     "source_file": "live_match.json"
   }
 ]

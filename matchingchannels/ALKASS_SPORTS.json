@@ -5,7 +5,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/100.json/2000.json",
+    "streamsFile": "streams/100/2000.json",
     "source_file": "100.json"
   },
   {
@@ -14,7 +14,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/100.json/2001.json",
+    "streamsFile": "streams/100/2001.json",
     "source_file": "100.json"
   },
   {
@@ -23,7 +23,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/100.json/2002.json",
+    "streamsFile": "streams/100/2002.json",
     "source_file": "100.json"
   },
   {
@@ -32,7 +32,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/100.json/2003.json",
+    "streamsFile": "streams/100/2003.json",
     "source_file": "100.json"
   },
   {
@@ -41,7 +41,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/100.json/2004.json",
+    "streamsFile": "streams/100/2004.json",
     "source_file": "100.json"
   },
   {
@@ -50,7 +50,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/100.json/2008.json",
+    "streamsFile": "streams/100/2008.json",
     "source_file": "100.json"
   },
   {
@@ -59,7 +59,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/29.json/795.json",
+    "streamsFile": "streams/29/795.json",
     "source_file": "29.json"
   },
   {
@@ -68,7 +68,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/29.json/796.json",
+    "streamsFile": "streams/29/796.json",
     "source_file": "29.json"
   },
   {
@@ -77,7 +77,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/29.json/797.json",
+    "streamsFile": "streams/29/797.json",
     "source_file": "29.json"
   },
   {
@@ -86,7 +86,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/29.json/798.json",
+    "streamsFile": "streams/29/798.json",
     "source_file": "29.json"
   },
   {
@@ -95,7 +95,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/29.json/799.json",
+    "streamsFile": "streams/29/799.json",
     "source_file": "29.json"
   },
   {
@@ -104,7 +104,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/29.json/1642.json",
+    "streamsFile": "streams/29/1642.json",
     "source_file": "29.json"
   },
   {
@@ -113,7 +113,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/80.json/1404.json",
+    "streamsFile": "streams/80/1404.json",
     "source_file": "80.json"
   },
   {
@@ -122,7 +122,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/80.json/1405.json",
+    "streamsFile": "streams/80/1405.json",
     "source_file": "80.json"
   },
   {
@@ -131,7 +131,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/80.json/1406.json",
+    "streamsFile": "streams/80/1406.json",
     "source_file": "80.json"
   },
   {
@@ -140,7 +140,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/80.json/1407.json",
+    "streamsFile": "streams/80/1407.json",
     "source_file": "80.json"
   },
   {
@@ -149,7 +149,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/80.json/1408.json",
+    "streamsFile": "streams/80/1408.json",
     "source_file": "80.json"
   },
   {
@@ -158,7 +158,7 @@
     "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/alkass_sport.json/5724.json",
+    "streamsFile": "streams/alkass_sport/5724.json",
     "source_file": "alkass_sport.json"
   },
   {
@@ -167,7 +167,7 @@
     "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/alkass_sport.json/5725.json",
+    "streamsFile": "streams/alkass_sport/5725.json",
     "source_file": "alkass_sport.json"
   },
   {
@@ -176,7 +176,7 @@
     "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/alkass_sport.json/5726.json",
+    "streamsFile": "streams/alkass_sport/5726.json",
     "source_file": "alkass_sport.json"
   },
   {
@@ -185,7 +185,7 @@
     "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/alkass_sport.json/5727.json",
+    "streamsFile": "streams/alkass_sport/5727.json",
     "source_file": "alkass_sport.json"
   },
   {
@@ -194,7 +194,7 @@
     "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/alkass_sport.json/5728.json",
+    "streamsFile": "streams/alkass_sport/5728.json",
     "source_file": "alkass_sport.json"
   },
   {
@@ -203,7 +203,7 @@
     "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/alkass_sport.json/5729.json",
+    "streamsFile": "streams/alkass_sport/5729.json",
     "source_file": "alkass_sport.json"
   },
   {
@@ -212,7 +212,7 @@
     "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/alkass_sport.json/5730.json",
+    "streamsFile": "streams/alkass_sport/5730.json",
     "source_file": "alkass_sport.json"
   },
   {
@@ -221,7 +221,7 @@
     "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/alkass_sport.json/5731.json",
+    "streamsFile": "streams/alkass_sport/5731.json",
     "source_file": "alkass_sport.json"
   },
   {
@@ -230,7 +230,7 @@
     "logo": "https://admin.dramaramadan.net/uploads/channels/42cf49229c816ec7d185ef544c722b7b.webp",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/tv_sport-f1.json/4042.json",
+    "streamsFile": "streams/tv_sport-f1/4042.json",
     "source_file": "tv_sport-f1.json"
   },
   {
@@ -239,7 +239,7 @@
     "logo": "https://admin.dramaramadan.net/uploads/channels/f2219a0eb15101600b96fcca7341bf98.webp",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/tv_sport-f1.json/4043.json",
+    "streamsFile": "streams/tv_sport-f1/4043.json",
     "source_file": "tv_sport-f1.json"
   },
   {
@@ -248,7 +248,7 @@
     "logo": "https://admin.dramaramadan.net/uploads/channels/ad5d0ebbd674d12fe5b7d91f733cc4cd.webp",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/tv_sport-f1.json/4044.json",
+    "streamsFile": "streams/tv_sport-f1/4044.json",
     "source_file": "tv_sport-f1.json"
   },
   {
@@ -257,7 +257,7 @@
     "logo": "https://admin.dramaramadan.net/uploads/channels/27def98e8b30fcedf93cb7b1badbf7ac.webp",
     "is_hide": 0,
     "priority": 0,
-    "streamsFile": "streams/tv_sport-f1.json/4045.json",
+    "streamsFile": "streams/tv_sport-f1/4045.json",
     "source_file": "tv_sport-f1.json"
   }
 ]
