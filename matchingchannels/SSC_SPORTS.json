@@ -1,101 +1,101 @@
 [
-    {
-        "id": 1397,
-        "name": "SSC 1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1397.json",
-        "source_file": "100.json"
-    },
-    {
-        "id": 1575,
-        "name": "SSC News",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1575.json",
-        "source_file": "86.json"
-    },
-    {
-        "id": 1397,
-        "name": "SSC 1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1397.json",
-        "source_file": "86.json"
-    },
-    {
-        "id": 1398,
-        "name": "SSC 2",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1398.json",
-        "source_file": "86.json"
-    },
-    {
-        "id": 1399,
-        "name": "SSC 3",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1399.json",
-        "source_file": "86.json"
-    },
-    {
-        "id": 1400,
-        "name": "SSC 4",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1400.json",
-        "source_file": "86.json"
-    },
-    {
-        "id": 1401,
-        "name": "SSC 5",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1401.json",
-        "source_file": "86.json"
-    },
-    {
-        "id": 1402,
-        "name": "SSC Extra 1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1402.json",
-        "source_file": "86.json"
-    },
-    {
-        "id": 1403,
-        "name": "SSC Extra 2",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1403.json",
-        "source_file": "86.json"
-    },
-    {
-        "id": 1793,
-        "name": "SSC Extra 3",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1793.json",
-        "source_file": "86.json"
-    },
-    {
-        "id": 3573,
-        "name": "SSC OLAHRAGA 1",
-        "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3573.json",
-        "source_file": "aya_tv_pro.json"
-    }
+  {
+    "id": 1397,
+    "name": "SSC 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/100.json/1397.json",
+    "source_file": "100.json"
+  },
+  {
+    "id": 1575,
+    "name": "SSC News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/86.json/1575.json",
+    "source_file": "86.json"
+  },
+  {
+    "id": 1397,
+    "name": "SSC 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/86.json/1397.json",
+    "source_file": "86.json"
+  },
+  {
+    "id": 1398,
+    "name": "SSC 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/86.json/1398.json",
+    "source_file": "86.json"
+  },
+  {
+    "id": 1399,
+    "name": "SSC 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/86.json/1399.json",
+    "source_file": "86.json"
+  },
+  {
+    "id": 1400,
+    "name": "SSC 4",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/86.json/1400.json",
+    "source_file": "86.json"
+  },
+  {
+    "id": 1401,
+    "name": "SSC 5",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/86.json/1401.json",
+    "source_file": "86.json"
+  },
+  {
+    "id": 1402,
+    "name": "SSC Extra 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/86.json/1402.json",
+    "source_file": "86.json"
+  },
+  {
+    "id": 1403,
+    "name": "SSC Extra 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/86.json/1403.json",
+    "source_file": "86.json"
+  },
+  {
+    "id": 1793,
+    "name": "SSC Extra 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/86.json/1793.json",
+    "source_file": "86.json"
+  },
+  {
+    "id": 3573,
+    "name": "SSC OLAHRAGA 1",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3573.json",
+    "source_file": "aya_tv_pro.json"
+  }
 ]

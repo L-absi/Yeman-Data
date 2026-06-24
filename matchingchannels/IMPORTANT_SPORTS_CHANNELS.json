@@ -1,1181 +1,1181 @@
 [
-    {
-        "id": 2000,
-        "name": "Alkass 1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/2000.json",
-        "source_file": "100.json"
-    },
-    {
-        "id": 2001,
-        "name": "Alkass 2",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/2001.json",
-        "source_file": "100.json"
-    },
-    {
-        "id": 2002,
-        "name": "Alkass 3",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/2002.json",
-        "source_file": "100.json"
-    },
-    {
-        "id": 2003,
-        "name": "Alkass 4",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/2003.json",
-        "source_file": "100.json"
-    },
-    {
-        "id": 2004,
-        "name": "Alkass 5",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/2004.json",
-        "source_file": "100.json"
-    },
-    {
-        "id": 2008,
-        "name": "Alkass 6",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/2008.json",
-        "source_file": "100.json"
-    },
-    {
-        "id": 1397,
-        "name": "SSC 1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1397.json",
-        "source_file": "100.json"
-    },
-    {
-        "id": 233,
-        "name": "Eurosport 1",
-        "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120518/Eurosport-1-symbol.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/233.json",
-        "source_file": "12.json"
-    },
-    {
-        "id": 234,
-        "name": "Eurosport 2",
-        "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/234.json",
-        "source_file": "12.json"
-    },
-    {
-        "id": 1874,
-        "name": "TV5MONDE Europe",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1200px-Logo_TV5_Monde_-_2021.svg.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1874.json",
-        "source_file": "12.json"
-    },
-    {
-        "id": 241,
-        "name": "Euronews",
-        "logo": "https://i.imgur.com/pjsFXSQ.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/241.json",
-        "source_file": "12.json"
-    },
-    {
-        "id": 795,
-        "name": "Alkass 1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/795.json",
-        "source_file": "29.json"
-    },
-    {
-        "id": 796,
-        "name": "Alkass 2",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/796.json",
-        "source_file": "29.json"
-    },
-    {
-        "id": 797,
-        "name": "Alkass 3",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/797.json",
-        "source_file": "29.json"
-    },
-    {
-        "id": 798,
-        "name": "Alkass 4",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/798.json",
-        "source_file": "29.json"
-    },
-    {
-        "id": 799,
-        "name": "Alkass 5",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/799.json",
-        "source_file": "29.json"
-    },
-    {
-        "id": 1642,
-        "name": "Alkass 6",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1642.json",
-        "source_file": "29.json"
-    },
-    {
-        "id": 1424,
-        "name": "beIN SPORTS 1",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1424.json",
-        "source_file": "4.json"
-    },
-    {
-        "id": 1425,
-        "name": "beIN SPORTS 2",
-        "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1425.json",
-        "source_file": "4.json"
-    },
-    {
-        "id": 1426,
-        "name": "beIN SPORTS 3",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1426.json",
-        "source_file": "4.json"
-    },
-    {
-        "id": 1427,
-        "name": "beIN SPORTS 4",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1427.json",
-        "source_file": "4.json"
-    },
-    {
-        "id": 1428,
-        "name": "beIN SPORTS 5",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1428.json",
-        "source_file": "4.json"
-    },
-    {
-        "id": 1429,
-        "name": "beIN SPORTS 6",
-        "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1429.json",
-        "source_file": "4.json"
-    },
-    {
-        "id": 1430,
-        "name": "beIN SPORTS 7",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1430.json",
-        "source_file": "4.json"
-    },
-    {
-        "id": 1431,
-        "name": "beIN SPORTS 8",
-        "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1431.json",
-        "source_file": "4.json"
-    },
-    {
-        "id": 1432,
-        "name": "beIN SPORTS 9",
-        "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1432.json",
-        "source_file": "4.json"
-    },
-    {
-        "id": 4,
-        "name": "beIN SPORTS 1",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4.json",
-        "source_file": "5.json"
-    },
-    {
-        "id": 5,
-        "name": "beIN SPORTS 2",
-        "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/5.json",
-        "source_file": "5.json"
-    },
-    {
-        "id": 6,
-        "name": "beIN SPORTS 3",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/6.json",
-        "source_file": "5.json"
-    },
-    {
-        "id": 7,
-        "name": "beIN SPORTS 4",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/7.json",
-        "source_file": "5.json"
-    },
-    {
-        "id": 8,
-        "name": "beIN SPORTS 5",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/8.json",
-        "source_file": "5.json"
-    },
-    {
-        "id": 9,
-        "name": "beIN SPORTS 6",
-        "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/9.json",
-        "source_file": "5.json"
-    },
-    {
-        "id": 10,
-        "name": "beIN SPORTS 7",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/10.json",
-        "source_file": "5.json"
-    },
-    {
-        "id": 11,
-        "name": "beIN SPORTS 8",
-        "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/11.json",
-        "source_file": "5.json"
-    },
-    {
-        "id": 12,
-        "name": "beIN SPORTS 9",
-        "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/12.json",
-        "source_file": "5.json"
-    },
-    {
-        "id": 24,
-        "name": "beIN SPORTS 1",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/24.json",
-        "source_file": "6.json"
-    },
-    {
-        "id": 25,
-        "name": "beIN SPORTS 2",
-        "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/25.json",
-        "source_file": "6.json"
-    },
-    {
-        "id": 26,
-        "name": "beIN SPORTS 3",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/26.json",
-        "source_file": "6.json"
-    },
-    {
-        "id": 27,
-        "name": "beIN SPORTS 4",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/27.json",
-        "source_file": "6.json"
-    },
-    {
-        "id": 28,
-        "name": "beIN SPORTS 5",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/28.json",
-        "source_file": "6.json"
-    },
-    {
-        "id": 29,
-        "name": "beIN SPORTS 6",
-        "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/29.json",
-        "source_file": "6.json"
-    },
-    {
-        "id": 30,
-        "name": "beIN SPORTS 7",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/30.json",
-        "source_file": "6.json"
-    },
-    {
-        "id": 31,
-        "name": "beIN SPORTS 8",
-        "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/31.json",
-        "source_file": "6.json"
-    },
-    {
-        "id": 32,
-        "name": "beIN SPORTS 9",
-        "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/32.json",
-        "source_file": "6.json"
-    },
-    {
-        "id": 44,
-        "name": "beIN SPORTS 1",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/44.json",
-        "source_file": "7.json"
-    },
-    {
-        "id": 45,
-        "name": "beIN SPORTS 2",
-        "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/45.json",
-        "source_file": "7.json"
-    },
-    {
-        "id": 46,
-        "name": "beIN SPORTS 3",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/46.json",
-        "source_file": "7.json"
-    },
-    {
-        "id": 47,
-        "name": "beIN SPORTS 4",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/47.json",
-        "source_file": "7.json"
-    },
-    {
-        "id": 48,
-        "name": "beIN SPORTS 5",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/48.json",
-        "source_file": "7.json"
-    },
-    {
-        "id": 49,
-        "name": "beIN SPORTS 6",
-        "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/49.json",
-        "source_file": "7.json"
-    },
-    {
-        "id": 50,
-        "name": "beIN SPORTS 7",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/50.json",
-        "source_file": "7.json"
-    },
-    {
-        "id": 51,
-        "name": "beIN SPORTS 8",
-        "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/51.json",
-        "source_file": "7.json"
-    },
-    {
-        "id": 52,
-        "name": "beIN SPORTS 9",
-        "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/52.json",
-        "source_file": "7.json"
-    },
-    {
-        "id": 1404,
-        "name": "Alkass 1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1404.json",
-        "source_file": "80.json"
-    },
-    {
-        "id": 1405,
-        "name": "Alkass 2",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1405.json",
-        "source_file": "80.json"
-    },
-    {
-        "id": 1406,
-        "name": "Alkass 3",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1406.json",
-        "source_file": "80.json"
-    },
-    {
-        "id": 1407,
-        "name": "Alkass 4",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1407.json",
-        "source_file": "80.json"
-    },
-    {
-        "id": 1408,
-        "name": "Alkass 5",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1408.json",
-        "source_file": "80.json"
-    },
-    {
-        "id": 1575,
-        "name": "SSC News",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1575.json",
-        "source_file": "86.json"
-    },
-    {
-        "id": 1397,
-        "name": "SSC 1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1397.json",
-        "source_file": "86.json"
-    },
-    {
-        "id": 1398,
-        "name": "SSC 2",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1398.json",
-        "source_file": "86.json"
-    },
-    {
-        "id": 1399,
-        "name": "SSC 3",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1399.json",
-        "source_file": "86.json"
-    },
-    {
-        "id": 1400,
-        "name": "SSC 4",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1400.json",
-        "source_file": "86.json"
-    },
-    {
-        "id": 1401,
-        "name": "SSC 5",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1401.json",
-        "source_file": "86.json"
-    },
-    {
-        "id": 1402,
-        "name": "SSC Extra 1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1402.json",
-        "source_file": "86.json"
-    },
-    {
-        "id": 1403,
-        "name": "SSC Extra 2",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1403.json",
-        "source_file": "86.json"
-    },
-    {
-        "id": 1793,
-        "name": "SSC Extra 3",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1793.json",
-        "source_file": "86.json"
-    },
-    {
-        "id": 5715,
-        "name": "AD Sports 1 HD",
-        "logo": "https://www.zarkachat.com/wp-content/uploads/2020/12/sport-abuzabi-channel.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/5715.json",
-        "source_file": "ad_sport.json"
-    },
-    {
-        "id": 5716,
-        "name": "AD Sports 2 HD",
-        "logo": "https://www.zarkachat.com/wp-content/uploads/2020/12/sport-abuzabi-channel.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/5716.json",
-        "source_file": "ad_sport.json"
-    },
-    {
-        "id": 5724,
-        "name": "Alkass One",
-        "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/5724.json",
-        "source_file": "alkass_sport.json"
-    },
-    {
-        "id": 5725,
-        "name": "Alkass Two",
-        "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/5725.json",
-        "source_file": "alkass_sport.json"
-    },
-    {
-        "id": 5726,
-        "name": "Alkass Three",
-        "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/5726.json",
-        "source_file": "alkass_sport.json"
-    },
-    {
-        "id": 5727,
-        "name": "Alkass Four",
-        "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/5727.json",
-        "source_file": "alkass_sport.json"
-    },
-    {
-        "id": 5728,
-        "name": "Alkass Five",
-        "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/5728.json",
-        "source_file": "alkass_sport.json"
-    },
-    {
-        "id": 5729,
-        "name": "Alkass Six",
-        "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/5729.json",
-        "source_file": "alkass_sport.json"
-    },
-    {
-        "id": 5730,
-        "name": "Alkass Siven",
-        "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/5730.json",
-        "source_file": "alkass_sport.json"
-    },
-    {
-        "id": 5731,
-        "name": "Alkass Eight",
-        "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/5731.json",
-        "source_file": "alkass_sport.json"
-    },
-    {
-        "id": 4754,
-        "name": "Eurosport 1",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyCkTZERY-xt19RvOy4fnrVuH-wjjLPzFCGglCPLsp6g&s=10",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4754.json",
-        "source_file": "aya_sports_vip.json"
-    },
-    {
-        "id": 3340,
-        "name": "MY CIBEMA EUROPE #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
-        "logo": "http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3340.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3370,
-        "name": "Champions League 1",
-        "logo": "http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3370.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3371,
-        "name": "Champions League 2",
-        "logo": "http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3371.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3372,
-        "name": "Champions League 3",
-        "logo": "http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3372.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3373,
-        "name": "Champions League 4",
-        "logo": "http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3373.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3382,
-        "name": "BeIN Sports 2 Thailand (Bahasa Inggris)",
-        "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3382.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3387,
-        "name": "Euronews",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-07/0e674889b5fc48b293e9c0a3491c3b73.svg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3387.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3399,
-        "name": "Eurosport 1",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/f596a057554b06e8b7e0e7bad9240e7b.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3399.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3400,
-        "name": "Eurosport 2",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/091378f6123951037d5075a7585c94d9.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3400.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3401,
-        "name": "beIN Sports 1",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/d53d914cf33a693725a0d427c0cbba1d.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3401.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3402,
-        "name": "beIN Sports 2",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/9795eb5b80ed3b3cde621f2a5c15275b.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3402.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3403,
-        "name": "beIN Sports 1",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3403.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3404,
-        "name": "beIN Sports 3",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3404.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3405,
-        "name": "beIN Sports 1",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3405.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3406,
-        "name": "beIN Sports 2",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/31f6dbe34a61abb6cadc5a13d54d8b4d.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3406.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3407,
-        "name": "beIN Sports 3",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3407.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3408,
-        "name": "beIN Sports 4",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/0dea19dc983ea75ced697dfaa4c47d85.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3408.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3409,
-        "name": "beIN Sports 5",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/b6c7110b7a880c716cb68073a5df5d90.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3409.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3410,
-        "name": "beIN Sports 6",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/3ad0c2b25e878d21a2e3820b0c43a447.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3410.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3411,
-        "name": "beIN Sports 7",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/f823bec52bbeb99de40933222aed1f4f.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3411.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3454,
-        "name": "BeIN Sports 2 Thailand (Bahasa Inggris)",
-        "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3454.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3573,
-        "name": "SSC OLAHRAGA 1",
-        "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3573.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3624,
-        "name": "beIN Sports 1",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-01/43bbde4fc0ae1f73eaa8e63f96c0a975.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3624.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3625,
-        "name": "beIN Sports 3",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/fde470ee5be4764508af7ca066be9694.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3625.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3737,
-        "name": "beIN Sports 2",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/9795eb5b80ed3b3cde621f2a5c15275b.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3737.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3738,
-        "name": "beIN Sports 3",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/088d0d06f0b43fe9529668eac174c903.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3738.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 5113,
-        "name": "Euronews",
-        "logo": "https://fls.cjs.jyh/",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/5113.json",
-        "source_file": "deutchland.json"
-    },
-    {
-        "id": 5228,
-        "name": "Euronews",
-        "logo": "https://fls.cjs.jyh/",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/5228.json",
-        "source_file": "français.json"
-    },
-    {
-        "id": 5694,
-        "name": "euronews",
-        "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/5694.json",
-        "source_file": "iptv_vip.json"
-    },
-    {
-        "id": 5805,
-        "name": "Italian- Eurosport1FHD",
-        "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/5805.json",
-        "source_file": "italytv.json"
-    },
-    {
-        "id": 3090,
-        "name": "EURONEWS EN",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3090.json",
-        "source_file": "nilesat_vip.json"
-    },
-    {
-        "id": 4877,
-        "name": "Eurosport 1+",
-        "logo": "http://epg.cdntv.online/img/37.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4877.json",
-        "source_file": "russian_sport.json"
-    },
-    {
-        "id": 4878,
-        "name": "Eurosport 1 HD",
-        "logo": "http://epg.cdntv.online/img/38.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4878.json",
-        "source_file": "russian_sport.json"
-    },
-    {
-        "id": 4879,
-        "name": "Eurosport 2",
-        "logo": "http://epg.cdntv.online/img/39.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4879.json",
-        "source_file": "russian_sport.json"
-    },
-    {
-        "id": 4880,
-        "name": "Eurosport 2 HD",
-        "logo": "http://epg.cdntv.online/img/40.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4880.json",
-        "source_file": "russian_sport.json"
-    },
-    {
-        "id": 4030,
-        "name": "beIN Sports 1",
-        "logo": "https://admin.dramaramadan.net/uploads/channels/a097c34e337a8c9294d62cdfc17bb577.webp",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4030.json",
-        "source_file": "tv_sport-f1.json"
-    },
-    {
-        "id": 4031,
-        "name": "beIN Sports 2",
-        "logo": "https://admin.dramaramadan.net/uploads/channels/06dc8a8bae7d49bc3033271575498a7e.webp",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4031.json",
-        "source_file": "tv_sport-f1.json"
-    },
-    {
-        "id": 4032,
-        "name": "beIN Sports 3",
-        "logo": "https://admin.dramaramadan.net/uploads/channels/305e84a2db716775c64388f60741decb.webp",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4032.json",
-        "source_file": "tv_sport-f1.json"
-    },
-    {
-        "id": 4033,
-        "name": "beIN Sports 4",
-        "logo": "https://admin.dramaramadan.net/uploads/channels/449d45498946dd728453b1a4041b67c7.webp",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4033.json",
-        "source_file": "tv_sport-f1.json"
-    },
-    {
-        "id": 4034,
-        "name": "beIN Sports 5",
-        "logo": "https://admin.dramaramadan.net/uploads/channels/7f1ec6d635bc895634c24c181120e80d.webp",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4034.json",
-        "source_file": "tv_sport-f1.json"
-    },
-    {
-        "id": 4035,
-        "name": "beIN Sports 6",
-        "logo": "https://admin.dramaramadan.net/uploads/channels/ff919dc1e73746e934dfd9f078d7e59d.webp",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4035.json",
-        "source_file": "tv_sport-f1.json"
-    },
-    {
-        "id": 4036,
-        "name": "beIN Sports 7",
-        "logo": "https://admin.dramaramadan.net/uploads/channels/fcec8d4f6e2e146452bb1f3b8e0aec67.webp",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4036.json",
-        "source_file": "tv_sport-f1.json"
-    },
-    {
-        "id": 4049,
-        "name": "AD Sport 1",
-        "logo": "https://admin.dramaramadan.net/uploads/channels/b1895c8bcad9fe764ec25f17c6636da8.webp",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4049.json",
-        "source_file": "tv_sport-f1.json"
-    },
-    {
-        "id": 4050,
-        "name": "AD Sport 2",
-        "logo": "https://admin.dramaramadan.net/uploads/channels/8d130de35fe372a24a3ace30c8ff57cf.webp",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4050.json",
-        "source_file": "tv_sport-f1.json"
-    },
-    {
-        "id": 10112,
-        "name": "FIFA World Cup 2026 (Somoy Tv)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/10112.json",
-        "source_file": "live_match.json"
-    },
-    {
-        "id": 10113,
-        "name": "FIFA World Cup 2026 (T-Sports)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/10113.json",
-        "source_file": "live_match.json"
-    },
-    {
-        "id": 10114,
-        "name": "FIFA World Cup 2026 (Win Sports)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/10114.json",
-        "source_file": "live_match.json"
-    },
-    {
-        "id": 10115,
-        "name": "FIFA World Cup 2026 (Bein Sports)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/10115.json",
-        "source_file": "live_match.json"
-    },
-    {
-        "id": 10116,
-        "name": "FIFA World Cup 2026 (DAZN)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/10116.json",
-        "source_file": "live_match.json"
-    },
-    {
-        "id": 10117,
-        "name": "FIFA World Cup 2026 (TVP Sports)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/10117.json",
-        "source_file": "live_match.json"
-    },
-    {
-        "id": 10118,
-        "name": "FIFA World Cup 2026 (D Sports)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/10118.json",
-        "source_file": "live_match.json"
-    },
-    {
-        "id": 10119,
-        "name": "FIFA World Cup 2026 (Case TV)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/10119.json",
-        "source_file": "live_match.json"
-    },
-    {
-        "id": 10120,
-        "name": "FIFA World Cup 2026 (Tudn Sports)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/10120.json",
-        "source_file": "live_match.json"
-    }
+  {
+    "id": 2000,
+    "name": "Alkass 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/100.json/2000.json",
+    "source_file": "100.json"
+  },
+  {
+    "id": 2001,
+    "name": "Alkass 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/100.json/2001.json",
+    "source_file": "100.json"
+  },
+  {
+    "id": 2002,
+    "name": "Alkass 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/100.json/2002.json",
+    "source_file": "100.json"
+  },
+  {
+    "id": 2003,
+    "name": "Alkass 4",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/100.json/2003.json",
+    "source_file": "100.json"
+  },
+  {
+    "id": 2004,
+    "name": "Alkass 5",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/100.json/2004.json",
+    "source_file": "100.json"
+  },
+  {
+    "id": 2008,
+    "name": "Alkass 6",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/100.json/2008.json",
+    "source_file": "100.json"
+  },
+  {
+    "id": 1397,
+    "name": "SSC 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/100.json/1397.json",
+    "source_file": "100.json"
+  },
+  {
+    "id": 233,
+    "name": "Eurosport 1",
+    "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120518/Eurosport-1-symbol.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/12.json/233.json",
+    "source_file": "12.json"
+  },
+  {
+    "id": 234,
+    "name": "Eurosport 2",
+    "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/12.json/234.json",
+    "source_file": "12.json"
+  },
+  {
+    "id": 1874,
+    "name": "TV5MONDE Europe",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1200px-Logo_TV5_Monde_-_2021.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/12.json/1874.json",
+    "source_file": "12.json"
+  },
+  {
+    "id": 241,
+    "name": "Euronews",
+    "logo": "https://i.imgur.com/pjsFXSQ.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/12.json/241.json",
+    "source_file": "12.json"
+  },
+  {
+    "id": 795,
+    "name": "Alkass 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/29.json/795.json",
+    "source_file": "29.json"
+  },
+  {
+    "id": 796,
+    "name": "Alkass 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/29.json/796.json",
+    "source_file": "29.json"
+  },
+  {
+    "id": 797,
+    "name": "Alkass 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/29.json/797.json",
+    "source_file": "29.json"
+  },
+  {
+    "id": 798,
+    "name": "Alkass 4",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/29.json/798.json",
+    "source_file": "29.json"
+  },
+  {
+    "id": 799,
+    "name": "Alkass 5",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/29.json/799.json",
+    "source_file": "29.json"
+  },
+  {
+    "id": 1642,
+    "name": "Alkass 6",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/29.json/1642.json",
+    "source_file": "29.json"
+  },
+  {
+    "id": 1424,
+    "name": "beIN SPORTS 1",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/4.json/1424.json",
+    "source_file": "4.json"
+  },
+  {
+    "id": 1425,
+    "name": "beIN SPORTS 2",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/4.json/1425.json",
+    "source_file": "4.json"
+  },
+  {
+    "id": 1426,
+    "name": "beIN SPORTS 3",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/4.json/1426.json",
+    "source_file": "4.json"
+  },
+  {
+    "id": 1427,
+    "name": "beIN SPORTS 4",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/4.json/1427.json",
+    "source_file": "4.json"
+  },
+  {
+    "id": 1428,
+    "name": "beIN SPORTS 5",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/4.json/1428.json",
+    "source_file": "4.json"
+  },
+  {
+    "id": 1429,
+    "name": "beIN SPORTS 6",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/4.json/1429.json",
+    "source_file": "4.json"
+  },
+  {
+    "id": 1430,
+    "name": "beIN SPORTS 7",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/4.json/1430.json",
+    "source_file": "4.json"
+  },
+  {
+    "id": 1431,
+    "name": "beIN SPORTS 8",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/4.json/1431.json",
+    "source_file": "4.json"
+  },
+  {
+    "id": 1432,
+    "name": "beIN SPORTS 9",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/4.json/1432.json",
+    "source_file": "4.json"
+  },
+  {
+    "id": 4,
+    "name": "beIN SPORTS 1",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/5.json/4.json",
+    "source_file": "5.json"
+  },
+  {
+    "id": 5,
+    "name": "beIN SPORTS 2",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/5.json/5.json",
+    "source_file": "5.json"
+  },
+  {
+    "id": 6,
+    "name": "beIN SPORTS 3",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/5.json/6.json",
+    "source_file": "5.json"
+  },
+  {
+    "id": 7,
+    "name": "beIN SPORTS 4",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/5.json/7.json",
+    "source_file": "5.json"
+  },
+  {
+    "id": 8,
+    "name": "beIN SPORTS 5",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/5.json/8.json",
+    "source_file": "5.json"
+  },
+  {
+    "id": 9,
+    "name": "beIN SPORTS 6",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/5.json/9.json",
+    "source_file": "5.json"
+  },
+  {
+    "id": 10,
+    "name": "beIN SPORTS 7",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/5.json/10.json",
+    "source_file": "5.json"
+  },
+  {
+    "id": 11,
+    "name": "beIN SPORTS 8",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/5.json/11.json",
+    "source_file": "5.json"
+  },
+  {
+    "id": 12,
+    "name": "beIN SPORTS 9",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/5.json/12.json",
+    "source_file": "5.json"
+  },
+  {
+    "id": 24,
+    "name": "beIN SPORTS 1",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/6.json/24.json",
+    "source_file": "6.json"
+  },
+  {
+    "id": 25,
+    "name": "beIN SPORTS 2",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/6.json/25.json",
+    "source_file": "6.json"
+  },
+  {
+    "id": 26,
+    "name": "beIN SPORTS 3",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/6.json/26.json",
+    "source_file": "6.json"
+  },
+  {
+    "id": 27,
+    "name": "beIN SPORTS 4",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/6.json/27.json",
+    "source_file": "6.json"
+  },
+  {
+    "id": 28,
+    "name": "beIN SPORTS 5",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/6.json/28.json",
+    "source_file": "6.json"
+  },
+  {
+    "id": 29,
+    "name": "beIN SPORTS 6",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/6.json/29.json",
+    "source_file": "6.json"
+  },
+  {
+    "id": 30,
+    "name": "beIN SPORTS 7",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/6.json/30.json",
+    "source_file": "6.json"
+  },
+  {
+    "id": 31,
+    "name": "beIN SPORTS 8",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/6.json/31.json",
+    "source_file": "6.json"
+  },
+  {
+    "id": 32,
+    "name": "beIN SPORTS 9",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/6.json/32.json",
+    "source_file": "6.json"
+  },
+  {
+    "id": 44,
+    "name": "beIN SPORTS 1",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/7.json/44.json",
+    "source_file": "7.json"
+  },
+  {
+    "id": 45,
+    "name": "beIN SPORTS 2",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/7.json/45.json",
+    "source_file": "7.json"
+  },
+  {
+    "id": 46,
+    "name": "beIN SPORTS 3",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/7.json/46.json",
+    "source_file": "7.json"
+  },
+  {
+    "id": 47,
+    "name": "beIN SPORTS 4",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/7.json/47.json",
+    "source_file": "7.json"
+  },
+  {
+    "id": 48,
+    "name": "beIN SPORTS 5",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/7.json/48.json",
+    "source_file": "7.json"
+  },
+  {
+    "id": 49,
+    "name": "beIN SPORTS 6",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/7.json/49.json",
+    "source_file": "7.json"
+  },
+  {
+    "id": 50,
+    "name": "beIN SPORTS 7",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/7.json/50.json",
+    "source_file": "7.json"
+  },
+  {
+    "id": 51,
+    "name": "beIN SPORTS 8",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/7.json/51.json",
+    "source_file": "7.json"
+  },
+  {
+    "id": 52,
+    "name": "beIN SPORTS 9",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/7.json/52.json",
+    "source_file": "7.json"
+  },
+  {
+    "id": 1404,
+    "name": "Alkass 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/80.json/1404.json",
+    "source_file": "80.json"
+  },
+  {
+    "id": 1405,
+    "name": "Alkass 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/80.json/1405.json",
+    "source_file": "80.json"
+  },
+  {
+    "id": 1406,
+    "name": "Alkass 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/80.json/1406.json",
+    "source_file": "80.json"
+  },
+  {
+    "id": 1407,
+    "name": "Alkass 4",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/80.json/1407.json",
+    "source_file": "80.json"
+  },
+  {
+    "id": 1408,
+    "name": "Alkass 5",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/80.json/1408.json",
+    "source_file": "80.json"
+  },
+  {
+    "id": 1575,
+    "name": "SSC News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/86.json/1575.json",
+    "source_file": "86.json"
+  },
+  {
+    "id": 1397,
+    "name": "SSC 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/86.json/1397.json",
+    "source_file": "86.json"
+  },
+  {
+    "id": 1398,
+    "name": "SSC 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/86.json/1398.json",
+    "source_file": "86.json"
+  },
+  {
+    "id": 1399,
+    "name": "SSC 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/86.json/1399.json",
+    "source_file": "86.json"
+  },
+  {
+    "id": 1400,
+    "name": "SSC 4",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/86.json/1400.json",
+    "source_file": "86.json"
+  },
+  {
+    "id": 1401,
+    "name": "SSC 5",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/86.json/1401.json",
+    "source_file": "86.json"
+  },
+  {
+    "id": 1402,
+    "name": "SSC Extra 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/86.json/1402.json",
+    "source_file": "86.json"
+  },
+  {
+    "id": 1403,
+    "name": "SSC Extra 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/86.json/1403.json",
+    "source_file": "86.json"
+  },
+  {
+    "id": 1793,
+    "name": "SSC Extra 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/86.json/1793.json",
+    "source_file": "86.json"
+  },
+  {
+    "id": 5715,
+    "name": "AD Sports 1 HD",
+    "logo": "https://www.zarkachat.com/wp-content/uploads/2020/12/sport-abuzabi-channel.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/ad_sport.json/5715.json",
+    "source_file": "ad_sport.json"
+  },
+  {
+    "id": 5716,
+    "name": "AD Sports 2 HD",
+    "logo": "https://www.zarkachat.com/wp-content/uploads/2020/12/sport-abuzabi-channel.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/ad_sport.json/5716.json",
+    "source_file": "ad_sport.json"
+  },
+  {
+    "id": 5724,
+    "name": "Alkass One",
+    "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/alkass_sport.json/5724.json",
+    "source_file": "alkass_sport.json"
+  },
+  {
+    "id": 5725,
+    "name": "Alkass Two",
+    "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/alkass_sport.json/5725.json",
+    "source_file": "alkass_sport.json"
+  },
+  {
+    "id": 5726,
+    "name": "Alkass Three",
+    "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/alkass_sport.json/5726.json",
+    "source_file": "alkass_sport.json"
+  },
+  {
+    "id": 5727,
+    "name": "Alkass Four",
+    "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/alkass_sport.json/5727.json",
+    "source_file": "alkass_sport.json"
+  },
+  {
+    "id": 5728,
+    "name": "Alkass Five",
+    "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/alkass_sport.json/5728.json",
+    "source_file": "alkass_sport.json"
+  },
+  {
+    "id": 5729,
+    "name": "Alkass Six",
+    "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/alkass_sport.json/5729.json",
+    "source_file": "alkass_sport.json"
+  },
+  {
+    "id": 5730,
+    "name": "Alkass Siven",
+    "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/alkass_sport.json/5730.json",
+    "source_file": "alkass_sport.json"
+  },
+  {
+    "id": 5731,
+    "name": "Alkass Eight",
+    "logo": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/alkass_sport.json/5731.json",
+    "source_file": "alkass_sport.json"
+  },
+  {
+    "id": 4754,
+    "name": "Eurosport 1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyCkTZERY-xt19RvOy4fnrVuH-wjjLPzFCGglCPLsp6g&s=10",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_sports_vip.json/4754.json",
+    "source_file": "aya_sports_vip.json"
+  },
+  {
+    "id": 3340,
+    "name": "MY CIBEMA EUROPE #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
+    "logo": "http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3340.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3370,
+    "name": "Champions League 1",
+    "logo": "http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3370.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3371,
+    "name": "Champions League 2",
+    "logo": "http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3371.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3372,
+    "name": "Champions League 3",
+    "logo": "http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3372.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3373,
+    "name": "Champions League 4",
+    "logo": "http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3373.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3382,
+    "name": "BeIN Sports 2 Thailand (Bahasa Inggris)",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3382.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3387,
+    "name": "Euronews",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2023-07/0e674889b5fc48b293e9c0a3491c3b73.svg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3387.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3399,
+    "name": "Eurosport 1",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/f596a057554b06e8b7e0e7bad9240e7b.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3399.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3400,
+    "name": "Eurosport 2",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/091378f6123951037d5075a7585c94d9.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3400.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3401,
+    "name": "beIN Sports 1",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/d53d914cf33a693725a0d427c0cbba1d.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3401.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3402,
+    "name": "beIN Sports 2",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/9795eb5b80ed3b3cde621f2a5c15275b.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3402.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3403,
+    "name": "beIN Sports 1",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3403.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3404,
+    "name": "beIN Sports 3",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3404.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3405,
+    "name": "beIN Sports 1",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3405.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3406,
+    "name": "beIN Sports 2",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/31f6dbe34a61abb6cadc5a13d54d8b4d.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3406.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3407,
+    "name": "beIN Sports 3",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3407.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3408,
+    "name": "beIN Sports 4",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/0dea19dc983ea75ced697dfaa4c47d85.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3408.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3409,
+    "name": "beIN Sports 5",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/b6c7110b7a880c716cb68073a5df5d90.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3409.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3410,
+    "name": "beIN Sports 6",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/3ad0c2b25e878d21a2e3820b0c43a447.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3410.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3411,
+    "name": "beIN Sports 7",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/f823bec52bbeb99de40933222aed1f4f.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3411.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3454,
+    "name": "BeIN Sports 2 Thailand (Bahasa Inggris)",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3454.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3573,
+    "name": "SSC OLAHRAGA 1",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3573.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3624,
+    "name": "beIN Sports 1",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2022-01/43bbde4fc0ae1f73eaa8e63f96c0a975.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3624.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3625,
+    "name": "beIN Sports 3",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/fde470ee5be4764508af7ca066be9694.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3625.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3737,
+    "name": "beIN Sports 2",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/9795eb5b80ed3b3cde621f2a5c15275b.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3737.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3738,
+    "name": "beIN Sports 3",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/088d0d06f0b43fe9529668eac174c903.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3738.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 5113,
+    "name": "Euronews",
+    "logo": "https://fls.cjs.jyh/",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/deutchland.json/5113.json",
+    "source_file": "deutchland.json"
+  },
+  {
+    "id": 5228,
+    "name": "Euronews",
+    "logo": "https://fls.cjs.jyh/",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/français.json/5228.json",
+    "source_file": "français.json"
+  },
+  {
+    "id": 5694,
+    "name": "euronews",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/iptv_vip.json/5694.json",
+    "source_file": "iptv_vip.json"
+  },
+  {
+    "id": 5805,
+    "name": "Italian- Eurosport1FHD",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/italytv.json/5805.json",
+    "source_file": "italytv.json"
+  },
+  {
+    "id": 3090,
+    "name": "EURONEWS EN",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/nilesat_vip.json/3090.json",
+    "source_file": "nilesat_vip.json"
+  },
+  {
+    "id": 4877,
+    "name": "Eurosport 1+",
+    "logo": "http://epg.cdntv.online/img/37.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/russian_sport.json/4877.json",
+    "source_file": "russian_sport.json"
+  },
+  {
+    "id": 4878,
+    "name": "Eurosport 1 HD",
+    "logo": "http://epg.cdntv.online/img/38.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/russian_sport.json/4878.json",
+    "source_file": "russian_sport.json"
+  },
+  {
+    "id": 4879,
+    "name": "Eurosport 2",
+    "logo": "http://epg.cdntv.online/img/39.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/russian_sport.json/4879.json",
+    "source_file": "russian_sport.json"
+  },
+  {
+    "id": 4880,
+    "name": "Eurosport 2 HD",
+    "logo": "http://epg.cdntv.online/img/40.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/russian_sport.json/4880.json",
+    "source_file": "russian_sport.json"
+  },
+  {
+    "id": 4030,
+    "name": "beIN Sports 1",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/a097c34e337a8c9294d62cdfc17bb577.webp",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/tv_sport-f1.json/4030.json",
+    "source_file": "tv_sport-f1.json"
+  },
+  {
+    "id": 4031,
+    "name": "beIN Sports 2",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/06dc8a8bae7d49bc3033271575498a7e.webp",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/tv_sport-f1.json/4031.json",
+    "source_file": "tv_sport-f1.json"
+  },
+  {
+    "id": 4032,
+    "name": "beIN Sports 3",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/305e84a2db716775c64388f60741decb.webp",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/tv_sport-f1.json/4032.json",
+    "source_file": "tv_sport-f1.json"
+  },
+  {
+    "id": 4033,
+    "name": "beIN Sports 4",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/449d45498946dd728453b1a4041b67c7.webp",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/tv_sport-f1.json/4033.json",
+    "source_file": "tv_sport-f1.json"
+  },
+  {
+    "id": 4034,
+    "name": "beIN Sports 5",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/7f1ec6d635bc895634c24c181120e80d.webp",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/tv_sport-f1.json/4034.json",
+    "source_file": "tv_sport-f1.json"
+  },
+  {
+    "id": 4035,
+    "name": "beIN Sports 6",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/ff919dc1e73746e934dfd9f078d7e59d.webp",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/tv_sport-f1.json/4035.json",
+    "source_file": "tv_sport-f1.json"
+  },
+  {
+    "id": 4036,
+    "name": "beIN Sports 7",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/fcec8d4f6e2e146452bb1f3b8e0aec67.webp",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/tv_sport-f1.json/4036.json",
+    "source_file": "tv_sport-f1.json"
+  },
+  {
+    "id": 4049,
+    "name": "AD Sport 1",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/b1895c8bcad9fe764ec25f17c6636da8.webp",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/tv_sport-f1.json/4049.json",
+    "source_file": "tv_sport-f1.json"
+  },
+  {
+    "id": 4050,
+    "name": "AD Sport 2",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/8d130de35fe372a24a3ace30c8ff57cf.webp",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/tv_sport-f1.json/4050.json",
+    "source_file": "tv_sport-f1.json"
+  },
+  {
+    "id": 10112,
+    "name": "FIFA World Cup 2026 (Somoy Tv)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/live_match.json/10112.json",
+    "source_file": "live_match.json"
+  },
+  {
+    "id": 10113,
+    "name": "FIFA World Cup 2026 (T-Sports)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/live_match.json/10113.json",
+    "source_file": "live_match.json"
+  },
+  {
+    "id": 10114,
+    "name": "FIFA World Cup 2026 (Win Sports)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/live_match.json/10114.json",
+    "source_file": "live_match.json"
+  },
+  {
+    "id": 10115,
+    "name": "FIFA World Cup 2026 (Bein Sports)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/live_match.json/10115.json",
+    "source_file": "live_match.json"
+  },
+  {
+    "id": 10116,
+    "name": "FIFA World Cup 2026 (DAZN)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/live_match.json/10116.json",
+    "source_file": "live_match.json"
+  },
+  {
+    "id": 10117,
+    "name": "FIFA World Cup 2026 (TVP Sports)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/live_match.json/10117.json",
+    "source_file": "live_match.json"
+  },
+  {
+    "id": 10118,
+    "name": "FIFA World Cup 2026 (D Sports)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/live_match.json/10118.json",
+    "source_file": "live_match.json"
+  },
+  {
+    "id": 10119,
+    "name": "FIFA World Cup 2026 (Case TV)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/live_match.json/10119.json",
+    "source_file": "live_match.json"
+  },
+  {
+    "id": 10120,
+    "name": "FIFA World Cup 2026 (Tudn Sports)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/live_match.json/10120.json",
+    "source_file": "live_match.json"
+  }
 ]

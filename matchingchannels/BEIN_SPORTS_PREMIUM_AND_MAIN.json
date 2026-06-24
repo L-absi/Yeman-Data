@@ -1,542 +1,542 @@
 [
-    {
-        "id": 1424,
-        "name": "beIN SPORTS 1",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1424.json",
-        "source_file": "4.json"
-    },
-    {
-        "id": 1425,
-        "name": "beIN SPORTS 2",
-        "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1425.json",
-        "source_file": "4.json"
-    },
-    {
-        "id": 1426,
-        "name": "beIN SPORTS 3",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1426.json",
-        "source_file": "4.json"
-    },
-    {
-        "id": 1427,
-        "name": "beIN SPORTS 4",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1427.json",
-        "source_file": "4.json"
-    },
-    {
-        "id": 1428,
-        "name": "beIN SPORTS 5",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1428.json",
-        "source_file": "4.json"
-    },
-    {
-        "id": 1429,
-        "name": "beIN SPORTS 6",
-        "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1429.json",
-        "source_file": "4.json"
-    },
-    {
-        "id": 1430,
-        "name": "beIN SPORTS 7",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1430.json",
-        "source_file": "4.json"
-    },
-    {
-        "id": 1431,
-        "name": "beIN SPORTS 8",
-        "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1431.json",
-        "source_file": "4.json"
-    },
-    {
-        "id": 1432,
-        "name": "beIN SPORTS 9",
-        "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1432.json",
-        "source_file": "4.json"
-    },
-    {
-        "id": 4,
-        "name": "beIN SPORTS 1",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4.json",
-        "source_file": "5.json"
-    },
-    {
-        "id": 5,
-        "name": "beIN SPORTS 2",
-        "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/5.json",
-        "source_file": "5.json"
-    },
-    {
-        "id": 6,
-        "name": "beIN SPORTS 3",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/6.json",
-        "source_file": "5.json"
-    },
-    {
-        "id": 7,
-        "name": "beIN SPORTS 4",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/7.json",
-        "source_file": "5.json"
-    },
-    {
-        "id": 8,
-        "name": "beIN SPORTS 5",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/8.json",
-        "source_file": "5.json"
-    },
-    {
-        "id": 9,
-        "name": "beIN SPORTS 6",
-        "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/9.json",
-        "source_file": "5.json"
-    },
-    {
-        "id": 10,
-        "name": "beIN SPORTS 7",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/10.json",
-        "source_file": "5.json"
-    },
-    {
-        "id": 11,
-        "name": "beIN SPORTS 8",
-        "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/11.json",
-        "source_file": "5.json"
-    },
-    {
-        "id": 12,
-        "name": "beIN SPORTS 9",
-        "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/12.json",
-        "source_file": "5.json"
-    },
-    {
-        "id": 24,
-        "name": "beIN SPORTS 1",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/24.json",
-        "source_file": "6.json"
-    },
-    {
-        "id": 25,
-        "name": "beIN SPORTS 2",
-        "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/25.json",
-        "source_file": "6.json"
-    },
-    {
-        "id": 26,
-        "name": "beIN SPORTS 3",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/26.json",
-        "source_file": "6.json"
-    },
-    {
-        "id": 27,
-        "name": "beIN SPORTS 4",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/27.json",
-        "source_file": "6.json"
-    },
-    {
-        "id": 28,
-        "name": "beIN SPORTS 5",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/28.json",
-        "source_file": "6.json"
-    },
-    {
-        "id": 29,
-        "name": "beIN SPORTS 6",
-        "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/29.json",
-        "source_file": "6.json"
-    },
-    {
-        "id": 30,
-        "name": "beIN SPORTS 7",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/30.json",
-        "source_file": "6.json"
-    },
-    {
-        "id": 31,
-        "name": "beIN SPORTS 8",
-        "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/31.json",
-        "source_file": "6.json"
-    },
-    {
-        "id": 32,
-        "name": "beIN SPORTS 9",
-        "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/32.json",
-        "source_file": "6.json"
-    },
-    {
-        "id": 44,
-        "name": "beIN SPORTS 1",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/44.json",
-        "source_file": "7.json"
-    },
-    {
-        "id": 45,
-        "name": "beIN SPORTS 2",
-        "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/45.json",
-        "source_file": "7.json"
-    },
-    {
-        "id": 46,
-        "name": "beIN SPORTS 3",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/46.json",
-        "source_file": "7.json"
-    },
-    {
-        "id": 47,
-        "name": "beIN SPORTS 4",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/47.json",
-        "source_file": "7.json"
-    },
-    {
-        "id": 48,
-        "name": "beIN SPORTS 5",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/48.json",
-        "source_file": "7.json"
-    },
-    {
-        "id": 49,
-        "name": "beIN SPORTS 6",
-        "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/49.json",
-        "source_file": "7.json"
-    },
-    {
-        "id": 50,
-        "name": "beIN SPORTS 7",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/50.json",
-        "source_file": "7.json"
-    },
-    {
-        "id": 51,
-        "name": "beIN SPORTS 8",
-        "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/51.json",
-        "source_file": "7.json"
-    },
-    {
-        "id": 52,
-        "name": "beIN SPORTS 9",
-        "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/52.json",
-        "source_file": "7.json"
-    },
-    {
-        "id": 3382,
-        "name": "BeIN Sports 2 Thailand (Bahasa Inggris)",
-        "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3382.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3401,
-        "name": "beIN Sports 1",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/d53d914cf33a693725a0d427c0cbba1d.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3401.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3402,
-        "name": "beIN Sports 2",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/9795eb5b80ed3b3cde621f2a5c15275b.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3402.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3403,
-        "name": "beIN Sports 1",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3403.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3404,
-        "name": "beIN Sports 3",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3404.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3405,
-        "name": "beIN Sports 1",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3405.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3406,
-        "name": "beIN Sports 2",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/31f6dbe34a61abb6cadc5a13d54d8b4d.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3406.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3407,
-        "name": "beIN Sports 3",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3407.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3408,
-        "name": "beIN Sports 4",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/0dea19dc983ea75ced697dfaa4c47d85.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3408.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3409,
-        "name": "beIN Sports 5",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/b6c7110b7a880c716cb68073a5df5d90.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3409.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3410,
-        "name": "beIN Sports 6",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/3ad0c2b25e878d21a2e3820b0c43a447.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3410.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3411,
-        "name": "beIN Sports 7",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/f823bec52bbeb99de40933222aed1f4f.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3411.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3454,
-        "name": "BeIN Sports 2 Thailand (Bahasa Inggris)",
-        "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3454.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3624,
-        "name": "beIN Sports 1",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-01/43bbde4fc0ae1f73eaa8e63f96c0a975.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3624.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3625,
-        "name": "beIN Sports 3",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/fde470ee5be4764508af7ca066be9694.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3625.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3737,
-        "name": "beIN Sports 2",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/9795eb5b80ed3b3cde621f2a5c15275b.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3737.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 3738,
-        "name": "beIN Sports 3",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/088d0d06f0b43fe9529668eac174c903.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/3738.json",
-        "source_file": "aya_tv_pro.json"
-    },
-    {
-        "id": 4030,
-        "name": "beIN Sports 1",
-        "logo": "https://admin.dramaramadan.net/uploads/channels/a097c34e337a8c9294d62cdfc17bb577.webp",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4030.json",
-        "source_file": "tv_sport-f1.json"
-    },
-    {
-        "id": 4031,
-        "name": "beIN Sports 2",
-        "logo": "https://admin.dramaramadan.net/uploads/channels/06dc8a8bae7d49bc3033271575498a7e.webp",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4031.json",
-        "source_file": "tv_sport-f1.json"
-    },
-    {
-        "id": 4032,
-        "name": "beIN Sports 3",
-        "logo": "https://admin.dramaramadan.net/uploads/channels/305e84a2db716775c64388f60741decb.webp",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4032.json",
-        "source_file": "tv_sport-f1.json"
-    },
-    {
-        "id": 4033,
-        "name": "beIN Sports 4",
-        "logo": "https://admin.dramaramadan.net/uploads/channels/449d45498946dd728453b1a4041b67c7.webp",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4033.json",
-        "source_file": "tv_sport-f1.json"
-    },
-    {
-        "id": 4034,
-        "name": "beIN Sports 5",
-        "logo": "https://admin.dramaramadan.net/uploads/channels/7f1ec6d635bc895634c24c181120e80d.webp",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4034.json",
-        "source_file": "tv_sport-f1.json"
-    },
-    {
-        "id": 4035,
-        "name": "beIN Sports 6",
-        "logo": "https://admin.dramaramadan.net/uploads/channels/ff919dc1e73746e934dfd9f078d7e59d.webp",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4035.json",
-        "source_file": "tv_sport-f1.json"
-    },
-    {
-        "id": 4036,
-        "name": "beIN Sports 7",
-        "logo": "https://admin.dramaramadan.net/uploads/channels/fcec8d4f6e2e146452bb1f3b8e0aec67.webp",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/4036.json",
-        "source_file": "tv_sport-f1.json"
-    }
+  {
+    "id": 1424,
+    "name": "beIN SPORTS 1",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/4.json/1424.json",
+    "source_file": "4.json"
+  },
+  {
+    "id": 1425,
+    "name": "beIN SPORTS 2",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/4.json/1425.json",
+    "source_file": "4.json"
+  },
+  {
+    "id": 1426,
+    "name": "beIN SPORTS 3",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/4.json/1426.json",
+    "source_file": "4.json"
+  },
+  {
+    "id": 1427,
+    "name": "beIN SPORTS 4",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/4.json/1427.json",
+    "source_file": "4.json"
+  },
+  {
+    "id": 1428,
+    "name": "beIN SPORTS 5",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/4.json/1428.json",
+    "source_file": "4.json"
+  },
+  {
+    "id": 1429,
+    "name": "beIN SPORTS 6",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/4.json/1429.json",
+    "source_file": "4.json"
+  },
+  {
+    "id": 1430,
+    "name": "beIN SPORTS 7",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/4.json/1430.json",
+    "source_file": "4.json"
+  },
+  {
+    "id": 1431,
+    "name": "beIN SPORTS 8",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/4.json/1431.json",
+    "source_file": "4.json"
+  },
+  {
+    "id": 1432,
+    "name": "beIN SPORTS 9",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/4.json/1432.json",
+    "source_file": "4.json"
+  },
+  {
+    "id": 4,
+    "name": "beIN SPORTS 1",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/5.json/4.json",
+    "source_file": "5.json"
+  },
+  {
+    "id": 5,
+    "name": "beIN SPORTS 2",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/5.json/5.json",
+    "source_file": "5.json"
+  },
+  {
+    "id": 6,
+    "name": "beIN SPORTS 3",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/5.json/6.json",
+    "source_file": "5.json"
+  },
+  {
+    "id": 7,
+    "name": "beIN SPORTS 4",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/5.json/7.json",
+    "source_file": "5.json"
+  },
+  {
+    "id": 8,
+    "name": "beIN SPORTS 5",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/5.json/8.json",
+    "source_file": "5.json"
+  },
+  {
+    "id": 9,
+    "name": "beIN SPORTS 6",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/5.json/9.json",
+    "source_file": "5.json"
+  },
+  {
+    "id": 10,
+    "name": "beIN SPORTS 7",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/5.json/10.json",
+    "source_file": "5.json"
+  },
+  {
+    "id": 11,
+    "name": "beIN SPORTS 8",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/5.json/11.json",
+    "source_file": "5.json"
+  },
+  {
+    "id": 12,
+    "name": "beIN SPORTS 9",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/5.json/12.json",
+    "source_file": "5.json"
+  },
+  {
+    "id": 24,
+    "name": "beIN SPORTS 1",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/6.json/24.json",
+    "source_file": "6.json"
+  },
+  {
+    "id": 25,
+    "name": "beIN SPORTS 2",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/6.json/25.json",
+    "source_file": "6.json"
+  },
+  {
+    "id": 26,
+    "name": "beIN SPORTS 3",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/6.json/26.json",
+    "source_file": "6.json"
+  },
+  {
+    "id": 27,
+    "name": "beIN SPORTS 4",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/6.json/27.json",
+    "source_file": "6.json"
+  },
+  {
+    "id": 28,
+    "name": "beIN SPORTS 5",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/6.json/28.json",
+    "source_file": "6.json"
+  },
+  {
+    "id": 29,
+    "name": "beIN SPORTS 6",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/6.json/29.json",
+    "source_file": "6.json"
+  },
+  {
+    "id": 30,
+    "name": "beIN SPORTS 7",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/6.json/30.json",
+    "source_file": "6.json"
+  },
+  {
+    "id": 31,
+    "name": "beIN SPORTS 8",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/6.json/31.json",
+    "source_file": "6.json"
+  },
+  {
+    "id": 32,
+    "name": "beIN SPORTS 9",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/6.json/32.json",
+    "source_file": "6.json"
+  },
+  {
+    "id": 44,
+    "name": "beIN SPORTS 1",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/7.json/44.json",
+    "source_file": "7.json"
+  },
+  {
+    "id": 45,
+    "name": "beIN SPORTS 2",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/7.json/45.json",
+    "source_file": "7.json"
+  },
+  {
+    "id": 46,
+    "name": "beIN SPORTS 3",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/7.json/46.json",
+    "source_file": "7.json"
+  },
+  {
+    "id": 47,
+    "name": "beIN SPORTS 4",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/7.json/47.json",
+    "source_file": "7.json"
+  },
+  {
+    "id": 48,
+    "name": "beIN SPORTS 5",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/7.json/48.json",
+    "source_file": "7.json"
+  },
+  {
+    "id": 49,
+    "name": "beIN SPORTS 6",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/7.json/49.json",
+    "source_file": "7.json"
+  },
+  {
+    "id": 50,
+    "name": "beIN SPORTS 7",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/7.json/50.json",
+    "source_file": "7.json"
+  },
+  {
+    "id": 51,
+    "name": "beIN SPORTS 8",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/7.json/51.json",
+    "source_file": "7.json"
+  },
+  {
+    "id": 52,
+    "name": "beIN SPORTS 9",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/7.json/52.json",
+    "source_file": "7.json"
+  },
+  {
+    "id": 3382,
+    "name": "BeIN Sports 2 Thailand (Bahasa Inggris)",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3382.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3401,
+    "name": "beIN Sports 1",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/d53d914cf33a693725a0d427c0cbba1d.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3401.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3402,
+    "name": "beIN Sports 2",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/9795eb5b80ed3b3cde621f2a5c15275b.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3402.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3403,
+    "name": "beIN Sports 1",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3403.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3404,
+    "name": "beIN Sports 3",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3404.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3405,
+    "name": "beIN Sports 1",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3405.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3406,
+    "name": "beIN Sports 2",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/31f6dbe34a61abb6cadc5a13d54d8b4d.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3406.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3407,
+    "name": "beIN Sports 3",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3407.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3408,
+    "name": "beIN Sports 4",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/0dea19dc983ea75ced697dfaa4c47d85.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3408.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3409,
+    "name": "beIN Sports 5",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/b6c7110b7a880c716cb68073a5df5d90.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3409.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3410,
+    "name": "beIN Sports 6",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/3ad0c2b25e878d21a2e3820b0c43a447.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3410.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3411,
+    "name": "beIN Sports 7",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/f823bec52bbeb99de40933222aed1f4f.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3411.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3454,
+    "name": "BeIN Sports 2 Thailand (Bahasa Inggris)",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3454.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3624,
+    "name": "beIN Sports 1",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2022-01/43bbde4fc0ae1f73eaa8e63f96c0a975.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3624.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3625,
+    "name": "beIN Sports 3",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/fde470ee5be4764508af7ca066be9694.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3625.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3737,
+    "name": "beIN Sports 2",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/9795eb5b80ed3b3cde621f2a5c15275b.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3737.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 3738,
+    "name": "beIN Sports 3",
+    "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/088d0d06f0b43fe9529668eac174c903.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/aya_tv_pro.json/3738.json",
+    "source_file": "aya_tv_pro.json"
+  },
+  {
+    "id": 4030,
+    "name": "beIN Sports 1",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/a097c34e337a8c9294d62cdfc17bb577.webp",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/tv_sport-f1.json/4030.json",
+    "source_file": "tv_sport-f1.json"
+  },
+  {
+    "id": 4031,
+    "name": "beIN Sports 2",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/06dc8a8bae7d49bc3033271575498a7e.webp",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/tv_sport-f1.json/4031.json",
+    "source_file": "tv_sport-f1.json"
+  },
+  {
+    "id": 4032,
+    "name": "beIN Sports 3",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/305e84a2db716775c64388f60741decb.webp",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/tv_sport-f1.json/4032.json",
+    "source_file": "tv_sport-f1.json"
+  },
+  {
+    "id": 4033,
+    "name": "beIN Sports 4",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/449d45498946dd728453b1a4041b67c7.webp",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/tv_sport-f1.json/4033.json",
+    "source_file": "tv_sport-f1.json"
+  },
+  {
+    "id": 4034,
+    "name": "beIN Sports 5",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/7f1ec6d635bc895634c24c181120e80d.webp",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/tv_sport-f1.json/4034.json",
+    "source_file": "tv_sport-f1.json"
+  },
+  {
+    "id": 4035,
+    "name": "beIN Sports 6",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/ff919dc1e73746e934dfd9f078d7e59d.webp",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/tv_sport-f1.json/4035.json",
+    "source_file": "tv_sport-f1.json"
+  },
+  {
+    "id": 4036,
+    "name": "beIN Sports 7",
+    "logo": "https://admin.dramaramadan.net/uploads/channels/fcec8d4f6e2e146452bb1f3b8e0aec67.webp",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/tv_sport-f1.json/4036.json",
+    "source_file": "tv_sport-f1.json"
+  }
 ]

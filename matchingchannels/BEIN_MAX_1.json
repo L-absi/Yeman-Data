@@ -1,164 +1,164 @@
 [
-    {
-        "id": 1471,
-        "name": "beIN MAX 1",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1471.json",
-        "source_file": "90.json"
-    },
-    {
-        "id": 1501,
-        "name": "beIN MAX 1",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1501.json",
-        "source_file": "91.json"
-    },
-    {
-        "id": 1521,
-        "name": "beIN MAX 1",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1521.json",
-        "source_file": "92.json"
-    },
-    {
-        "id": 1541,
-        "name": "beIN MAX 1",
-        "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/1541.json",
-        "source_file": "93.json"
-    },
-    {
-        "id": 10021,
-        "name": "BEIN MAX 1",
-        "logo": "https://i.pinimg.com/736x/12/78/71/12787167ddc7078399f26de2aa54f326.jpg",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/10021.json",
-        "source_file": "bein_web.json"
-    },
-    {
-        "id": 10000,
-        "name": "beIN MAX 1 4K",
-        "logo": "",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/10000.json",
-        "source_file": "max_tv.json"
-    },
-    {
-        "id": 10003,
-        "name": "beIN MAX 1 HD",
-        "logo": "",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/10003.json",
-        "source_file": "max_tv.json"
-    },
-    {
-        "id": 10006,
-        "name": "beIN MAX 1 SD",
-        "logo": "",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/10006.json",
-        "source_file": "max_tv.json"
-    },
-    {
-        "id": 10009,
-        "name": "beIN MAX 1 4k NM",
-        "logo": "",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/10009.json",
-        "source_file": "max_tv.json"
-    },
-    {
-        "id": 10010,
-        "name": "beIN MAX 1 HD NM",
-        "logo": "",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/10010.json",
-        "source_file": "max_tv.json"
-    },
-    {
-        "id": 10011,
-        "name": "beIN MAX 1 SD NM",
-        "logo": "",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/10011.json",
-        "source_file": "max_tv.json"
-    },
-    {
-        "id": 10105,
-        "name": "Bein max 1",
-        "logo": "",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/10105.json",
-        "source_file": "max_tv2.json"
-    },
-    {
-        "id": 20000,
-        "name": "beIN MAX 1 4K",
-        "logo": "",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/20000.json",
-        "source_file": "max_tv_4.json"
-    },
-    {
-        "id": 20003,
-        "name": "beIN MAX 1 HD",
-        "logo": "",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/20003.json",
-        "source_file": "max_tv_4.json"
-    },
-    {
-        "id": 20006,
-        "name": "beIN MAX 1 SD",
-        "logo": "",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/20006.json",
-        "source_file": "max_tv_4.json"
-    },
-    {
-        "id": 20009,
-        "name": "beIN MAX 1 4k NM",
-        "logo": "",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/20009.json",
-        "source_file": "max_tv_4.json"
-    },
-    {
-        "id": 20010,
-        "name": "beIN MAX 1 HD NM",
-        "logo": "",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/20010.json",
-        "source_file": "max_tv_4.json"
-    },
-    {
-        "id": 20011,
-        "name": "beIN MAX 1 SD NM",
-        "logo": "",
-        "is_hide": 0,
-        "priority": 0,
-        "streamsFile": "streams/20011.json",
-        "source_file": "max_tv_4.json"
-    }
+  {
+    "id": 1471,
+    "name": "beIN MAX 1",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/90.json/1471.json",
+    "source_file": "90.json"
+  },
+  {
+    "id": 1501,
+    "name": "beIN MAX 1",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/91.json/1501.json",
+    "source_file": "91.json"
+  },
+  {
+    "id": 1521,
+    "name": "beIN MAX 1",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/92.json/1521.json",
+    "source_file": "92.json"
+  },
+  {
+    "id": 1541,
+    "name": "beIN MAX 1",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/93.json/1541.json",
+    "source_file": "93.json"
+  },
+  {
+    "id": 10021,
+    "name": "BEIN MAX 1",
+    "logo": "https://i.pinimg.com/736x/12/78/71/12787167ddc7078399f26de2aa54f326.jpg",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/bein_web.json/10021.json",
+    "source_file": "bein_web.json"
+  },
+  {
+    "id": 10000,
+    "name": "beIN MAX 1 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/max_tv.json/10000.json",
+    "source_file": "max_tv.json"
+  },
+  {
+    "id": 10003,
+    "name": "beIN MAX 1 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/max_tv.json/10003.json",
+    "source_file": "max_tv.json"
+  },
+  {
+    "id": 10006,
+    "name": "beIN MAX 1 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/max_tv.json/10006.json",
+    "source_file": "max_tv.json"
+  },
+  {
+    "id": 10009,
+    "name": "beIN MAX 1 4k NM",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/max_tv.json/10009.json",
+    "source_file": "max_tv.json"
+  },
+  {
+    "id": 10010,
+    "name": "beIN MAX 1 HD NM",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/max_tv.json/10010.json",
+    "source_file": "max_tv.json"
+  },
+  {
+    "id": 10011,
+    "name": "beIN MAX 1 SD NM",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/max_tv.json/10011.json",
+    "source_file": "max_tv.json"
+  },
+  {
+    "id": 10105,
+    "name": "Bein max 1",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/max_tv2.json/10105.json",
+    "source_file": "max_tv2.json"
+  },
+  {
+    "id": 20000,
+    "name": "beIN MAX 1 4K",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/max_tv_4.json/20000.json",
+    "source_file": "max_tv_4.json"
+  },
+  {
+    "id": 20003,
+    "name": "beIN MAX 1 HD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/max_tv_4.json/20003.json",
+    "source_file": "max_tv_4.json"
+  },
+  {
+    "id": 20006,
+    "name": "beIN MAX 1 SD",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/max_tv_4.json/20006.json",
+    "source_file": "max_tv_4.json"
+  },
+  {
+    "id": 20009,
+    "name": "beIN MAX 1 4k NM",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/max_tv_4.json/20009.json",
+    "source_file": "max_tv_4.json"
+  },
+  {
+    "id": 20010,
+    "name": "beIN MAX 1 HD NM",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/max_tv_4.json/20010.json",
+    "source_file": "max_tv_4.json"
+  },
+  {
+    "id": 20011,
+    "name": "beIN MAX 1 SD NM",
+    "logo": "",
+    "is_hide": 0,
+    "priority": 0,
+    "streamsFile": "streams/max_tv_4.json/20011.json",
+    "source_file": "max_tv_4.json"
+  }
 ]
